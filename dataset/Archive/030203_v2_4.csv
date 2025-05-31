@@ -1,0 +1,401 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,2,"('For the equation, $$x / 20 = 2$$ is the value of ', '$x$', '=', '$42$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 20 = 2$
+$( x / 20 ) * 20 = 2 * 20             (Multiplying 20 on both sides)$
+$x = 2 * 20$
+$x = 40$",
+text,1,30203,2,"('For the equation, $$x / 15 = 6$$ is the value of ', '$x$', '=', '$96$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 15 = 6$
+$( x / 15 ) * 15 = 6 * 15             (Multiplying 15 on both sides)$
+$x = 6 * 15$
+$x = 90$",
+text,1,30203,2,"('For the equation, $$b / 10 = 5$$ is the value of ', '$b$', '=', '$55$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 10 = 5$
+$( b / 10 ) * 10 = 5 * 10             (Multiplying 10 on both sides)$
+$b = 5 * 10$
+$b = 50$",
+text,1,30203,2,"('For the equation, $$b / 12 = 4$$ is the value of ', '$b$', '=', '$60$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 12 = 4$
+$( b / 12 ) * 12 = 4 * 12             (Multiplying 12 on both sides)$
+$b = 4 * 12$
+$b = 48$",
+text,1,30203,2,"('For the equation, $$y / 28 = 5$$ is the value of ', '$y$', '=', '$168$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 28 = 5$
+$( y / 28 ) * 28 = 5 * 28             (Multiplying 28 on both sides)$
+$y = 5 * 28$
+$y = 140$",
+text,1,30203,2,"('For the equation, $$y / 22 = 7$$ is the value of ', '$y$', '=', '$161$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 22 = 7$
+$( y / 22 ) * 22 = 7 * 22             (Multiplying 22 on both sides)$
+$y = 7 * 22$
+$y = 154$",
+text,1,30203,2,"('For the equation, $$a / 16 = 3$$ is the value of ', '$a$', '=', '$51$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 16 = 3$
+$( a / 16 ) * 16 = 3 * 16             (Multiplying 16 on both sides)$
+$a = 3 * 16$
+$a = 48$",
+text,1,30203,2,"('For the equation, $$b / 17 = 2$$ is the value of ', '$b$', '=', '$68$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 17 = 2$
+$( b / 17 ) * 17 = 2 * 17             (Multiplying 17 on both sides)$
+$b = 2 * 17$
+$b = 34$",
+text,1,30203,2,"('For the equation, $$c / 10 = 9$$ is the value of ', '$c$', '=', '$810$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 10 = 9$
+$( c / 10 ) * 10 = 9 * 10             (Multiplying 10 on both sides)$
+$c = 9 * 10$
+$c = 90$",
+text,1,30203,2,"('For the equation, $$b / 28 = 7$$ is the value of ', '$b$', '=', '$203$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 28 = 7$
+$( b / 28 ) * 28 = 7 * 28             (Multiplying 28 on both sides)$
+$b = 7 * 28$
+$b = 196$",
+text,1,30203,2,"('For the equation, $$x / 12 = 8$$ is the value of ', '$x$', '=', '$96$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$x / 12 = 8$
+$( x / 12 ) * 12 = 8 * 12             (Multiplying 12 on both sides)$
+$x = 8 * 12$
+$x = 96$",
+text,1,30203,2,"('For the equation, $$y / 27 = 6$$ is the value of ', '$y$', '=', '$168$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 27 = 6$
+$( y / 27 ) * 27 = 6 * 27             (Multiplying 27 on both sides)$
+$y = 6 * 27$
+$y = 162$",
+text,1,30203,2,"('For the equation, $$x / 16 = 7$$ is the value of ', '$x$', '=', '$128$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 16 = 7$
+$( x / 16 ) * 16 = 7 * 16             (Multiplying 16 on both sides)$
+$x = 7 * 16$
+$x = 112$",
+text,1,30203,2,"('For the equation, $$b / 15 = 4$$ is the value of ', '$b$', '=', '$60$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$b / 15 = 4$
+$( b / 15 ) * 15 = 4 * 15             (Multiplying 15 on both sides)$
+$b = 4 * 15$
+$b = 60$",
+text,1,30203,2,"('For the equation, $$c / 27 = 4$$ is the value of ', '$c$', '=', '$432$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 27 = 4$
+$( c / 27 ) * 27 = 4 * 27             (Multiplying 27 on both sides)$
+$c = 4 * 27$
+$c = 108$",
+text,1,30203,2,"('For the equation, $$x / 12 = 5$$ is the value of ', '$x$', '=', '$720$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 12 = 5$
+$( x / 12 ) * 12 = 5 * 12             (Multiplying 12 on both sides)$
+$x = 5 * 12$
+$x = 60$",
+text,1,30203,2,"('For the equation, $$a / 13 = 4$$ is the value of ', '$a$', '=', '$65$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 13 = 4$
+$( a / 13 ) * 13 = 4 * 13             (Multiplying 13 on both sides)$
+$a = 4 * 13$
+$a = 52$",
+text,1,30203,2,"('For the equation, $$c / 24 = 3$$ is the value of ', '$c$', '=', '$75$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 24 = 3$
+$( c / 24 ) * 24 = 3 * 24             (Multiplying 24 on both sides)$
+$c = 3 * 24$
+$c = 72$",
+text,1,30203,2,"('For the equation, $$x / 19 = 7$$ is the value of ', '$x$', '=', '$931$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 19 = 7$
+$( x / 19 ) * 19 = 7 * 19             (Multiplying 19 on both sides)$
+$x = 7 * 19$
+$x = 133$",
+text,1,30203,2,"('For the equation, $$b / 20 = 8$$ is the value of ', '$b$', '=', '$168$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 20 = 8$
+$( b / 20 ) * 20 = 8 * 20             (Multiplying 20 on both sides)$
+$b = 8 * 20$
+$b = 160$",
+text,1,30203,2,"('For the equation, $$x / 23 = 2$$ is the value of ', '$x$', '=', '$48$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 23 = 2$
+$( x / 23 ) * 23 = 2 * 23             (Multiplying 23 on both sides)$
+$x = 2 * 23$
+$x = 46$",
+text,1,30203,2,"('For the equation, $$c / 30 = 3$$ is the value of ', '$c$', '=', '$270$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 30 = 3$
+$( c / 30 ) * 30 = 3 * 30             (Multiplying 30 on both sides)$
+$c = 3 * 30$
+$c = 90$",
+text,1,30203,2,"('For the equation, $$y / 17 = 9$$ is the value of ', '$y$', '=', '$162$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 17 = 9$
+$( y / 17 ) * 17 = 9 * 17             (Multiplying 17 on both sides)$
+$y = 9 * 17$
+$y = 153$",
+text,1,30203,2,"('For the equation, $$b / 30 = 8$$ is the value of ', '$b$', '=', '$248$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 30 = 8$
+$( b / 30 ) * 30 = 8 * 30             (Multiplying 30 on both sides)$
+$b = 8 * 30$
+$b = 240$",
+text,1,30203,2,"('For the equation, $$c / 21 = 8$$ is the value of ', '$c$', '=', '$176$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 21 = 8$
+$( c / 21 ) * 21 = 8 * 21             (Multiplying 21 on both sides)$
+$c = 8 * 21$
+$c = 168$",
+text,1,30203,2,"('For the equation, $$b / 30 = 9$$ is the value of ', '$b$', '=', '$2430$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 30 = 9$
+$( b / 30 ) * 30 = 9 * 30             (Multiplying 30 on both sides)$
+$b = 9 * 30$
+$b = 270$",
+text,1,30203,2,"('For the equation, $$a / 29 = 8$$ is the value of ', '$a$', '=', '$6728$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 29 = 8$
+$( a / 29 ) * 29 = 8 * 29             (Multiplying 29 on both sides)$
+$a = 8 * 29$
+$a = 232$",
+text,1,30203,2,"('For the equation, $$a / 23 = 7$$ is the value of ', '$a$', '=', '$3703$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 23 = 7$
+$( a / 23 ) * 23 = 7 * 23             (Multiplying 23 on both sides)$
+$a = 7 * 23$
+$a = 161$",
+text,1,30203,2,"('For the equation, $$b / 25 = 5$$ is the value of ', '$b$', '=', '$3125$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 25 = 5$
+$( b / 25 ) * 25 = 5 * 25             (Multiplying 25 on both sides)$
+$b = 5 * 25$
+$b = 125$",
+text,1,30203,2,"('For the equation, $$a / 21 = 3$$ is the value of ', '$a$', '=', '$66$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 21 = 3$
+$( a / 21 ) * 21 = 3 * 21             (Multiplying 21 on both sides)$
+$a = 3 * 21$
+$a = 63$",
+text,1,30203,2,"('For the equation, $$y / 29 = 4$$ is the value of ', '$y$', '=', '$116$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$y / 29 = 4$
+$( y / 29 ) * 29 = 4 * 29             (Multiplying 29 on both sides)$
+$y = 4 * 29$
+$y = 116$",
+text,1,30203,2,"('For the equation, $$x / 27 = 4$$ is the value of ', '$x$', '=', '$135$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 27 = 4$
+$( x / 27 ) * 27 = 4 * 27             (Multiplying 27 on both sides)$
+$x = 4 * 27$
+$x = 108$",
+text,1,30203,2,"('For the equation, $$x / 22 = 3$$ is the value of ', '$x$', '=', '$1452$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 22 = 3$
+$( x / 22 ) * 22 = 3 * 22             (Multiplying 22 on both sides)$
+$x = 3 * 22$
+$x = 66$",
+text,1,30203,2,"('For the equation, $$x / 17 = 10$$ is the value of ', '$x$', '=', '$2890$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 17 = 10$
+$( x / 17 ) * 17 = 10 * 17             (Multiplying 17 on both sides)$
+$x = 10 * 17$
+$x = 170$",
+text,1,30203,2,"('For the equation, $$b / 20 = 5$$ is the value of ', '$b$', '=', '$105$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 20 = 5$
+$( b / 20 ) * 20 = 5 * 20             (Multiplying 20 on both sides)$
+$b = 5 * 20$
+$b = 100$",
+text,1,30203,2,"('For the equation, $$y / 10 = 10$$ is the value of ', '$y$', '=', '$110$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 10 = 10$
+$( y / 10 ) * 10 = 10 * 10             (Multiplying 10 on both sides)$
+$y = 10 * 10$
+$y = 100$",
+text,1,30203,2,"('For the equation, $$b / 27 = 3$$ is the value of ', '$b$', '=', '$2187$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 27 = 3$
+$( b / 27 ) * 27 = 3 * 27             (Multiplying 27 on both sides)$
+$b = 3 * 27$
+$b = 81$",
+text,1,30203,2,"('For the equation, $$c / 21 = 6$$ is the value of ', '$c$', '=', '$756$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 21 = 6$
+$( c / 21 ) * 21 = 6 * 21             (Multiplying 21 on both sides)$
+$c = 6 * 21$
+$c = 126$",
+text,1,30203,2,"('For the equation, $$y / 22 = 2$$ is the value of ', '$y$', '=', '$44$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$y / 22 = 2$
+$( y / 22 ) * 22 = 2 * 22             (Multiplying 22 on both sides)$
+$y = 2 * 22$
+$y = 44$",
+text,1,30203,2,"('For the equation, $$x / 25 = 10$$ is the value of ', '$x$', '=', '$2500$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 25 = 10$
+$( x / 25 ) * 25 = 10 * 25             (Multiplying 25 on both sides)$
+$x = 10 * 25$
+$x = 250$",
+text,1,30203,2,"('For the equation, $$y / 11 = 6$$ is the value of ', '$y$', '=', '$396$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 11 = 6$
+$( y / 11 ) * 11 = 6 * 11             (Multiplying 11 on both sides)$
+$y = 6 * 11$
+$y = 66$",
+text,1,30203,2,"('For the equation, $$x / 13 = 3$$ is the value of ', '$x$', '=', '$507$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 13 = 3$
+$( x / 13 ) * 13 = 3 * 13             (Multiplying 13 on both sides)$
+$x = 3 * 13$
+$x = 39$",
+text,1,30203,2,"('For the equation, $$x / 25 = 3$$ is the value of ', '$x$', '=', '$1875$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 25 = 3$
+$( x / 25 ) * 25 = 3 * 25             (Multiplying 25 on both sides)$
+$x = 3 * 25$
+$x = 75$",
+text,1,30203,2,"('For the equation, $$a / 28 = 6$$ is the value of ', '$a$', '=', '$4704$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 28 = 6$
+$( a / 28 ) * 28 = 6 * 28             (Multiplying 28 on both sides)$
+$a = 6 * 28$
+$a = 168$",
+text,1,30203,2,"('For the equation, $$x / 19 = 7$$ is the value of ', '$x$', '=', '$140$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 19 = 7$
+$( x / 19 ) * 19 = 7 * 19             (Multiplying 19 on both sides)$
+$x = 7 * 19$
+$x = 133$",
+text,1,30203,2,"('For the equation, $$x / 28 = 6$$ is the value of ', '$x$', '=', '$1008$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 28 = 6$
+$( x / 28 ) * 28 = 6 * 28             (Multiplying 28 on both sides)$
+$x = 6 * 28$
+$x = 168$",
+text,1,30203,2,"('For the equation, $$x / 22 = 5$$ is the value of ', '$x$', '=', '$550$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 22 = 5$
+$( x / 22 ) * 22 = 5 * 22             (Multiplying 22 on both sides)$
+$x = 5 * 22$
+$x = 110$",
+text,1,30203,2,"('For the equation, $$x / 21 = 8$$ is the value of ', '$x$', '=', '$176$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 21 = 8$
+$( x / 21 ) * 21 = 8 * 21             (Multiplying 21 on both sides)$
+$x = 8 * 21$
+$x = 168$",
+text,1,30203,2,"('For the equation, $$y / 22 = 10$$ is the value of ', '$y$', '=', '$4840$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 22 = 10$
+$( y / 22 ) * 22 = 10 * 22             (Multiplying 22 on both sides)$
+$y = 10 * 22$
+$y = 220$",
+text,1,30203,2,"('For the equation, $$c / 21 = 2$$ is the value of ', '$c$', '=', '$44$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 21 = 2$
+$( c / 21 ) * 21 = 2 * 21             (Multiplying 21 on both sides)$
+$c = 2 * 21$
+$c = 42$",
+text,1,30203,2,"('For the equation, $$a / 18 = 8$$ is the value of ', '$a$', '=', '$144$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$a / 18 = 8$
+$( a / 18 ) * 18 = 8 * 18             (Multiplying 18 on both sides)$
+$a = 8 * 18$
+$a = 144$",
+text,1,30203,2,"('For the equation, $$y / 12 = 9$$ is the value of ', '$y$', '=', '$1296$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 12 = 9$
+$( y / 12 ) * 12 = 9 * 12             (Multiplying 12 on both sides)$
+$y = 9 * 12$
+$y = 108$",
+text,1,30203,2,"('For the equation, $$y / 23 = 2$$ is the value of ', '$y$', '=', '$48$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 23 = 2$
+$( y / 23 ) * 23 = 2 * 23             (Multiplying 23 on both sides)$
+$y = 2 * 23$
+$y = 46$",
+text,1,30203,2,"('For the equation, $$y / 14 = 3$$ is the value of ', '$y$', '=', '$56$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 14 = 3$
+$( y / 14 ) * 14 = 3 * 14             (Multiplying 14 on both sides)$
+$y = 3 * 14$
+$y = 42$",
+text,1,30203,2,"('For the equation, $$b / 12 = 5$$ is the value of ', '$b$', '=', '$72$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 12 = 5$
+$( b / 12 ) * 12 = 5 * 12             (Multiplying 12 on both sides)$
+$b = 5 * 12$
+$b = 60$",
+text,1,30203,2,"('For the equation, $$a / 10 = 4$$ is the value of ', '$a$', '=', '$50$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 10 = 4$
+$( a / 10 ) * 10 = 4 * 10             (Multiplying 10 on both sides)$
+$a = 4 * 10$
+$a = 40$",
+text,1,30203,2,"('For the equation, $$x / 23 = 10$$ is the value of ', '$x$', '=', '$240$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 23 = 10$
+$( x / 23 ) * 23 = 10 * 23             (Multiplying 23 on both sides)$
+$x = 10 * 23$
+$x = 230$",
+text,1,30203,2,"('For the equation, $$a / 24 = 5$$ is the value of ', '$a$', '=', '$600$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 24 = 5$
+$( a / 24 ) * 24 = 5 * 24             (Multiplying 24 on both sides)$
+$a = 5 * 24$
+$a = 120$",
+text,1,30203,2,"('For the equation, $$x / 27 = 6$$ is the value of ', '$x$', '=', '$168$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 27 = 6$
+$( x / 27 ) * 27 = 6 * 27             (Multiplying 27 on both sides)$
+$x = 6 * 27$
+$x = 162$",
+text,1,30203,2,"('For the equation, $$y / 10 = 10$$ is the value of ', '$y$', '=', '$100$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$y / 10 = 10$
+$( y / 10 ) * 10 = 10 * 10             (Multiplying 10 on both sides)$
+$y = 10 * 10$
+$y = 100$",
+text,1,30203,2,"('For the equation, $$b / 21 = 4$$ is the value of ', '$b$', '=', '$84$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$b / 21 = 4$
+$( b / 21 ) * 21 = 4 * 21             (Multiplying 21 on both sides)$
+$b = 4 * 21$
+$b = 84$",
+text,1,30203,2,"('For the equation, $$y / 18 = 9$$ is the value of ', '$y$', '=', '$1458$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 18 = 9$
+$( y / 18 ) * 18 = 9 * 18             (Multiplying 18 on both sides)$
+$y = 9 * 18$
+$y = 162$",
+text,1,30203,2,"('For the equation, $$b / 30 = 7$$ is the value of ', '$b$', '=', '$1470$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 30 = 7$
+$( b / 30 ) * 30 = 7 * 30             (Multiplying 30 on both sides)$
+$b = 7 * 30$
+$b = 210$",
+text,1,30203,2,"('For the equation, $$y / 30 = 4$$ is the value of ', '$y$', '=', '$3600$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 30 = 4$
+$( y / 30 ) * 30 = 4 * 30             (Multiplying 30 on both sides)$
+$y = 4 * 30$
+$y = 120$",
+text,1,30203,2,"('For the equation, $$y / 27 = 8$$ is the value of ', '$y$', '=', '$243$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 27 = 8$
+$( y / 27 ) * 27 = 8 * 27             (Multiplying 27 on both sides)$
+$y = 8 * 27$
+$y = 216$",
+text,1,30203,2,"('For the equation, $$a / 28 = 5$$ is the value of ', '$a$', '=', '$168$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 28 = 5$
+$( a / 28 ) * 28 = 5 * 28             (Multiplying 28 on both sides)$
+$a = 5 * 28$
+$a = 140$",
+text,1,30203,2,"('For the equation, $$b / 22 = 8$$ is the value of ', '$b$', '=', '$198$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 22 = 8$
+$( b / 22 ) * 22 = 8 * 22             (Multiplying 22 on both sides)$
+$b = 8 * 22$
+$b = 176$",
+text,1,30203,2,"('For the equation, $$y / 13 = 3$$ is the value of ', '$y$', '=', '$117$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 13 = 3$
+$( y / 13 ) * 13 = 3 * 13             (Multiplying 13 on both sides)$
+$y = 3 * 13$
+$y = 39$",
+text,1,30203,2,"('For the equation, $$b / 17 = 6$$ is the value of ', '$b$', '=', '$108$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 17 = 6$
+$( b / 17 ) * 17 = 6 * 17             (Multiplying 17 on both sides)$
+$b = 6 * 17$
+$b = 102$",
+text,1,30203,2,"('For the equation, $$b / 16 = 8$$ is the value of ', '$b$', '=', '$144$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 16 = 8$
+$( b / 16 ) * 16 = 8 * 16             (Multiplying 16 on both sides)$
+$b = 8 * 16$
+$b = 128$",
+text,1,30203,2,"('For the equation, $$y / 18 = 3$$ is the value of ', '$y$', '=', '$57$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 18 = 3$
+$( y / 18 ) * 18 = 3 * 18             (Multiplying 18 on both sides)$
+$y = 3 * 18$
+$y = 54$",
+text,1,30203,2,"('For the equation, $$b / 10 = 10$$ is the value of ', '$b$', '=', '$110$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 10 = 10$
+$( b / 10 ) * 10 = 10 * 10             (Multiplying 10 on both sides)$
+$b = 10 * 10$
+$b = 100$",
+text,1,30203,2,"('For the equation, $$x / 16 = 9$$ is the value of ', '$x$', '=', '$153$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 16 = 9$
+$( x / 16 ) * 16 = 9 * 16             (Multiplying 16 on both sides)$
+$x = 9 * 16$
+$x = 144$",
+text,1,30203,2,"('For the equation, $$y / 27 = 5$$ is the value of ', '$y$', '=', '$3645$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 27 = 5$
+$( y / 27 ) * 27 = 5 * 27             (Multiplying 27 on both sides)$
+$y = 5 * 27$
+$y = 135$",
+text,1,30203,2,"('For the equation, $$y / 22 = 4$$ is the value of ', '$y$', '=', '$1936$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 22 = 4$
+$( y / 22 ) * 22 = 4 * 22             (Multiplying 22 on both sides)$
+$y = 4 * 22$
+$y = 88$",
+text,1,30203,2,"('For the equation, $$x / 18 = 8$$ is the value of ', '$x$', '=', '$152$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 18 = 8$
+$( x / 18 ) * 18 = 8 * 18             (Multiplying 18 on both sides)$
+$x = 8 * 18$
+$x = 144$",
+text,1,30203,2,"('For the equation, $$a / 20 = 10$$ is the value of ', '$a$', '=', '$4000$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 20 = 10$
+$( a / 20 ) * 20 = 10 * 20             (Multiplying 20 on both sides)$
+$a = 10 * 20$
+$a = 200$",
+text,1,30203,2,"('For the equation, $$y / 21 = 10$$ is the value of ', '$y$', '=', '$231$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 21 = 10$
+$( y / 21 ) * 21 = 10 * 21             (Multiplying 21 on both sides)$
+$y = 10 * 21$
+$y = 210$",
+text,1,30203,2,"('For the equation, $$a / 28 = 3$$ is the value of ', '$a$', '=', '$84$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$a / 28 = 3$
+$( a / 28 ) * 28 = 3 * 28             (Multiplying 28 on both sides)$
+$a = 3 * 28$
+$a = 84$",
+text,1,30203,2,"('For the equation, $$a / 28 = 9$$ is the value of ', '$a$', '=', '$280$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 28 = 9$
+$( a / 28 ) * 28 = 9 * 28             (Multiplying 28 on both sides)$
+$a = 9 * 28$
+$a = 252$",
+text,1,30203,2,"('For the equation, $$x / 16 = 10$$ is the value of ', '$x$', '=', '$160$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$x / 16 = 10$
+$( x / 16 ) * 16 = 10 * 16             (Multiplying 16 on both sides)$
+$x = 10 * 16$
+$x = 160$",
+text,1,30203,2,"('For the equation, $$y / 12 = 4$$ is the value of ', '$y$', '=', '$192$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 12 = 4$
+$( y / 12 ) * 12 = 4 * 12             (Multiplying 12 on both sides)$
+$y = 4 * 12$
+$y = 48$",
+text,1,30203,2,"('For the equation, $$a / 17 = 2$$ is the value of ', '$a$', '=', '$36$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 17 = 2$
+$( a / 17 ) * 17 = 2 * 17             (Multiplying 17 on both sides)$
+$a = 2 * 17$
+$a = 34$",
+text,1,30203,2,"('For the equation, $$x / 12 = 8$$ is the value of ', '$x$', '=', '$768$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 12 = 8$
+$( x / 12 ) * 12 = 8 * 12             (Multiplying 12 on both sides)$
+$x = 8 * 12$
+$x = 96$",
+text,1,30203,2,"('For the equation, $$b / 17 = 3$$ is the value of ', '$b$', '=', '$867$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 17 = 3$
+$( b / 17 ) * 17 = 3 * 17             (Multiplying 17 on both sides)$
+$b = 3 * 17$
+$b = 51$",
+text,1,30203,2,"('For the equation, $$x / 15 = 7$$ is the value of ', '$x$', '=', '$1575$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 15 = 7$
+$( x / 15 ) * 15 = 7 * 15             (Multiplying 15 on both sides)$
+$x = 7 * 15$
+$x = 105$",
+text,1,30203,2,"('For the equation, $$x / 26 = 10$$ is the value of ', '$x$', '=', '$6760$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 26 = 10$
+$( x / 26 ) * 26 = 10 * 26             (Multiplying 26 on both sides)$
+$x = 10 * 26$
+$x = 260$",
+text,1,30203,2,"('For the equation, $$a / 17 = 5$$ is the value of ', '$a$', '=', '$425$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 17 = 5$
+$( a / 17 ) * 17 = 5 * 17             (Multiplying 17 on both sides)$
+$a = 5 * 17$
+$a = 85$",
+text,1,30203,2,"('For the equation, $$x / 17 = 10$$ is the value of ', '$x$', '=', '$170$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$x / 17 = 10$
+$( x / 17 ) * 17 = 10 * 17             (Multiplying 17 on both sides)$
+$x = 10 * 17$
+$x = 170$",
+text,1,30203,2,"('For the equation, $$y / 21 = 8$$ is the value of ', '$y$', '=', '$168$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$y / 21 = 8$
+$( y / 21 ) * 21 = 8 * 21             (Multiplying 21 on both sides)$
+$y = 8 * 21$
+$y = 168$",
+text,1,30203,2,"('For the equation, $$y / 30 = 8$$ is the value of ', '$y$', '=', '$270$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 30 = 8$
+$( y / 30 ) * 30 = 8 * 30             (Multiplying 30 on both sides)$
+$y = 8 * 30$
+$y = 240$",
+text,1,30203,2,"('For the equation, $$a / 19 = 10$$ is the value of ', '$a$', '=', '$3610$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 19 = 10$
+$( a / 19 ) * 19 = 10 * 19             (Multiplying 19 on both sides)$
+$a = 10 * 19$
+$a = 190$",
+text,1,30203,2,"('For the equation, $$c / 18 = 6$$ is the value of ', '$c$', '=', '$126$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$c / 18 = 6$
+$( c / 18 ) * 18 = 6 * 18             (Multiplying 18 on both sides)$
+$c = 6 * 18$
+$c = 108$",
+text,1,30203,2,"('For the equation, $$b / 20 = 8$$ is the value of ', '$b$', '=', '$180$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$b / 20 = 8$
+$( b / 20 ) * 20 = 8 * 20             (Multiplying 20 on both sides)$
+$b = 8 * 20$
+$b = 160$",
+text,1,30203,2,"('For the equation, $$x / 13 = 9$$ is the value of ', '$x$', '=', '$1521$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$x / 13 = 9$
+$( x / 13 ) * 13 = 9 * 13             (Multiplying 13 on both sides)$
+$x = 9 * 13$
+$x = 117$",
+text,1,30203,2,"('For the equation, $$a / 13 = 9$$ is the value of ', '$a$', '=', '$130$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 13 = 9$
+$( a / 13 ) * 13 = 9 * 13             (Multiplying 13 on both sides)$
+$a = 9 * 13$
+$a = 117$",
+text,1,30203,2,"('For the equation, $$c / 23 = 4$$ is the value of ', '$c$', '=', '$92$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$c / 23 = 4$
+$( c / 23 ) * 23 = 4 * 23             (Multiplying 23 on both sides)$
+$c = 4 * 23$
+$c = 92$",
+text,1,30203,2,"('For the equation, $$x / 19 = 6$$ is the value of ', '$x$', '=', '$114$', '? (Yes/No)')",Yes,,,,No,,,60,3,,,"$x / 19 = 6$
+$( x / 19 ) * 19 = 6 * 19             (Multiplying 19 on both sides)$
+$x = 6 * 19$
+$x = 114$",
+text,1,30203,2,"('For the equation, $$y / 14 = 9$$ is the value of ', '$y$', '=', '$140$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$y / 14 = 9$
+$( y / 14 ) * 14 = 9 * 14             (Multiplying 14 on both sides)$
+$y = 9 * 14$
+$y = 126$",
+text,1,30203,2,"('For the equation, $$a / 26 = 9$$ is the value of ', '$a$', '=', '$6084$', '? (Yes/No)')",No,,,,Yes,,,60,3,,,"$a / 26 = 9$
+$( a / 26 ) * 26 = 9 * 26             (Multiplying 26 on both sides)$
+$a = 9 * 26$
+$a = 234$",

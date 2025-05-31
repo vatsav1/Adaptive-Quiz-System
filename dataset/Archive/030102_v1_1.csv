@@ -1,0 +1,201 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30102,1,Which of the following is not an equation ?,$14 * 6 < 84$,,,,$30x - 14 = 21$,$6c + 5 = 27$,$8z / 26 = 15$,60,3,,,"Solution: $$14 * 6 < 84$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 18$,,,,$22a * 29 = 28$,$25b + 23 = 22$,$21x + 24 = 16$,60,3,,,"Solution: $$x / 18$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$20 - 1 < 19$,,,,$30b + 25 = 24$,$30x * 8 = 25$,$30z / 16 = 29$,60,3,,,"Solution: $$20 - 1 < 19$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 22$,,,,$18a - 20 = 25$,$21x * 30 = 30$,$30b / 11 = 16$,60,3,,,"Solution: $$x - 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$21p > 27$,,,,$26z * 16 = 15$,$26b + 17 = 18$,$19z * 7 = 30$,60,3,,,"Solution: $$21p > 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$21p < 20$,,,,$8b + 28 = 28$,$6a + 5 = 20$,$23y + 18 = 21$,60,3,,,"Solution: $$21p < 20$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$20 * 9 < 180$,,,,$25y + 20 = 26$,$14b * 28 = 17$,$2z + 7 = 30$,60,3,,,"Solution: $$20 * 9 < 180$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$30p < 23$,,,,$15y * 5 = 29$,$9x / 30 = 24$,$20a - 9 = 26$,60,3,,,"Solution: $$30p < 23$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 8$,,,,$24b - 11 = 21$,$27c - 6 = 25$,$7c * 27 = 23$,60,3,,,"Solution: $$x - 8$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x + 8$,,,,$21c + 27 = 23$,$8b * 3 = 15$,$2z + 12 = 24$,60,3,,,"Solution: $$x + 8$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$20 + 11 > 31$,,,,$17a + 4 = 27$,$19z + 29 = 16$,$15a + 25 = 17$,60,3,,,"Solution: $$20 + 11 > 31$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$28 - 8 > 20$,,,,$6x / 6 = 22$,$20z * 6 = 21$,$25c - 7 = 28$,60,3,,,"Solution: $$28 - 8 > 20$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$31 - 12 < 19$,,,,$24x + 10 = 27$,$19z * 24 = 28$,$19b - 17 = 15$,60,3,,,"Solution: $$31 - 12 < 19$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$22 + 12 > 34$,,,,$26c * 9 = 29$,$16x - 23 = 16$,$25b + 28 = 23$,60,3,,,"Solution: $$22 + 12 > 34$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$10p > 21$,,,,$7z * 5 = 18$,$25c * 10 = 27$,$13c - 4 = 19$,60,3,,,"Solution: $$10p > 21$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$23 * 6 < 138$,,,,$18z - 10 = 20$,$22c / 15 = 29$,$19x + 29 = 22$,60,3,,,"Solution: $$23 * 6 < 138$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$17p < 16$,,,,$14a * 8 = 21$,$4z / 14 = 17$,$24x * 17 = 26$,60,3,,,"Solution: $$17p < 16$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 25$,,,,$12y * 30 = 19$,$13b * 24 = 18$,$21a + 5 = 26$,60,3,,,"Solution: $$x - 25$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$6p < 15$,,,,$20x - 25 = 18$,$23y / 20 = 27$,$6z / 16 = 22$,60,3,,,"Solution: $$6p < 15$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$18 - 3 > 15$,,,,$7b - 9 = 30$,$29c / 15 = 15$,$27a - 8 = 25$,60,3,,,"Solution: $$18 - 3 > 15$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$20 / 7 > 2.857142857142857$,,,,$29x * 19 = 26$,$2x - 27 = 28$,$14x / 9 = 24$,60,3,,,"Solution: $$20 / 7 > 2.857142857142857$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$17 - 4 < 13$,,,,$2a + 21 = 17$,$3c * 10 = 15$,$4y + 13 = 27$,60,3,,,"Solution: $$17 - 4 < 13$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$21 + 6 < 27$,,,,$4b + 5 = 27$,$25c * 14 = 24$,$7a / 23 = 30$,60,3,,,"Solution: $$21 + 6 < 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$34 * 8 < 272$,,,,$30a / 16 = 26$,$10b / 3 = 26$,$26z + 28 = 22$,60,3,,,"Solution: $$34 * 8 < 272$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 29$,,,,$7c / 8 = 28$,$4y * 27 = 16$,$8b + 4 = 21$,60,3,,,"Solution: $$x * 29$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$30 / 3 > 10.0$,,,,$6z + 16 = 26$,$21y * 14 = 19$,$27c - 30 = 30$,60,3,,,"Solution: $$30 / 3 > 10.0$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 9$,,,,$16x + 10 = 18$,$6c + 3 = 19$,$23y + 13 = 24$,60,3,,,"Solution: $$x / 9$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$13p < 28$,,,,$12y / 22 = 29$,$5b / 5 = 19$,$3b * 14 = 21$,60,3,,,"Solution: $$13p < 28$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$17p < 19$,,,,$8z * 7 = 28$,$16z + 6 = 30$,$2b + 27 = 16$,60,3,,,"Solution: $$17p < 19$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 13$,,,,$5c / 19 = 22$,$8b * 24 = 16$,$20b - 28 = 17$,60,3,,,"Solution: $$x * 13$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 29$,,,,$30x / 17 = 29$,$13a + 14 = 30$,$29x - 7 = 19$,60,3,,,"Solution: $$x - 29$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$29p > 28$,,,,$29c * 12 = 16$,$23z + 12 = 27$,$4x / 14 = 19$,60,3,,,"Solution: $$29p > 28$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 19$,,,,$22a + 28 = 16$,$4a - 4 = 18$,$10c * 6 = 19$,60,3,,,"Solution: $$x * 19$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x + 13$,,,,$7b + 15 = 19$,$27x * 24 = 17$,$3c * 28 = 18$,60,3,,,"Solution: $$x + 13$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 27$,,,,$26y * 7 = 22$,$6z / 14 = 19$,$27y / 5 = 30$,60,3,,,"Solution: $$x * 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$16 * 5 < 80$,,,,$10a + 9 = 25$,$7c / 26 = 22$,$12y - 13 = 28$,60,3,,,"Solution: $$16 * 5 < 80$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 10$,,,,$20b / 21 = 27$,$21z * 22 = 15$,$26a + 16 = 16$,60,3,,,"Solution: $$x * 10$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$17 / 12 > 1.4166666666666667$,,,,$7b * 25 = 17$,$15x / 12 = 17$,$3y + 15 = 18$,60,3,,,"Solution: $$17 / 12 > 1.4166666666666667$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 14$,,,,$27c - 27 = 17$,$3a + 23 = 19$,$20a * 14 = 15$,60,3,,,"Solution: $$x * 14$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$12 + 11 < 23$,,,,$30c - 4 = 15$,$11y / 12 = 26$,$28x - 30 = 21$,60,3,,,"Solution: $$12 + 11 < 23$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$4p > 30$,,,,$5y + 11 = 30$,$24y / 21 = 18$,$5b + 22 = 26$,60,3,,,"Solution: $$4p > 30$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$23 * 12 < 276$,,,,$11z - 30 = 17$,$25c / 26 = 20$,$8y + 4 = 17$,60,3,,,"Solution: $$23 * 12 < 276$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 24$,,,,$26c * 12 = 28$,$6a - 30 = 22$,$11a + 9 = 18$,60,3,,,"Solution: $$x / 24$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$32 - 12 > 20$,,,,$19b - 27 = 26$,$20z / 27 = 23$,$16b - 12 = 17$,60,3,,,"Solution: $$32 - 12 > 20$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$26 * 9 < 234$,,,,$23b / 5 = 23$,$22x * 5 = 27$,$19a + 27 = 29$,60,3,,,"Solution: $$26 * 9 < 234$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$27 + 12 > 39$,,,,$18b - 16 = 21$,$12c + 15 = 18$,$17c * 28 = 26$,60,3,,,"Solution: $$27 + 12 > 39$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x + 17$,,,,$17c - 19 = 26$,$8b + 6 = 27$,$16y + 18 = 15$,60,3,,,"Solution: $$x + 17$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 22$,,,,$6c + 20 = 26$,$30c * 18 = 30$,$5c / 17 = 16$,60,3,,,"Solution: $$x - 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$3p < 28$,,,,$21c / 8 = 23$,$30y + 20 = 15$,$3x * 11 = 18$,60,3,,,"Solution: $$3p < 28$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$14 * 9 > 126$,,,,$7a * 10 = 24$,$19c + 6 = 17$,$6c * 10 = 17$,60,3,,,"Solution: $$14 * 9 > 126$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$35 - 4 < 31$,,,,$14c + 15 = 21$,$23c / 12 = 25$,$9x / 10 = 15$,60,3,,,"Solution: $$35 - 4 < 31$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 15$,,,,$8b * 30 = 22$,$26z * 5 = 20$,$16a - 10 = 18$,60,3,,,"Solution: $$x / 15$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$23 + 4 < 27$,,,,$4y + 23 = 26$,$6c * 27 = 20$,$16c * 28 = 19$,60,3,,,"Solution: $$23 + 4 < 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$5p < 25$,,,,$13z * 22 = 27$,$30c * 29 = 26$,$27x * 9 = 16$,60,3,,,"Solution: $$5p < 25$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 11$,,,,$10z + 21 = 18$,$5a / 3 = 25$,$23a * 17 = 21$,60,3,,,"Solution: $$x * 11$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$8p > 15$,,,,$12x - 12 = 23$,$25y + 18 = 21$,$20y - 7 = 30$,60,3,,,"Solution: $$8p > 15$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$20p > 26$,,,,$16c + 15 = 17$,$25x - 24 = 16$,$26z * 13 = 25$,60,3,,,"Solution: $$20p > 26$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$6p > 22$,,,,$21y / 16 = 30$,$15z / 17 = 29$,$14c + 20 = 19$,60,3,,,"Solution: $$6p > 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$14p > 22$,,,,$11z / 9 = 17$,$9x * 23 = 28$,$28y / 18 = 27$,60,3,,,"Solution: $$14p > 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 8$,,,,$14b - 29 = 26$,$17y / 5 = 18$,$26c - 27 = 29$,60,3,,,"Solution: $$x - 8$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 14$,,,,$29y * 6 = 23$,$10a / 10 = 28$,$10b * 3 = 23$,60,3,,,"Solution: $$x / 14$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$29p < 24$,,,,$10x - 5 = 30$,$27x + 30 = 16$,$23y + 27 = 17$,60,3,,,"Solution: $$29p < 24$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 28$,,,,$17x + 18 = 16$,$24y + 25 = 30$,$20z - 19 = 15$,60,3,,,"Solution: $$x * 28$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 23$,,,,$28y * 13 = 25$,$24a * 23 = 20$,$23a + 16 = 27$,60,3,,,"Solution: $$x / 23$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$30p > 25$,,,,$27z + 20 = 24$,$25y - 6 = 30$,$13x / 20 = 30$,60,3,,,"Solution: $$30p > 25$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 9$,,,,$19c + 3 = 17$,$15y / 29 = 27$,$22b * 26 = 26$,60,3,,,"Solution: $$x - 9$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 11$,,,,$16y / 13 = 27$,$18z * 11 = 22$,$10c * 7 = 22$,60,3,,,"Solution: $$x * 11$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 10$,,,,$15x / 12 = 28$,$21z + 30 = 28$,$16c + 7 = 18$,60,3,,,"Solution: $$x * 10$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$16p > 18$,,,,$20z - 15 = 29$,$16y - 12 = 27$,$3b - 24 = 28$,60,3,,,"Solution: $$16p > 18$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 29$,,,,$19c * 21 = 17$,$23b * 25 = 28$,$2b / 24 = 15$,60,3,,,"Solution: $$x - 29$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 4$,,,,$5x / 15 = 16$,$26x - 26 = 24$,$7x - 3 = 17$,60,3,,,"Solution: $$x - 4$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$24 * 12 > 288$,,,,$25a * 28 = 16$,$29a * 21 = 19$,$21a * 27 = 24$,60,3,,,"Solution: $$24 * 12 > 288$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 20$,,,,$28x * 30 = 22$,$10x + 11 = 23$,$14y - 20 = 25$,60,3,,,"Solution: $$x / 20$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 2$,,,,$28b - 15 = 17$,$4z - 17 = 20$,$28c + 28 = 15$,60,3,,,"Solution: $$x * 2$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$21p < 16$,,,,$30y / 14 = 18$,$10c - 27 = 23$,$28a * 13 = 19$,60,3,,,"Solution: $$21p < 16$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$4p > 24$,,,,$24x + 13 = 23$,$5x / 11 = 21$,$11y - 20 = 29$,60,3,,,"Solution: $$4p > 24$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 18$,,,,$24a + 20 = 23$,$19c - 22 = 22$,$2a + 5 = 26$,60,3,,,"Solution: $$x * 18$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$8p < 26$,,,,$11a * 21 = 19$,$9y - 8 = 24$,$30y / 17 = 29$,60,3,,,"Solution: $$8p < 26$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 2$,,,,$16c / 25 = 21$,$24b + 20 = 21$,$2c / 10 = 18$,60,3,,,"Solution: $$x / 2$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$10p > 27$,,,,$26x * 19 = 15$,$25b - 14 = 17$,$7y + 3 = 15$,60,3,,,"Solution: $$10p > 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$20 / 6 > 3.3333333333333335$,,,,$13a + 10 = 29$,$12c / 28 = 28$,$11c - 20 = 23$,60,3,,,"Solution: $$20 / 6 > 3.3333333333333335$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 15$,,,,$14c - 15 = 29$,$24z - 20 = 17$,$16z * 11 = 27$,60,3,,,"Solution: $$x / 15$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x + 21$,,,,$8c * 20 = 30$,$22b - 13 = 22$,$12y - 7 = 21$,60,3,,,"Solution: $$x + 21$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x / 26$,,,,$24b / 18 = 27$,$7x * 4 = 23$,$20y / 11 = 23$,60,3,,,"Solution: $$x / 26$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$28 * 5 > 140$,,,,$12z - 20 = 16$,$22b + 6 = 22$,$29c + 6 = 17$,60,3,,,"Solution: $$28 * 5 > 140$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 9$,,,,$9b - 27 = 21$,$26c / 11 = 16$,$17x * 18 = 16$,60,3,,,"Solution: $$x * 9$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$15 + 3 > 18$,,,,$2z / 20 = 18$,$14x / 3 = 28$,$17c - 20 = 21$,60,3,,,"Solution: $$15 + 3 > 18$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$4p < 22$,,,,$8x * 20 = 30$,$13z * 7 = 20$,$26y * 28 = 22$,60,3,,,"Solution: $$4p < 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 25$,,,,$7x * 6 = 28$,$17a + 17 = 22$,$2z - 25 = 25$,60,3,,,"Solution: $$x - 25$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$26p < 20$,,,,$3x * 27 = 17$,$24a - 18 = 15$,$4c * 5 = 18$,60,3,,,"Solution: $$26p < 20$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$4p < 16$,,,,$30y * 9 = 21$,$4z * 26 = 18$,$18x - 16 = 28$,60,3,,,"Solution: $$4p < 16$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$23 + 3 > 26$,,,,$25x - 17 = 15$,$30y * 3 = 15$,$5c - 15 = 29$,60,3,,,"Solution: $$23 + 3 > 26$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 3$,,,,$6a + 24 = 25$,$4z + 4 = 27$,$25a + 8 = 26$,60,3,,,"Solution: $$x - 3$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x - 11$,,,,$16x - 13 = 18$,$4c + 27 = 18$,$12x * 17 = 23$,60,3,,,"Solution: $$x - 11$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x * 22$,,,,$8y / 5 = 19$,$18b * 20 = 25$,$12y / 12 = 17$,60,3,,,"Solution: $$x * 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$15 + 10 < 25$,,,,$14b + 30 = 25$,$24z * 25 = 15$,$21z + 13 = 25$,60,3,,,"Solution: $$15 + 10 < 25$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$x + 19$,,,,$11c + 19 = 21$,$2x - 14 = 28$,$30z * 27 = 26$,60,3,,,"Solution: $$x + 19$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$34 + 2 < 36$,,,,$5y / 12 = 15$,$9z + 28 = 24$,$24x / 29 = 16$,60,3,,,"Solution: $$34 + 2 < 36$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$35 * 6 > 210$,,,,$12y - 7 = 17$,$17z * 23 = 20$,$18x * 18 = 23$,60,3,,,"Solution: $$35 * 6 > 210$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,30102,1,Which of the following is not an equation ?,$28p < 30$,,,,$18c + 30 = 27$,$3c / 9 = 30$,$11x / 14 = 22$,60,3,,,"Solution: $$28p < 30$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",

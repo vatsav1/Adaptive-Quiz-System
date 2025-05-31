@@ -1,0 +1,1201 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30202,1,"
+
+Ismat had $186$ apples. She distributes all apples evenly among $31$ friends.How many apples did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ apples.Select the correct statements from below.<br>",$(31\times k)\div 31 = 186\div31 $,,,,$k+31 = 186+31 $,$31 \times k = 186 \times 31 $,$k-31 = 186-31 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ apples.<br>
+            
+Now, total 186 apples had been distributed among 31 friends and each one got $k$ number of apples .<br>
+            
+Then according to given conditions we get this equation :-<br> $31k = 186$<br>
+            
+$31k\div31 = 186\div31$ 	   (Dividing both sides by 31)",
+text,1,30202,1,"
+
+Abdul baked $248$ cookies and distributed them equally into $62$ packs. How many cookies did Abdul put in each packet?Let Abdul put $k$ cookies in each packet.Select the correct statements from below.<br>",$(62\times k)\div 62 = 248\div62 $,,,,$k+62 = 248+62 $,$62 \times k = 248 \times 62 $,$k-62 = 248-62 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Abdul put $k$ cookies in each packet.<br>
+            
+Now, total 248 cookies had been distributed into 62 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $62k = 248$<br>
+            
+$62k\div62 = 248\div62$ 	   (Dividing both sides by 62)",
+text,1,30202,1,"
+
+Ismat had $246$ chocolates. She distributes all chocolates evenly among $82$ friends.How many chocolates did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ chocolates.Select the correct statements from below.<br>",$(82\times k)\div 82 = 246\div82 $,,,,$k+82 = 246+82 $,$82 \times k = 246 \times 82 $,$k-82 = 246-82 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ chocolates.<br>
+            
+Now, total 246 chocolates had been distributed among 82 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $82k = 246$<br>
+            
+$82k\div82 = 246\div82$ 	   (Dividing both sides by 82)",
+text,1,30202,1,"
+
+Lalit baked $123$ cookies and splitted them equally into $3$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(3\times k)\div 3 = 123\div3 $,,,,$k+3 = 123+3 $,$3 \times k = 123 \times 3 $,$k-3 = 123-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 123 cookies had been splitted into 3 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 123$<br>
+            
+$3k\div3 = 123\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Lalit had $183$ chocolates. He distributes all chocolates evenly among $3$ friends.How many chocolates did Lalit gave to each of his friends?Let each friend of Lalit gets $k$ chocolates.Select the correct statements from below.<br>",$(3\times k)\div 3 = 183\div3 $,,,,$k+3 = 183+3 $,$3 \times k = 183 \times 3 $,$k-3 = 183-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Lalit gets $k$ chocolates.<br>
+            
+Now, total 183 chocolates had been distributed among 3 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 183$<br>
+            
+$3k\div3 = 183\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+John had $198$ mangoes. He distributes all mangoes evenly among $11$ friends.How many mangoes did John gave to each of his friends?Let each friend of John gets $k$ mangoes.Select the correct statements from below.<br>",$(11\times k)\div 11 = 198\div11 $,,,,$k+11 = 198+11 $,$11 \times k = 198 \times 11 $,$k-11 = 198-11 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of John gets $k$ mangoes.<br>
+            
+Now, total 198 mangoes had been distributed among 11 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $11k = 198$<br>
+            
+$11k\div11 = 198\div11$ 	   (Dividing both sides by 11)",
+text,1,30202,1,"
+
+Geeta had $93$ apples. She distributes all apples evenly among $3$ friends.How many apples did Geeta gave to each of her friends?Let each friend of Geeta gets $k$ apples.Select the correct statements from below.<br>",$(3\times k)\div 3 = 93\div3 $,,,,$k+3 = 93+3 $,$3 \times k = 93 \times 3 $,$k-3 = 93-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Geeta gets $k$ apples.<br>
+            
+Now, total 93 apples had been distributed among 3 friends and each one got $k$ number of apples .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 93$<br>
+            
+$3k\div3 = 93\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Lalit baked $192$ cookies and distributed them equally into $12$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(12\times k)\div 12 = 192\div12 $,,,,$k+12 = 192+12 $,$12 \times k = 192 \times 12 $,$k-12 = 192-12 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 192 cookies had been distributed into 12 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $12k = 192$<br>
+            
+$12k\div12 = 192\div12$ 	   (Dividing both sides by 12)",
+text,1,30202,1,"
+
+John had $177$ rasgullas. He distributes all rasgullas evenly among $3$ friends.How many rasgullas did John gave to each of his friends?Let each friend of John gets $k$ rasgullas.Select the correct statements from below.<br>",$(3\times k)\div 3 = 177\div3 $,,,,$k+3 = 177+3 $,$3 \times k = 177 \times 3 $,$k-3 = 177-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of John gets $k$ rasgullas.<br>
+            
+Now, total 177 rasgullas had been distributed among 3 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 177$<br>
+            
+$3k\div3 = 177\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Rekha had $56$ chocolates. She distributes all chocolates evenly among $28$ friends.How many chocolates did Rekha gave to each of her friends?Let each friend of Rekha gets $k$ chocolates.Select the correct statements from below.<br>",$(28\times k)\div 28 = 56\div28 $,,,,$k+28 = 56+28 $,$28 \times k = 56 \times 28 $,$k-28 = 56-28 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Rekha gets $k$ chocolates.<br>
+            
+Now, total 56 chocolates had been distributed among 28 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $28k = 56$<br>
+            
+$28k\div28 = 56\div28$ 	   (Dividing both sides by 28)",
+text,1,30202,1,"
+
+Geeta had $48$ bananas. She distributes all bananas evenly among $24$ friends.How many bananas did Geeta gave to each of her friends?Let each friend of Geeta gets $k$ bananas.Select the correct statements from below.<br>",$(24\times k)\div 24 = 48\div24 $,,,,$k+24 = 48+24 $,$24 \times k = 48 \times 24 $,$k-24 = 48-24 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Geeta gets $k$ bananas.<br>
+            
+Now, total 48 bananas had been distributed among 24 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $24k = 48$<br>
+            
+$24k\div24 = 48\div24$ 	   (Dividing both sides by 24)",
+text,1,30202,1,"
+
+Rekha had $63$ pedhas. She distributes all pedhas evenly among $7$ friends.How many pedhas did Rekha gave to each of her friends?Let each friend of Rekha gets $k$ pedhas.Select the correct statements from below.<br>",$(7\times k)\div 7 = 63\div7 $,,,,$k+7 = 63+7 $,$7 \times k = 63 \times 7 $,$k-7 = 63-7 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Rekha gets $k$ pedhas.<br>
+            
+Now, total 63 pedhas had been distributed among 7 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $7k = 63$<br>
+            
+$7k\div7 = 63\div7$ 	   (Dividing both sides by 7)",
+text,1,30202,1,"
+
+Ismat baked $145$ cookies and distributed them equally into $29$ packs. How many cookies did Ismat put in each packet?Let Ismat put $k$ cookies in each packet.Select the correct statements from below.<br>",$(29\times k)\div 29 = 145\div29 $,,,,$k+29 = 145+29 $,$29 \times k = 145 \times 29 $,$k-29 = 145-29 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Ismat put $k$ cookies in each packet.<br>
+            
+Now, total 145 cookies had been distributed into 29 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $29k = 145$<br>
+            
+$29k\div29 = 145\div29$ 	   (Dividing both sides by 29)",
+text,1,30202,1,"
+
+Disha baked $148$ cookies and splitted them equally into $74$ packs. How many cookies did Disha put in each packet?Let Disha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(74\times k)\div 74 = 148\div74 $,,,,$k+74 = 148+74 $,$74 \times k = 148 \times 74 $,$k-74 = 148-74 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Disha put $k$ cookies in each packet.<br>
+            
+Now, total 148 cookies had been splitted into 74 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $74k = 148$<br>
+            
+$74k\div74 = 148\div74$ 	   (Dividing both sides by 74)",
+text,1,30202,1,"
+
+Tina baked $51$ cookies and distributed them equally into $3$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(3\times k)\div 3 = 51\div3 $,,,,$k+3 = 51+3 $,$3 \times k = 51 \times 3 $,$k-3 = 51-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 51 cookies had been distributed into 3 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 51$<br>
+            
+$3k\div3 = 51\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Geeta baked $165$ cookies and distributed them equally into $11$ packs. How many cookies did Geeta put in each packet?Let Geeta put $k$ cookies in each packet.Select the correct statements from below.<br>",$(11\times k)\div 11 = 165\div11 $,,,,$k+11 = 165+11 $,$11 \times k = 165 \times 11 $,$k-11 = 165-11 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Geeta put $k$ cookies in each packet.<br>
+            
+Now, total 165 cookies had been distributed into 11 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $11k = 165$<br>
+            
+$11k\div11 = 165\div11$ 	   (Dividing both sides by 11)",
+text,1,30202,1,"
+
+Dinesh had $235$ rasgullas. He distributes all rasgullas evenly among $5$ friends.How many rasgullas did Dinesh gave to each of his friends?Let each friend of Dinesh gets $k$ rasgullas.Select the correct statements from below.<br>",$(5\times k)\div 5 = 235\div5 $,,,,$k+5 = 235+5 $,$5 \times k = 235 \times 5 $,$k-5 = 235-5 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Dinesh gets $k$ rasgullas.<br>
+            
+Now, total 235 rasgullas had been distributed among 5 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 235$<br>
+            
+$5k\div5 = 235\div5$ 	   (Dividing both sides by 5)",
+text,1,30202,1,"
+
+Disha had $122$ rasgullas. She distributes all rasgullas evenly among $61$ friends.How many rasgullas did Disha gave to each of her friends?Let each friend of Disha gets $k$ rasgullas.Select the correct statements from below.<br>",$(61\times k)\div 61 = 122\div61 $,,,,$k+61 = 122+61 $,$61 \times k = 122 \times 61 $,$k-61 = 122-61 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Disha gets $k$ rasgullas.<br>
+            
+Now, total 122 rasgullas had been distributed among 61 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $61k = 122$<br>
+            
+$61k\div61 = 122\div61$ 	   (Dividing both sides by 61)",
+text,1,30202,1,"
+
+Atharva baked $217$ cookies and splitted them equally into $7$ packs. How many cookies did Atharva put in each packet?Let Atharva put $k$ cookies in each packet.Select the correct statements from below.<br>",$(7\times k)\div 7 = 217\div7 $,,,,$k+7 = 217+7 $,$7 \times k = 217 \times 7 $,$k-7 = 217-7 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Atharva put $k$ cookies in each packet.<br>
+            
+Now, total 217 cookies had been splitted into 7 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $7k = 217$<br>
+            
+$7k\div7 = 217\div7$ 	   (Dividing both sides by 7)",
+text,1,30202,1,"
+
+Atharva baked $69$ cookies and splitted them equally into $3$ packs. How many cookies did Atharva put in each packet?Let Atharva put $k$ cookies in each packet.Select the correct statements from below.<br>",$(3\times k)\div 3 = 69\div3 $,,,,$k+3 = 69+3 $,$3 \times k = 69 \times 3 $,$k-3 = 69-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Atharva put $k$ cookies in each packet.<br>
+            
+Now, total 69 cookies had been splitted into 3 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 69$<br>
+            
+$3k\div3 = 69\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Lalit baked $146$ cookies and splitted them equally into $2$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 146\div2 $,,,,$k+2 = 146+2 $,$2 \times k = 146 \times 2 $,$k-2 = 146-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 146 cookies had been splitted into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 146$<br>
+            
+$2k\div2 = 146\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Ismat had $115$ chocolates. She distributes all chocolates evenly among $23$ friends.How many chocolates did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ chocolates.Select the correct statements from below.<br>",$(23\times k)\div 23 = 115\div23 $,,,,$k+23 = 115+23 $,$23 \times k = 115 \times 23 $,$k-23 = 115-23 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ chocolates.<br>
+            
+Now, total 115 chocolates had been distributed among 23 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $23k = 115$<br>
+            
+$23k\div23 = 115\div23$ 	   (Dividing both sides by 23)",
+text,1,30202,1,"
+
+Atharva baked $108$ cookies and distributed them equally into $36$ packs. How many cookies did Atharva put in each packet?Let Atharva put $k$ cookies in each packet.Select the correct statements from below.<br>",$(36\times k)\div 36 = 108\div36 $,,,,$k+36 = 108+36 $,$36 \times k = 108 \times 36 $,$k-36 = 108-36 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Atharva put $k$ cookies in each packet.<br>
+            
+Now, total 108 cookies had been distributed into 36 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $36k = 108$<br>
+            
+$36k\div36 = 108\div36$ 	   (Dividing both sides by 36)",
+text,1,30202,1,"
+
+Tina had $150$ bananas. She distributes all bananas evenly among $6$ friends.How many bananas did Tina gave to each of her friends?Let each friend of Tina gets $k$ bananas.Select the correct statements from below.<br>",$(6\times k)\div 6 = 150\div6 $,,,,$k+6 = 150+6 $,$6 \times k = 150 \times 6 $,$k-6 = 150-6 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Tina gets $k$ bananas.<br>
+            
+Now, total 150 bananas had been distributed among 6 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $6k = 150$<br>
+            
+$6k\div6 = 150\div6$ 	   (Dividing both sides by 6)",
+text,1,30202,1,"
+
+Ismat had $138$ pedhas. She distributes all pedhas evenly among $3$ friends.How many pedhas did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ pedhas.Select the correct statements from below.<br>",$(3\times k)\div 3 = 138\div3 $,,,,$k+3 = 138+3 $,$3 \times k = 138 \times 3 $,$k-3 = 138-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ pedhas.<br>
+            
+Now, total 138 pedhas had been distributed among 3 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 138$<br>
+            
+$3k\div3 = 138\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Lalit had $143$ mangoes. He distributes all mangoes evenly among $11$ friends.How many mangoes did Lalit gave to each of his friends?Let each friend of Lalit gets $k$ mangoes.Select the correct statements from below.<br>",$(11\times k)\div 11 = 143\div11 $,,,,$k+11 = 143+11 $,$11 \times k = 143 \times 11 $,$k-11 = 143-11 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Lalit gets $k$ mangoes.<br>
+            
+Now, total 143 mangoes had been distributed among 11 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $11k = 143$<br>
+            
+$11k\div11 = 143\div11$ 	   (Dividing both sides by 11)",
+text,1,30202,1,"
+
+Diya had $182$ mangoes. She distributes all mangoes evenly among $2$ friends.How many mangoes did Diya gave to each of her friends?Let each friend of Diya gets $k$ mangoes.Select the correct statements from below.<br>",$(2\times k)\div 2 = 182\div2 $,,,,$k+2 = 182+2 $,$2 \times k = 182 \times 2 $,$k-2 = 182-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Diya gets $k$ mangoes.<br>
+            
+Now, total 182 mangoes had been distributed among 2 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 182$<br>
+            
+$2k\div2 = 182\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Disha had $189$ rasgullas. She distributes all rasgullas evenly among $3$ friends.How many rasgullas did Disha gave to each of her friends?Let each friend of Disha gets $k$ rasgullas.Select the correct statements from below.<br>",$(3\times k)\div 3 = 189\div3 $,,,,$k+3 = 189+3 $,$3 \times k = 189 \times 3 $,$k-3 = 189-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Disha gets $k$ rasgullas.<br>
+            
+Now, total 189 rasgullas had been distributed among 3 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 189$<br>
+            
+$3k\div3 = 189\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Diya baked $99$ cookies and splitted them equally into $33$ packs. How many cookies did Diya put in each packet?Let Diya put $k$ cookies in each packet.Select the correct statements from below.<br>",$(33\times k)\div 33 = 99\div33 $,,,,$k+33 = 99+33 $,$33 \times k = 99 \times 33 $,$k-33 = 99-33 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Diya put $k$ cookies in each packet.<br>
+            
+Now, total 99 cookies had been splitted into 33 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $33k = 99$<br>
+            
+$33k\div33 = 99\div33$ 	   (Dividing both sides by 33)",
+text,1,30202,1,"
+
+Tina baked $132$ cookies and splitted them equally into $33$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(33\times k)\div 33 = 132\div33 $,,,,$k+33 = 132+33 $,$33 \times k = 132 \times 33 $,$k-33 = 132-33 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 132 cookies had been splitted into 33 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $33k = 132$<br>
+            
+$33k\div33 = 132\div33$ 	   (Dividing both sides by 33)",
+text,1,30202,1,"
+
+Rekha baked $124$ cookies and distributed them equally into $62$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(62\times k)\div 62 = 124\div62 $,,,,$k+62 = 124+62 $,$62 \times k = 124 \times 62 $,$k-62 = 124-62 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 124 cookies had been distributed into 62 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $62k = 124$<br>
+            
+$62k\div62 = 124\div62$ 	   (Dividing both sides by 62)",
+text,1,30202,1,"
+
+Lalit baked $182$ cookies and splitted them equally into $2$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 182\div2 $,,,,$k+2 = 182+2 $,$2 \times k = 182 \times 2 $,$k-2 = 182-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 182 cookies had been splitted into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 182$<br>
+            
+$2k\div2 = 182\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Tina baked $132$ cookies and splitted them equally into $3$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(3\times k)\div 3 = 132\div3 $,,,,$k+3 = 132+3 $,$3 \times k = 132 \times 3 $,$k-3 = 132-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 132 cookies had been splitted into 3 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 132$<br>
+            
+$3k\div3 = 132\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Lalit baked $72$ cookies and splitted them equally into $18$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(18\times k)\div 18 = 72\div18 $,,,,$k+18 = 72+18 $,$18 \times k = 72 \times 18 $,$k-18 = 72-18 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 72 cookies had been splitted into 18 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $18k = 72$<br>
+            
+$18k\div18 = 72\div18$ 	   (Dividing both sides by 18)",
+text,1,30202,1,"
+
+Ramesh had $236$ mangoes. He distributes all mangoes evenly among $4$ friends.How many mangoes did Ramesh gave to each of his friends?Let each friend of Ramesh gets $k$ mangoes.Select the correct statements from below.<br>",$(4\times k)\div 4 = 236\div4 $,,,,$k+4 = 236+4 $,$4 \times k = 236 \times 4 $,$k-4 = 236-4 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ramesh gets $k$ mangoes.<br>
+            
+Now, total 236 mangoes had been distributed among 4 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $4k = 236$<br>
+            
+$4k\div4 = 236\div4$ 	   (Dividing both sides by 4)",
+text,1,30202,1,"
+
+Ismat had $110$ bananas. She distributes all bananas evenly among $22$ friends.How many bananas did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ bananas.Select the correct statements from below.<br>",$(22\times k)\div 22 = 110\div22 $,,,,$k+22 = 110+22 $,$22 \times k = 110 \times 22 $,$k-22 = 110-22 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ bananas.<br>
+            
+Now, total 110 bananas had been distributed among 22 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $22k = 110$<br>
+            
+$22k\div22 = 110\div22$ 	   (Dividing both sides by 22)",
+text,1,30202,1,"
+
+Tina baked $238$ cookies and splitted them equally into $2$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 238\div2 $,,,,$k+2 = 238+2 $,$2 \times k = 238 \times 2 $,$k-2 = 238-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 238 cookies had been splitted into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 238$<br>
+            
+$2k\div2 = 238\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Ramesh had $125$ pedhas. He distributes all pedhas evenly among $25$ friends.How many pedhas did Ramesh gave to each of his friends?Let each friend of Ramesh gets $k$ pedhas.Select the correct statements from below.<br>",$(25\times k)\div 25 = 125\div25 $,,,,$k+25 = 125+25 $,$25 \times k = 125 \times 25 $,$k-25 = 125-25 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ramesh gets $k$ pedhas.<br>
+            
+Now, total 125 pedhas had been distributed among 25 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $25k = 125$<br>
+            
+$25k\div25 = 125\div25$ 	   (Dividing both sides by 25)",
+text,1,30202,1,"
+
+Rekha baked $221$ cookies and splitted them equally into $13$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(13\times k)\div 13 = 221\div13 $,,,,$k+13 = 221+13 $,$13 \times k = 221 \times 13 $,$k-13 = 221-13 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 221 cookies had been splitted into 13 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $13k = 221$<br>
+            
+$13k\div13 = 221\div13$ 	   (Dividing both sides by 13)",
+text,1,30202,1,"
+
+Diya baked $245$ cookies and distributed them equally into $35$ packs. How many cookies did Diya put in each packet?Let Diya put $k$ cookies in each packet.Select the correct statements from below.<br>",$(35\times k)\div 35 = 245\div35 $,,,,$k+35 = 245+35 $,$35 \times k = 245 \times 35 $,$k-35 = 245-35 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Diya put $k$ cookies in each packet.<br>
+            
+Now, total 245 cookies had been distributed into 35 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $35k = 245$<br>
+            
+$35k\div35 = 245\div35$ 	   (Dividing both sides by 35)",
+text,1,30202,1,"
+
+Dinesh baked $50$ cookies and splitted them equally into $5$ packs. How many cookies did Dinesh put in each packet?Let Dinesh put $k$ cookies in each packet.Select the correct statements from below.<br>",$(5\times k)\div 5 = 50\div5 $,,,,$k+5 = 50+5 $,$5 \times k = 50 \times 5 $,$k-5 = 50-5 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Dinesh put $k$ cookies in each packet.<br>
+            
+Now, total 50 cookies had been splitted into 5 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 50$<br>
+            
+$5k\div5 = 50\div5$ 	   (Dividing both sides by 5)",
+text,1,30202,1,"
+
+Tina baked $159$ cookies and distributed them equally into $53$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(53\times k)\div 53 = 159\div53 $,,,,$k+53 = 159+53 $,$53 \times k = 159 \times 53 $,$k-53 = 159-53 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 159 cookies had been distributed into 53 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $53k = 159$<br>
+            
+$53k\div53 = 159\div53$ 	   (Dividing both sides by 53)",
+text,1,30202,1,"
+
+Atharva baked $153$ cookies and distributed them equally into $9$ packs. How many cookies did Atharva put in each packet?Let Atharva put $k$ cookies in each packet.Select the correct statements from below.<br>",$(9\times k)\div 9 = 153\div9 $,,,,$k+9 = 153+9 $,$9 \times k = 153 \times 9 $,$k-9 = 153-9 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Atharva put $k$ cookies in each packet.<br>
+            
+Now, total 153 cookies had been distributed into 9 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $9k = 153$<br>
+            
+$9k\div9 = 153\div9$ 	   (Dividing both sides by 9)",
+text,1,30202,1,"
+
+Ismat had $42$ chocolates. She distributes all chocolates evenly among $7$ friends.How many chocolates did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ chocolates.Select the correct statements from below.<br>",$(7\times k)\div 7 = 42\div7 $,,,,$k+7 = 42+7 $,$7 \times k = 42 \times 7 $,$k-7 = 42-7 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ chocolates.<br>
+            
+Now, total 42 chocolates had been distributed among 7 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $7k = 42$<br>
+            
+$7k\div7 = 42\div7$ 	   (Dividing both sides by 7)",
+text,1,30202,1,"
+
+Diya baked $146$ cookies and distributed them equally into $73$ packs. How many cookies did Diya put in each packet?Let Diya put $k$ cookies in each packet.Select the correct statements from below.<br>",$(73\times k)\div 73 = 146\div73 $,,,,$k+73 = 146+73 $,$73 \times k = 146 \times 73 $,$k-73 = 146-73 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Diya put $k$ cookies in each packet.<br>
+            
+Now, total 146 cookies had been distributed into 73 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $73k = 146$<br>
+            
+$73k\div73 = 146\div73$ 	   (Dividing both sides by 73)",
+text,1,30202,1,"
+
+Abdul had $105$ mangoes. He distributes all mangoes evenly among $3$ friends.How many mangoes did Abdul gave to each of his friends?Let each friend of Abdul gets $k$ mangoes.Select the correct statements from below.<br>",$(3\times k)\div 3 = 105\div3 $,,,,$k+3 = 105+3 $,$3 \times k = 105 \times 3 $,$k-3 = 105-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Abdul gets $k$ mangoes.<br>
+            
+Now, total 105 mangoes had been distributed among 3 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 105$<br>
+            
+$3k\div3 = 105\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Rekha baked $40$ cookies and distributed them equally into $10$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(10\times k)\div 10 = 40\div10 $,,,,$k+10 = 40+10 $,$10 \times k = 40 \times 10 $,$k-10 = 40-10 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 40 cookies had been distributed into 10 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $10k = 40$<br>
+            
+$10k\div10 = 40\div10$ 	   (Dividing both sides by 10)",
+text,1,30202,1,"
+
+Abdul had $221$ rasgullas. He distributes all rasgullas evenly among $13$ friends.How many rasgullas did Abdul gave to each of his friends?Let each friend of Abdul gets $k$ rasgullas.Select the correct statements from below.<br>",$(13\times k)\div 13 = 221\div13 $,,,,$k+13 = 221+13 $,$13 \times k = 221 \times 13 $,$k-13 = 221-13 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Abdul gets $k$ rasgullas.<br>
+            
+Now, total 221 rasgullas had been distributed among 13 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $13k = 221$<br>
+            
+$13k\div13 = 221\div13$ 	   (Dividing both sides by 13)",
+text,1,30202,1,"
+
+Rekha baked $52$ cookies and splitted them equally into $2$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 52\div2 $,,,,$k+2 = 52+2 $,$2 \times k = 52 \times 2 $,$k-2 = 52-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 52 cookies had been splitted into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 52$<br>
+            
+$2k\div2 = 52\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Tina baked $50$ cookies and splitted them equally into $10$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(10\times k)\div 10 = 50\div10 $,,,,$k+10 = 50+10 $,$10 \times k = 50 \times 10 $,$k-10 = 50-10 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 50 cookies had been splitted into 10 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $10k = 50$<br>
+            
+$10k\div10 = 50\div10$ 	   (Dividing both sides by 10)",
+text,1,30202,1,"
+
+Tina baked $118$ cookies and splitted them equally into $59$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(59\times k)\div 59 = 118\div59 $,,,,$k+59 = 118+59 $,$59 \times k = 118 \times 59 $,$k-59 = 118-59 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 118 cookies had been splitted into 59 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $59k = 118$<br>
+            
+$59k\div59 = 118\div59$ 	   (Dividing both sides by 59)",
+text,1,30202,1,"
+
+Rekha had $121$ bananas. She distributes all bananas evenly among $11$ friends.How many bananas did Rekha gave to each of her friends?Let each friend of Rekha gets $k$ bananas.Select the correct statements from below.<br>",$(11\times k)\div 11 = 121\div11 $,,,,$k+11 = 121+11 $,$11 \times k = 121 \times 11 $,$k-11 = 121-11 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Rekha gets $k$ bananas.<br>
+            
+Now, total 121 bananas had been distributed among 11 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $11k = 121$<br>
+            
+$11k\div11 = 121\div11$ 	   (Dividing both sides by 11)",
+text,1,30202,1,"
+
+Ramesh baked $185$ cookies and splitted them equally into $37$ packs. How many cookies did Ramesh put in each packet?Let Ramesh put $k$ cookies in each packet.Select the correct statements from below.<br>",$(37\times k)\div 37 = 185\div37 $,,,,$k+37 = 185+37 $,$37 \times k = 185 \times 37 $,$k-37 = 185-37 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Ramesh put $k$ cookies in each packet.<br>
+            
+Now, total 185 cookies had been splitted into 37 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $37k = 185$<br>
+            
+$37k\div37 = 185\div37$ 	   (Dividing both sides by 37)",
+text,1,30202,1,"
+
+Ismat had $158$ bananas. She distributes all bananas evenly among $79$ friends.How many bananas did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ bananas.Select the correct statements from below.<br>",$(79\times k)\div 79 = 158\div79 $,,,,$k+79 = 158+79 $,$79 \times k = 158 \times 79 $,$k-79 = 158-79 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ bananas.<br>
+            
+Now, total 158 bananas had been distributed among 79 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $79k = 158$<br>
+            
+$79k\div79 = 158\div79$ 	   (Dividing both sides by 79)",
+text,1,30202,1,"
+
+Ramesh baked $249$ cookies and splitted them equally into $83$ packs. How many cookies did Ramesh put in each packet?Let Ramesh put $k$ cookies in each packet.Select the correct statements from below.<br>",$(83\times k)\div 83 = 249\div83 $,,,,$k+83 = 249+83 $,$83 \times k = 249 \times 83 $,$k-83 = 249-83 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Ramesh put $k$ cookies in each packet.<br>
+            
+Now, total 249 cookies had been splitted into 83 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $83k = 249$<br>
+            
+$83k\div83 = 249\div83$ 	   (Dividing both sides by 83)",
+text,1,30202,1,"
+
+Ramesh had $69$ mangoes. He distributes all mangoes evenly among $3$ friends.How many mangoes did Ramesh gave to each of his friends?Let each friend of Ramesh gets $k$ mangoes.Select the correct statements from below.<br>",$(3\times k)\div 3 = 69\div3 $,,,,$k+3 = 69+3 $,$3 \times k = 69 \times 3 $,$k-3 = 69-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ramesh gets $k$ mangoes.<br>
+            
+Now, total 69 mangoes had been distributed among 3 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 69$<br>
+            
+$3k\div3 = 69\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Diya baked $64$ cookies and splitted them equally into $4$ packs. How many cookies did Diya put in each packet?Let Diya put $k$ cookies in each packet.Select the correct statements from below.<br>",$(4\times k)\div 4 = 64\div4 $,,,,$k+4 = 64+4 $,$4 \times k = 64 \times 4 $,$k-4 = 64-4 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Diya put $k$ cookies in each packet.<br>
+            
+Now, total 64 cookies had been splitted into 4 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $4k = 64$<br>
+            
+$4k\div4 = 64\div4$ 	   (Dividing both sides by 4)",
+text,1,30202,1,"
+
+Atharva had $46$ chocolates. He distributes all chocolates evenly among $2$ friends.How many chocolates did Atharva gave to each of his friends?Let each friend of Atharva gets $k$ chocolates.Select the correct statements from below.<br>",$(2\times k)\div 2 = 46\div2 $,,,,$k+2 = 46+2 $,$2 \times k = 46 \times 2 $,$k-2 = 46-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Atharva gets $k$ chocolates.<br>
+            
+Now, total 46 chocolates had been distributed among 2 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 46$<br>
+            
+$2k\div2 = 46\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Abdul baked $88$ cookies and distributed them equally into $11$ packs. How many cookies did Abdul put in each packet?Let Abdul put $k$ cookies in each packet.Select the correct statements from below.<br>",$(11\times k)\div 11 = 88\div11 $,,,,$k+11 = 88+11 $,$11 \times k = 88 \times 11 $,$k-11 = 88-11 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Abdul put $k$ cookies in each packet.<br>
+            
+Now, total 88 cookies had been distributed into 11 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $11k = 88$<br>
+            
+$11k\div11 = 88\div11$ 	   (Dividing both sides by 11)",
+text,1,30202,1,"
+
+Tina baked $82$ cookies and distributed them equally into $41$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(41\times k)\div 41 = 82\div41 $,,,,$k+41 = 82+41 $,$41 \times k = 82 \times 41 $,$k-41 = 82-41 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 82 cookies had been distributed into 41 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $41k = 82$<br>
+            
+$41k\div41 = 82\div41$ 	   (Dividing both sides by 41)",
+text,1,30202,1,"
+
+Diya had $96$ rasgullas. She distributes all rasgullas evenly among $16$ friends.How many rasgullas did Diya gave to each of her friends?Let each friend of Diya gets $k$ rasgullas.Select the correct statements from below.<br>",$(16\times k)\div 16 = 96\div16 $,,,,$k+16 = 96+16 $,$16 \times k = 96 \times 16 $,$k-16 = 96-16 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Diya gets $k$ rasgullas.<br>
+            
+Now, total 96 rasgullas had been distributed among 16 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $16k = 96$<br>
+            
+$16k\div16 = 96\div16$ 	   (Dividing both sides by 16)",
+text,1,30202,1,"
+
+Diya baked $205$ cookies and distributed them equally into $41$ packs. How many cookies did Diya put in each packet?Let Diya put $k$ cookies in each packet.Select the correct statements from below.<br>",$(41\times k)\div 41 = 205\div41 $,,,,$k+41 = 205+41 $,$41 \times k = 205 \times 41 $,$k-41 = 205-41 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Diya put $k$ cookies in each packet.<br>
+            
+Now, total 205 cookies had been distributed into 41 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $41k = 205$<br>
+            
+$41k\div41 = 205\div41$ 	   (Dividing both sides by 41)",
+text,1,30202,1,"
+
+Ismat baked $238$ cookies and splitted them equally into $34$ packs. How many cookies did Ismat put in each packet?Let Ismat put $k$ cookies in each packet.Select the correct statements from below.<br>",$(34\times k)\div 34 = 238\div34 $,,,,$k+34 = 238+34 $,$34 \times k = 238 \times 34 $,$k-34 = 238-34 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Ismat put $k$ cookies in each packet.<br>
+            
+Now, total 238 cookies had been splitted into 34 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $34k = 238$<br>
+            
+$34k\div34 = 238\div34$ 	   (Dividing both sides by 34)",
+text,1,30202,1,"
+
+Atharva baked $136$ cookies and distributed them equally into $34$ packs. How many cookies did Atharva put in each packet?Let Atharva put $k$ cookies in each packet.Select the correct statements from below.<br>",$(34\times k)\div 34 = 136\div34 $,,,,$k+34 = 136+34 $,$34 \times k = 136 \times 34 $,$k-34 = 136-34 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Atharva put $k$ cookies in each packet.<br>
+            
+Now, total 136 cookies had been distributed into 34 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $34k = 136$<br>
+            
+$34k\div34 = 136\div34$ 	   (Dividing both sides by 34)",
+text,1,30202,1,"
+
+Atharva had $104$ apples. He distributes all apples evenly among $4$ friends.How many apples did Atharva gave to each of his friends?Let each friend of Atharva gets $k$ apples.Select the correct statements from below.<br>",$(4\times k)\div 4 = 104\div4 $,,,,$k+4 = 104+4 $,$4 \times k = 104 \times 4 $,$k-4 = 104-4 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Atharva gets $k$ apples.<br>
+            
+Now, total 104 apples had been distributed among 4 friends and each one got $k$ number of apples .<br>
+            
+Then according to given conditions we get this equation :-<br> $4k = 104$<br>
+            
+$4k\div4 = 104\div4$ 	   (Dividing both sides by 4)",
+text,1,30202,1,"
+
+Disha baked $202$ cookies and distributed them equally into $2$ packs. How many cookies did Disha put in each packet?Let Disha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 202\div2 $,,,,$k+2 = 202+2 $,$2 \times k = 202 \times 2 $,$k-2 = 202-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Disha put $k$ cookies in each packet.<br>
+            
+Now, total 202 cookies had been distributed into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 202$<br>
+            
+$2k\div2 = 202\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Ismat had $238$ chocolates. She distributes all chocolates evenly among $2$ friends.How many chocolates did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ chocolates.Select the correct statements from below.<br>",$(2\times k)\div 2 = 238\div2 $,,,,$k+2 = 238+2 $,$2 \times k = 238 \times 2 $,$k-2 = 238-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ chocolates.<br>
+            
+Now, total 238 chocolates had been distributed among 2 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 238$<br>
+            
+$2k\div2 = 238\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Abdul baked $234$ cookies and splitted them equally into $18$ packs. How many cookies did Abdul put in each packet?Let Abdul put $k$ cookies in each packet.Select the correct statements from below.<br>",$(18\times k)\div 18 = 234\div18 $,,,,$k+18 = 234+18 $,$18 \times k = 234 \times 18 $,$k-18 = 234-18 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Abdul put $k$ cookies in each packet.<br>
+            
+Now, total 234 cookies had been splitted into 18 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $18k = 234$<br>
+            
+$18k\div18 = 234\div18$ 	   (Dividing both sides by 18)",
+text,1,30202,1,"
+
+Abdul baked $240$ cookies and distributed them equally into $40$ packs. How many cookies did Abdul put in each packet?Let Abdul put $k$ cookies in each packet.Select the correct statements from below.<br>",$(40\times k)\div 40 = 240\div40 $,,,,$k+40 = 240+40 $,$40 \times k = 240 \times 40 $,$k-40 = 240-40 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Abdul put $k$ cookies in each packet.<br>
+            
+Now, total 240 cookies had been distributed into 40 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $40k = 240$<br>
+            
+$40k\div40 = 240\div40$ 	   (Dividing both sides by 40)",
+text,1,30202,1,"
+
+Abdul baked $225$ cookies and distributed them equally into $15$ packs. How many cookies did Abdul put in each packet?Let Abdul put $k$ cookies in each packet.Select the correct statements from below.<br>",$(15\times k)\div 15 = 225\div15 $,,,,$k+15 = 225+15 $,$15 \times k = 225 \times 15 $,$k-15 = 225-15 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Abdul put $k$ cookies in each packet.<br>
+            
+Now, total 225 cookies had been distributed into 15 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $15k = 225$<br>
+            
+$15k\div15 = 225\div15$ 	   (Dividing both sides by 15)",
+text,1,30202,1,"
+
+Lalit baked $202$ cookies and splitted them equally into $101$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(101\times k)\div 101 = 202\div101 $,,,,$k+101 = 202+101 $,$101 \times k = 202 \times 101 $,$k-101 = 202-101 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 202 cookies had been splitted into 101 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $101k = 202$<br>
+            
+$101k\div101 = 202\div101$ 	   (Dividing both sides by 101)",
+text,1,30202,1,"
+
+Atharva had $57$ pedhas. He distributes all pedhas evenly among $3$ friends.How many pedhas did Atharva gave to each of his friends?Let each friend of Atharva gets $k$ pedhas.Select the correct statements from below.<br>",$(3\times k)\div 3 = 57\div3 $,,,,$k+3 = 57+3 $,$3 \times k = 57 \times 3 $,$k-3 = 57-3 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Atharva gets $k$ pedhas.<br>
+            
+Now, total 57 pedhas had been distributed among 3 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 57$<br>
+            
+$3k\div3 = 57\div3$ 	   (Dividing both sides by 3)",
+text,1,30202,1,"
+
+Abdul had $95$ rasgullas. He distributes all rasgullas evenly among $5$ friends.How many rasgullas did Abdul gave to each of his friends?Let each friend of Abdul gets $k$ rasgullas.Select the correct statements from below.<br>",$(5\times k)\div 5 = 95\div5 $,,,,$k+5 = 95+5 $,$5 \times k = 95 \times 5 $,$k-5 = 95-5 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Abdul gets $k$ rasgullas.<br>
+            
+Now, total 95 rasgullas had been distributed among 5 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 95$<br>
+            
+$5k\div5 = 95\div5$ 	   (Dividing both sides by 5)",
+text,1,30202,1,"
+
+Geeta had $75$ bananas. She distributes all bananas evenly among $25$ friends.How many bananas did Geeta gave to each of her friends?Let each friend of Geeta gets $k$ bananas.Select the correct statements from below.<br>",$(25\times k)\div 25 = 75\div25 $,,,,$k+25 = 75+25 $,$25 \times k = 75 \times 25 $,$k-25 = 75-25 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Geeta gets $k$ bananas.<br>
+            
+Now, total 75 bananas had been distributed among 25 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $25k = 75$<br>
+            
+$25k\div25 = 75\div25$ 	   (Dividing both sides by 25)",
+text,1,30202,1,"
+
+Rekha baked $56$ cookies and distributed them equally into $4$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(4\times k)\div 4 = 56\div4 $,,,,$k+4 = 56+4 $,$4 \times k = 56 \times 4 $,$k-4 = 56-4 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 56 cookies had been distributed into 4 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $4k = 56$<br>
+            
+$4k\div4 = 56\div4$ 	   (Dividing both sides by 4)",
+text,1,30202,1,"
+
+Lalit baked $203$ cookies and distributed them equally into $29$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(29\times k)\div 29 = 203\div29 $,,,,$k+29 = 203+29 $,$29 \times k = 203 \times 29 $,$k-29 = 203-29 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 203 cookies had been distributed into 29 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $29k = 203$<br>
+            
+$29k\div29 = 203\div29$ 	   (Dividing both sides by 29)",
+text,1,30202,1,"
+
+Tina had $102$ chocolates. She distributes all chocolates evenly among $34$ friends.How many chocolates did Tina gave to each of her friends?Let each friend of Tina gets $k$ chocolates.Select the correct statements from below.<br>",$(34\times k)\div 34 = 102\div34 $,,,,$k+34 = 102+34 $,$34 \times k = 102 \times 34 $,$k-34 = 102-34 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Tina gets $k$ chocolates.<br>
+            
+Now, total 102 chocolates had been distributed among 34 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $34k = 102$<br>
+            
+$34k\div34 = 102\div34$ 	   (Dividing both sides by 34)",
+text,1,30202,1,"
+
+Ismat baked $95$ cookies and distributed them equally into $5$ packs. How many cookies did Ismat put in each packet?Let Ismat put $k$ cookies in each packet.Select the correct statements from below.<br>",$(5\times k)\div 5 = 95\div5 $,,,,$k+5 = 95+5 $,$5 \times k = 95 \times 5 $,$k-5 = 95-5 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Ismat put $k$ cookies in each packet.<br>
+            
+Now, total 95 cookies had been distributed into 5 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 95$<br>
+            
+$5k\div5 = 95\div5$ 	   (Dividing both sides by 5)",
+text,1,30202,1,"
+
+Ismat baked $238$ cookies and distributed them equally into $14$ packs. How many cookies did Ismat put in each packet?Let Ismat put $k$ cookies in each packet.Select the correct statements from below.<br>",$(14\times k)\div 14 = 238\div14 $,,,,$k+14 = 238+14 $,$14 \times k = 238 \times 14 $,$k-14 = 238-14 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Ismat put $k$ cookies in each packet.<br>
+            
+Now, total 238 cookies had been distributed into 14 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $14k = 238$<br>
+            
+$14k\div14 = 238\div14$ 	   (Dividing both sides by 14)",
+text,1,30202,1,"
+
+Abdul had $74$ chocolates. He distributes all chocolates evenly among $2$ friends.How many chocolates did Abdul gave to each of his friends?Let each friend of Abdul gets $k$ chocolates.Select the correct statements from below.<br>",$(2\times k)\div 2 = 74\div2 $,,,,$k+2 = 74+2 $,$2 \times k = 74 \times 2 $,$k-2 = 74-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Abdul gets $k$ chocolates.<br>
+            
+Now, total 74 chocolates had been distributed among 2 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 74$<br>
+            
+$2k\div2 = 74\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Suresh baked $214$ cookies and distributed them equally into $2$ packs. How many cookies did Suresh put in each packet?Let Suresh put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 214\div2 $,,,,$k+2 = 214+2 $,$2 \times k = 214 \times 2 $,$k-2 = 214-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Suresh put $k$ cookies in each packet.<br>
+            
+Now, total 214 cookies had been distributed into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 214$<br>
+            
+$2k\div2 = 214\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Lalit had $185$ chocolates. He distributes all chocolates evenly among $5$ friends.How many chocolates did Lalit gave to each of his friends?Let each friend of Lalit gets $k$ chocolates.Select the correct statements from below.<br>",$(5\times k)\div 5 = 185\div5 $,,,,$k+5 = 185+5 $,$5 \times k = 185 \times 5 $,$k-5 = 185-5 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Lalit gets $k$ chocolates.<br>
+            
+Now, total 185 chocolates had been distributed among 5 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 185$<br>
+            
+$5k\div5 = 185\div5$ 	   (Dividing both sides by 5)",
+text,1,30202,1,"
+
+Diya had $184$ mangoes. She distributes all mangoes evenly among $46$ friends.How many mangoes did Diya gave to each of her friends?Let each friend of Diya gets $k$ mangoes.Select the correct statements from below.<br>",$(46\times k)\div 46 = 184\div46 $,,,,$k+46 = 184+46 $,$46 \times k = 184 \times 46 $,$k-46 = 184-46 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Diya gets $k$ mangoes.<br>
+            
+Now, total 184 mangoes had been distributed among 46 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $46k = 184$<br>
+            
+$46k\div46 = 184\div46$ 	   (Dividing both sides by 46)",
+text,1,30202,1,"
+
+Ramesh had $66$ bananas. He distributes all bananas evenly among $6$ friends.How many bananas did Ramesh gave to each of his friends?Let each friend of Ramesh gets $k$ bananas.Select the correct statements from below.<br>",$(6\times k)\div 6 = 66\div6 $,,,,$k+6 = 66+6 $,$6 \times k = 66 \times 6 $,$k-6 = 66-6 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ramesh gets $k$ bananas.<br>
+            
+Now, total 66 bananas had been distributed among 6 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $6k = 66$<br>
+            
+$6k\div6 = 66\div6$ 	   (Dividing both sides by 6)",
+text,1,30202,1,"
+
+Geeta baked $175$ cookies and splitted them equally into $25$ packs. How many cookies did Geeta put in each packet?Let Geeta put $k$ cookies in each packet.Select the correct statements from below.<br>",$(25\times k)\div 25 = 175\div25 $,,,,$k+25 = 175+25 $,$25 \times k = 175 \times 25 $,$k-25 = 175-25 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Geeta put $k$ cookies in each packet.<br>
+            
+Now, total 175 cookies had been splitted into 25 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $25k = 175$<br>
+            
+$25k\div25 = 175\div25$ 	   (Dividing both sides by 25)",
+text,1,30202,1,"
+
+Tina baked $232$ cookies and distributed them equally into $29$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(29\times k)\div 29 = 232\div29 $,,,,$k+29 = 232+29 $,$29 \times k = 232 \times 29 $,$k-29 = 232-29 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 232 cookies had been distributed into 29 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $29k = 232$<br>
+            
+$29k\div29 = 232\div29$ 	   (Dividing both sides by 29)",
+text,1,30202,1,"
+
+Dinesh baked $188$ cookies and splitted them equally into $4$ packs. How many cookies did Dinesh put in each packet?Let Dinesh put $k$ cookies in each packet.Select the correct statements from below.<br>",$(4\times k)\div 4 = 188\div4 $,,,,$k+4 = 188+4 $,$4 \times k = 188 \times 4 $,$k-4 = 188-4 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Dinesh put $k$ cookies in each packet.<br>
+            
+Now, total 188 cookies had been splitted into 4 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $4k = 188$<br>
+            
+$4k\div4 = 188\div4$ 	   (Dividing both sides by 4)",
+text,1,30202,1,"
+
+Suresh had $80$ bananas. He distributes all bananas evenly among $40$ friends.How many bananas did Suresh gave to each of his friends?Let each friend of Suresh gets $k$ bananas.Select the correct statements from below.<br>",$(40\times k)\div 40 = 80\div40 $,,,,$k+40 = 80+40 $,$40 \times k = 80 \times 40 $,$k-40 = 80-40 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Suresh gets $k$ bananas.<br>
+            
+Now, total 80 bananas had been distributed among 40 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $40k = 80$<br>
+            
+$40k\div40 = 80\div40$ 	   (Dividing both sides by 40)",
+text,1,30202,1,"
+
+Abdul baked $142$ cookies and distributed them equally into $71$ packs. How many cookies did Abdul put in each packet?Let Abdul put $k$ cookies in each packet.Select the correct statements from below.<br>",$(71\times k)\div 71 = 142\div71 $,,,,$k+71 = 142+71 $,$71 \times k = 142 \times 71 $,$k-71 = 142-71 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Abdul put $k$ cookies in each packet.<br>
+            
+Now, total 142 cookies had been distributed into 71 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $71k = 142$<br>
+            
+$71k\div71 = 142\div71$ 	   (Dividing both sides by 71)",
+text,1,30202,1,"
+
+Rekha had $126$ chocolates. She distributes all chocolates evenly among $18$ friends.How many chocolates did Rekha gave to each of her friends?Let each friend of Rekha gets $k$ chocolates.Select the correct statements from below.<br>",$(18\times k)\div 18 = 126\div18 $,,,,$k+18 = 126+18 $,$18 \times k = 126 \times 18 $,$k-18 = 126-18 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Rekha gets $k$ chocolates.<br>
+            
+Now, total 126 chocolates had been distributed among 18 friends and each one got $k$ number of chocolates .<br>
+            
+Then according to given conditions we get this equation :-<br> $18k = 126$<br>
+            
+$18k\div18 = 126\div18$ 	   (Dividing both sides by 18)",
+text,1,30202,1,"
+
+Diya baked $65$ cookies and distributed them equally into $13$ packs. How many cookies did Diya put in each packet?Let Diya put $k$ cookies in each packet.Select the correct statements from below.<br>",$(13\times k)\div 13 = 65\div13 $,,,,$k+13 = 65+13 $,$13 \times k = 65 \times 13 $,$k-13 = 65-13 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Diya put $k$ cookies in each packet.<br>
+            
+Now, total 65 cookies had been distributed into 13 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $13k = 65$<br>
+            
+$13k\div13 = 65\div13$ 	   (Dividing both sides by 13)",
+text,1,30202,1,"
+
+Atharva had $76$ apples. He distributes all apples evenly among $38$ friends.How many apples did Atharva gave to each of his friends?Let each friend of Atharva gets $k$ apples.Select the correct statements from below.<br>",$(38\times k)\div 38 = 76\div38 $,,,,$k+38 = 76+38 $,$38 \times k = 76 \times 38 $,$k-38 = 76-38 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Atharva gets $k$ apples.<br>
+            
+Now, total 76 apples had been distributed among 38 friends and each one got $k$ number of apples .<br>
+            
+Then according to given conditions we get this equation :-<br> $38k = 76$<br>
+            
+$38k\div38 = 76\div38$ 	   (Dividing both sides by 38)",
+text,1,30202,1,"
+
+Disha had $154$ pedhas. She distributes all pedhas evenly among $11$ friends.How many pedhas did Disha gave to each of her friends?Let each friend of Disha gets $k$ pedhas.Select the correct statements from below.<br>",$(11\times k)\div 11 = 154\div11 $,,,,$k+11 = 154+11 $,$11 \times k = 154 \times 11 $,$k-11 = 154-11 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Disha gets $k$ pedhas.<br>
+            
+Now, total 154 pedhas had been distributed among 11 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $11k = 154$<br>
+            
+$11k\div11 = 154\div11$ 	   (Dividing both sides by 11)",
+text,1,30202,1,"
+
+Lalit had $85$ bananas. He distributes all bananas evenly among $5$ friends.How many bananas did Lalit gave to each of his friends?Let each friend of Lalit gets $k$ bananas.Select the correct statements from below.<br>",$(5\times k)\div 5 = 85\div5 $,,,,$k+5 = 85+5 $,$5 \times k = 85 \times 5 $,$k-5 = 85-5 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Lalit gets $k$ bananas.<br>
+            
+Now, total 85 bananas had been distributed among 5 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 85$<br>
+            
+$5k\div5 = 85\div5$ 	   (Dividing both sides by 5)",
+text,1,30202,1,"
+
+Dinesh had $74$ mangoes. He distributes all mangoes evenly among $37$ friends.How many mangoes did Dinesh gave to each of his friends?Let each friend of Dinesh gets $k$ mangoes.Select the correct statements from below.<br>",$(37\times k)\div 37 = 74\div37 $,,,,$k+37 = 74+37 $,$37 \times k = 74 \times 37 $,$k-37 = 74-37 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Dinesh gets $k$ mangoes.<br>
+            
+Now, total 74 mangoes had been distributed among 37 friends and each one got $k$ number of mangoes .<br>
+            
+Then according to given conditions we get this equation :-<br> $37k = 74$<br>
+            
+$37k\div37 = 74\div37$ 	   (Dividing both sides by 37)",
+text,1,30202,1,"
+
+Ismat had $231$ pedhas. She distributes all pedhas evenly among $21$ friends.How many pedhas did Ismat gave to each of her friends?Let each friend of Ismat gets $k$ pedhas.Select the correct statements from below.<br>",$(21\times k)\div 21 = 231\div21 $,,,,$k+21 = 231+21 $,$21 \times k = 231 \times 21 $,$k-21 = 231-21 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Ismat gets $k$ pedhas.<br>
+            
+Now, total 231 pedhas had been distributed among 21 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $21k = 231$<br>
+            
+$21k\div21 = 231\div21$ 	   (Dividing both sides by 21)",
+text,1,30202,1,"
+
+Rekha baked $124$ cookies and distributed them equally into $31$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(31\times k)\div 31 = 124\div31 $,,,,$k+31 = 124+31 $,$31 \times k = 124 \times 31 $,$k-31 = 124-31 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 124 cookies had been distributed into 31 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $31k = 124$<br>
+            
+$31k\div31 = 124\div31$ 	   (Dividing both sides by 31)",
+text,1,30202,1,"
+
+Rekha baked $134$ cookies and distributed them equally into $2$ packs. How many cookies did Rekha put in each packet?Let Rekha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(2\times k)\div 2 = 134\div2 $,,,,$k+2 = 134+2 $,$2 \times k = 134 \times 2 $,$k-2 = 134-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Rekha put $k$ cookies in each packet.<br>
+            
+Now, total 134 cookies had been distributed into 2 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 134$<br>
+            
+$2k\div2 = 134\div2$ 	   (Dividing both sides by 2)",
+text,1,30202,1,"
+
+Rekha had $54$ pedhas. She distributes all pedhas evenly among $9$ friends.How many pedhas did Rekha gave to each of her friends?Let each friend of Rekha gets $k$ pedhas.Select the correct statements from below.<br>",$(9\times k)\div 9 = 54\div9 $,,,,$k+9 = 54+9 $,$9 \times k = 54 \times 9 $,$k-9 = 54-9 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Rekha gets $k$ pedhas.<br>
+            
+Now, total 54 pedhas had been distributed among 9 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $9k = 54$<br>
+            
+$9k\div9 = 54\div9$ 	   (Dividing both sides by 9)",
+text,1,30202,1,"
+
+Suresh had $44$ rasgullas. He distributes all rasgullas evenly among $2$ friends.How many rasgullas did Suresh gave to each of his friends?Let each friend of Suresh gets $k$ rasgullas.Select the correct statements from below.<br>",$(2\times k)\div 2 = 44\div2 $,,,,$k+2 = 44+2 $,$2 \times k = 44 \times 2 $,$k-2 = 44-2 $,60,3,,,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Suresh gets $k$ rasgullas.<br>
+            
+Now, total 44 rasgullas had been distributed among 2 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 44$<br>
+            
+$2k\div2 = 44\div2$ 	   (Dividing both sides by 2)",

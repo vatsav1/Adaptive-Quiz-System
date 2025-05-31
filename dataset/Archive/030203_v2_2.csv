@@ -1,0 +1,501 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,2,"For the equation $x - 6 = 29$, is the value of $x=37? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 6 = 29
+$$x - 6 + 6 = 29 + 6             (Adding 6 on both sides)
+$$x = 35
+$",
+text,1,30203,2,"For the equation $x - 15 = 21$, is the value of $x=38? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 15 = 21
+$$x - 15 + 15 = 21 + 15             (Adding 15 on both sides)
+$$x = 36
+$",
+text,1,30203,2,"For the equation $b - 6 = 23$, is the value of $b=31? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 6 = 23
+$$b - 6 + 6 = 23 + 6             (Adding 6 on both sides)
+$$b = 29
+$",
+text,1,30203,2,"For the equation $x - 16 = 14$, is the value of $x=29? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 16 = 14
+$$x - 16 + 16 = 14 + 16             (Adding 16 on both sides)
+$$x = 30
+$",
+text,1,30203,2,"For the equation $a - 13 = 5$, is the value of $a=19? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 13 = 5
+$$a - 13 + 13 = 5 + 13             (Adding 13 on both sides)
+$$a = 18
+$",
+text,1,30203,2,"For the equation $x - 17 = 11$, is the value of $x=27? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 17 = 11
+$$x - 17 + 17 = 11 + 17             (Adding 17 on both sides)
+$$x = 28
+$",
+text,1,30203,2,"For the equation $b - 13 = 19$, is the value of $b=33? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 13 = 19
+$$b - 13 + 13 = 19 + 13             (Adding 13 on both sides)
+$$b = 32
+$",
+text,1,30203,2,"For the equation $x - 8 = 30$, is the value of $x=38? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 8 = 30
+$$x - 8 + 8 = 30 + 8             (Adding 8 on both sides)
+$$x = 38
+$",
+text,1,30203,2,"For the equation $x - 18 = 11$, is the value of $x=31? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 18 = 11
+$$x - 18 + 18 = 11 + 18             (Adding 18 on both sides)
+$$x = 29
+$",
+text,1,30203,2,"For the equation $b - 18 = 4$, is the value of $b=24? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 18 = 4
+$$b - 18 + 18 = 4 + 18             (Adding 18 on both sides)
+$$b = 22
+$",
+text,1,30203,2,"For the equation $x - 13 = 20$, is the value of $x=34? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 13 = 20
+$$x - 13 + 13 = 20 + 13             (Adding 13 on both sides)
+$$x = 33
+$",
+text,1,30203,2,"For the equation $y - 9 = 17$, is the value of $y=26? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$y - 9 = 17
+$$y - 9 + 9 = 17 + 9             (Adding 9 on both sides)
+$$y = 26
+$",
+text,1,30203,2,"For the equation $y - 7 = 23$, is the value of $y=29? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 7 = 23
+$$y - 7 + 7 = 23 + 7             (Adding 7 on both sides)
+$$y = 30
+$",
+text,1,30203,2,"For the equation $x - 9 = 11$, is the value of $x=21? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 9 = 11
+$$x - 9 + 9 = 11 + 9             (Adding 9 on both sides)
+$$x = 20
+$",
+text,1,30203,2,"For the equation $y - 2 = 3$, is the value of $y=5? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$y - 2 = 3
+$$y - 2 + 2 = 3 + 2             (Adding 2 on both sides)
+$$y = 5
+$",
+text,1,30203,2,"For the equation $b - 15 = 12$, is the value of $b=27? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$b - 15 = 12
+$$b - 15 + 15 = 12 + 15             (Adding 15 on both sides)
+$$b = 27
+$",
+text,1,30203,2,"For the equation $a - 7 = 16$, is the value of $a=23? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$a - 7 = 16
+$$a - 7 + 7 = 16 + 7             (Adding 7 on both sides)
+$$a = 23
+$",
+text,1,30203,2,"For the equation $x - 6 = 7$, is the value of $x=15? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 6 = 7
+$$x - 6 + 6 = 7 + 6             (Adding 6 on both sides)
+$$x = 13
+$",
+text,1,30203,2,"For the equation $x - 7 = 28$, is the value of $x=37? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 7 = 28
+$$x - 7 + 7 = 28 + 7             (Adding 7 on both sides)
+$$x = 35
+$",
+text,1,30203,2,"For the equation $x - 5 = 28$, is the value of $x=33? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 5 = 28
+$$x - 5 + 5 = 28 + 5             (Adding 5 on both sides)
+$$x = 33
+$",
+text,1,30203,2,"For the equation $x - 5 = 26$, is the value of $x=33? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 5 = 26
+$$x - 5 + 5 = 26 + 5             (Adding 5 on both sides)
+$$x = 31
+$",
+text,1,30203,2,"For the equation $a - 12 = 25$, is the value of $a=36? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 12 = 25
+$$a - 12 + 12 = 25 + 12             (Adding 12 on both sides)
+$$a = 37
+$",
+text,1,30203,2,"For the equation $a - 15 = 2$, is the value of $a=18? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 15 = 2
+$$a - 15 + 15 = 2 + 15             (Adding 15 on both sides)
+$$a = 17
+$",
+text,1,30203,2,"For the equation $y - 4 = 8$, is the value of $y=12? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$y - 4 = 8
+$$y - 4 + 4 = 8 + 4             (Adding 4 on both sides)
+$$y = 12
+$",
+text,1,30203,2,"For the equation $a - 11 = 28$, is the value of $a=40? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 11 = 28
+$$a - 11 + 11 = 28 + 11             (Adding 11 on both sides)
+$$a = 39
+$",
+text,1,30203,2,"For the equation $a - 5 = 24$, is the value of $a=30? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 5 = 24
+$$a - 5 + 5 = 24 + 5             (Adding 5 on both sides)
+$$a = 29
+$",
+text,1,30203,2,"For the equation $y - 8 = 21$, is the value of $y=31? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 8 = 21
+$$y - 8 + 8 = 21 + 8             (Adding 8 on both sides)
+$$y = 29
+$",
+text,1,30203,2,"For the equation $b - 3 = 26$, is the value of $b=30? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 3 = 26
+$$b - 3 + 3 = 26 + 3             (Adding 3 on both sides)
+$$b = 29
+$",
+text,1,30203,2,"For the equation $c - 13 = 8$, is the value of $c=22? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 13 = 8
+$$c - 13 + 13 = 8 + 13             (Adding 13 on both sides)
+$$c = 21
+$",
+text,1,30203,2,"For the equation $c - 6 = 11$, is the value of $c=18? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 6 = 11
+$$c - 6 + 6 = 11 + 6             (Adding 6 on both sides)
+$$c = 17
+$",
+text,1,30203,2,"For the equation $b - 4 = 16$, is the value of $b=22? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 4 = 16
+$$b - 4 + 4 = 16 + 4             (Adding 4 on both sides)
+$$b = 20
+$",
+text,1,30203,2,"For the equation $a - 16 = 23$, is the value of $a=38? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 16 = 23
+$$a - 16 + 16 = 23 + 16             (Adding 16 on both sides)
+$$a = 39
+$",
+text,1,30203,2,"For the equation $y - 2 = 17$, is the value of $y=20? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 2 = 17
+$$y - 2 + 2 = 17 + 2             (Adding 2 on both sides)
+$$y = 19
+$",
+text,1,30203,2,"For the equation $x - 10 = 15$, is the value of $x=26? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 10 = 15
+$$x - 10 + 10 = 15 + 10             (Adding 10 on both sides)
+$$x = 25
+$",
+text,1,30203,2,"For the equation $x - 9 = 25$, is the value of $x=33? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 9 = 25
+$$x - 9 + 9 = 25 + 9             (Adding 9 on both sides)
+$$x = 34
+$",
+text,1,30203,2,"For the equation $c - 10 = 16$, is the value of $c=25? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 10 = 16
+$$c - 10 + 10 = 16 + 10             (Adding 10 on both sides)
+$$c = 26
+$",
+text,1,30203,2,"For the equation $b - 7 = 2$, is the value of $b=8? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 7 = 2
+$$b - 7 + 7 = 2 + 7             (Adding 7 on both sides)
+$$b = 9
+$",
+text,1,30203,2,"For the equation $a - 8 = 4$, is the value of $a=13? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 8 = 4
+$$a - 8 + 8 = 4 + 8             (Adding 8 on both sides)
+$$a = 12
+$",
+text,1,30203,2,"For the equation $x - 8 = 8$, is the value of $x=18? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 8 = 8
+$$x - 8 + 8 = 8 + 8             (Adding 8 on both sides)
+$$x = 16
+$",
+text,1,30203,2,"For the equation $x - 19 = 4$, is the value of $x=23? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 19 = 4
+$$x - 19 + 19 = 4 + 19             (Adding 19 on both sides)
+$$x = 23
+$",
+text,1,30203,2,"For the equation $x - 10 = 24$, is the value of $x=33? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 10 = 24
+$$x - 10 + 10 = 24 + 10             (Adding 10 on both sides)
+$$x = 34
+$",
+text,1,30203,2,"For the equation $b - 18 = 3$, is the value of $b=20? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 18 = 3
+$$b - 18 + 18 = 3 + 18             (Adding 18 on both sides)
+$$b = 21
+$",
+text,1,30203,2,"For the equation $b - 16 = 9$, is the value of $b=24? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 16 = 9
+$$b - 16 + 16 = 9 + 16             (Adding 16 on both sides)
+$$b = 25
+$",
+text,1,30203,2,"For the equation $y - 14 = 19$, is the value of $y=34? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 14 = 19
+$$y - 14 + 14 = 19 + 14             (Adding 14 on both sides)
+$$y = 33
+$",
+text,1,30203,2,"For the equation $b - 4 = 9$, is the value of $b=14? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 4 = 9
+$$b - 4 + 4 = 9 + 4             (Adding 4 on both sides)
+$$b = 13
+$",
+text,1,30203,2,"For the equation $x - 17 = 19$, is the value of $x=35? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 17 = 19
+$$x - 17 + 17 = 19 + 17             (Adding 17 on both sides)
+$$x = 36
+$",
+text,1,30203,2,"For the equation $b - 8 = 23$, is the value of $b=31? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$b - 8 = 23
+$$b - 8 + 8 = 23 + 8             (Adding 8 on both sides)
+$$b = 31
+$",
+text,1,30203,2,"For the equation $c - 16 = 15$, is the value of $c=31? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$c - 16 = 15
+$$c - 16 + 16 = 15 + 16             (Adding 16 on both sides)
+$$c = 31
+$",
+text,1,30203,2,"For the equation $c - 6 = 6$, is the value of $c=13? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 6 = 6
+$$c - 6 + 6 = 6 + 6             (Adding 6 on both sides)
+$$c = 12
+$",
+text,1,30203,2,"For the equation $a - 9 = 16$, is the value of $a=25? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$a - 9 = 16
+$$a - 9 + 9 = 16 + 9             (Adding 9 on both sides)
+$$a = 25
+$",
+text,1,30203,2,"For the equation $c - 5 = 20$, is the value of $c=27? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 5 = 20
+$$c - 5 + 5 = 20 + 5             (Adding 5 on both sides)
+$$c = 25
+$",
+text,1,30203,2,"For the equation $a - 8 = 27$, is the value of $a=35? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$a - 8 = 27
+$$a - 8 + 8 = 27 + 8             (Adding 8 on both sides)
+$$a = 35
+$",
+text,1,30203,2,"For the equation $y - 4 = 28$, is the value of $y=31? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 4 = 28
+$$y - 4 + 4 = 28 + 4             (Adding 4 on both sides)
+$$y = 32
+$",
+text,1,30203,2,"For the equation $c - 5 = 14$, is the value of $c=21? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 5 = 14
+$$c - 5 + 5 = 14 + 5             (Adding 5 on both sides)
+$$c = 19
+$",
+text,1,30203,2,"For the equation $y - 16 = 5$, is the value of $y=21? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$y - 16 = 5
+$$y - 16 + 16 = 5 + 16             (Adding 16 on both sides)
+$$y = 21
+$",
+text,1,30203,2,"For the equation $a - 12 = 13$, is the value of $a=26? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 12 = 13
+$$a - 12 + 12 = 13 + 12             (Adding 12 on both sides)
+$$a = 25
+$",
+text,1,30203,2,"For the equation $x - 5 = 29$, is the value of $x=34? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 5 = 29
+$$x - 5 + 5 = 29 + 5             (Adding 5 on both sides)
+$$x = 34
+$",
+text,1,30203,2,"For the equation $c - 11 = 18$, is the value of $c=29? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$c - 11 = 18
+$$c - 11 + 11 = 18 + 11             (Adding 11 on both sides)
+$$c = 29
+$",
+text,1,30203,2,"For the equation $b - 4 = 8$, is the value of $b=12? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$b - 4 = 8
+$$b - 4 + 4 = 8 + 4             (Adding 4 on both sides)
+$$b = 12
+$",
+text,1,30203,2,"For the equation $a - 19 = 20$, is the value of $a=41? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 19 = 20
+$$a - 19 + 19 = 20 + 19             (Adding 19 on both sides)
+$$a = 39
+$",
+text,1,30203,2,"For the equation $b - 13 = 6$, is the value of $b=19? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$b - 13 = 6
+$$b - 13 + 13 = 6 + 13             (Adding 13 on both sides)
+$$b = 19
+$",
+text,1,30203,2,"For the equation $x - 10 = 3$, is the value of $x=15? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 10 = 3
+$$x - 10 + 10 = 3 + 10             (Adding 10 on both sides)
+$$x = 13
+$",
+text,1,30203,2,"For the equation $b - 9 = 6$, is the value of $b=14? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 9 = 6
+$$b - 9 + 9 = 6 + 9             (Adding 9 on both sides)
+$$b = 15
+$",
+text,1,30203,2,"For the equation $x - 3 = 22$, is the value of $x=27? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 3 = 22
+$$x - 3 + 3 = 22 + 3             (Adding 3 on both sides)
+$$x = 25
+$",
+text,1,30203,2,"For the equation $c - 18 = 7$, is the value of $c=25? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$c - 18 = 7
+$$c - 18 + 18 = 7 + 18             (Adding 18 on both sides)
+$$c = 25
+$",
+text,1,30203,2,"For the equation $x - 18 = 13$, is the value of $x=32? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 18 = 13
+$$x - 18 + 18 = 13 + 18             (Adding 18 on both sides)
+$$x = 31
+$",
+text,1,30203,2,"For the equation $y - 4 = 29$, is the value of $y=35? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 4 = 29
+$$y - 4 + 4 = 29 + 4             (Adding 4 on both sides)
+$$y = 33
+$",
+text,1,30203,2,"For the equation $c - 8 = 18$, is the value of $c=25? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 8 = 18
+$$c - 8 + 8 = 18 + 8             (Adding 8 on both sides)
+$$c = 26
+$",
+text,1,30203,2,"For the equation $a - 5 = 13$, is the value of $a=18? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$a - 5 = 13
+$$a - 5 + 5 = 13 + 5             (Adding 5 on both sides)
+$$a = 18
+$",
+text,1,30203,2,"For the equation $y - 10 = 29$, is the value of $y=39? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$y - 10 = 29
+$$y - 10 + 10 = 29 + 10             (Adding 10 on both sides)
+$$y = 39
+$",
+text,1,30203,2,"For the equation $c - 16 = 9$, is the value of $c=24? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 16 = 9
+$$c - 16 + 16 = 9 + 16             (Adding 16 on both sides)
+$$c = 25
+$",
+text,1,30203,2,"For the equation $a - 20 = 7$, is the value of $a=27? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$a - 20 = 7
+$$a - 20 + 20 = 7 + 20             (Adding 20 on both sides)
+$$a = 27
+$",
+text,1,30203,2,"For the equation $y - 14 = 16$, is the value of $y=31? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 14 = 16
+$$y - 14 + 14 = 16 + 14             (Adding 14 on both sides)
+$$y = 30
+$",
+text,1,30203,2,"For the equation $x - 6 = 26$, is the value of $x=32? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 6 = 26
+$$x - 6 + 6 = 26 + 6             (Adding 6 on both sides)
+$$x = 32
+$",
+text,1,30203,2,"For the equation $c - 13 = 18$, is the value of $c=31? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$c - 13 = 18
+$$c - 13 + 13 = 18 + 13             (Adding 13 on both sides)
+$$c = 31
+$",
+text,1,30203,2,"For the equation $a - 11 = 29$, is the value of $a=41? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 11 = 29
+$$a - 11 + 11 = 29 + 11             (Adding 11 on both sides)
+$$a = 40
+$",
+text,1,30203,2,"For the equation $y - 15 = 17$, is the value of $y=33? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 15 = 17
+$$y - 15 + 15 = 17 + 15             (Adding 15 on both sides)
+$$y = 32
+$",
+text,1,30203,2,"For the equation $y - 17 = 28$, is the value of $y=46? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 17 = 28
+$$y - 17 + 17 = 28 + 17             (Adding 17 on both sides)
+$$y = 45
+$",
+text,1,30203,2,"For the equation $x - 11 = 30$, is the value of $x=41? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 11 = 30
+$$x - 11 + 11 = 30 + 11             (Adding 11 on both sides)
+$$x = 41
+$",
+text,1,30203,2,"For the equation $x - 8 = 12$, is the value of $x=20? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 8 = 12
+$$x - 8 + 8 = 12 + 8             (Adding 8 on both sides)
+$$x = 20
+$",
+text,1,30203,2,"For the equation $y - 20 = 28$, is the value of $y=50? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$y - 20 = 28
+$$y - 20 + 20 = 28 + 20             (Adding 20 on both sides)
+$$y = 48
+$",
+text,1,30203,2,"For the equation $a - 13 = 7$, is the value of $a=21? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 13 = 7
+$$a - 13 + 13 = 7 + 13             (Adding 13 on both sides)
+$$a = 20
+$",
+text,1,30203,2,"For the equation $c - 16 = 10$, is the value of $c=28? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 16 = 10
+$$c - 16 + 16 = 10 + 16             (Adding 16 on both sides)
+$$c = 26
+$",
+text,1,30203,2,"For the equation $c - 15 = 18$, is the value of $c=35? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 15 = 18
+$$c - 15 + 15 = 18 + 15             (Adding 15 on both sides)
+$$c = 33
+$",
+text,1,30203,2,"For the equation $a - 15 = 28$, is the value of $a=44? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 15 = 28
+$$a - 15 + 15 = 28 + 15             (Adding 15 on both sides)
+$$a = 43
+$",
+text,1,30203,2,"For the equation $a - 7 = 18$, is the value of $a=27? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 7 = 18
+$$a - 7 + 7 = 18 + 7             (Adding 7 on both sides)
+$$a = 25
+$",
+text,1,30203,2,"For the equation $x - 19 = 6$, is the value of $x=24? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 19 = 6
+$$x - 19 + 19 = 6 + 19             (Adding 19 on both sides)
+$$x = 25
+$",
+text,1,30203,2,"For the equation $x - 2 = 8$, is the value of $x=9? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 2 = 8
+$$x - 2 + 2 = 8 + 2             (Adding 2 on both sides)
+$$x = 10
+$",
+text,1,30203,2,"For the equation $a - 19 = 19$, is the value of $a=39? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 19 = 19
+$$a - 19 + 19 = 19 + 19             (Adding 19 on both sides)
+$$a = 38
+$",
+text,1,30203,2,"For the equation $c - 13 = 11$, is the value of $c=25? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 13 = 11
+$$c - 13 + 13 = 11 + 13             (Adding 13 on both sides)
+$$c = 24
+$",
+text,1,30203,2,"For the equation $x - 9 = 20$, is the value of $x=29? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 9 = 20
+$$x - 9 + 9 = 20 + 9             (Adding 9 on both sides)
+$$x = 29
+$",
+text,1,30203,2,"For the equation $a - 14 = 18$, is the value of $a=32? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$a - 14 = 18
+$$a - 14 + 14 = 18 + 14             (Adding 14 on both sides)
+$$a = 32
+$",
+text,1,30203,2,"For the equation $x - 11 = 23$, is the value of $x=34? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$x - 11 = 23
+$$x - 11 + 11 = 23 + 11             (Adding 11 on both sides)
+$$x = 34
+$",
+text,1,30203,2,"For the equation $a - 11 = 9$, is the value of $a=19? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 11 = 9
+$$a - 11 + 11 = 9 + 11             (Adding 11 on both sides)
+$$a = 20
+$",
+text,1,30203,2,"For the equation $x - 17 = 12$, is the value of $x=30? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 17 = 12
+$$x - 17 + 17 = 12 + 17             (Adding 17 on both sides)
+$$x = 29
+$",
+text,1,30203,2,"For the equation $c - 19 = 22$, is the value of $c=43? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$c - 19 = 22
+$$c - 19 + 19 = 22 + 19             (Adding 19 on both sides)
+$$c = 41
+$",
+text,1,30203,2,"For the equation $a - 5 = 8$, is the value of $a=15? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$a - 5 = 8
+$$a - 5 + 5 = 8 + 5             (Adding 5 on both sides)
+$$a = 13
+$",
+text,1,30203,2,"For the equation $b - 3 = 7$, is the value of $b=9? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$b - 3 = 7
+$$b - 3 + 3 = 7 + 3             (Adding 3 on both sides)
+$$b = 10
+$",
+text,1,30203,2,"For the equation $x - 6 = 8$, is the value of $x=16? (Yes/No)$
+",No,,,,Yes,,,60,3,,,"$x - 6 = 8
+$$x - 6 + 6 = 8 + 6             (Adding 6 on both sides)
+$$x = 14
+$",
+text,1,30203,2,"For the equation $c - 4 = 29$, is the value of $c=33? (Yes/No)$
+",Yes,,,,No,,,60,3,,,"$c - 4 = 29
+$$c - 4 + 4 = 29 + 4             (Adding 4 on both sides)
+$$c = 33
+$",

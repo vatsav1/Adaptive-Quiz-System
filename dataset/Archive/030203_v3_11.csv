@@ -1,0 +1,1201 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,3,"Tanvi and Pranali have a total of 30 lollipops.If Tanvi has 2 times the lollipops that Pranali has, how many lollipops does each one have?
+",Pranali has 10 lollipops and Tanvi has 20 lollipops,,,,Pranali has 12 lollipops and Tanvi has 18 lollipops,Pranali has 19 lollipops and Tanvi has 38 lollipops,Pranali has 20 lollipops and Tanvi has 10 lollipops,60,3,,,"let us assume Pranali has $x$ lollipops.
+    <br/>Since, Tanvi has $2$ times the lollipops that Pranali has
+    <br/>Therefore, Tanvi will have $2*x $ lollipops.
+    <br/>Since, Pranali and Tanvi have a total of $30$ lollipops
+    <br/>    => $ x+(2*x)=30$ 
+    <br/>    => $ x + 2x =30$<br/>=> $ (3)* x=30$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{30}{3}$
+<br/>=> $x=10$
+<br/>=> $(2)*x=(2)*10=20$
+<br/>Hence, Pranali has $10$ lollipops and Tanvi has $20$ lollipops ",
+text,1,30203,3,"Aadesh and Pranali have a total of 140 shirts.If Pranali has 4 times the shirts that Aadesh has, how many shirts does each one have?
+",Aadesh has 28 shirts and Pranali has 112 shirts,,,,Aadesh has 10 shirts and Pranali has 130 shirts,Aadesh has 23 shirts and Pranali has 92 shirts,Aadesh has 112 shirts and Pranali has 28 shirts,60,3,,,"let us assume Aadesh has $x$ shirts.
+    <br/>Since, Pranali has $4$ times the shirts that Aadesh has
+    <br/>Therefore, Pranali will have $4*x $ shirts.
+    <br/>Since, Aadesh and Pranali have a total of $140$ shirts
+    <br/>    => $ x+(4*x)=140$ 
+    <br/>    => $ x + 4x =140$<br/>=> $ (5)* x=140$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{140}{5}$
+<br/>=> $x=28$
+<br/>=> $(4)*x=(4)*28=112$
+<br/>Hence, Aadesh has $28$ shirts and Pranali has $112$ shirts ",
+text,1,30203,3,"Aboli and Dharmesh have a total of 140 Watermelons.If Dharmesh has 4 times the Watermelons that Aboli has, how many Watermelons does each one have?
+",Aboli has 28 Watermelons and Dharmesh has 112 Watermelons,,,,Aboli has 21 Watermelons and Dharmesh has 119 Watermelons,Aboli has 13 Watermelons and Dharmesh has 52 Watermelons,Aboli has 112 Watermelons and Dharmesh has 28 Watermelons,60,3,,,"let us assume Aboli has $x$ Watermelons.
+    <br/>Since, Dharmesh has $4$ times the Watermelons that Aboli has
+    <br/>Therefore, Dharmesh will have $4*x $ Watermelons.
+    <br/>Since, Aboli and Dharmesh have a total of $140$ Watermelons
+    <br/>    => $ x+(4*x)=140$ 
+    <br/>    => $ x + 4x =140$<br/>=> $ (5)* x=140$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{140}{5}$
+<br/>=> $x=28$
+<br/>=> $(4)*x=(4)*28=112$
+<br/>Hence, Aboli has $28$ Watermelons and Dharmesh has $112$ Watermelons ",
+text,1,30203,3,"Devang and Vaibhav have a total of 300 T-shirts.If Devang has 9 times the T-shirts that Vaibhav has, how many T-shirts does each one have?
+",Vaibhav has 30 T-shirts and Devang has 270 T-shirts,,,,Vaibhav has 15 T-shirts and Devang has 285 T-shirts,Vaibhav has 24 T-shirts and Devang has 216 T-shirts,Vaibhav has 270 T-shirts and Devang has 30 T-shirts,60,3,,,"let us assume Vaibhav has $x$ T-shirts.
+    <br/>Since, Devang has $9$ times the T-shirts that Vaibhav has
+    <br/>Therefore, Devang will have $9*x $ T-shirts.
+    <br/>Since, Vaibhav and Devang have a total of $300$ T-shirts
+    <br/>    => $ x+(9*x)=300$ 
+    <br/>    => $ x + 9x =300$<br/>=> $ (10)* x=300$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{300}{10}$
+<br/>=> $x=30$
+<br/>=> $(9)*x=(9)*30=270$
+<br/>Hence, Vaibhav has $30$ T-shirts and Devang has $270$ T-shirts ",
+text,1,30203,3,"Prathamesh and Manish have a total of 171 lollipops.If Prathamesh has 8 times the lollipops that Manish has, how many lollipops does each one have?
+",Manish has 19 lollipops and Prathamesh has 152 lollipops,,,,Manish has 14 lollipops and Prathamesh has 157 lollipops,Manish has 21 lollipops and Prathamesh has 168 lollipops,Manish has 152 lollipops and Prathamesh has 19 lollipops,60,3,,,"let us assume Manish has $x$ lollipops.
+    <br/>Since, Prathamesh has $8$ times the lollipops that Manish has
+    <br/>Therefore, Prathamesh will have $8*x $ lollipops.
+    <br/>Since, Manish and Prathamesh have a total of $171$ lollipops
+    <br/>    => $ x+(8*x)=171$ 
+    <br/>    => $ x + 8x =171$<br/>=> $ (9)* x=171$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{171}{9}$
+<br/>=> $x=19$
+<br/>=> $(8)*x=(8)*19=152$
+<br/>Hence, Manish has $19$ lollipops and Prathamesh has $152$ lollipops ",
+text,1,30203,3,"Akanksha and Rohit have a total of 108 Bananas.If Rohit has 3 times the Bananas that Akanksha has, how many Bananas does each one have?
+",Akanksha has 27 Bananas and Rohit has 81 Bananas,,,,Akanksha has 19 Bananas and Rohit has 89 Bananas,Akanksha has 12 Bananas and Rohit has 36 Bananas,Akanksha has 81 Bananas and Rohit has 27 Bananas,60,3,,,"let us assume Akanksha has $x$ Bananas.
+    <br/>Since, Rohit has $3$ times the Bananas that Akanksha has
+    <br/>Therefore, Rohit will have $3*x $ Bananas.
+    <br/>Since, Akanksha and Rohit have a total of $108$ Bananas
+    <br/>    => $ x+(3*x)=108$ 
+    <br/>    => $ x + 3x =108$<br/>=> $ (4)* x=108$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{108}{4}$
+<br/>=> $x=27$
+<br/>=> $(3)*x=(3)*27=81$
+<br/>Hence, Akanksha has $27$ Bananas and Rohit has $81$ Bananas ",
+text,1,30203,3,"Gayatri and Aabha have a total of 112 Cookies.If Gayatri has 3 times the Cookies that Aabha has, how many Cookies does each one have?
+",Aabha has 28 Cookies and Gayatri has 84 Cookies,,,,Aabha has 29 Cookies and Gayatri has 83 Cookies,Aabha has 19 Cookies and Gayatri has 57 Cookies,Aabha has 84 Cookies and Gayatri has 28 Cookies,60,3,,,"let us assume Aabha has $x$ Cookies.
+    <br/>Since, Gayatri has $3$ times the Cookies that Aabha has
+    <br/>Therefore, Gayatri will have $3*x $ Cookies.
+    <br/>Since, Aabha and Gayatri have a total of $112$ Cookies
+    <br/>    => $ x+(3*x)=112$ 
+    <br/>    => $ x + 3x =112$<br/>=> $ (4)* x=112$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{112}{4}$
+<br/>=> $x=28$
+<br/>=> $(3)*x=(3)*28=84$
+<br/>Hence, Aabha has $28$ Cookies and Gayatri has $84$ Cookies ",
+text,1,30203,3,"Onkar and Sachin have a total of 407 Watermelons.If Onkar has 10 times the Watermelons that Sachin has, how many Watermelons does each one have?
+",Sachin has 37 Watermelons and Onkar has 370 Watermelons,,,,Sachin has 17 Watermelons and Onkar has 390 Watermelons,Sachin has 17 Watermelons and Onkar has 170 Watermelons,Sachin has 370 Watermelons and Onkar has 37 Watermelons,60,3,,,"let us assume Sachin has $x$ Watermelons.
+    <br/>Since, Onkar has $10$ times the Watermelons that Sachin has
+    <br/>Therefore, Onkar will have $10*x $ Watermelons.
+    <br/>Since, Sachin and Onkar have a total of $407$ Watermelons
+    <br/>    => $ x+(10*x)=407$ 
+    <br/>    => $ x + 10x =407$<br/>=> $ (11)* x=407$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{407}{11}$
+<br/>=> $x=37$
+<br/>=> $(10)*x=(10)*37=370$
+<br/>Hence, Sachin has $37$ Watermelons and Onkar has $370$ Watermelons ",
+text,1,30203,3,"Pooja and Akanksha have a total of 252 sheets.If Akanksha has 8 times the sheets that Pooja has, how many sheets does each one have?
+",Pooja has 28 sheets and Akanksha has 224 sheets,,,,Pooja has 22 sheets and Akanksha has 230 sheets,Pooja has 25 sheets and Akanksha has 200 sheets,Pooja has 224 sheets and Akanksha has 28 sheets,60,3,,,"let us assume Pooja has $x$ sheets.
+    <br/>Since, Akanksha has $8$ times the sheets that Pooja has
+    <br/>Therefore, Akanksha will have $8*x $ sheets.
+    <br/>Since, Pooja and Akanksha have a total of $252$ sheets
+    <br/>    => $ x+(8*x)=252$ 
+    <br/>    => $ x + 8x =252$<br/>=> $ (9)* x=252$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{252}{9}$
+<br/>=> $x=28$
+<br/>=> $(8)*x=(8)*28=224$
+<br/>Hence, Pooja has $28$ sheets and Akanksha has $224$ sheets ",
+text,1,30203,3,"Suyash and Om have a total of 184 shirts.If Om has 7 times the shirts that Suyash has, how many shirts does each one have?
+",Suyash has 23 shirts and Om has 161 shirts,,,,Suyash has 11 shirts and Om has 173 shirts,Suyash has 28 shirts and Om has 196 shirts,Suyash has 161 shirts and Om has 23 shirts,60,3,,,"let us assume Suyash has $x$ shirts.
+    <br/>Since, Om has $7$ times the shirts that Suyash has
+    <br/>Therefore, Om will have $7*x $ shirts.
+    <br/>Since, Suyash and Om have a total of $184$ shirts
+    <br/>    => $ x+(7*x)=184$ 
+    <br/>    => $ x + 7x =184$<br/>=> $ (8)* x=184$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{184}{8}$
+<br/>=> $x=23$
+<br/>=> $(7)*x=(7)*23=161$
+<br/>Hence, Suyash has $23$ shirts and Om has $161$ shirts ",
+text,1,30203,3,"Tanmay and Vaibhav have a total of 245 chocolates.If Vaibhav has 6 times the chocolates that Tanmay has, how many chocolates does each one have?
+",Tanmay has 35 chocolates and Vaibhav has 210 chocolates,,,,Tanmay has 17 chocolates and Vaibhav has 228 chocolates,Tanmay has 20 chocolates and Vaibhav has 120 chocolates,Tanmay has 210 chocolates and Vaibhav has 35 chocolates,60,3,,,"let us assume Tanmay has $x$ chocolates.
+    <br/>Since, Vaibhav has $6$ times the chocolates that Tanmay has
+    <br/>Therefore, Vaibhav will have $6*x $ chocolates.
+    <br/>Since, Tanmay and Vaibhav have a total of $245$ chocolates
+    <br/>    => $ x+(6*x)=245$ 
+    <br/>    => $ x + 6x =245$<br/>=> $ (7)* x=245$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{245}{7}$
+<br/>=> $x=35$
+<br/>=> $(6)*x=(6)*35=210$
+<br/>Hence, Tanmay has $35$ chocolates and Vaibhav has $210$ chocolates ",
+text,1,30203,3,"Veerja and Isha have a total of 70 balls.If Isha has 6 times the balls that Veerja has, how many balls does each one have?
+",Veerja has 10 balls and Isha has 60 balls,,,,Veerja has 14 balls and Isha has 56 balls,Veerja has 27 balls and Isha has 162 balls,Veerja has 60 balls and Isha has 10 balls,60,3,,,"let us assume Veerja has $x$ balls.
+    <br/>Since, Isha has $6$ times the balls that Veerja has
+    <br/>Therefore, Isha will have $6*x $ balls.
+    <br/>Since, Veerja and Isha have a total of $70$ balls
+    <br/>    => $ x+(6*x)=70$ 
+    <br/>    => $ x + 6x =70$<br/>=> $ (7)* x=70$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{70}{7}$
+<br/>=> $x=10$
+<br/>=> $(6)*x=(6)*10=60$
+<br/>Hence, Veerja has $10$ balls and Isha has $60$ balls ",
+text,1,30203,3,"Neha and Sachin have a total of 48 pens.If Sachin has 3 times the pens that Neha has, how many pens does each one have?
+",Neha has 12 pens and Sachin has 36 pens,,,,Neha has 22 pens and Sachin has 26 pens,Neha has 19 pens and Sachin has 57 pens,Neha has 36 pens and Sachin has 12 pens,60,3,,,"let us assume Neha has $x$ pens.
+    <br/>Since, Sachin has $3$ times the pens that Neha has
+    <br/>Therefore, Sachin will have $3*x $ pens.
+    <br/>Since, Neha and Sachin have a total of $48$ pens
+    <br/>    => $ x+(3*x)=48$ 
+    <br/>    => $ x + 3x =48$<br/>=> $ (4)* x=48$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{48}{4}$
+<br/>=> $x=12$
+<br/>=> $(3)*x=(3)*12=36$
+<br/>Hence, Neha has $12$ pens and Sachin has $36$ pens ",
+text,1,30203,3,"Prajwal and Tejas have a total of 88 toys.If Prajwal has 7 times the toys that Tejas has, how many toys does each one have?
+",Tejas has 11 toys and Prajwal has 77 toys,,,,Tejas has 25 toys and Prajwal has 63 toys,Tejas has 15 toys and Prajwal has 105 toys,Tejas has 77 toys and Prajwal has 11 toys,60,3,,,"let us assume Tejas has $x$ toys.
+    <br/>Since, Prajwal has $7$ times the toys that Tejas has
+    <br/>Therefore, Prajwal will have $7*x $ toys.
+    <br/>Since, Tejas and Prajwal have a total of $88$ toys
+    <br/>    => $ x+(7*x)=88$ 
+    <br/>    => $ x + 7x =88$<br/>=> $ (8)* x=88$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{88}{8}$
+<br/>=> $x=11$
+<br/>=> $(7)*x=(7)*11=77$
+<br/>Hence, Tejas has $11$ toys and Prajwal has $77$ toys ",
+text,1,30203,3,"Divya and Aakriti have a total of 390 Bananas.If Divya has 9 times the Bananas that Aakriti has, how many Bananas does each one have?
+",Aakriti has 39 Bananas and Divya has 351 Bananas,,,,Aakriti has 14 Bananas and Divya has 376 Bananas,Aakriti has 28 Bananas and Divya has 252 Bananas,Aakriti has 351 Bananas and Divya has 39 Bananas,60,3,,,"let us assume Aakriti has $x$ Bananas.
+    <br/>Since, Divya has $9$ times the Bananas that Aakriti has
+    <br/>Therefore, Divya will have $9*x $ Bananas.
+    <br/>Since, Aakriti and Divya have a total of $390$ Bananas
+    <br/>    => $ x+(9*x)=390$ 
+    <br/>    => $ x + 9x =390$<br/>=> $ (10)* x=390$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{390}{10}$
+<br/>=> $x=39$
+<br/>=> $(9)*x=(9)*39=351$
+<br/>Hence, Aakriti has $39$ Bananas and Divya has $351$ Bananas ",
+text,1,30203,3,"Kshitij and Suyash have a total of 98 Bananas.If Kshitij has 6 times the Bananas that Suyash has, how many Bananas does each one have?
+",Suyash has 14 Bananas and Kshitij has 84 Bananas,,,,Suyash has 13 Bananas and Kshitij has 85 Bananas,Suyash has 21 Bananas and Kshitij has 126 Bananas,Suyash has 84 Bananas and Kshitij has 14 Bananas,60,3,,,"let us assume Suyash has $x$ Bananas.
+    <br/>Since, Kshitij has $6$ times the Bananas that Suyash has
+    <br/>Therefore, Kshitij will have $6*x $ Bananas.
+    <br/>Since, Suyash and Kshitij have a total of $98$ Bananas
+    <br/>    => $ x+(6*x)=98$ 
+    <br/>    => $ x + 6x =98$<br/>=> $ (7)* x=98$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{98}{7}$
+<br/>=> $x=14$
+<br/>=> $(6)*x=(6)*14=84$
+<br/>Hence, Suyash has $14$ Bananas and Kshitij has $84$ Bananas ",
+text,1,30203,3,"Nishi and Ganesh have a total of 78 shirts.If Ganesh has 5 times the shirts that Nishi has, how many shirts does each one have?
+",Nishi has 13 shirts and Ganesh has 65 shirts,,,,Nishi has 16 shirts and Ganesh has 62 shirts,Nishi has 26 shirts and Ganesh has 130 shirts,Nishi has 65 shirts and Ganesh has 13 shirts,60,3,,,"let us assume Nishi has $x$ shirts.
+    <br/>Since, Ganesh has $5$ times the shirts that Nishi has
+    <br/>Therefore, Ganesh will have $5*x $ shirts.
+    <br/>Since, Nishi and Ganesh have a total of $78$ shirts
+    <br/>    => $ x+(5*x)=78$ 
+    <br/>    => $ x + 5x =78$<br/>=> $ (6)* x=78$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{78}{6}$
+<br/>=> $x=13$
+<br/>=> $(5)*x=(5)*13=65$
+<br/>Hence, Nishi has $13$ shirts and Ganesh has $65$ shirts ",
+text,1,30203,3,"Aniket and Dhriti have a total of 54 toys.If Dhriti has 2 times the toys that Aniket has, how many toys does each one have?
+",Aniket has 18 toys and Dhriti has 36 toys,,,,Aniket has 23 toys and Dhriti has 31 toys,Aniket has 14 toys and Dhriti has 28 toys,Aniket has 36 toys and Dhriti has 18 toys,60,3,,,"let us assume Aniket has $x$ toys.
+    <br/>Since, Dhriti has $2$ times the toys that Aniket has
+    <br/>Therefore, Dhriti will have $2*x $ toys.
+    <br/>Since, Aniket and Dhriti have a total of $54$ toys
+    <br/>    => $ x+(2*x)=54$ 
+    <br/>    => $ x + 2x =54$<br/>=> $ (3)* x=54$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{54}{3}$
+<br/>=> $x=18$
+<br/>=> $(2)*x=(2)*18=36$
+<br/>Hence, Aniket has $18$ toys and Dhriti has $36$ toys ",
+text,1,30203,3,"Sanket and Aakriti have a total of 160 books.If Aakriti has 7 times the books that Sanket has, how many books does each one have?
+",Sanket has 20 books and Aakriti has 140 books,,,,Sanket has 25 books and Aakriti has 135 books,Sanket has 29 books and Aakriti has 203 books,Sanket has 140 books and Aakriti has 20 books,60,3,,,"let us assume Sanket has $x$ books.
+    <br/>Since, Aakriti has $7$ times the books that Sanket has
+    <br/>Therefore, Aakriti will have $7*x $ books.
+    <br/>Since, Sanket and Aakriti have a total of $160$ books
+    <br/>    => $ x+(7*x)=160$ 
+    <br/>    => $ x + 7x =160$<br/>=> $ (8)* x=160$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{160}{8}$
+<br/>=> $x=20$
+<br/>=> $(7)*x=(7)*20=140$
+<br/>Hence, Sanket has $20$ books and Aakriti has $140$ books ",
+text,1,30203,3,"Akanksha and Dhriti have a total of 108 toys.If Dhriti has 5 times the toys that Akanksha has, how many toys does each one have?
+",Akanksha has 18 toys and Dhriti has 90 toys,,,,Akanksha has 19 toys and Dhriti has 89 toys,Akanksha has 22 toys and Dhriti has 110 toys,Akanksha has 90 toys and Dhriti has 18 toys,60,3,,,"let us assume Akanksha has $x$ toys.
+    <br/>Since, Dhriti has $5$ times the toys that Akanksha has
+    <br/>Therefore, Dhriti will have $5*x $ toys.
+    <br/>Since, Akanksha and Dhriti have a total of $108$ toys
+    <br/>    => $ x+(5*x)=108$ 
+    <br/>    => $ x + 5x =108$<br/>=> $ (6)* x=108$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{108}{6}$
+<br/>=> $x=18$
+<br/>=> $(5)*x=(5)*18=90$
+<br/>Hence, Akanksha has $18$ toys and Dhriti has $90$ toys ",
+text,1,30203,3,"Maithili and Aboli have a total of 81 books.If Aboli has 2 times the books that Maithili has, how many books does each one have?
+",Maithili has 27 books and Aboli has 54 books,,,,Maithili has 28 books and Aboli has 53 books,Maithili has 13 books and Aboli has 26 books,Maithili has 54 books and Aboli has 27 books,60,3,,,"let us assume Maithili has $x$ books.
+    <br/>Since, Aboli has $2$ times the books that Maithili has
+    <br/>Therefore, Aboli will have $2*x $ books.
+    <br/>Since, Maithili and Aboli have a total of $81$ books
+    <br/>    => $ x+(2*x)=81$ 
+    <br/>    => $ x + 2x =81$<br/>=> $ (3)* x=81$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{81}{3}$
+<br/>=> $x=27$
+<br/>=> $(2)*x=(2)*27=54$
+<br/>Hence, Maithili has $27$ books and Aboli has $54$ books ",
+text,1,30203,3,"Abhijeet and Aruni have a total of 220 books.If Abhijeet has 10 times the books that Aruni has, how many books does each one have?
+",Aruni has 20 books and Abhijeet has 200 books,,,,Aruni has 12 books and Abhijeet has 208 books,Aruni has 15 books and Abhijeet has 150 books,Aruni has 200 books and Abhijeet has 20 books,60,3,,,"let us assume Aruni has $x$ books.
+    <br/>Since, Abhijeet has $10$ times the books that Aruni has
+    <br/>Therefore, Abhijeet will have $10*x $ books.
+    <br/>Since, Aruni and Abhijeet have a total of $220$ books
+    <br/>    => $ x+(10*x)=220$ 
+    <br/>    => $ x + 10x =220$<br/>=> $ (11)* x=220$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{220}{11}$
+<br/>=> $x=20$
+<br/>=> $(10)*x=(10)*20=200$
+<br/>Hence, Aruni has $20$ books and Abhijeet has $200$ books ",
+text,1,30203,3,"Utkarsh and Varun have a total of 324 balls.If Varun has 8 times the balls that Utkarsh has, how many balls does each one have?
+",Utkarsh has 36 balls and Varun has 288 balls,,,,Utkarsh has 17 balls and Varun has 307 balls,Utkarsh has 12 balls and Varun has 96 balls,Utkarsh has 288 balls and Varun has 36 balls,60,3,,,"let us assume Utkarsh has $x$ balls.
+    <br/>Since, Varun has $8$ times the balls that Utkarsh has
+    <br/>Therefore, Varun will have $8*x $ balls.
+    <br/>Since, Utkarsh and Varun have a total of $324$ balls
+    <br/>    => $ x+(8*x)=324$ 
+    <br/>    => $ x + 8x =324$<br/>=> $ (9)* x=324$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{324}{9}$
+<br/>=> $x=36$
+<br/>=> $(8)*x=(8)*36=288$
+<br/>Hence, Utkarsh has $36$ balls and Varun has $288$ balls ",
+text,1,30203,3,"Ishika and Prajwal have a total of 234 Watermelons.If Prajwal has 8 times the Watermelons that Ishika has, how many Watermelons does each one have?
+",Ishika has 26 Watermelons and Prajwal has 208 Watermelons,,,,Ishika has 17 Watermelons and Prajwal has 217 Watermelons,Ishika has 18 Watermelons and Prajwal has 144 Watermelons,Ishika has 208 Watermelons and Prajwal has 26 Watermelons,60,3,,,"let us assume Ishika has $x$ Watermelons.
+    <br/>Since, Prajwal has $8$ times the Watermelons that Ishika has
+    <br/>Therefore, Prajwal will have $8*x $ Watermelons.
+    <br/>Since, Ishika and Prajwal have a total of $234$ Watermelons
+    <br/>    => $ x+(8*x)=234$ 
+    <br/>    => $ x + 8x =234$<br/>=> $ (9)* x=234$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{234}{9}$
+<br/>=> $x=26$
+<br/>=> $(8)*x=(8)*26=208$
+<br/>Hence, Ishika has $26$ Watermelons and Prajwal has $208$ Watermelons ",
+text,1,30203,3,"Siddhesh and Gargi have a total of 60 shirts.If Siddhesh has 3 times the shirts that Gargi has, how many shirts does each one have?
+",Gargi has 15 shirts and Siddhesh has 45 shirts,,,,Gargi has 19 shirts and Siddhesh has 41 shirts,Gargi has 19 shirts and Siddhesh has 57 shirts,Gargi has 45 shirts and Siddhesh has 15 shirts,60,3,,,"let us assume Gargi has $x$ shirts.
+    <br/>Since, Siddhesh has $3$ times the shirts that Gargi has
+    <br/>Therefore, Siddhesh will have $3*x $ shirts.
+    <br/>Since, Gargi and Siddhesh have a total of $60$ shirts
+    <br/>    => $ x+(3*x)=60$ 
+    <br/>    => $ x + 3x =60$<br/>=> $ (4)* x=60$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{60}{4}$
+<br/>=> $x=15$
+<br/>=> $(3)*x=(3)*15=45$
+<br/>Hence, Gargi has $15$ shirts and Siddhesh has $45$ shirts ",
+text,1,30203,3,"Gagan and Dhriti have a total of 243 candies.If Gagan has 8 times the candies that Dhriti has, how many candies does each one have?
+",Dhriti has 27 candies and Gagan has 216 candies,,,,Dhriti has 18 candies and Gagan has 225 candies,Dhriti has 20 candies and Gagan has 160 candies,Dhriti has 216 candies and Gagan has 27 candies,60,3,,,"let us assume Dhriti has $x$ candies.
+    <br/>Since, Gagan has $8$ times the candies that Dhriti has
+    <br/>Therefore, Gagan will have $8*x $ candies.
+    <br/>Since, Dhriti and Gagan have a total of $243$ candies
+    <br/>    => $ x+(8*x)=243$ 
+    <br/>    => $ x + 8x =243$<br/>=> $ (9)* x=243$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{243}{9}$
+<br/>=> $x=27$
+<br/>=> $(8)*x=(8)*27=216$
+<br/>Hence, Dhriti has $27$ candies and Gagan has $216$ candies ",
+text,1,30203,3,"Neha and Dhriti have a total of 370 Cookies.If Neha has 9 times the Cookies that Dhriti has, how many Cookies does each one have?
+",Dhriti has 37 Cookies and Neha has 333 Cookies,,,,Dhriti has 10 Cookies and Neha has 360 Cookies,Dhriti has 16 Cookies and Neha has 144 Cookies,Dhriti has 333 Cookies and Neha has 37 Cookies,60,3,,,"let us assume Dhriti has $x$ Cookies.
+    <br/>Since, Neha has $9$ times the Cookies that Dhriti has
+    <br/>Therefore, Neha will have $9*x $ Cookies.
+    <br/>Since, Dhriti and Neha have a total of $370$ Cookies
+    <br/>    => $ x+(9*x)=370$ 
+    <br/>    => $ x + 9x =370$<br/>=> $ (10)* x=370$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{370}{10}$
+<br/>=> $x=37$
+<br/>=> $(9)*x=(9)*37=333$
+<br/>Hence, Dhriti has $37$ Cookies and Neha has $333$ Cookies ",
+text,1,30203,3,"Vivek and Ganesh have a total of 160 books.If Vivek has 3 times the books that Ganesh has, how many books does each one have?
+",Ganesh has 40 books and Vivek has 120 books,,,,Ganesh has 15 books and Vivek has 145 books,Ganesh has 12 books and Vivek has 36 books,Ganesh has 120 books and Vivek has 40 books,60,3,,,"let us assume Ganesh has $x$ books.
+    <br/>Since, Vivek has $3$ times the books that Ganesh has
+    <br/>Therefore, Vivek will have $3*x $ books.
+    <br/>Since, Ganesh and Vivek have a total of $160$ books
+    <br/>    => $ x+(3*x)=160$ 
+    <br/>    => $ x + 3x =160$<br/>=> $ (4)* x=160$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{160}{4}$
+<br/>=> $x=40$
+<br/>=> $(3)*x=(3)*40=120$
+<br/>Hence, Ganesh has $40$ books and Vivek has $120$ books ",
+text,1,30203,3,"Shantanu and Anmol have a total of 385 balls.If Anmol has 10 times the balls that Shantanu has, how many balls does each one have?
+",Shantanu has 35 balls and Anmol has 350 balls,,,,Shantanu has 23 balls and Anmol has 362 balls,Shantanu has 30 balls and Anmol has 300 balls,Shantanu has 350 balls and Anmol has 35 balls,60,3,,,"let us assume Shantanu has $x$ balls.
+    <br/>Since, Anmol has $10$ times the balls that Shantanu has
+    <br/>Therefore, Anmol will have $10*x $ balls.
+    <br/>Since, Shantanu and Anmol have a total of $385$ balls
+    <br/>    => $ x+(10*x)=385$ 
+    <br/>    => $ x + 10x =385$<br/>=> $ (11)* x=385$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{385}{11}$
+<br/>=> $x=35$
+<br/>=> $(10)*x=(10)*35=350$
+<br/>Hence, Shantanu has $35$ balls and Anmol has $350$ balls ",
+text,1,30203,3,"Aruni and Aarav have a total of 231 candies.If Aruni has 10 times the candies that Aarav has, how many candies does each one have?
+",Aarav has 21 candies and Aruni has 210 candies,,,,Aarav has 14 candies and Aruni has 217 candies,Aarav has 29 candies and Aruni has 290 candies,Aarav has 210 candies and Aruni has 21 candies,60,3,,,"let us assume Aarav has $x$ candies.
+    <br/>Since, Aruni has $10$ times the candies that Aarav has
+    <br/>Therefore, Aruni will have $10*x $ candies.
+    <br/>Since, Aarav and Aruni have a total of $231$ candies
+    <br/>    => $ x+(10*x)=231$ 
+    <br/>    => $ x + 10x =231$<br/>=> $ (11)* x=231$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{231}{11}$
+<br/>=> $x=21$
+<br/>=> $(10)*x=(10)*21=210$
+<br/>Hence, Aarav has $21$ candies and Aruni has $210$ candies ",
+text,1,30203,3,"Suyash and Prathamesh have a total of 210 Watermelons.If Prathamesh has 9 times the Watermelons that Suyash has, how many Watermelons does each one have?
+",Suyash has 21 Watermelons and Prathamesh has 189 Watermelons,,,,Suyash has 11 Watermelons and Prathamesh has 199 Watermelons,Suyash has 29 Watermelons and Prathamesh has 261 Watermelons,Suyash has 189 Watermelons and Prathamesh has 21 Watermelons,60,3,,,"let us assume Suyash has $x$ Watermelons.
+    <br/>Since, Prathamesh has $9$ times the Watermelons that Suyash has
+    <br/>Therefore, Prathamesh will have $9*x $ Watermelons.
+    <br/>Since, Suyash and Prathamesh have a total of $210$ Watermelons
+    <br/>    => $ x+(9*x)=210$ 
+    <br/>    => $ x + 9x =210$<br/>=> $ (10)* x=210$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{210}{10}$
+<br/>=> $x=21$
+<br/>=> $(9)*x=(9)*21=189$
+<br/>Hence, Suyash has $21$ Watermelons and Prathamesh has $189$ Watermelons ",
+text,1,30203,3,"Gagan and Sachin have a total of 351 candies.If Sachin has 8 times the candies that Gagan has, how many candies does each one have?
+",Gagan has 39 candies and Sachin has 312 candies,,,,Gagan has 22 candies and Sachin has 329 candies,Gagan has 25 candies and Sachin has 200 candies,Gagan has 312 candies and Sachin has 39 candies,60,3,,,"let us assume Gagan has $x$ candies.
+    <br/>Since, Sachin has $8$ times the candies that Gagan has
+    <br/>Therefore, Sachin will have $8*x $ candies.
+    <br/>Since, Gagan and Sachin have a total of $351$ candies
+    <br/>    => $ x+(8*x)=351$ 
+    <br/>    => $ x + 8x =351$<br/>=> $ (9)* x=351$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{351}{9}$
+<br/>=> $x=39$
+<br/>=> $(8)*x=(8)*39=312$
+<br/>Hence, Gagan has $39$ candies and Sachin has $312$ candies ",
+text,1,30203,3,"Gagan and Kalyani have a total of 180 lollipops.If Kalyani has 5 times the lollipops that Gagan has, how many lollipops does each one have?
+",Gagan has 30 lollipops and Kalyani has 150 lollipops,,,,Gagan has 10 lollipops and Kalyani has 170 lollipops,Gagan has 29 lollipops and Kalyani has 145 lollipops,Gagan has 150 lollipops and Kalyani has 30 lollipops,60,3,,,"let us assume Gagan has $x$ lollipops.
+    <br/>Since, Kalyani has $5$ times the lollipops that Gagan has
+    <br/>Therefore, Kalyani will have $5*x $ lollipops.
+    <br/>Since, Gagan and Kalyani have a total of $180$ lollipops
+    <br/>    => $ x+(5*x)=180$ 
+    <br/>    => $ x + 5x =180$<br/>=> $ (6)* x=180$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{180}{6}$
+<br/>=> $x=30$
+<br/>=> $(5)*x=(5)*30=150$
+<br/>Hence, Gagan has $30$ lollipops and Kalyani has $150$ lollipops ",
+text,1,30203,3,"Yash and Chaitanya have a total of 290 pants.If Chaitanya has 9 times the pants that Yash has, how many pants does each one have?
+",Yash has 29 pants and Chaitanya has 261 pants,,,,Yash has 15 pants and Chaitanya has 275 pants,Yash has 23 pants and Chaitanya has 207 pants,Yash has 261 pants and Chaitanya has 29 pants,60,3,,,"let us assume Yash has $x$ pants.
+    <br/>Since, Chaitanya has $9$ times the pants that Yash has
+    <br/>Therefore, Chaitanya will have $9*x $ pants.
+    <br/>Since, Yash and Chaitanya have a total of $290$ pants
+    <br/>    => $ x+(9*x)=290$ 
+    <br/>    => $ x + 9x =290$<br/>=> $ (10)* x=290$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{290}{10}$
+<br/>=> $x=29$
+<br/>=> $(9)*x=(9)*29=261$
+<br/>Hence, Yash has $29$ pants and Chaitanya has $261$ pants ",
+text,1,30203,3,"Ishika and Aditi have a total of 230 pencils.If Aditi has 9 times the pencils that Ishika has, how many pencils does each one have?
+",Ishika has 23 pencils and Aditi has 207 pencils,,,,Ishika has 12 pencils and Aditi has 218 pencils,Ishika has 28 pencils and Aditi has 252 pencils,Ishika has 207 pencils and Aditi has 23 pencils,60,3,,,"let us assume Ishika has $x$ pencils.
+    <br/>Since, Aditi has $9$ times the pencils that Ishika has
+    <br/>Therefore, Aditi will have $9*x $ pencils.
+    <br/>Since, Ishika and Aditi have a total of $230$ pencils
+    <br/>    => $ x+(9*x)=230$ 
+    <br/>    => $ x + 9x =230$<br/>=> $ (10)* x=230$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{230}{10}$
+<br/>=> $x=23$
+<br/>=> $(9)*x=(9)*23=207$
+<br/>Hence, Ishika has $23$ pencils and Aditi has $207$ pencils ",
+text,1,30203,3,"Mehul and Ishan have a total of 108 Cookies.If Mehul has 5 times the Cookies that Ishan has, how many Cookies does each one have?
+",Ishan has 18 Cookies and Mehul has 90 Cookies,,,,Ishan has 12 Cookies and Mehul has 96 Cookies,Ishan has 25 Cookies and Mehul has 125 Cookies,Ishan has 90 Cookies and Mehul has 18 Cookies,60,3,,,"let us assume Ishan has $x$ Cookies.
+    <br/>Since, Mehul has $5$ times the Cookies that Ishan has
+    <br/>Therefore, Mehul will have $5*x $ Cookies.
+    <br/>Since, Ishan and Mehul have a total of $108$ Cookies
+    <br/>    => $ x+(5*x)=108$ 
+    <br/>    => $ x + 5x =108$<br/>=> $ (6)* x=108$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{108}{6}$
+<br/>=> $x=18$
+<br/>=> $(5)*x=(5)*18=90$
+<br/>Hence, Ishan has $18$ Cookies and Mehul has $90$ Cookies ",
+text,1,30203,3,"Veerja and Dhriti have a total of 320 Watermelons.If Dhriti has 7 times the Watermelons that Veerja has, how many Watermelons does each one have?
+",Veerja has 40 Watermelons and Dhriti has 280 Watermelons,,,,Veerja has 13 Watermelons and Dhriti has 307 Watermelons,Veerja has 17 Watermelons and Dhriti has 119 Watermelons,Veerja has 280 Watermelons and Dhriti has 40 Watermelons,60,3,,,"let us assume Veerja has $x$ Watermelons.
+    <br/>Since, Dhriti has $7$ times the Watermelons that Veerja has
+    <br/>Therefore, Dhriti will have $7*x $ Watermelons.
+    <br/>Since, Veerja and Dhriti have a total of $320$ Watermelons
+    <br/>    => $ x+(7*x)=320$ 
+    <br/>    => $ x + 7x =320$<br/>=> $ (8)* x=320$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{320}{8}$
+<br/>=> $x=40$
+<br/>=> $(7)*x=(7)*40=280$
+<br/>Hence, Veerja has $40$ Watermelons and Dhriti has $280$ Watermelons ",
+text,1,30203,3,"Veerja and Veerja have a total of 210 Jackets.If Veerja has 5 times the Jackets that Veerja has, how many Jackets does each one have?
+",Veerja has 35 Jackets and Veerja has 175 Jackets,,,,Veerja has 16 Jackets and Veerja has 194 Jackets,Veerja has 21 Jackets and Veerja has 105 Jackets,Veerja has 175 Jackets and Veerja has 35 Jackets,60,3,,,"let us assume Veerja has $x$ Jackets.
+    <br/>Since, Veerja has $5$ times the Jackets that Veerja has
+    <br/>Therefore, Veerja will have $5*x $ Jackets.
+    <br/>Since, Veerja and Veerja have a total of $210$ Jackets
+    <br/>    => $ x+(5*x)=210$ 
+    <br/>    => $ x + 5x =210$<br/>=> $ (6)* x=210$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{210}{6}$
+<br/>=> $x=35$
+<br/>=> $(5)*x=(5)*35=175$
+<br/>Hence, Veerja has $35$ Jackets and Veerja has $175$ Jackets ",
+text,1,30203,3,"Manali and Akshata have a total of 90 balls.If Manali has 8 times the balls that Akshata has, how many balls does each one have?
+",Akshata has 10 balls and Manali has 80 balls,,,,Akshata has 30 balls and Manali has 60 balls,Akshata has 11 balls and Manali has 88 balls,Akshata has 80 balls and Manali has 10 balls,60,3,,,"let us assume Akshata has $x$ balls.
+    <br/>Since, Manali has $8$ times the balls that Akshata has
+    <br/>Therefore, Manali will have $8*x $ balls.
+    <br/>Since, Akshata and Manali have a total of $90$ balls
+    <br/>    => $ x+(8*x)=90$ 
+    <br/>    => $ x + 8x =90$<br/>=> $ (9)* x=90$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{90}{9}$
+<br/>=> $x=10$
+<br/>=> $(8)*x=(8)*10=80$
+<br/>Hence, Akshata has $10$ balls and Manali has $80$ balls ",
+text,1,30203,3,"Vaibhav and Soham have a total of 222 sheets.If Vaibhav has 5 times the sheets that Soham has, how many sheets does each one have?
+",Soham has 37 sheets and Vaibhav has 185 sheets,,,,Soham has 12 sheets and Vaibhav has 210 sheets,Soham has 28 sheets and Vaibhav has 140 sheets,Soham has 185 sheets and Vaibhav has 37 sheets,60,3,,,"let us assume Soham has $x$ sheets.
+    <br/>Since, Vaibhav has $5$ times the sheets that Soham has
+    <br/>Therefore, Vaibhav will have $5*x $ sheets.
+    <br/>Since, Soham and Vaibhav have a total of $222$ sheets
+    <br/>    => $ x+(5*x)=222$ 
+    <br/>    => $ x + 5x =222$<br/>=> $ (6)* x=222$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{222}{6}$
+<br/>=> $x=37$
+<br/>=> $(5)*x=(5)*37=185$
+<br/>Hence, Soham has $37$ sheets and Vaibhav has $185$ sheets ",
+text,1,30203,3,"Onkar and Dharmesh have a total of 78 books.If Dharmesh has 5 times the books that Onkar has, how many books does each one have?
+",Onkar has 13 books and Dharmesh has 65 books,,,,Onkar has 29 books and Dharmesh has 49 books,Onkar has 17 books and Dharmesh has 85 books,Onkar has 65 books and Dharmesh has 13 books,60,3,,,"let us assume Onkar has $x$ books.
+    <br/>Since, Dharmesh has $5$ times the books that Onkar has
+    <br/>Therefore, Dharmesh will have $5*x $ books.
+    <br/>Since, Onkar and Dharmesh have a total of $78$ books
+    <br/>    => $ x+(5*x)=78$ 
+    <br/>    => $ x + 5x =78$<br/>=> $ (6)* x=78$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{78}{6}$
+<br/>=> $x=13$
+<br/>=> $(5)*x=(5)*13=65$
+<br/>Hence, Onkar has $13$ books and Dharmesh has $65$ books ",
+text,1,30203,3,"Rahul and Sandesh have a total of 112 balls.If Rahul has 3 times the balls that Sandesh has, how many balls does each one have?
+",Sandesh has 28 balls and Rahul has 84 balls,,,,Sandesh has 27 balls and Rahul has 85 balls,Sandesh has 15 balls and Rahul has 45 balls,Sandesh has 84 balls and Rahul has 28 balls,60,3,,,"let us assume Sandesh has $x$ balls.
+    <br/>Since, Rahul has $3$ times the balls that Sandesh has
+    <br/>Therefore, Rahul will have $3*x $ balls.
+    <br/>Since, Sandesh and Rahul have a total of $112$ balls
+    <br/>    => $ x+(3*x)=112$ 
+    <br/>    => $ x + 3x =112$<br/>=> $ (4)* x=112$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{112}{4}$
+<br/>=> $x=28$
+<br/>=> $(3)*x=(3)*28=84$
+<br/>Hence, Sandesh has $28$ balls and Rahul has $84$ balls ",
+text,1,30203,3,"Neha and Rohit have a total of 125 pants.If Rohit has 4 times the pants that Neha has, how many pants does each one have?
+",Neha has 25 pants and Rohit has 100 pants,,,,Neha has 30 pants and Rohit has 95 pants,Neha has 11 pants and Rohit has 44 pants,Neha has 100 pants and Rohit has 25 pants,60,3,,,"let us assume Neha has $x$ pants.
+    <br/>Since, Rohit has $4$ times the pants that Neha has
+    <br/>Therefore, Rohit will have $4*x $ pants.
+    <br/>Since, Neha and Rohit have a total of $125$ pants
+    <br/>    => $ x+(4*x)=125$ 
+    <br/>    => $ x + 4x =125$<br/>=> $ (5)* x=125$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{125}{5}$
+<br/>=> $x=25$
+<br/>=> $(4)*x=(4)*25=100$
+<br/>Hence, Neha has $25$ pants and Rohit has $100$ pants ",
+text,1,30203,3,"Vedang and Anuja have a total of 102 candies.If Anuja has 5 times the candies that Vedang has, how many candies does each one have?
+",Vedang has 17 candies and Anuja has 85 candies,,,,Vedang has 11 candies and Anuja has 91 candies,Vedang has 25 candies and Anuja has 125 candies,Vedang has 85 candies and Anuja has 17 candies,60,3,,,"let us assume Vedang has $x$ candies.
+    <br/>Since, Anuja has $5$ times the candies that Vedang has
+    <br/>Therefore, Anuja will have $5*x $ candies.
+    <br/>Since, Vedang and Anuja have a total of $102$ candies
+    <br/>    => $ x+(5*x)=102$ 
+    <br/>    => $ x + 5x =102$<br/>=> $ (6)* x=102$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{102}{6}$
+<br/>=> $x=17$
+<br/>=> $(5)*x=(5)*17=85$
+<br/>Hence, Vedang has $17$ candies and Anuja has $85$ candies ",
+text,1,30203,3,"Divya and Saloni have a total of 126 Bananas.If Saloni has 8 times the Bananas that Divya has, how many Bananas does each one have?
+",Divya has 14 Bananas and Saloni has 112 Bananas,,,,Divya has 21 Bananas and Saloni has 105 Bananas,Divya has 18 Bananas and Saloni has 144 Bananas,Divya has 112 Bananas and Saloni has 14 Bananas,60,3,,,"let us assume Divya has $x$ Bananas.
+    <br/>Since, Saloni has $8$ times the Bananas that Divya has
+    <br/>Therefore, Saloni will have $8*x $ Bananas.
+    <br/>Since, Divya and Saloni have a total of $126$ Bananas
+    <br/>    => $ x+(8*x)=126$ 
+    <br/>    => $ x + 8x =126$<br/>=> $ (9)* x=126$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{126}{9}$
+<br/>=> $x=14$
+<br/>=> $(8)*x=(8)*14=112$
+<br/>Hence, Divya has $14$ Bananas and Saloni has $112$ Bananas ",
+text,1,30203,3,"Aadesh and Rahul have a total of 400 shirts.If Rahul has 9 times the shirts that Aadesh has, how many shirts does each one have?
+",Aadesh has 40 shirts and Rahul has 360 shirts,,,,Aadesh has 26 shirts and Rahul has 374 shirts,Aadesh has 26 shirts and Rahul has 234 shirts,Aadesh has 360 shirts and Rahul has 40 shirts,60,3,,,"let us assume Aadesh has $x$ shirts.
+    <br/>Since, Rahul has $9$ times the shirts that Aadesh has
+    <br/>Therefore, Rahul will have $9*x $ shirts.
+    <br/>Since, Aadesh and Rahul have a total of $400$ shirts
+    <br/>    => $ x+(9*x)=400$ 
+    <br/>    => $ x + 9x =400$<br/>=> $ (10)* x=400$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{400}{10}$
+<br/>=> $x=40$
+<br/>=> $(9)*x=(9)*40=360$
+<br/>Hence, Aadesh has $40$ shirts and Rahul has $360$ shirts ",
+text,1,30203,3,"Akanksha and Abhijeet have a total of 351 balls.If Abhijeet has 8 times the balls that Akanksha has, how many balls does each one have?
+",Akanksha has 39 balls and Abhijeet has 312 balls,,,,Akanksha has 17 balls and Abhijeet has 334 balls,Akanksha has 26 balls and Abhijeet has 208 balls,Akanksha has 312 balls and Abhijeet has 39 balls,60,3,,,"let us assume Akanksha has $x$ balls.
+    <br/>Since, Abhijeet has $8$ times the balls that Akanksha has
+    <br/>Therefore, Abhijeet will have $8*x $ balls.
+    <br/>Since, Akanksha and Abhijeet have a total of $351$ balls
+    <br/>    => $ x+(8*x)=351$ 
+    <br/>    => $ x + 8x =351$<br/>=> $ (9)* x=351$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{351}{9}$
+<br/>=> $x=39$
+<br/>=> $(8)*x=(8)*39=312$
+<br/>Hence, Akanksha has $39$ balls and Abhijeet has $312$ balls ",
+text,1,30203,3,"Gopal and Gayatri have a total of 228 pants.If Gayatri has 5 times the pants that Gopal has, how many pants does each one have?
+",Gopal has 38 pants and Gayatri has 190 pants,,,,Gopal has 14 pants and Gayatri has 214 pants,Gopal has 30 pants and Gayatri has 150 pants,Gopal has 190 pants and Gayatri has 38 pants,60,3,,,"let us assume Gopal has $x$ pants.
+    <br/>Since, Gayatri has $5$ times the pants that Gopal has
+    <br/>Therefore, Gayatri will have $5*x $ pants.
+    <br/>Since, Gopal and Gayatri have a total of $228$ pants
+    <br/>    => $ x+(5*x)=228$ 
+    <br/>    => $ x + 5x =228$<br/>=> $ (6)* x=228$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{228}{6}$
+<br/>=> $x=38$
+<br/>=> $(5)*x=(5)*38=190$
+<br/>Hence, Gopal has $38$ pants and Gayatri has $190$ pants ",
+text,1,30203,3,"Abhijeet and Gopal have a total of 242 chocolates.If Gopal has 10 times the chocolates that Abhijeet has, how many chocolates does each one have?
+",Abhijeet has 22 chocolates and Gopal has 220 chocolates,,,,Abhijeet has 18 chocolates and Gopal has 224 chocolates,Abhijeet has 17 chocolates and Gopal has 170 chocolates,Abhijeet has 220 chocolates and Gopal has 22 chocolates,60,3,,,"let us assume Abhijeet has $x$ chocolates.
+    <br/>Since, Gopal has $10$ times the chocolates that Abhijeet has
+    <br/>Therefore, Gopal will have $10*x $ chocolates.
+    <br/>Since, Abhijeet and Gopal have a total of $242$ chocolates
+    <br/>    => $ x+(10*x)=242$ 
+    <br/>    => $ x + 10x =242$<br/>=> $ (11)* x=242$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{242}{11}$
+<br/>=> $x=22$
+<br/>=> $(10)*x=(10)*22=220$
+<br/>Hence, Abhijeet has $22$ chocolates and Gopal has $220$ chocolates ",
+text,1,30203,3,"Devang and Tanvi have a total of 160 T-shirts.If Tanvi has 3 times the T-shirts that Devang has, how many T-shirts does each one have?
+",Devang has 40 T-shirts and Tanvi has 120 T-shirts,,,,Devang has 14 T-shirts and Tanvi has 146 T-shirts,Devang has 19 T-shirts and Tanvi has 57 T-shirts,Devang has 120 T-shirts and Tanvi has 40 T-shirts,60,3,,,"let us assume Devang has $x$ T-shirts.
+    <br/>Since, Tanvi has $3$ times the T-shirts that Devang has
+    <br/>Therefore, Tanvi will have $3*x $ T-shirts.
+    <br/>Since, Devang and Tanvi have a total of $160$ T-shirts
+    <br/>    => $ x+(3*x)=160$ 
+    <br/>    => $ x + 3x =160$<br/>=> $ (4)* x=160$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{160}{4}$
+<br/>=> $x=40$
+<br/>=> $(3)*x=(3)*40=120$
+<br/>Hence, Devang has $40$ T-shirts and Tanvi has $120$ T-shirts ",
+text,1,30203,3,"Rohit and Chaitrali have a total of 196 Watermelons.If Chaitrali has 6 times the Watermelons that Rohit has, how many Watermelons does each one have?
+",Rohit has 28 Watermelons and Chaitrali has 168 Watermelons,,,,Rohit has 22 Watermelons and Chaitrali has 174 Watermelons,Rohit has 25 Watermelons and Chaitrali has 150 Watermelons,Rohit has 168 Watermelons and Chaitrali has 28 Watermelons,60,3,,,"let us assume Rohit has $x$ Watermelons.
+    <br/>Since, Chaitrali has $6$ times the Watermelons that Rohit has
+    <br/>Therefore, Chaitrali will have $6*x $ Watermelons.
+    <br/>Since, Rohit and Chaitrali have a total of $196$ Watermelons
+    <br/>    => $ x+(6*x)=196$ 
+    <br/>    => $ x + 6x =196$<br/>=> $ (7)* x=196$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{196}{7}$
+<br/>=> $x=28$
+<br/>=> $(6)*x=(6)*28=168$
+<br/>Hence, Rohit has $28$ Watermelons and Chaitrali has $168$ Watermelons ",
+text,1,30203,3,"Devang and Siddhesh have a total of 198 pants.If Siddhesh has 10 times the pants that Devang has, how many pants does each one have?
+",Devang has 18 pants and Siddhesh has 180 pants,,,,Devang has 20 pants and Siddhesh has 178 pants,Devang has 19 pants and Siddhesh has 190 pants,Devang has 180 pants and Siddhesh has 18 pants,60,3,,,"let us assume Devang has $x$ pants.
+    <br/>Since, Siddhesh has $10$ times the pants that Devang has
+    <br/>Therefore, Siddhesh will have $10*x $ pants.
+    <br/>Since, Devang and Siddhesh have a total of $198$ pants
+    <br/>    => $ x+(10*x)=198$ 
+    <br/>    => $ x + 10x =198$<br/>=> $ (11)* x=198$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{198}{11}$
+<br/>=> $x=18$
+<br/>=> $(10)*x=(10)*18=180$
+<br/>Hence, Devang has $18$ pants and Siddhesh has $180$ pants ",
+text,1,30203,3,"Chaitanya and Varun have a total of 42 Cookies.If Chaitanya has 2 times the Cookies that Varun has, how many Cookies does each one have?
+",Varun has 14 Cookies and Chaitanya has 28 Cookies,,,,Varun has 17 Cookies and Chaitanya has 25 Cookies,Varun has 15 Cookies and Chaitanya has 30 Cookies,Varun has 28 Cookies and Chaitanya has 14 Cookies,60,3,,,"let us assume Varun has $x$ Cookies.
+    <br/>Since, Chaitanya has $2$ times the Cookies that Varun has
+    <br/>Therefore, Chaitanya will have $2*x $ Cookies.
+    <br/>Since, Varun and Chaitanya have a total of $42$ Cookies
+    <br/>    => $ x+(2*x)=42$ 
+    <br/>    => $ x + 2x =42$<br/>=> $ (3)* x=42$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{42}{3}$
+<br/>=> $x=14$
+<br/>=> $(2)*x=(2)*14=28$
+<br/>Hence, Varun has $14$ Cookies and Chaitanya has $28$ Cookies ",
+text,1,30203,3,"Aruni and Ishika have a total of 184 T-shirts.If Ishika has 7 times the T-shirts that Aruni has, how many T-shirts does each one have?
+",Aruni has 23 T-shirts and Ishika has 161 T-shirts,,,,Aruni has 10 T-shirts and Ishika has 174 T-shirts,Aruni has 24 T-shirts and Ishika has 168 T-shirts,Aruni has 161 T-shirts and Ishika has 23 T-shirts,60,3,,,"let us assume Aruni has $x$ T-shirts.
+    <br/>Since, Ishika has $7$ times the T-shirts that Aruni has
+    <br/>Therefore, Ishika will have $7*x $ T-shirts.
+    <br/>Since, Aruni and Ishika have a total of $184$ T-shirts
+    <br/>    => $ x+(7*x)=184$ 
+    <br/>    => $ x + 7x =184$<br/>=> $ (8)* x=184$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{184}{8}$
+<br/>=> $x=23$
+<br/>=> $(7)*x=(7)*23=161$
+<br/>Hence, Aruni has $23$ T-shirts and Ishika has $161$ T-shirts ",
+text,1,30203,3,"Vinay and Rahul have a total of 144 pants.If Vinay has 5 times the pants that Rahul has, how many pants does each one have?
+",Rahul has 24 pants and Vinay has 120 pants,,,,Rahul has 11 pants and Vinay has 133 pants,Rahul has 30 pants and Vinay has 150 pants,Rahul has 120 pants and Vinay has 24 pants,60,3,,,"let us assume Rahul has $x$ pants.
+    <br/>Since, Vinay has $5$ times the pants that Rahul has
+    <br/>Therefore, Vinay will have $5*x $ pants.
+    <br/>Since, Rahul and Vinay have a total of $144$ pants
+    <br/>    => $ x+(5*x)=144$ 
+    <br/>    => $ x + 5x =144$<br/>=> $ (6)* x=144$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{144}{6}$
+<br/>=> $x=24$
+<br/>=> $(5)*x=(5)*24=120$
+<br/>Hence, Rahul has $24$ pants and Vinay has $120$ pants ",
+text,1,30203,3,"Sachin and Ganesh have a total of 105 Jackets.If Ganesh has 4 times the Jackets that Sachin has, how many Jackets does each one have?
+",Sachin has 21 Jackets and Ganesh has 84 Jackets,,,,Sachin has 22 Jackets and Ganesh has 83 Jackets,Sachin has 17 Jackets and Ganesh has 68 Jackets,Sachin has 84 Jackets and Ganesh has 21 Jackets,60,3,,,"let us assume Sachin has $x$ Jackets.
+    <br/>Since, Ganesh has $4$ times the Jackets that Sachin has
+    <br/>Therefore, Ganesh will have $4*x $ Jackets.
+    <br/>Since, Sachin and Ganesh have a total of $105$ Jackets
+    <br/>    => $ x+(4*x)=105$ 
+    <br/>    => $ x + 4x =105$<br/>=> $ (5)* x=105$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{105}{5}$
+<br/>=> $x=21$
+<br/>=> $(4)*x=(4)*21=84$
+<br/>Hence, Sachin has $21$ Jackets and Ganesh has $84$ Jackets ",
+text,1,30203,3,"Gayatri and Atharva have a total of 203 pants.If Atharva has 6 times the pants that Gayatri has, how many pants does each one have?
+",Gayatri has 29 pants and Atharva has 174 pants,,,,Gayatri has 16 pants and Atharva has 187 pants,Gayatri has 26 pants and Atharva has 156 pants,Gayatri has 174 pants and Atharva has 29 pants,60,3,,,"let us assume Gayatri has $x$ pants.
+    <br/>Since, Atharva has $6$ times the pants that Gayatri has
+    <br/>Therefore, Atharva will have $6*x $ pants.
+    <br/>Since, Gayatri and Atharva have a total of $203$ pants
+    <br/>    => $ x+(6*x)=203$ 
+    <br/>    => $ x + 6x =203$<br/>=> $ (7)* x=203$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{203}{7}$
+<br/>=> $x=29$
+<br/>=> $(6)*x=(6)*29=174$
+<br/>Hence, Gayatri has $29$ pants and Atharva has $174$ pants ",
+text,1,30203,3,"Aadesh and Om have a total of 182 pens.If Aadesh has 6 times the pens that Om has, how many pens does each one have?
+",Om has 26 pens and Aadesh has 156 pens,,,,Om has 17 pens and Aadesh has 165 pens,Om has 10 pens and Aadesh has 60 pens,Om has 156 pens and Aadesh has 26 pens,60,3,,,"let us assume Om has $x$ pens.
+    <br/>Since, Aadesh has $6$ times the pens that Om has
+    <br/>Therefore, Aadesh will have $6*x $ pens.
+    <br/>Since, Om and Aadesh have a total of $182$ pens
+    <br/>    => $ x+(6*x)=182$ 
+    <br/>    => $ x + 6x =182$<br/>=> $ (7)* x=182$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{182}{7}$
+<br/>=> $x=26$
+<br/>=> $(6)*x=(6)*26=156$
+<br/>Hence, Om has $26$ pens and Aadesh has $156$ pens ",
+text,1,30203,3,"Gopal and Shantanu have a total of 88 Apples.If Shantanu has 7 times the Apples that Gopal has, how many Apples does each one have?
+",Gopal has 11 Apples and Shantanu has 77 Apples,,,,Gopal has 18 Apples and Shantanu has 70 Apples,Gopal has 13 Apples and Shantanu has 91 Apples,Gopal has 77 Apples and Shantanu has 11 Apples,60,3,,,"let us assume Gopal has $x$ Apples.
+    <br/>Since, Shantanu has $7$ times the Apples that Gopal has
+    <br/>Therefore, Shantanu will have $7*x $ Apples.
+    <br/>Since, Gopal and Shantanu have a total of $88$ Apples
+    <br/>    => $ x+(7*x)=88$ 
+    <br/>    => $ x + 7x =88$<br/>=> $ (8)* x=88$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{88}{8}$
+<br/>=> $x=11$
+<br/>=> $(7)*x=(7)*11=77$
+<br/>Hence, Gopal has $11$ Apples and Shantanu has $77$ Apples ",
+text,1,30203,3,"Onkar and Aditi have a total of 180 candies.If Onkar has 4 times the candies that Aditi has, how many candies does each one have?
+",Aditi has 36 candies and Onkar has 144 candies,,,,Aditi has 13 candies and Onkar has 167 candies,Aditi has 25 candies and Onkar has 100 candies,Aditi has 144 candies and Onkar has 36 candies,60,3,,,"let us assume Aditi has $x$ candies.
+    <br/>Since, Onkar has $4$ times the candies that Aditi has
+    <br/>Therefore, Onkar will have $4*x $ candies.
+    <br/>Since, Aditi and Onkar have a total of $180$ candies
+    <br/>    => $ x+(4*x)=180$ 
+    <br/>    => $ x + 4x =180$<br/>=> $ (5)* x=180$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{180}{5}$
+<br/>=> $x=36$
+<br/>=> $(4)*x=(4)*36=144$
+<br/>Hence, Aditi has $36$ candies and Onkar has $144$ candies ",
+text,1,30203,3,"Vinay and Aadesh have a total of 117 pens.If Aadesh has 2 times the pens that Vinay has, how many pens does each one have?
+",Vinay has 39 pens and Aadesh has 78 pens,,,,Vinay has 12 pens and Aadesh has 105 pens,Vinay has 15 pens and Aadesh has 30 pens,Vinay has 78 pens and Aadesh has 39 pens,60,3,,,"let us assume Vinay has $x$ pens.
+    <br/>Since, Aadesh has $2$ times the pens that Vinay has
+    <br/>Therefore, Aadesh will have $2*x $ pens.
+    <br/>Since, Vinay and Aadesh have a total of $117$ pens
+    <br/>    => $ x+(2*x)=117$ 
+    <br/>    => $ x + 2x =117$<br/>=> $ (3)* x=117$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{117}{3}$
+<br/>=> $x=39$
+<br/>=> $(2)*x=(2)*39=78$
+<br/>Hence, Vinay has $39$ pens and Aadesh has $78$ pens ",
+text,1,30203,3,"Mehul and Akanksha have a total of 190 Bananas.If Akanksha has 9 times the Bananas that Mehul has, how many Bananas does each one have?
+",Mehul has 19 Bananas and Akanksha has 171 Bananas,,,,Mehul has 28 Bananas and Akanksha has 162 Bananas,Mehul has 20 Bananas and Akanksha has 180 Bananas,Mehul has 171 Bananas and Akanksha has 19 Bananas,60,3,,,"let us assume Mehul has $x$ Bananas.
+    <br/>Since, Akanksha has $9$ times the Bananas that Mehul has
+    <br/>Therefore, Akanksha will have $9*x $ Bananas.
+    <br/>Since, Mehul and Akanksha have a total of $190$ Bananas
+    <br/>    => $ x+(9*x)=190$ 
+    <br/>    => $ x + 9x =190$<br/>=> $ (10)* x=190$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{190}{10}$
+<br/>=> $x=19$
+<br/>=> $(9)*x=(9)*19=171$
+<br/>Hence, Mehul has $19$ Bananas and Akanksha has $171$ Bananas ",
+text,1,30203,3,"Dharmesh and Darshan have a total of 224 Cookies.If Darshan has 7 times the Cookies that Dharmesh has, how many Cookies does each one have?
+",Dharmesh has 28 Cookies and Darshan has 196 Cookies,,,,Dharmesh has 18 Cookies and Darshan has 206 Cookies,Dharmesh has 14 Cookies and Darshan has 98 Cookies,Dharmesh has 196 Cookies and Darshan has 28 Cookies,60,3,,,"let us assume Dharmesh has $x$ Cookies.
+    <br/>Since, Darshan has $7$ times the Cookies that Dharmesh has
+    <br/>Therefore, Darshan will have $7*x $ Cookies.
+    <br/>Since, Dharmesh and Darshan have a total of $224$ Cookies
+    <br/>    => $ x+(7*x)=224$ 
+    <br/>    => $ x + 7x =224$<br/>=> $ (8)* x=224$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{224}{8}$
+<br/>=> $x=28$
+<br/>=> $(7)*x=(7)*28=196$
+<br/>Hence, Dharmesh has $28$ Cookies and Darshan has $196$ Cookies ",
+text,1,30203,3,"Ninad and Kalyani have a total of 200 Cookies.If Ninad has 7 times the Cookies that Kalyani has, how many Cookies does each one have?
+",Kalyani has 25 Cookies and Ninad has 175 Cookies,,,,Kalyani has 11 Cookies and Ninad has 189 Cookies,Kalyani has 11 Cookies and Ninad has 77 Cookies,Kalyani has 175 Cookies and Ninad has 25 Cookies,60,3,,,"let us assume Kalyani has $x$ Cookies.
+    <br/>Since, Ninad has $7$ times the Cookies that Kalyani has
+    <br/>Therefore, Ninad will have $7*x $ Cookies.
+    <br/>Since, Kalyani and Ninad have a total of $200$ Cookies
+    <br/>    => $ x+(7*x)=200$ 
+    <br/>    => $ x + 7x =200$<br/>=> $ (8)* x=200$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{200}{8}$
+<br/>=> $x=25$
+<br/>=> $(7)*x=(7)*25=175$
+<br/>Hence, Kalyani has $25$ Cookies and Ninad has $175$ Cookies ",
+text,1,30203,3,"Dharmesh and Pranali have a total of 440 books.If Dharmesh has 10 times the books that Pranali has, how many books does each one have?
+",Pranali has 40 books and Dharmesh has 400 books,,,,Pranali has 14 books and Dharmesh has 426 books,Pranali has 22 books and Dharmesh has 220 books,Pranali has 400 books and Dharmesh has 40 books,60,3,,,"let us assume Pranali has $x$ books.
+    <br/>Since, Dharmesh has $10$ times the books that Pranali has
+    <br/>Therefore, Dharmesh will have $10*x $ books.
+    <br/>Since, Pranali and Dharmesh have a total of $440$ books
+    <br/>    => $ x+(10*x)=440$ 
+    <br/>    => $ x + 10x =440$<br/>=> $ (11)* x=440$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{440}{11}$
+<br/>=> $x=40$
+<br/>=> $(10)*x=(10)*40=400$
+<br/>Hence, Pranali has $40$ books and Dharmesh has $400$ books ",
+text,1,30203,3,"Varun and Sandesh have a total of 296 Apples.If Varun has 7 times the Apples that Sandesh has, how many Apples does each one have?
+",Sandesh has 37 Apples and Varun has 259 Apples,,,,Sandesh has 14 Apples and Varun has 282 Apples,Sandesh has 14 Apples and Varun has 98 Apples,Sandesh has 259 Apples and Varun has 37 Apples,60,3,,,"let us assume Sandesh has $x$ Apples.
+    <br/>Since, Varun has $7$ times the Apples that Sandesh has
+    <br/>Therefore, Varun will have $7*x $ Apples.
+    <br/>Since, Sandesh and Varun have a total of $296$ Apples
+    <br/>    => $ x+(7*x)=296$ 
+    <br/>    => $ x + 7x =296$<br/>=> $ (8)* x=296$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{296}{8}$
+<br/>=> $x=37$
+<br/>=> $(7)*x=(7)*37=259$
+<br/>Hence, Sandesh has $37$ Apples and Varun has $259$ Apples ",
+text,1,30203,3,"Abhijeet and Mihir have a total of 56 chocolates.If Mihir has 3 times the chocolates that Abhijeet has, how many chocolates does each one have?
+",Abhijeet has 14 chocolates and Mihir has 42 chocolates,,,,Abhijeet has 21 chocolates and Mihir has 35 chocolates,Abhijeet has 15 chocolates and Mihir has 45 chocolates,Abhijeet has 42 chocolates and Mihir has 14 chocolates,60,3,,,"let us assume Abhijeet has $x$ chocolates.
+    <br/>Since, Mihir has $3$ times the chocolates that Abhijeet has
+    <br/>Therefore, Mihir will have $3*x $ chocolates.
+    <br/>Since, Abhijeet and Mihir have a total of $56$ chocolates
+    <br/>    => $ x+(3*x)=56$ 
+    <br/>    => $ x + 3x =56$<br/>=> $ (4)* x=56$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{56}{4}$
+<br/>=> $x=14$
+<br/>=> $(3)*x=(3)*14=42$
+<br/>Hence, Abhijeet has $14$ chocolates and Mihir has $42$ chocolates ",
+text,1,30203,3,"Saloni and Ganesh have a total of 228 candies.If Ganesh has 5 times the candies that Saloni has, how many candies does each one have?
+",Saloni has 38 candies and Ganesh has 190 candies,,,,Saloni has 10 candies and Ganesh has 218 candies,Saloni has 21 candies and Ganesh has 105 candies,Saloni has 190 candies and Ganesh has 38 candies,60,3,,,"let us assume Saloni has $x$ candies.
+    <br/>Since, Ganesh has $5$ times the candies that Saloni has
+    <br/>Therefore, Ganesh will have $5*x $ candies.
+    <br/>Since, Saloni and Ganesh have a total of $228$ candies
+    <br/>    => $ x+(5*x)=228$ 
+    <br/>    => $ x + 5x =228$<br/>=> $ (6)* x=228$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{228}{6}$
+<br/>=> $x=38$
+<br/>=> $(5)*x=(5)*38=190$
+<br/>Hence, Saloni has $38$ candies and Ganesh has $190$ candies ",
+text,1,30203,3,"Mehul and Gargi have a total of 108 pencils.If Mehul has 8 times the pencils that Gargi has, how many pencils does each one have?
+",Gargi has 12 pencils and Mehul has 96 pencils,,,,Gargi has 28 pencils and Mehul has 80 pencils,Gargi has 26 pencils and Mehul has 208 pencils,Gargi has 96 pencils and Mehul has 12 pencils,60,3,,,"let us assume Gargi has $x$ pencils.
+    <br/>Since, Mehul has $8$ times the pencils that Gargi has
+    <br/>Therefore, Mehul will have $8*x $ pencils.
+    <br/>Since, Gargi and Mehul have a total of $108$ pencils
+    <br/>    => $ x+(8*x)=108$ 
+    <br/>    => $ x + 8x =108$<br/>=> $ (9)* x=108$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{108}{9}$
+<br/>=> $x=12$
+<br/>=> $(8)*x=(8)*12=96$
+<br/>Hence, Gargi has $12$ pencils and Mehul has $96$ pencils ",
+text,1,30203,3,"Vivek and Manish have a total of 100 chocolates.If Vivek has 3 times the chocolates that Manish has, how many chocolates does each one have?
+",Manish has 25 chocolates and Vivek has 75 chocolates,,,,Manish has 13 chocolates and Vivek has 87 chocolates,Manish has 24 chocolates and Vivek has 72 chocolates,Manish has 75 chocolates and Vivek has 25 chocolates,60,3,,,"let us assume Manish has $x$ chocolates.
+    <br/>Since, Vivek has $3$ times the chocolates that Manish has
+    <br/>Therefore, Vivek will have $3*x $ chocolates.
+    <br/>Since, Manish and Vivek have a total of $100$ chocolates
+    <br/>    => $ x+(3*x)=100$ 
+    <br/>    => $ x + 3x =100$<br/>=> $ (4)* x=100$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{100}{4}$
+<br/>=> $x=25$
+<br/>=> $(3)*x=(3)*25=75$
+<br/>Hence, Manish has $25$ chocolates and Vivek has $75$ chocolates ",
+text,1,30203,3,"Siddhesh and Kalyani have a total of 297 Cookies.If Siddhesh has 10 times the Cookies that Kalyani has, how many Cookies does each one have?
+",Kalyani has 27 Cookies and Siddhesh has 270 Cookies,,,,Kalyani has 22 Cookies and Siddhesh has 275 Cookies,Kalyani has 12 Cookies and Siddhesh has 120 Cookies,Kalyani has 270 Cookies and Siddhesh has 27 Cookies,60,3,,,"let us assume Kalyani has $x$ Cookies.
+    <br/>Since, Siddhesh has $10$ times the Cookies that Kalyani has
+    <br/>Therefore, Siddhesh will have $10*x $ Cookies.
+    <br/>Since, Kalyani and Siddhesh have a total of $297$ Cookies
+    <br/>    => $ x+(10*x)=297$ 
+    <br/>    => $ x + 10x =297$<br/>=> $ (11)* x=297$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{297}{11}$
+<br/>=> $x=27$
+<br/>=> $(10)*x=(10)*27=270$
+<br/>Hence, Kalyani has $27$ Cookies and Siddhesh has $270$ Cookies ",
+text,1,30203,3,"Soham and Kalyani have a total of 85 shirts.If Kalyani has 4 times the shirts that Soham has, how many shirts does each one have?
+",Soham has 17 shirts and Kalyani has 68 shirts,,,,Soham has 20 shirts and Kalyani has 65 shirts,Soham has 13 shirts and Kalyani has 52 shirts,Soham has 68 shirts and Kalyani has 17 shirts,60,3,,,"let us assume Soham has $x$ shirts.
+    <br/>Since, Kalyani has $4$ times the shirts that Soham has
+    <br/>Therefore, Kalyani will have $4*x $ shirts.
+    <br/>Since, Soham and Kalyani have a total of $85$ shirts
+    <br/>    => $ x+(4*x)=85$ 
+    <br/>    => $ x + 4x =85$<br/>=> $ (5)* x=85$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{85}{5}$
+<br/>=> $x=17$
+<br/>=> $(4)*x=(4)*17=68$
+<br/>Hence, Soham has $17$ shirts and Kalyani has $68$ shirts ",
+text,1,30203,3,"Akshata and Soham have a total of 288 Apples.If Soham has 8 times the Apples that Akshata has, how many Apples does each one have?
+",Akshata has 32 Apples and Soham has 256 Apples,,,,Akshata has 21 Apples and Soham has 267 Apples,Akshata has 24 Apples and Soham has 192 Apples,Akshata has 256 Apples and Soham has 32 Apples,60,3,,,"let us assume Akshata has $x$ Apples.
+    <br/>Since, Soham has $8$ times the Apples that Akshata has
+    <br/>Therefore, Soham will have $8*x $ Apples.
+    <br/>Since, Akshata and Soham have a total of $288$ Apples
+    <br/>    => $ x+(8*x)=288$ 
+    <br/>    => $ x + 8x =288$<br/>=> $ (9)* x=288$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{288}{9}$
+<br/>=> $x=32$
+<br/>=> $(8)*x=(8)*32=256$
+<br/>Hence, Akshata has $32$ Apples and Soham has $256$ Apples ",
+text,1,30203,3,"Gauravi and Sachin have a total of 57 sheets.If Sachin has 2 times the sheets that Gauravi has, how many sheets does each one have?
+",Gauravi has 19 sheets and Sachin has 38 sheets,,,,Gauravi has 17 sheets and Sachin has 40 sheets,Gauravi has 11 sheets and Sachin has 22 sheets,Gauravi has 38 sheets and Sachin has 19 sheets,60,3,,,"let us assume Gauravi has $x$ sheets.
+    <br/>Since, Sachin has $2$ times the sheets that Gauravi has
+    <br/>Therefore, Sachin will have $2*x $ sheets.
+    <br/>Since, Gauravi and Sachin have a total of $57$ sheets
+    <br/>    => $ x+(2*x)=57$ 
+    <br/>    => $ x + 2x =57$<br/>=> $ (3)* x=57$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{57}{3}$
+<br/>=> $x=19$
+<br/>=> $(2)*x=(2)*19=38$
+<br/>Hence, Gauravi has $19$ sheets and Sachin has $38$ sheets ",
+text,1,30203,3,"Aditi and Vedang have a total of 153 candies.If Aditi has 8 times the candies that Vedang has, how many candies does each one have?
+",Vedang has 17 candies and Aditi has 136 candies,,,,Vedang has 15 candies and Aditi has 138 candies,Vedang has 12 candies and Aditi has 96 candies,Vedang has 136 candies and Aditi has 17 candies,60,3,,,"let us assume Vedang has $x$ candies.
+    <br/>Since, Aditi has $8$ times the candies that Vedang has
+    <br/>Therefore, Aditi will have $8*x $ candies.
+    <br/>Since, Vedang and Aditi have a total of $153$ candies
+    <br/>    => $ x+(8*x)=153$ 
+    <br/>    => $ x + 8x =153$<br/>=> $ (9)* x=153$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{153}{9}$
+<br/>=> $x=17$
+<br/>=> $(8)*x=(8)*17=136$
+<br/>Hence, Vedang has $17$ candies and Aditi has $136$ candies ",
+text,1,30203,3,"Vedang and Tanvi have a total of 111 Jackets.If Tanvi has 2 times the Jackets that Vedang has, how many Jackets does each one have?
+",Vedang has 37 Jackets and Tanvi has 74 Jackets,,,,Vedang has 10 Jackets and Tanvi has 101 Jackets,Vedang has 28 Jackets and Tanvi has 56 Jackets,Vedang has 74 Jackets and Tanvi has 37 Jackets,60,3,,,"let us assume Vedang has $x$ Jackets.
+    <br/>Since, Tanvi has $2$ times the Jackets that Vedang has
+    <br/>Therefore, Tanvi will have $2*x $ Jackets.
+    <br/>Since, Vedang and Tanvi have a total of $111$ Jackets
+    <br/>    => $ x+(2*x)=111$ 
+    <br/>    => $ x + 2x =111$<br/>=> $ (3)* x=111$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{111}{3}$
+<br/>=> $x=37$
+<br/>=> $(2)*x=(2)*37=74$
+<br/>Hence, Vedang has $37$ Jackets and Tanvi has $74$ Jackets ",
+text,1,30203,3,"Soham and Manali have a total of 45 pants.If Soham has 2 times the pants that Manali has, how many pants does each one have?
+",Manali has 15 pants and Soham has 30 pants,,,,Manali has 17 pants and Soham has 28 pants,Manali has 22 pants and Soham has 44 pants,Manali has 30 pants and Soham has 15 pants,60,3,,,"let us assume Manali has $x$ pants.
+    <br/>Since, Soham has $2$ times the pants that Manali has
+    <br/>Therefore, Soham will have $2*x $ pants.
+    <br/>Since, Manali and Soham have a total of $45$ pants
+    <br/>    => $ x+(2*x)=45$ 
+    <br/>    => $ x + 2x =45$<br/>=> $ (3)* x=45$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{45}{3}$
+<br/>=> $x=15$
+<br/>=> $(2)*x=(2)*15=30$
+<br/>Hence, Manali has $15$ pants and Soham has $30$ pants ",
+text,1,30203,3,"Manali and Yogesh have a total of 108 Bananas.If Manali has 3 times the Bananas that Yogesh has, how many Bananas does each one have?
+",Yogesh has 27 Bananas and Manali has 81 Bananas,,,,Yogesh has 19 Bananas and Manali has 89 Bananas,Yogesh has 29 Bananas and Manali has 87 Bananas,Yogesh has 81 Bananas and Manali has 27 Bananas,60,3,,,"let us assume Yogesh has $x$ Bananas.
+    <br/>Since, Manali has $3$ times the Bananas that Yogesh has
+    <br/>Therefore, Manali will have $3*x $ Bananas.
+    <br/>Since, Yogesh and Manali have a total of $108$ Bananas
+    <br/>    => $ x+(3*x)=108$ 
+    <br/>    => $ x + 3x =108$<br/>=> $ (4)* x=108$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{108}{4}$
+<br/>=> $x=27$
+<br/>=> $(3)*x=(3)*27=81$
+<br/>Hence, Yogesh has $27$ Bananas and Manali has $81$ Bananas ",
+text,1,30203,3,"Onkar and Ishika have a total of 222 pants.If Ishika has 5 times the pants that Onkar has, how many pants does each one have?
+",Onkar has 37 pants and Ishika has 185 pants,,,,Onkar has 10 pants and Ishika has 212 pants,Onkar has 16 pants and Ishika has 80 pants,Onkar has 185 pants and Ishika has 37 pants,60,3,,,"let us assume Onkar has $x$ pants.
+    <br/>Since, Ishika has $5$ times the pants that Onkar has
+    <br/>Therefore, Ishika will have $5*x $ pants.
+    <br/>Since, Onkar and Ishika have a total of $222$ pants
+    <br/>    => $ x+(5*x)=222$ 
+    <br/>    => $ x + 5x =222$<br/>=> $ (6)* x=222$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{222}{6}$
+<br/>=> $x=37$
+<br/>=> $(5)*x=(5)*37=185$
+<br/>Hence, Onkar has $37$ pants and Ishika has $185$ pants ",
+text,1,30203,3,"Prajwal and Aruni have a total of 126 Apples.If Aruni has 6 times the Apples that Prajwal has, how many Apples does each one have?
+",Prajwal has 18 Apples and Aruni has 108 Apples,,,,Prajwal has 14 Apples and Aruni has 112 Apples,Prajwal has 17 Apples and Aruni has 102 Apples,Prajwal has 108 Apples and Aruni has 18 Apples,60,3,,,"let us assume Prajwal has $x$ Apples.
+    <br/>Since, Aruni has $6$ times the Apples that Prajwal has
+    <br/>Therefore, Aruni will have $6*x $ Apples.
+    <br/>Since, Prajwal and Aruni have a total of $126$ Apples
+    <br/>    => $ x+(6*x)=126$ 
+    <br/>    => $ x + 6x =126$<br/>=> $ (7)* x=126$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{126}{7}$
+<br/>=> $x=18$
+<br/>=> $(6)*x=(6)*18=108$
+<br/>Hence, Prajwal has $18$ Apples and Aruni has $108$ Apples ",
+text,1,30203,3,"Vivek and Sachin have a total of 245 Bananas.If Vivek has 6 times the Bananas that Sachin has, how many Bananas does each one have?
+",Sachin has 35 Bananas and Vivek has 210 Bananas,,,,Sachin has 17 Bananas and Vivek has 228 Bananas,Sachin has 25 Bananas and Vivek has 150 Bananas,Sachin has 210 Bananas and Vivek has 35 Bananas,60,3,,,"let us assume Sachin has $x$ Bananas.
+    <br/>Since, Vivek has $6$ times the Bananas that Sachin has
+    <br/>Therefore, Vivek will have $6*x $ Bananas.
+    <br/>Since, Sachin and Vivek have a total of $245$ Bananas
+    <br/>    => $ x+(6*x)=245$ 
+    <br/>    => $ x + 6x =245$<br/>=> $ (7)* x=245$
+<br/>Dividing both the sides by $7$
+<br/>=> $x=\dfrac{245}{7}$
+<br/>=> $x=35$
+<br/>=> $(6)*x=(6)*35=210$
+<br/>Hence, Sachin has $35$ Bananas and Vivek has $210$ Bananas ",
+text,1,30203,3,"Abhijeet and Siddhesh have a total of 135 Watermelons.If Siddhesh has 8 times the Watermelons that Abhijeet has, how many Watermelons does each one have?
+",Abhijeet has 15 Watermelons and Siddhesh has 120 Watermelons,,,,Abhijeet has 14 Watermelons and Siddhesh has 121 Watermelons,Abhijeet has 21 Watermelons and Siddhesh has 168 Watermelons,Abhijeet has 120 Watermelons and Siddhesh has 15 Watermelons,60,3,,,"let us assume Abhijeet has $x$ Watermelons.
+    <br/>Since, Siddhesh has $8$ times the Watermelons that Abhijeet has
+    <br/>Therefore, Siddhesh will have $8*x $ Watermelons.
+    <br/>Since, Abhijeet and Siddhesh have a total of $135$ Watermelons
+    <br/>    => $ x+(8*x)=135$ 
+    <br/>    => $ x + 8x =135$<br/>=> $ (9)* x=135$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{135}{9}$
+<br/>=> $x=15$
+<br/>=> $(8)*x=(8)*15=120$
+<br/>Hence, Abhijeet has $15$ Watermelons and Siddhesh has $120$ Watermelons ",
+text,1,30203,3,"Kshitij and Kshitij have a total of 54 sheets.If Kshitij has 2 times the sheets that Kshitij has, how many sheets does each one have?
+",Kshitij has 18 sheets and Kshitij has 36 sheets,,,,Kshitij has 14 sheets and Kshitij has 40 sheets,Kshitij has 22 sheets and Kshitij has 44 sheets,Kshitij has 36 sheets and Kshitij has 18 sheets,60,3,,,"let us assume Kshitij has $x$ sheets.
+    <br/>Since, Kshitij has $2$ times the sheets that Kshitij has
+    <br/>Therefore, Kshitij will have $2*x $ sheets.
+    <br/>Since, Kshitij and Kshitij have a total of $54$ sheets
+    <br/>    => $ x+(2*x)=54$ 
+    <br/>    => $ x + 2x =54$<br/>=> $ (3)* x=54$
+<br/>Dividing both the sides by $3$
+<br/>=> $x=\dfrac{54}{3}$
+<br/>=> $x=18$
+<br/>=> $(2)*x=(2)*18=36$
+<br/>Hence, Kshitij has $18$ sheets and Kshitij has $36$ sheets ",
+text,1,30203,3,"Tejas and Ankita have a total of 250 Jackets.If Ankita has 9 times the Jackets that Tejas has, how many Jackets does each one have?
+",Tejas has 25 Jackets and Ankita has 225 Jackets,,,,Tejas has 11 Jackets and Ankita has 239 Jackets,Tejas has 22 Jackets and Ankita has 198 Jackets,Tejas has 225 Jackets and Ankita has 25 Jackets,60,3,,,"let us assume Tejas has $x$ Jackets.
+    <br/>Since, Ankita has $9$ times the Jackets that Tejas has
+    <br/>Therefore, Ankita will have $9*x $ Jackets.
+    <br/>Since, Tejas and Ankita have a total of $250$ Jackets
+    <br/>    => $ x+(9*x)=250$ 
+    <br/>    => $ x + 9x =250$<br/>=> $ (10)* x=250$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{250}{10}$
+<br/>=> $x=25$
+<br/>=> $(9)*x=(9)*25=225$
+<br/>Hence, Tejas has $25$ Jackets and Ankita has $225$ Jackets ",
+text,1,30203,3,"Anuja and Prathamesh have a total of 304 Apples.If Anuja has 7 times the Apples that Prathamesh has, how many Apples does each one have?
+",Prathamesh has 38 Apples and Anuja has 266 Apples,,,,Prathamesh has 24 Apples and Anuja has 280 Apples,Prathamesh has 14 Apples and Anuja has 98 Apples,Prathamesh has 266 Apples and Anuja has 38 Apples,60,3,,,"let us assume Prathamesh has $x$ Apples.
+    <br/>Since, Anuja has $7$ times the Apples that Prathamesh has
+    <br/>Therefore, Anuja will have $7*x $ Apples.
+    <br/>Since, Prathamesh and Anuja have a total of $304$ Apples
+    <br/>    => $ x+(7*x)=304$ 
+    <br/>    => $ x + 7x =304$<br/>=> $ (8)* x=304$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{304}{8}$
+<br/>=> $x=38$
+<br/>=> $(7)*x=(7)*38=266$
+<br/>Hence, Prathamesh has $38$ Apples and Anuja has $266$ Apples ",
+text,1,30203,3,"Tushar and Smital have a total of 162 Jackets.If Tushar has 8 times the Jackets that Smital has, how many Jackets does each one have?
+",Smital has 18 Jackets and Tushar has 144 Jackets,,,,Smital has 23 Jackets and Tushar has 139 Jackets,Smital has 14 Jackets and Tushar has 112 Jackets,Smital has 144 Jackets and Tushar has 18 Jackets,60,3,,,"let us assume Smital has $x$ Jackets.
+    <br/>Since, Tushar has $8$ times the Jackets that Smital has
+    <br/>Therefore, Tushar will have $8*x $ Jackets.
+    <br/>Since, Smital and Tushar have a total of $162$ Jackets
+    <br/>    => $ x+(8*x)=162$ 
+    <br/>    => $ x + 8x =162$<br/>=> $ (9)* x=162$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{162}{9}$
+<br/>=> $x=18$
+<br/>=> $(8)*x=(8)*18=144$
+<br/>Hence, Smital has $18$ Jackets and Tushar has $144$ Jackets ",
+text,1,30203,3,"Gauravi and Tushar have a total of 310 shirts.If Tushar has 9 times the shirts that Gauravi has, how many shirts does each one have?
+",Gauravi has 31 shirts and Tushar has 279 shirts,,,,Gauravi has 13 shirts and Tushar has 297 shirts,Gauravi has 22 shirts and Tushar has 198 shirts,Gauravi has 279 shirts and Tushar has 31 shirts,60,3,,,"let us assume Gauravi has $x$ shirts.
+    <br/>Since, Tushar has $9$ times the shirts that Gauravi has
+    <br/>Therefore, Tushar will have $9*x $ shirts.
+    <br/>Since, Gauravi and Tushar have a total of $310$ shirts
+    <br/>    => $ x+(9*x)=310$ 
+    <br/>    => $ x + 9x =310$<br/>=> $ (10)* x=310$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{310}{10}$
+<br/>=> $x=31$
+<br/>=> $(9)*x=(9)*31=279$
+<br/>Hence, Gauravi has $31$ shirts and Tushar has $279$ shirts ",
+text,1,30203,3,"Yogesh and Aboli have a total of 60 pens.If Aboli has 5 times the pens that Yogesh has, how many pens does each one have?
+",Yogesh has 10 pens and Aboli has 50 pens,,,,Yogesh has 29 pens and Aboli has 31 pens,Yogesh has 19 pens and Aboli has 95 pens,Yogesh has 50 pens and Aboli has 10 pens,60,3,,,"let us assume Yogesh has $x$ pens.
+    <br/>Since, Aboli has $5$ times the pens that Yogesh has
+    <br/>Therefore, Aboli will have $5*x $ pens.
+    <br/>Since, Yogesh and Aboli have a total of $60$ pens
+    <br/>    => $ x+(5*x)=60$ 
+    <br/>    => $ x + 5x =60$<br/>=> $ (6)* x=60$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{60}{6}$
+<br/>=> $x=10$
+<br/>=> $(5)*x=(5)*10=50$
+<br/>Hence, Yogesh has $10$ pens and Aboli has $50$ pens ",
+text,1,30203,3,"Atharva and Gaurav have a total of 187 pants.If Gaurav has 10 times the pants that Atharva has, how many pants does each one have?
+",Atharva has 17 pants and Gaurav has 170 pants,,,,Atharva has 28 pants and Gaurav has 159 pants,Atharva has 12 pants and Gaurav has 120 pants,Atharva has 170 pants and Gaurav has 17 pants,60,3,,,"let us assume Atharva has $x$ pants.
+    <br/>Since, Gaurav has $10$ times the pants that Atharva has
+    <br/>Therefore, Gaurav will have $10*x $ pants.
+    <br/>Since, Atharva and Gaurav have a total of $187$ pants
+    <br/>    => $ x+(10*x)=187$ 
+    <br/>    => $ x + 10x =187$<br/>=> $ (11)* x=187$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{187}{11}$
+<br/>=> $x=17$
+<br/>=> $(10)*x=(10)*17=170$
+<br/>Hence, Atharva has $17$ pants and Gaurav has $170$ pants ",
+text,1,30203,3,"Pooja and Utkarsh have a total of 110 chocolates.If Pooja has 10 times the chocolates that Utkarsh has, how many chocolates does each one have?
+",Utkarsh has 10 chocolates and Pooja has 100 chocolates,,,,Utkarsh has 12 chocolates and Pooja has 98 chocolates,Utkarsh has 13 chocolates and Pooja has 130 chocolates,Utkarsh has 100 chocolates and Pooja has 10 chocolates,60,3,,,"let us assume Utkarsh has $x$ chocolates.
+    <br/>Since, Pooja has $10$ times the chocolates that Utkarsh has
+    <br/>Therefore, Pooja will have $10*x $ chocolates.
+    <br/>Since, Utkarsh and Pooja have a total of $110$ chocolates
+    <br/>    => $ x+(10*x)=110$ 
+    <br/>    => $ x + 10x =110$<br/>=> $ (11)* x=110$
+<br/>Dividing both the sides by $11$
+<br/>=> $x=\dfrac{110}{11}$
+<br/>=> $x=10$
+<br/>=> $(10)*x=(10)*10=100$
+<br/>Hence, Utkarsh has $10$ chocolates and Pooja has $100$ chocolates ",
+text,1,30203,3,"Yash and Sanket have a total of 72 lollipops.If Sanket has 5 times the lollipops that Yash has, how many lollipops does each one have?
+",Yash has 12 lollipops and Sanket has 60 lollipops,,,,Yash has 30 lollipops and Sanket has 42 lollipops,Yash has 27 lollipops and Sanket has 135 lollipops,Yash has 60 lollipops and Sanket has 12 lollipops,60,3,,,"let us assume Yash has $x$ lollipops.
+    <br/>Since, Sanket has $5$ times the lollipops that Yash has
+    <br/>Therefore, Sanket will have $5*x $ lollipops.
+    <br/>Since, Yash and Sanket have a total of $72$ lollipops
+    <br/>    => $ x+(5*x)=72$ 
+    <br/>    => $ x + 5x =72$<br/>=> $ (6)* x=72$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{72}{6}$
+<br/>=> $x=12$
+<br/>=> $(5)*x=(5)*12=60$
+<br/>Hence, Yash has $12$ lollipops and Sanket has $60$ lollipops ",
+text,1,30203,3,"Pooja and Gayatri have a total of 132 chocolates.If Gayatri has 5 times the chocolates that Pooja has, how many chocolates does each one have?
+",Pooja has 22 chocolates and Gayatri has 110 chocolates,,,,Pooja has 23 chocolates and Gayatri has 109 chocolates,Pooja has 11 chocolates and Gayatri has 55 chocolates,Pooja has 110 chocolates and Gayatri has 22 chocolates,60,3,,,"let us assume Pooja has $x$ chocolates.
+    <br/>Since, Gayatri has $5$ times the chocolates that Pooja has
+    <br/>Therefore, Gayatri will have $5*x $ chocolates.
+    <br/>Since, Pooja and Gayatri have a total of $132$ chocolates
+    <br/>    => $ x+(5*x)=132$ 
+    <br/>    => $ x + 5x =132$<br/>=> $ (6)* x=132$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{132}{6}$
+<br/>=> $x=22$
+<br/>=> $(5)*x=(5)*22=110$
+<br/>Hence, Pooja has $22$ chocolates and Gayatri has $110$ chocolates ",
+text,1,30203,3,"Ganesh and Isha have a total of 190 lollipops.If Ganesh has 9 times the lollipops that Isha has, how many lollipops does each one have?
+",Isha has 19 lollipops and Ganesh has 171 lollipops,,,,Isha has 11 lollipops and Ganesh has 179 lollipops,Isha has 22 lollipops and Ganesh has 198 lollipops,Isha has 171 lollipops and Ganesh has 19 lollipops,60,3,,,"let us assume Isha has $x$ lollipops.
+    <br/>Since, Ganesh has $9$ times the lollipops that Isha has
+    <br/>Therefore, Ganesh will have $9*x $ lollipops.
+    <br/>Since, Isha and Ganesh have a total of $190$ lollipops
+    <br/>    => $ x+(9*x)=190$ 
+    <br/>    => $ x + 9x =190$<br/>=> $ (10)* x=190$
+<br/>Dividing both the sides by $10$
+<br/>=> $x=\dfrac{190}{10}$
+<br/>=> $x=19$
+<br/>=> $(9)*x=(9)*19=171$
+<br/>Hence, Isha has $19$ lollipops and Ganesh has $171$ lollipops ",
+text,1,30203,3,"Mehul and Aabha have a total of 243 pencils.If Mehul has 8 times the pencils that Aabha has, how many pencils does each one have?
+",Aabha has 27 pencils and Mehul has 216 pencils,,,,Aabha has 19 pencils and Mehul has 224 pencils,Aabha has 16 pencils and Mehul has 128 pencils,Aabha has 216 pencils and Mehul has 27 pencils,60,3,,,"let us assume Aabha has $x$ pencils.
+    <br/>Since, Mehul has $8$ times the pencils that Aabha has
+    <br/>Therefore, Mehul will have $8*x $ pencils.
+    <br/>Since, Aabha and Mehul have a total of $243$ pencils
+    <br/>    => $ x+(8*x)=243$ 
+    <br/>    => $ x + 8x =243$<br/>=> $ (9)* x=243$
+<br/>Dividing both the sides by $9$
+<br/>=> $x=\dfrac{243}{9}$
+<br/>=> $x=27$
+<br/>=> $(8)*x=(8)*27=216$
+<br/>Hence, Aabha has $27$ pencils and Mehul has $216$ pencils ",
+text,1,30203,3,"Nishi and Kalyani have a total of 190 toys.If Kalyani has 4 times the toys that Nishi has, how many toys does each one have?
+",Nishi has 38 toys and Kalyani has 152 toys,,,,Nishi has 23 toys and Kalyani has 167 toys,Nishi has 13 toys and Kalyani has 52 toys,Nishi has 152 toys and Kalyani has 38 toys,60,3,,,"let us assume Nishi has $x$ toys.
+    <br/>Since, Kalyani has $4$ times the toys that Nishi has
+    <br/>Therefore, Kalyani will have $4*x $ toys.
+    <br/>Since, Nishi and Kalyani have a total of $190$ toys
+    <br/>    => $ x+(4*x)=190$ 
+    <br/>    => $ x + 4x =190$<br/>=> $ (5)* x=190$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{190}{5}$
+<br/>=> $x=38$
+<br/>=> $(4)*x=(4)*38=152$
+<br/>Hence, Nishi has $38$ toys and Kalyani has $152$ toys ",
+text,1,30203,3,"Prajwal and Rahul have a total of 136 pencils.If Prajwal has 7 times the pencils that Rahul has, how many pencils does each one have?
+",Rahul has 17 pencils and Prajwal has 119 pencils,,,,Rahul has 24 pencils and Prajwal has 112 pencils,Rahul has 14 pencils and Prajwal has 98 pencils,Rahul has 119 pencils and Prajwal has 17 pencils,60,3,,,"let us assume Rahul has $x$ pencils.
+    <br/>Since, Prajwal has $7$ times the pencils that Rahul has
+    <br/>Therefore, Prajwal will have $7*x $ pencils.
+    <br/>Since, Rahul and Prajwal have a total of $136$ pencils
+    <br/>    => $ x+(7*x)=136$ 
+    <br/>    => $ x + 7x =136$<br/>=> $ (8)* x=136$
+<br/>Dividing both the sides by $8$
+<br/>=> $x=\dfrac{136}{8}$
+<br/>=> $x=17$
+<br/>=> $(7)*x=(7)*17=119$
+<br/>Hence, Rahul has $17$ pencils and Prajwal has $119$ pencils ",
+text,1,30203,3,"Onkar and Aadesh have a total of 100 pants.If Aadesh has 3 times the pants that Onkar has, how many pants does each one have?
+",Onkar has 25 pants and Aadesh has 75 pants,,,,Onkar has 24 pants and Aadesh has 76 pants,Onkar has 11 pants and Aadesh has 33 pants,Onkar has 75 pants and Aadesh has 25 pants,60,3,,,"let us assume Onkar has $x$ pants.
+    <br/>Since, Aadesh has $3$ times the pants that Onkar has
+    <br/>Therefore, Aadesh will have $3*x $ pants.
+    <br/>Since, Onkar and Aadesh have a total of $100$ pants
+    <br/>    => $ x+(3*x)=100$ 
+    <br/>    => $ x + 3x =100$<br/>=> $ (4)* x=100$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{100}{4}$
+<br/>=> $x=25$
+<br/>=> $(3)*x=(3)*25=75$
+<br/>Hence, Onkar has $25$ pants and Aadesh has $75$ pants ",
+text,1,30203,3,"Gargi and Ankita have a total of 76 pants.If Gargi has 3 times the pants that Ankita has, how many pants does each one have?
+",Ankita has 19 pants and Gargi has 57 pants,,,,Ankita has 15 pants and Gargi has 61 pants,Ankita has 20 pants and Gargi has 60 pants,Ankita has 57 pants and Gargi has 19 pants,60,3,,,"let us assume Ankita has $x$ pants.
+    <br/>Since, Gargi has $3$ times the pants that Ankita has
+    <br/>Therefore, Gargi will have $3*x $ pants.
+    <br/>Since, Ankita and Gargi have a total of $76$ pants
+    <br/>    => $ x+(3*x)=76$ 
+    <br/>    => $ x + 3x =76$<br/>=> $ (4)* x=76$
+<br/>Dividing both the sides by $4$
+<br/>=> $x=\dfrac{76}{4}$
+<br/>=> $x=19$
+<br/>=> $(3)*x=(3)*19=57$
+<br/>Hence, Ankita has $19$ pants and Gargi has $57$ pants ",
+text,1,30203,3,"Abhijeet and Anuja have a total of 66 Cookies.If Anuja has 5 times the Cookies that Abhijeet has, how many Cookies does each one have?
+",Abhijeet has 11 Cookies and Anuja has 55 Cookies,,,,Abhijeet has 22 Cookies and Anuja has 44 Cookies,Abhijeet has 30 Cookies and Anuja has 150 Cookies,Abhijeet has 55 Cookies and Anuja has 11 Cookies,60,3,,,"let us assume Abhijeet has $x$ Cookies.
+    <br/>Since, Anuja has $5$ times the Cookies that Abhijeet has
+    <br/>Therefore, Anuja will have $5*x $ Cookies.
+    <br/>Since, Abhijeet and Anuja have a total of $66$ Cookies
+    <br/>    => $ x+(5*x)=66$ 
+    <br/>    => $ x + 5x =66$<br/>=> $ (6)* x=66$
+<br/>Dividing both the sides by $6$
+<br/>=> $x=\dfrac{66}{6}$
+<br/>=> $x=11$
+<br/>=> $(5)*x=(5)*11=55$
+<br/>Hence, Abhijeet has $11$ Cookies and Anuja has $55$ Cookies ",
+text,1,30203,3,"Onkar and Pooja have a total of 105 pens.If Pooja has 4 times the pens that Onkar has, how many pens does each one have?
+",Onkar has 21 pens and Pooja has 84 pens,,,,Onkar has 15 pens and Pooja has 90 pens,Onkar has 24 pens and Pooja has 96 pens,Onkar has 84 pens and Pooja has 21 pens,60,3,,,"let us assume Onkar has $x$ pens.
+    <br/>Since, Pooja has $4$ times the pens that Onkar has
+    <br/>Therefore, Pooja will have $4*x $ pens.
+    <br/>Since, Onkar and Pooja have a total of $105$ pens
+    <br/>    => $ x+(4*x)=105$ 
+    <br/>    => $ x + 4x =105$<br/>=> $ (5)* x=105$
+<br/>Dividing both the sides by $5$
+<br/>=> $x=\dfrac{105}{5}$
+<br/>=> $x=21$
+<br/>=> $(4)*x=(4)*21=84$
+<br/>Hence, Onkar has $21$ pens and Pooja has $84$ pens ",

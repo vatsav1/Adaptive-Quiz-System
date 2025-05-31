@@ -1,0 +1,1201 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30202,3,"Tanvi prepared some nutella at home and filled it in containers. After giving away $5$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $237$g of nutella in each container,what was the total weight of nutella she made? 
+",Tanvi made a total of $24$ containers and the total weight of the nutella is $5688$ ,,,,Tanvi made a total of $25$ containers and the total weight of the nutella is $5688$,Tanvi made a total of $25$ containers and the total weight of the nutella is $5925$,Tanvi made a total of $24$ containers and the total weight of the nutella is $5925$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $5$ + $19$
+    <br/>Hence, the total number of containers = $24$
+    <br/>As we know that one container contains $237$ gm of nutella, 
+    <br/>Therefore, $24$ will contain $24$*$237$
+    <Hence, the total number of containers is $24$ and total weight of nutella is $5688$ grams",
+text,1,30202,3,"Gautami prepared some cake at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $215$g of cake in each container,what was the total weight of cake she made? 
+",Gautami made a total of $31$ containers and the total weight of the cake is $6665$ ,,,,Gautami made a total of $32$ containers and the total weight of the cake is $6665$,Gautami made a total of $31$ containers and the total weight of the cake is $6880$,Gautami made a total of $32$ containers and the total weight of the cake is $6880$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $11$
+    <br/>Hence, the total number of containers = $31$
+    <br/>As we know that one container contains $215$ gm of cake, 
+    <br/>Therefore, $31$ will contain $31$*$215$
+    <Hence, the total number of containers is $31$ and total weight of cake is $6665$ grams",
+text,1,30202,3,"Anuja prepared some jam at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $291$g of jam in each container,what was the total weight of jam she made? 
+",Anuja made a total of $30$ containers and the total weight of the jam is $8730$ ,,,,Anuja made a total of $31$ containers and the total weight of the jam is $9021$,Anuja made a total of $31$ containers and the total weight of the jam is $8730$,Anuja made a total of $30$ containers and the total weight of the jam is $9021$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $10$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $291$ gm of jam, 
+    <br/>Therefore, $30$ will contain $30$*$291$
+    <Hence, the total number of containers is $30$ and total weight of jam is $8730$ grams",
+text,1,30202,3,"Veerja prepared some chocolate at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $132$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Veerja made a total of $28$ containers and the total weight of the chocolate is $3696$ ,,,,Veerja made a total of $29$ containers and the total weight of the chocolate is $3828$,Veerja made a total of $28$ containers and the total weight of the chocolate is $3828$,Veerja made a total of $29$ containers and the total weight of the chocolate is $3696$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $11$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $132$ gm of chocolate, 
+    <br/>Therefore, $28$ will contain $28$*$132$
+    <Hence, the total number of containers is $28$ and total weight of chocolate is $3696$ grams",
+text,1,30202,3,"Vaishnavi prepared some jam at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $164$g of jam in each container,what was the total weight of jam she made? 
+",Vaishnavi made a total of $34$ containers and the total weight of the jam is $5576$ ,,,,Vaishnavi made a total of $35$ containers and the total weight of the jam is $5576$,Vaishnavi made a total of $34$ containers and the total weight of the jam is $5740$,Vaishnavi made a total of $35$ containers and the total weight of the jam is $5740$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $17$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $164$ gm of jam, 
+    <br/>Therefore, $34$ will contain $34$*$164$
+    <Hence, the total number of containers is $34$ and total weight of jam is $5576$ grams",
+text,1,30202,3,"Akanksha prepared some jam at home and filled it in containers. After giving away $15$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $300$g of jam in each container,what was the total weight of jam she made? 
+",Akanksha made a total of $30$ containers and the total weight of the jam is $9000$ ,,,,Akanksha made a total of $30$ containers and the total weight of the jam is $9300$,Akanksha made a total of $31$ containers and the total weight of the jam is $9300$,Akanksha made a total of $31$ containers and the total weight of the jam is $9000$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $15$ + $15$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $300$ gm of jam, 
+    <br/>Therefore, $30$ will contain $30$*$300$
+    <Hence, the total number of containers is $30$ and total weight of jam is $9000$ grams",
+text,1,30202,3,"Gautami prepared some pohe at home and filled it in containers. After giving away $16$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $239$g of pohe in each container,what was the total weight of pohe she made? 
+",Gautami made a total of $34$ containers and the total weight of the pohe is $8126$ ,,,,Gautami made a total of $34$ containers and the total weight of the pohe is $8365$,Gautami made a total of $35$ containers and the total weight of the pohe is $8365$,Gautami made a total of $35$ containers and the total weight of the pohe is $8126$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $16$ + $18$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $239$ gm of pohe, 
+    <br/>Therefore, $34$ will contain $34$*$239$
+    <Hence, the total number of containers is $34$ and total weight of pohe is $8126$ grams",
+text,1,30202,3,"Smital prepared some jam at home and filled it in containers. After giving away $11$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $203$g of jam in each container,what was the total weight of jam she made? 
+",Smital made a total of $22$ containers and the total weight of the jam is $4466$ ,,,,Smital made a total of $23$ containers and the total weight of the jam is $4466$,Smital made a total of $22$ containers and the total weight of the jam is $4669$,Smital made a total of $23$ containers and the total weight of the jam is $4669$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $11$ + $11$
+    <br/>Hence, the total number of containers = $22$
+    <br/>As we know that one container contains $203$ gm of jam, 
+    <br/>Therefore, $22$ will contain $22$*$203$
+    <Hence, the total number of containers is $22$ and total weight of jam is $4466$ grams",
+text,1,30202,3,"Shruti prepared some cake at home and filled it in containers. After giving away $10$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $289$g of cake in each container,what was the total weight of cake she made? 
+",Shruti made a total of $20$ containers and the total weight of the cake is $5780$ ,,,,Shruti made a total of $20$ containers and the total weight of the cake is $6069$,Shruti made a total of $21$ containers and the total weight of the cake is $6069$,Shruti made a total of $21$ containers and the total weight of the cake is $5780$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $10$ + $10$
+    <br/>Hence, the total number of containers = $20$
+    <br/>As we know that one container contains $289$ gm of cake, 
+    <br/>Therefore, $20$ will contain $20$*$289$
+    <Hence, the total number of containers is $20$ and total weight of cake is $5780$ grams",
+text,1,30202,3,"Aabha prepared some pohe at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $160$g of pohe in each container,what was the total weight of pohe she made? 
+",Aabha made a total of $35$ containers and the total weight of the pohe is $5600$ ,,,,Aabha made a total of $36$ containers and the total weight of the pohe is $5760$,Aabha made a total of $36$ containers and the total weight of the pohe is $5600$,Aabha made a total of $35$ containers and the total weight of the pohe is $5760$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $16$
+    <br/>Hence, the total number of containers = $35$
+    <br/>As we know that one container contains $160$ gm of pohe, 
+    <br/>Therefore, $35$ will contain $35$*$160$
+    <Hence, the total number of containers is $35$ and total weight of pohe is $5600$ grams",
+text,1,30202,3,"Pooja prepared some ice cream at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $227$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Pooja made a total of $26$ containers and the total weight of the ice cream is $5902$ ,,,,Pooja made a total of $27$ containers and the total weight of the ice cream is $5902$,Pooja made a total of $27$ containers and the total weight of the ice cream is $6129$,Pooja made a total of $26$ containers and the total weight of the ice cream is $6129$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $18$
+    <br/>Hence, the total number of containers = $26$
+    <br/>As we know that one container contains $227$ gm of ice cream, 
+    <br/>Therefore, $26$ will contain $26$*$227$
+    <Hence, the total number of containers is $26$ and total weight of ice cream is $5902$ grams",
+text,1,30202,3,"Nishi prepared some chocolate at home and filled it in containers. After giving away $6$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $248$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Nishi made a total of $23$ containers and the total weight of the chocolate is $5704$ ,,,,Nishi made a total of $24$ containers and the total weight of the chocolate is $5704$,Nishi made a total of $23$ containers and the total weight of the chocolate is $5952$,Nishi made a total of $24$ containers and the total weight of the chocolate is $5952$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $6$ + $17$
+    <br/>Hence, the total number of containers = $23$
+    <br/>As we know that one container contains $248$ gm of chocolate, 
+    <br/>Therefore, $23$ will contain $23$*$248$
+    <Hence, the total number of containers is $23$ and total weight of chocolate is $5704$ grams",
+text,1,30202,3,"Saloni prepared some cake at home and filled it in containers. After giving away $14$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $274$g of cake in each container,what was the total weight of cake she made? 
+",Saloni made a total of $24$ containers and the total weight of the cake is $6576$ ,,,,Saloni made a total of $25$ containers and the total weight of the cake is $6850$,Saloni made a total of $24$ containers and the total weight of the cake is $6850$,Saloni made a total of $25$ containers and the total weight of the cake is $6576$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $14$ + $10$
+    <br/>Hence, the total number of containers = $24$
+    <br/>As we know that one container contains $274$ gm of cake, 
+    <br/>Therefore, $24$ will contain $24$*$274$
+    <Hence, the total number of containers is $24$ and total weight of cake is $6576$ grams",
+text,1,30202,3,"Veerja prepared some ice cream at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $259$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Veerja made a total of $30$ containers and the total weight of the ice cream is $7770$ ,,,,Veerja made a total of $31$ containers and the total weight of the ice cream is $8029$,Veerja made a total of $30$ containers and the total weight of the ice cream is $8029$,Veerja made a total of $31$ containers and the total weight of the ice cream is $7770$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $13$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $259$ gm of ice cream, 
+    <br/>Therefore, $30$ will contain $30$*$259$
+    <Hence, the total number of containers is $30$ and total weight of ice cream is $7770$ grams",
+text,1,30202,3,"Tanvi prepared some pohe at home and filled it in containers. After giving away $10$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $178$g of pohe in each container,what was the total weight of pohe she made? 
+",Tanvi made a total of $21$ containers and the total weight of the pohe is $3738$ ,,,,Tanvi made a total of $21$ containers and the total weight of the pohe is $3916$,Tanvi made a total of $22$ containers and the total weight of the pohe is $3738$,Tanvi made a total of $22$ containers and the total weight of the pohe is $3916$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $10$ + $11$
+    <br/>Hence, the total number of containers = $21$
+    <br/>As we know that one container contains $178$ gm of pohe, 
+    <br/>Therefore, $21$ will contain $21$*$178$
+    <Hence, the total number of containers is $21$ and total weight of pohe is $3738$ grams",
+text,1,30202,3,"Aditi prepared some pohe at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $116$g of pohe in each container,what was the total weight of pohe she made? 
+",Aditi made a total of $33$ containers and the total weight of the pohe is $3828$ ,,,,Aditi made a total of $34$ containers and the total weight of the pohe is $3828$,Aditi made a total of $33$ containers and the total weight of the pohe is $3944$,Aditi made a total of $34$ containers and the total weight of the pohe is $3944$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $16$
+    <br/>Hence, the total number of containers = $33$
+    <br/>As we know that one container contains $116$ gm of pohe, 
+    <br/>Therefore, $33$ will contain $33$*$116$
+    <Hence, the total number of containers is $33$ and total weight of pohe is $3828$ grams",
+text,1,30202,3,"Yuti prepared some chocolate at home and filled it in containers. After giving away $18$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $203$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Yuti made a total of $34$ containers and the total weight of the chocolate is $6902$ ,,,,Yuti made a total of $35$ containers and the total weight of the chocolate is $6902$,Yuti made a total of $34$ containers and the total weight of the chocolate is $7105$,Yuti made a total of $35$ containers and the total weight of the chocolate is $7105$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $18$ + $16$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $203$ gm of chocolate, 
+    <br/>Therefore, $34$ will contain $34$*$203$
+    <Hence, the total number of containers is $34$ and total weight of chocolate is $6902$ grams",
+text,1,30202,3,"Aboli prepared some cake at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $104$g of cake in each container,what was the total weight of cake she made? 
+",Aboli made a total of $25$ containers and the total weight of the cake is $2600$ ,,,,Aboli made a total of $26$ containers and the total weight of the cake is $2600$,Aboli made a total of $26$ containers and the total weight of the cake is $2704$,Aboli made a total of $25$ containers and the total weight of the cake is $2704$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $17$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $104$ gm of cake, 
+    <br/>Therefore, $25$ will contain $25$*$104$
+    <Hence, the total number of containers is $25$ and total weight of cake is $2600$ grams",
+text,1,30202,3,"Veerja prepared some candies at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $163$g of candies in each container,what was the total weight of candies she made? 
+",Veerja made a total of $22$ containers and the total weight of the candies is $3586$ ,,,,Veerja made a total of $23$ containers and the total weight of the candies is $3586$,Veerja made a total of $23$ containers and the total weight of the candies is $3749$,Veerja made a total of $22$ containers and the total weight of the candies is $3749$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $14$
+    <br/>Hence, the total number of containers = $22$
+    <br/>As we know that one container contains $163$ gm of candies, 
+    <br/>Therefore, $22$ will contain $22$*$163$
+    <Hence, the total number of containers is $22$ and total weight of candies is $3586$ grams",
+text,1,30202,3,"Aboli prepared some pohe at home and filled it in containers. After giving away $12$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $103$g of pohe in each container,what was the total weight of pohe she made? 
+",Aboli made a total of $32$ containers and the total weight of the pohe is $3296$ ,,,,Aboli made a total of $33$ containers and the total weight of the pohe is $3399$,Aboli made a total of $32$ containers and the total weight of the pohe is $3399$,Aboli made a total of $33$ containers and the total weight of the pohe is $3296$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $12$ + $20$
+    <br/>Hence, the total number of containers = $32$
+    <br/>As we know that one container contains $103$ gm of pohe, 
+    <br/>Therefore, $32$ will contain $32$*$103$
+    <Hence, the total number of containers is $32$ and total weight of pohe is $3296$ grams",
+text,1,30202,3,"Yuti prepared some candies at home and filled it in containers. After giving away $11$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $185$g of candies in each container,what was the total weight of candies she made? 
+",Yuti made a total of $26$ containers and the total weight of the candies is $4810$ ,,,,Yuti made a total of $26$ containers and the total weight of the candies is $4995$,Yuti made a total of $27$ containers and the total weight of the candies is $4995$,Yuti made a total of $27$ containers and the total weight of the candies is $4810$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $11$ + $15$
+    <br/>Hence, the total number of containers = $26$
+    <br/>As we know that one container contains $185$ gm of candies, 
+    <br/>Therefore, $26$ will contain $26$*$185$
+    <Hence, the total number of containers is $26$ and total weight of candies is $4810$ grams",
+text,1,30202,3,"Vaishnavi prepared some candies at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $297$g of candies in each container,what was the total weight of candies she made? 
+",Vaishnavi made a total of $32$ containers and the total weight of the candies is $9504$ ,,,,Vaishnavi made a total of $32$ containers and the total weight of the candies is $9801$,Vaishnavi made a total of $33$ containers and the total weight of the candies is $9801$,Vaishnavi made a total of $33$ containers and the total weight of the candies is $9504$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $19$
+    <br/>Hence, the total number of containers = $32$
+    <br/>As we know that one container contains $297$ gm of candies, 
+    <br/>Therefore, $32$ will contain $32$*$297$
+    <Hence, the total number of containers is $32$ and total weight of candies is $9504$ grams",
+text,1,30202,3,"Akanksha prepared some pohe at home and filled it in containers. After giving away $15$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $288$g of pohe in each container,what was the total weight of pohe she made? 
+",Akanksha made a total of $31$ containers and the total weight of the pohe is $8928$ ,,,,Akanksha made a total of $32$ containers and the total weight of the pohe is $9216$,Akanksha made a total of $31$ containers and the total weight of the pohe is $9216$,Akanksha made a total of $32$ containers and the total weight of the pohe is $8928$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $15$ + $16$
+    <br/>Hence, the total number of containers = $31$
+    <br/>As we know that one container contains $288$ gm of pohe, 
+    <br/>Therefore, $31$ will contain $31$*$288$
+    <Hence, the total number of containers is $31$ and total weight of pohe is $8928$ grams",
+text,1,30202,3,"Chaitrali prepared some chocolate at home and filled it in containers. After giving away $16$ of the containers to her friends,she still has $12$ for herself.
+How many containers did she fill? If she filled $154$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Chaitrali made a total of $28$ containers and the total weight of the chocolate is $4312$ ,,,,Chaitrali made a total of $28$ containers and the total weight of the chocolate is $4466$,Chaitrali made a total of $29$ containers and the total weight of the chocolate is $4312$,Chaitrali made a total of $29$ containers and the total weight of the chocolate is $4466$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $16$ + $12$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $154$ gm of chocolate, 
+    <br/>Therefore, $28$ will contain $28$*$154$
+    <Hence, the total number of containers is $28$ and total weight of chocolate is $4312$ grams",
+text,1,30202,3,"Aakriti prepared some nutella at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $289$g of nutella in each container,what was the total weight of nutella she made? 
+",Aakriti made a total of $32$ containers and the total weight of the nutella is $9248$ ,,,,Aakriti made a total of $33$ containers and the total weight of the nutella is $9248$,Aakriti made a total of $33$ containers and the total weight of the nutella is $9537$,Aakriti made a total of $32$ containers and the total weight of the nutella is $9537$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $19$
+    <br/>Hence, the total number of containers = $32$
+    <br/>As we know that one container contains $289$ gm of nutella, 
+    <br/>Therefore, $32$ will contain $32$*$289$
+    <Hence, the total number of containers is $32$ and total weight of nutella is $9248$ grams",
+text,1,30202,3,"Yuti prepared some chocolate at home and filled it in containers. After giving away $18$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $107$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Yuti made a total of $32$ containers and the total weight of the chocolate is $3424$ ,,,,Yuti made a total of $33$ containers and the total weight of the chocolate is $3424$,Yuti made a total of $32$ containers and the total weight of the chocolate is $3531$,Yuti made a total of $33$ containers and the total weight of the chocolate is $3531$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $18$ + $14$
+    <br/>Hence, the total number of containers = $32$
+    <br/>As we know that one container contains $107$ gm of chocolate, 
+    <br/>Therefore, $32$ will contain $32$*$107$
+    <Hence, the total number of containers is $32$ and total weight of chocolate is $3424$ grams",
+text,1,30202,3,"Chaitrali prepared some ice cream at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $299$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Chaitrali made a total of $31$ containers and the total weight of the ice cream is $9269$ ,,,,Chaitrali made a total of $32$ containers and the total weight of the ice cream is $9269$,Chaitrali made a total of $31$ containers and the total weight of the ice cream is $9568$,Chaitrali made a total of $32$ containers and the total weight of the ice cream is $9568$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $11$
+    <br/>Hence, the total number of containers = $31$
+    <br/>As we know that one container contains $299$ gm of ice cream, 
+    <br/>Therefore, $31$ will contain $31$*$299$
+    <Hence, the total number of containers is $31$ and total weight of ice cream is $9269$ grams",
+text,1,30202,3,"Aruni prepared some chocolate at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $12$ for herself.
+How many containers did she fill? If she filled $155$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Aruni made a total of $20$ containers and the total weight of the chocolate is $3100$ ,,,,Aruni made a total of $20$ containers and the total weight of the chocolate is $3255$,Aruni made a total of $21$ containers and the total weight of the chocolate is $3255$,Aruni made a total of $21$ containers and the total weight of the chocolate is $3100$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $12$
+    <br/>Hence, the total number of containers = $20$
+    <br/>As we know that one container contains $155$ gm of chocolate, 
+    <br/>Therefore, $20$ will contain $20$*$155$
+    <Hence, the total number of containers is $20$ and total weight of chocolate is $3100$ grams",
+text,1,30202,3,"Tanvi prepared some pohe at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $12$ for herself.
+How many containers did she fill? If she filled $291$g of pohe in each container,what was the total weight of pohe she made? 
+",Tanvi made a total of $25$ containers and the total weight of the pohe is $7275$ ,,,,Tanvi made a total of $26$ containers and the total weight of the pohe is $7566$,Tanvi made a total of $26$ containers and the total weight of the pohe is $7275$,Tanvi made a total of $25$ containers and the total weight of the pohe is $7566$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $12$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $291$ gm of pohe, 
+    <br/>Therefore, $25$ will contain $25$*$291$
+    <Hence, the total number of containers is $25$ and total weight of pohe is $7275$ grams",
+text,1,30202,3,"Anuja prepared some candies at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $138$g of candies in each container,what was the total weight of candies she made? 
+",Anuja made a total of $37$ containers and the total weight of the candies is $5106$ ,,,,Anuja made a total of $38$ containers and the total weight of the candies is $5244$,Anuja made a total of $38$ containers and the total weight of the candies is $5106$,Anuja made a total of $37$ containers and the total weight of the candies is $5244$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $17$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $138$ gm of candies, 
+    <br/>Therefore, $37$ will contain $37$*$138$
+    <Hence, the total number of containers is $37$ and total weight of candies is $5106$ grams",
+text,1,30202,3,"Pranali prepared some cake at home and filled it in containers. After giving away $6$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $151$g of cake in each container,what was the total weight of cake she made? 
+",Pranali made a total of $26$ containers and the total weight of the cake is $3926$ ,,,,Pranali made a total of $27$ containers and the total weight of the cake is $4077$,Pranali made a total of $26$ containers and the total weight of the cake is $4077$,Pranali made a total of $27$ containers and the total weight of the cake is $3926$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $6$ + $20$
+    <br/>Hence, the total number of containers = $26$
+    <br/>As we know that one container contains $151$ gm of cake, 
+    <br/>Therefore, $26$ will contain $26$*$151$
+    <Hence, the total number of containers is $26$ and total weight of cake is $3926$ grams",
+text,1,30202,3,"Shruti prepared some jam at home and filled it in containers. After giving away $9$ of the containers to her friends,she still has $12$ for herself.
+How many containers did she fill? If she filled $296$g of jam in each container,what was the total weight of jam she made? 
+",Shruti made a total of $21$ containers and the total weight of the jam is $6216$ ,,,,Shruti made a total of $21$ containers and the total weight of the jam is $6512$,Shruti made a total of $22$ containers and the total weight of the jam is $6216$,Shruti made a total of $22$ containers and the total weight of the jam is $6512$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $9$ + $12$
+    <br/>Hence, the total number of containers = $21$
+    <br/>As we know that one container contains $296$ gm of jam, 
+    <br/>Therefore, $21$ will contain $21$*$296$
+    <Hence, the total number of containers is $21$ and total weight of jam is $6216$ grams",
+text,1,30202,3,"Aabha prepared some pohe at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $216$g of pohe in each container,what was the total weight of pohe she made? 
+",Aabha made a total of $24$ containers and the total weight of the pohe is $5184$ ,,,,Aabha made a total of $25$ containers and the total weight of the pohe is $5400$,Aabha made a total of $25$ containers and the total weight of the pohe is $5184$,Aabha made a total of $24$ containers and the total weight of the pohe is $5400$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $11$
+    <br/>Hence, the total number of containers = $24$
+    <br/>As we know that one container contains $216$ gm of pohe, 
+    <br/>Therefore, $24$ will contain $24$*$216$
+    <Hence, the total number of containers is $24$ and total weight of pohe is $5184$ grams",
+text,1,30202,3,"Ishika prepared some candies at home and filled it in containers. After giving away $18$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $278$g of candies in each container,what was the total weight of candies she made? 
+",Ishika made a total of $31$ containers and the total weight of the candies is $8618$ ,,,,Ishika made a total of $32$ containers and the total weight of the candies is $8896$,Ishika made a total of $32$ containers and the total weight of the candies is $8618$,Ishika made a total of $31$ containers and the total weight of the candies is $8896$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $18$ + $13$
+    <br/>Hence, the total number of containers = $31$
+    <br/>As we know that one container contains $278$ gm of candies, 
+    <br/>Therefore, $31$ will contain $31$*$278$
+    <Hence, the total number of containers is $31$ and total weight of candies is $8618$ grams",
+text,1,30202,3,"Aboli prepared some chocolate at home and filled it in containers. After giving away $12$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $141$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Aboli made a total of $30$ containers and the total weight of the chocolate is $4230$ ,,,,Aboli made a total of $31$ containers and the total weight of the chocolate is $4230$,Aboli made a total of $31$ containers and the total weight of the chocolate is $4371$,Aboli made a total of $30$ containers and the total weight of the chocolate is $4371$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $12$ + $18$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $141$ gm of chocolate, 
+    <br/>Therefore, $30$ will contain $30$*$141$
+    <Hence, the total number of containers is $30$ and total weight of chocolate is $4230$ grams",
+text,1,30202,3,"Nishi prepared some cake at home and filled it in containers. After giving away $16$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $258$g of cake in each container,what was the total weight of cake she made? 
+",Nishi made a total of $34$ containers and the total weight of the cake is $8772$ ,,,,Nishi made a total of $35$ containers and the total weight of the cake is $9030$,Nishi made a total of $34$ containers and the total weight of the cake is $9030$,Nishi made a total of $35$ containers and the total weight of the cake is $8772$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $16$ + $18$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $258$ gm of cake, 
+    <br/>Therefore, $34$ will contain $34$*$258$
+    <Hence, the total number of containers is $34$ and total weight of cake is $8772$ grams",
+text,1,30202,3,"Veerja prepared some ice cream at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $290$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Veerja made a total of $30$ containers and the total weight of the ice cream is $8700$ ,,,,Veerja made a total of $31$ containers and the total weight of the ice cream is $8700$,Veerja made a total of $30$ containers and the total weight of the ice cream is $8990$,Veerja made a total of $31$ containers and the total weight of the ice cream is $8990$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $17$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $290$ gm of ice cream, 
+    <br/>Therefore, $30$ will contain $30$*$290$
+    <Hence, the total number of containers is $30$ and total weight of ice cream is $8700$ grams",
+text,1,30202,3,"Kajal prepared some ice cream at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $237$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Kajal made a total of $30$ containers and the total weight of the ice cream is $7110$ ,,,,Kajal made a total of $30$ containers and the total weight of the ice cream is $7347$,Kajal made a total of $31$ containers and the total weight of the ice cream is $7347$,Kajal made a total of $31$ containers and the total weight of the ice cream is $7110$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $17$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $237$ gm of ice cream, 
+    <br/>Therefore, $30$ will contain $30$*$237$
+    <Hence, the total number of containers is $30$ and total weight of ice cream is $7110$ grams",
+text,1,30202,3,"Gauravi prepared some candies at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $139$g of candies in each container,what was the total weight of candies she made? 
+",Gauravi made a total of $33$ containers and the total weight of the candies is $4587$ ,,,,Gauravi made a total of $33$ containers and the total weight of the candies is $4726$,Gauravi made a total of $34$ containers and the total weight of the candies is $4726$,Gauravi made a total of $34$ containers and the total weight of the candies is $4587$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $14$
+    <br/>Hence, the total number of containers = $33$
+    <br/>As we know that one container contains $139$ gm of candies, 
+    <br/>Therefore, $33$ will contain $33$*$139$
+    <Hence, the total number of containers is $33$ and total weight of candies is $4587$ grams",
+text,1,30202,3,"Vaishnavi prepared some nutella at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $172$g of nutella in each container,what was the total weight of nutella she made? 
+",Vaishnavi made a total of $31$ containers and the total weight of the nutella is $5332$ ,,,,Vaishnavi made a total of $32$ containers and the total weight of the nutella is $5332$,Vaishnavi made a total of $31$ containers and the total weight of the nutella is $5504$,Vaishnavi made a total of $32$ containers and the total weight of the nutella is $5504$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $11$
+    <br/>Hence, the total number of containers = $31$
+    <br/>As we know that one container contains $172$ gm of nutella, 
+    <br/>Therefore, $31$ will contain $31$*$172$
+    <Hence, the total number of containers is $31$ and total weight of nutella is $5332$ grams",
+text,1,30202,3,"Gautami prepared some nutella at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $299$g of nutella in each container,what was the total weight of nutella she made? 
+",Gautami made a total of $37$ containers and the total weight of the nutella is $11063$ ,,,,Gautami made a total of $38$ containers and the total weight of the nutella is $11063$,Gautami made a total of $38$ containers and the total weight of the nutella is $11362$,Gautami made a total of $37$ containers and the total weight of the nutella is $11362$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $17$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $299$ gm of nutella, 
+    <br/>Therefore, $37$ will contain $37$*$299$
+    <Hence, the total number of containers is $37$ and total weight of nutella is $11063$ grams",
+text,1,30202,3,"Isha prepared some pohe at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $158$g of pohe in each container,what was the total weight of pohe she made? 
+",Isha made a total of $37$ containers and the total weight of the pohe is $5846$ ,,,,Isha made a total of $38$ containers and the total weight of the pohe is $5846$,Isha made a total of $37$ containers and the total weight of the pohe is $6004$,Isha made a total of $38$ containers and the total weight of the pohe is $6004$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $17$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $158$ gm of pohe, 
+    <br/>Therefore, $37$ will contain $37$*$158$
+    <Hence, the total number of containers is $37$ and total weight of pohe is $5846$ grams",
+text,1,30202,3,"Maithili prepared some candies at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $124$g of candies in each container,what was the total weight of candies she made? 
+",Maithili made a total of $21$ containers and the total weight of the candies is $2604$ ,,,,Maithili made a total of $22$ containers and the total weight of the candies is $2604$,Maithili made a total of $21$ containers and the total weight of the candies is $2728$,Maithili made a total of $22$ containers and the total weight of the candies is $2728$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $13$
+    <br/>Hence, the total number of containers = $21$
+    <br/>As we know that one container contains $124$ gm of candies, 
+    <br/>Therefore, $21$ will contain $21$*$124$
+    <Hence, the total number of containers is $21$ and total weight of candies is $2604$ grams",
+text,1,30202,3,"Akanksha prepared some cake at home and filled it in containers. After giving away $9$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $103$g of cake in each container,what was the total weight of cake she made? 
+",Akanksha made a total of $25$ containers and the total weight of the cake is $2575$ ,,,,Akanksha made a total of $26$ containers and the total weight of the cake is $2678$,Akanksha made a total of $25$ containers and the total weight of the cake is $2678$,Akanksha made a total of $26$ containers and the total weight of the cake is $2575$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $9$ + $16$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $103$ gm of cake, 
+    <br/>Therefore, $25$ will contain $25$*$103$
+    <Hence, the total number of containers is $25$ and total weight of cake is $2575$ grams",
+text,1,30202,3,"Aboli prepared some pohe at home and filled it in containers. After giving away $7$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $238$g of pohe in each container,what was the total weight of pohe she made? 
+",Aboli made a total of $22$ containers and the total weight of the pohe is $5236$ ,,,,Aboli made a total of $23$ containers and the total weight of the pohe is $5474$,Aboli made a total of $23$ containers and the total weight of the pohe is $5236$,Aboli made a total of $22$ containers and the total weight of the pohe is $5474$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $7$ + $15$
+    <br/>Hence, the total number of containers = $22$
+    <br/>As we know that one container contains $238$ gm of pohe, 
+    <br/>Therefore, $22$ will contain $22$*$238$
+    <Hence, the total number of containers is $22$ and total weight of pohe is $5236$ grams",
+text,1,30202,3,"Vaishnavi prepared some candies at home and filled it in containers. After giving away $16$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $133$g of candies in each container,what was the total weight of candies she made? 
+",Vaishnavi made a total of $26$ containers and the total weight of the candies is $3458$ ,,,,Vaishnavi made a total of $26$ containers and the total weight of the candies is $3591$,Vaishnavi made a total of $27$ containers and the total weight of the candies is $3458$,Vaishnavi made a total of $27$ containers and the total weight of the candies is $3591$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $16$ + $10$
+    <br/>Hence, the total number of containers = $26$
+    <br/>As we know that one container contains $133$ gm of candies, 
+    <br/>Therefore, $26$ will contain $26$*$133$
+    <Hence, the total number of containers is $26$ and total weight of candies is $3458$ grams",
+text,1,30202,3,"Anuja prepared some jam at home and filled it in containers. After giving away $16$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $252$g of jam in each container,what was the total weight of jam she made? 
+",Anuja made a total of $35$ containers and the total weight of the jam is $8820$ ,,,,Anuja made a total of $36$ containers and the total weight of the jam is $9072$,Anuja made a total of $36$ containers and the total weight of the jam is $8820$,Anuja made a total of $35$ containers and the total weight of the jam is $9072$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $16$ + $19$
+    <br/>Hence, the total number of containers = $35$
+    <br/>As we know that one container contains $252$ gm of jam, 
+    <br/>Therefore, $35$ will contain $35$*$252$
+    <Hence, the total number of containers is $35$ and total weight of jam is $8820$ grams",
+text,1,30202,3,"Saloni prepared some ice cream at home and filled it in containers. After giving away $18$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $100$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Saloni made a total of $34$ containers and the total weight of the ice cream is $3400$ ,,,,Saloni made a total of $35$ containers and the total weight of the ice cream is $3500$,Saloni made a total of $34$ containers and the total weight of the ice cream is $3500$,Saloni made a total of $35$ containers and the total weight of the ice cream is $3400$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $18$ + $16$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $100$ gm of ice cream, 
+    <br/>Therefore, $34$ will contain $34$*$100$
+    <Hence, the total number of containers is $34$ and total weight of ice cream is $3400$ grams",
+text,1,30202,3,"Gayatri prepared some ice cream at home and filled it in containers. After giving away $15$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $200$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Gayatri made a total of $29$ containers and the total weight of the ice cream is $5800$ ,,,,Gayatri made a total of $30$ containers and the total weight of the ice cream is $6000$,Gayatri made a total of $30$ containers and the total weight of the ice cream is $5800$,Gayatri made a total of $29$ containers and the total weight of the ice cream is $6000$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $15$ + $14$
+    <br/>Hence, the total number of containers = $29$
+    <br/>As we know that one container contains $200$ gm of ice cream, 
+    <br/>Therefore, $29$ will contain $29$*$200$
+    <Hence, the total number of containers is $29$ and total weight of ice cream is $5800$ grams",
+text,1,30202,3,"Smital prepared some pohe at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $146$g of pohe in each container,what was the total weight of pohe she made? 
+",Smital made a total of $23$ containers and the total weight of the pohe is $3358$ ,,,,Smital made a total of $24$ containers and the total weight of the pohe is $3504$,Smital made a total of $24$ containers and the total weight of the pohe is $3358$,Smital made a total of $23$ containers and the total weight of the pohe is $3504$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $15$
+    <br/>Hence, the total number of containers = $23$
+    <br/>As we know that one container contains $146$ gm of pohe, 
+    <br/>Therefore, $23$ will contain $23$*$146$
+    <Hence, the total number of containers is $23$ and total weight of pohe is $3358$ grams",
+text,1,30202,3,"Aboli prepared some candies at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $124$g of candies in each container,what was the total weight of candies she made? 
+",Aboli made a total of $37$ containers and the total weight of the candies is $4588$ ,,,,Aboli made a total of $38$ containers and the total weight of the candies is $4712$,Aboli made a total of $38$ containers and the total weight of the candies is $4588$,Aboli made a total of $37$ containers and the total weight of the candies is $4712$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $18$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $124$ gm of candies, 
+    <br/>Therefore, $37$ will contain $37$*$124$
+    <Hence, the total number of containers is $37$ and total weight of candies is $4588$ grams",
+text,1,30202,3,"Ankita prepared some chocolate at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $185$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Ankita made a total of $35$ containers and the total weight of the chocolate is $6475$ ,,,,Ankita made a total of $36$ containers and the total weight of the chocolate is $6475$,Ankita made a total of $36$ containers and the total weight of the chocolate is $6660$,Ankita made a total of $35$ containers and the total weight of the chocolate is $6660$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $16$
+    <br/>Hence, the total number of containers = $35$
+    <br/>As we know that one container contains $185$ gm of chocolate, 
+    <br/>Therefore, $35$ will contain $35$*$185$
+    <Hence, the total number of containers is $35$ and total weight of chocolate is $6475$ grams",
+text,1,30202,3,"Gauravi prepared some chocolate at home and filled it in containers. After giving away $10$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $297$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Gauravi made a total of $28$ containers and the total weight of the chocolate is $8316$ ,,,,Gauravi made a total of $29$ containers and the total weight of the chocolate is $8316$,Gauravi made a total of $28$ containers and the total weight of the chocolate is $8613$,Gauravi made a total of $29$ containers and the total weight of the chocolate is $8613$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $10$ + $18$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $297$ gm of chocolate, 
+    <br/>Therefore, $28$ will contain $28$*$297$
+    <Hence, the total number of containers is $28$ and total weight of chocolate is $8316$ grams",
+text,1,30202,3,"Gautami prepared some pohe at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $130$g of pohe in each container,what was the total weight of pohe she made? 
+",Gautami made a total of $39$ containers and the total weight of the pohe is $5070$ ,,,,Gautami made a total of $39$ containers and the total weight of the pohe is $5200$,Gautami made a total of $40$ containers and the total weight of the pohe is $5200$,Gautami made a total of $40$ containers and the total weight of the pohe is $5070$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $20$
+    <br/>Hence, the total number of containers = $39$
+    <br/>As we know that one container contains $130$ gm of pohe, 
+    <br/>Therefore, $39$ will contain $39$*$130$
+    <Hence, the total number of containers is $39$ and total weight of pohe is $5070$ grams",
+text,1,30202,3,"Dhriti prepared some candies at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $219$g of candies in each container,what was the total weight of candies she made? 
+",Dhriti made a total of $35$ containers and the total weight of the candies is $7665$ ,,,,Dhriti made a total of $36$ containers and the total weight of the candies is $7665$,Dhriti made a total of $36$ containers and the total weight of the candies is $7884$,Dhriti made a total of $35$ containers and the total weight of the candies is $7884$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $15$
+    <br/>Hence, the total number of containers = $35$
+    <br/>As we know that one container contains $219$ gm of candies, 
+    <br/>Therefore, $35$ will contain $35$*$219$
+    <Hence, the total number of containers is $35$ and total weight of candies is $7665$ grams",
+text,1,30202,3,"Pranali prepared some pohe at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $197$g of pohe in each container,what was the total weight of pohe she made? 
+",Pranali made a total of $34$ containers and the total weight of the pohe is $6698$ ,,,,Pranali made a total of $35$ containers and the total weight of the pohe is $6698$,Pranali made a total of $34$ containers and the total weight of the pohe is $6895$,Pranali made a total of $35$ containers and the total weight of the pohe is $6895$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $17$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $197$ gm of pohe, 
+    <br/>Therefore, $34$ will contain $34$*$197$
+    <Hence, the total number of containers is $34$ and total weight of pohe is $6698$ grams",
+text,1,30202,3,"Dhriti prepared some candies at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $163$g of candies in each container,what was the total weight of candies she made? 
+",Dhriti made a total of $28$ containers and the total weight of the candies is $4564$ ,,,,Dhriti made a total of $28$ containers and the total weight of the candies is $4727$,Dhriti made a total of $29$ containers and the total weight of the candies is $4727$,Dhriti made a total of $29$ containers and the total weight of the candies is $4564$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $20$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $163$ gm of candies, 
+    <br/>Therefore, $28$ will contain $28$*$163$
+    <Hence, the total number of containers is $28$ and total weight of candies is $4564$ grams",
+text,1,30202,3,"Aakriti prepared some jam at home and filled it in containers. After giving away $12$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $257$g of jam in each container,what was the total weight of jam she made? 
+",Aakriti made a total of $25$ containers and the total weight of the jam is $6425$ ,,,,Aakriti made a total of $25$ containers and the total weight of the jam is $6682$,Aakriti made a total of $26$ containers and the total weight of the jam is $6682$,Aakriti made a total of $26$ containers and the total weight of the jam is $6425$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $12$ + $13$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $257$ gm of jam, 
+    <br/>Therefore, $25$ will contain $25$*$257$
+    <Hence, the total number of containers is $25$ and total weight of jam is $6425$ grams",
+text,1,30202,3,"Pranali prepared some pohe at home and filled it in containers. After giving away $5$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $232$g of pohe in each container,what was the total weight of pohe she made? 
+",Pranali made a total of $16$ containers and the total weight of the pohe is $3712$ ,,,,Pranali made a total of $17$ containers and the total weight of the pohe is $3712$,Pranali made a total of $16$ containers and the total weight of the pohe is $3944$,Pranali made a total of $17$ containers and the total weight of the pohe is $3944$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $5$ + $11$
+    <br/>Hence, the total number of containers = $16$
+    <br/>As we know that one container contains $232$ gm of pohe, 
+    <br/>Therefore, $16$ will contain $16$*$232$
+    <Hence, the total number of containers is $16$ and total weight of pohe is $3712$ grams",
+text,1,30202,3,"Ishika prepared some jam at home and filled it in containers. After giving away $9$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $226$g of jam in each container,what was the total weight of jam she made? 
+",Ishika made a total of $20$ containers and the total weight of the jam is $4520$ ,,,,Ishika made a total of $21$ containers and the total weight of the jam is $4520$,Ishika made a total of $20$ containers and the total weight of the jam is $4746$,Ishika made a total of $21$ containers and the total weight of the jam is $4746$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $9$ + $11$
+    <br/>Hence, the total number of containers = $20$
+    <br/>As we know that one container contains $226$ gm of jam, 
+    <br/>Therefore, $20$ will contain $20$*$226$
+    <Hence, the total number of containers is $20$ and total weight of jam is $4520$ grams",
+text,1,30202,3,"Nishi prepared some chocolate at home and filled it in containers. After giving away $9$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $248$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Nishi made a total of $27$ containers and the total weight of the chocolate is $6696$ ,,,,Nishi made a total of $27$ containers and the total weight of the chocolate is $6944$,Nishi made a total of $28$ containers and the total weight of the chocolate is $6944$,Nishi made a total of $28$ containers and the total weight of the chocolate is $6696$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $9$ + $18$
+    <br/>Hence, the total number of containers = $27$
+    <br/>As we know that one container contains $248$ gm of chocolate, 
+    <br/>Therefore, $27$ will contain $27$*$248$
+    <Hence, the total number of containers is $27$ and total weight of chocolate is $6696$ grams",
+text,1,30202,3,"Akanksha prepared some chocolate at home and filled it in containers. After giving away $11$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $225$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Akanksha made a total of $22$ containers and the total weight of the chocolate is $4950$ ,,,,Akanksha made a total of $22$ containers and the total weight of the chocolate is $5175$,Akanksha made a total of $23$ containers and the total weight of the chocolate is $5175$,Akanksha made a total of $23$ containers and the total weight of the chocolate is $4950$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $11$ + $11$
+    <br/>Hence, the total number of containers = $22$
+    <br/>As we know that one container contains $225$ gm of chocolate, 
+    <br/>Therefore, $22$ will contain $22$*$225$
+    <Hence, the total number of containers is $22$ and total weight of chocolate is $4950$ grams",
+text,1,30202,3,"Aditi prepared some ice cream at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $178$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Aditi made a total of $34$ containers and the total weight of the ice cream is $6052$ ,,,,Aditi made a total of $34$ containers and the total weight of the ice cream is $6230$,Aditi made a total of $35$ containers and the total weight of the ice cream is $6230$,Aditi made a total of $35$ containers and the total weight of the ice cream is $6052$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $15$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $178$ gm of ice cream, 
+    <br/>Therefore, $34$ will contain $34$*$178$
+    <Hence, the total number of containers is $34$ and total weight of ice cream is $6052$ grams",
+text,1,30202,3,"Manali prepared some chocolate at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $204$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Manali made a total of $39$ containers and the total weight of the chocolate is $7956$ ,,,,Manali made a total of $40$ containers and the total weight of the chocolate is $7956$,Manali made a total of $40$ containers and the total weight of the chocolate is $8160$,Manali made a total of $39$ containers and the total weight of the chocolate is $8160$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $19$
+    <br/>Hence, the total number of containers = $39$
+    <br/>As we know that one container contains $204$ gm of chocolate, 
+    <br/>Therefore, $39$ will contain $39$*$204$
+    <Hence, the total number of containers is $39$ and total weight of chocolate is $7956$ grams",
+text,1,30202,3,"Anuja prepared some pohe at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $145$g of pohe in each container,what was the total weight of pohe she made? 
+",Anuja made a total of $28$ containers and the total weight of the pohe is $4060$ ,,,,Anuja made a total of $29$ containers and the total weight of the pohe is $4205$,Anuja made a total of $29$ containers and the total weight of the pohe is $4060$,Anuja made a total of $28$ containers and the total weight of the pohe is $4205$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $20$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $145$ gm of pohe, 
+    <br/>Therefore, $28$ will contain $28$*$145$
+    <Hence, the total number of containers is $28$ and total weight of pohe is $4060$ grams",
+text,1,30202,3,"Aditi prepared some ice cream at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $255$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Aditi made a total of $32$ containers and the total weight of the ice cream is $8160$ ,,,,Aditi made a total of $33$ containers and the total weight of the ice cream is $8160$,Aditi made a total of $32$ containers and the total weight of the ice cream is $8415$,Aditi made a total of $33$ containers and the total weight of the ice cream is $8415$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $13$
+    <br/>Hence, the total number of containers = $32$
+    <br/>As we know that one container contains $255$ gm of ice cream, 
+    <br/>Therefore, $32$ will contain $32$*$255$
+    <Hence, the total number of containers is $32$ and total weight of ice cream is $8160$ grams",
+text,1,30202,3,"Kajal prepared some nutella at home and filled it in containers. After giving away $12$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $239$g of nutella in each container,what was the total weight of nutella she made? 
+",Kajal made a total of $23$ containers and the total weight of the nutella is $5497$ ,,,,Kajal made a total of $24$ containers and the total weight of the nutella is $5736$,Kajal made a total of $23$ containers and the total weight of the nutella is $5736$,Kajal made a total of $24$ containers and the total weight of the nutella is $5497$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $12$ + $11$
+    <br/>Hence, the total number of containers = $23$
+    <br/>As we know that one container contains $239$ gm of nutella, 
+    <br/>Therefore, $23$ will contain $23$*$239$
+    <Hence, the total number of containers is $23$ and total weight of nutella is $5497$ grams",
+text,1,30202,3,"Akanksha prepared some jam at home and filled it in containers. After giving away $11$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $172$g of jam in each container,what was the total weight of jam she made? 
+",Akanksha made a total of $29$ containers and the total weight of the jam is $4988$ ,,,,Akanksha made a total of $29$ containers and the total weight of the jam is $5160$,Akanksha made a total of $30$ containers and the total weight of the jam is $5160$,Akanksha made a total of $30$ containers and the total weight of the jam is $4988$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $11$ + $18$
+    <br/>Hence, the total number of containers = $29$
+    <br/>As we know that one container contains $172$ gm of jam, 
+    <br/>Therefore, $29$ will contain $29$*$172$
+    <Hence, the total number of containers is $29$ and total weight of jam is $4988$ grams",
+text,1,30202,3,"Anuja prepared some jam at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $147$g of jam in each container,what was the total weight of jam she made? 
+",Anuja made a total of $30$ containers and the total weight of the jam is $4410$ ,,,,Anuja made a total of $31$ containers and the total weight of the jam is $4557$,Anuja made a total of $31$ containers and the total weight of the jam is $4410$,Anuja made a total of $30$ containers and the total weight of the jam is $4557$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $10$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $147$ gm of jam, 
+    <br/>Therefore, $30$ will contain $30$*$147$
+    <Hence, the total number of containers is $30$ and total weight of jam is $4410$ grams",
+text,1,30202,3,"Pranali prepared some chocolate at home and filled it in containers. After giving away $6$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $106$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Pranali made a total of $20$ containers and the total weight of the chocolate is $2120$ ,,,,Pranali made a total of $21$ containers and the total weight of the chocolate is $2226$,Pranali made a total of $20$ containers and the total weight of the chocolate is $2226$,Pranali made a total of $21$ containers and the total weight of the chocolate is $2120$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $6$ + $14$
+    <br/>Hence, the total number of containers = $20$
+    <br/>As we know that one container contains $106$ gm of chocolate, 
+    <br/>Therefore, $20$ will contain $20$*$106$
+    <Hence, the total number of containers is $20$ and total weight of chocolate is $2120$ grams",
+text,1,30202,3,"Aruni prepared some cake at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $217$g of cake in each container,what was the total weight of cake she made? 
+",Aruni made a total of $37$ containers and the total weight of the cake is $8029$ ,,,,Aruni made a total of $38$ containers and the total weight of the cake is $8029$,Aruni made a total of $38$ containers and the total weight of the cake is $8246$,Aruni made a total of $37$ containers and the total weight of the cake is $8246$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $18$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $217$ gm of cake, 
+    <br/>Therefore, $37$ will contain $37$*$217$
+    <Hence, the total number of containers is $37$ and total weight of cake is $8029$ grams",
+text,1,30202,3,"Smital prepared some nutella at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $153$g of nutella in each container,what was the total weight of nutella she made? 
+",Smital made a total of $27$ containers and the total weight of the nutella is $4131$ ,,,,Smital made a total of $28$ containers and the total weight of the nutella is $4284$,Smital made a total of $27$ containers and the total weight of the nutella is $4284$,Smital made a total of $28$ containers and the total weight of the nutella is $4131$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $19$
+    <br/>Hence, the total number of containers = $27$
+    <br/>As we know that one container contains $153$ gm of nutella, 
+    <br/>Therefore, $27$ will contain $27$*$153$
+    <Hence, the total number of containers is $27$ and total weight of nutella is $4131$ grams",
+text,1,30202,3,"Isha prepared some cake at home and filled it in containers. After giving away $15$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $215$g of cake in each container,what was the total weight of cake she made? 
+",Isha made a total of $28$ containers and the total weight of the cake is $6020$ ,,,,Isha made a total of $28$ containers and the total weight of the cake is $6235$,Isha made a total of $29$ containers and the total weight of the cake is $6235$,Isha made a total of $29$ containers and the total weight of the cake is $6020$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $15$ + $13$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $215$ gm of cake, 
+    <br/>Therefore, $28$ will contain $28$*$215$
+    <Hence, the total number of containers is $28$ and total weight of cake is $6020$ grams",
+text,1,30202,3,"Neha prepared some nutella at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $179$g of nutella in each container,what was the total weight of nutella she made? 
+",Neha made a total of $34$ containers and the total weight of the nutella is $6086$ ,,,,Neha made a total of $34$ containers and the total weight of the nutella is $6265$,Neha made a total of $35$ containers and the total weight of the nutella is $6086$,Neha made a total of $35$ containers and the total weight of the nutella is $6265$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $17$
+    <br/>Hence, the total number of containers = $34$
+    <br/>As we know that one container contains $179$ gm of nutella, 
+    <br/>Therefore, $34$ will contain $34$*$179$
+    <Hence, the total number of containers is $34$ and total weight of nutella is $6086$ grams",
+text,1,30202,3,"Pranali prepared some cake at home and filled it in containers. After giving away $6$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $298$g of cake in each container,what was the total weight of cake she made? 
+",Pranali made a total of $16$ containers and the total weight of the cake is $4768$ ,,,,Pranali made a total of $16$ containers and the total weight of the cake is $5066$,Pranali made a total of $17$ containers and the total weight of the cake is $4768$,Pranali made a total of $17$ containers and the total weight of the cake is $5066$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $6$ + $10$
+    <br/>Hence, the total number of containers = $16$
+    <br/>As we know that one container contains $298$ gm of cake, 
+    <br/>Therefore, $16$ will contain $16$*$298$
+    <Hence, the total number of containers is $16$ and total weight of cake is $4768$ grams",
+text,1,30202,3,"Ishika prepared some jam at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $204$g of jam in each container,what was the total weight of jam she made? 
+",Ishika made a total of $36$ containers and the total weight of the jam is $7344$ ,,,,Ishika made a total of $37$ containers and the total weight of the jam is $7548$,Ishika made a total of $36$ containers and the total weight of the jam is $7548$,Ishika made a total of $37$ containers and the total weight of the jam is $7344$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $16$
+    <br/>Hence, the total number of containers = $36$
+    <br/>As we know that one container contains $204$ gm of jam, 
+    <br/>Therefore, $36$ will contain $36$*$204$
+    <Hence, the total number of containers is $36$ and total weight of jam is $7344$ grams",
+text,1,30202,3,"Aabha prepared some nutella at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $130$g of nutella in each container,what was the total weight of nutella she made? 
+",Aabha made a total of $30$ containers and the total weight of the nutella is $3900$ ,,,,Aabha made a total of $30$ containers and the total weight of the nutella is $4030$,Aabha made a total of $31$ containers and the total weight of the nutella is $4030$,Aabha made a total of $31$ containers and the total weight of the nutella is $3900$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $13$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $130$ gm of nutella, 
+    <br/>Therefore, $30$ will contain $30$*$130$
+    <Hence, the total number of containers is $30$ and total weight of nutella is $3900$ grams",
+text,1,30202,3,"Shivani prepared some candies at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $17$ for herself.
+How many containers did she fill? If she filled $238$g of candies in each container,what was the total weight of candies she made? 
+",Shivani made a total of $37$ containers and the total weight of the candies is $8806$ ,,,,Shivani made a total of $37$ containers and the total weight of the candies is $9044$,Shivani made a total of $38$ containers and the total weight of the candies is $8806$,Shivani made a total of $38$ containers and the total weight of the candies is $9044$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $17$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $238$ gm of candies, 
+    <br/>Therefore, $37$ will contain $37$*$238$
+    <Hence, the total number of containers is $37$ and total weight of candies is $8806$ grams",
+text,1,30202,3,"Aboli prepared some pohe at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $241$g of pohe in each container,what was the total weight of pohe she made? 
+",Aboli made a total of $35$ containers and the total weight of the pohe is $8435$ ,,,,Aboli made a total of $35$ containers and the total weight of the pohe is $8676$,Aboli made a total of $36$ containers and the total weight of the pohe is $8676$,Aboli made a total of $36$ containers and the total weight of the pohe is $8435$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $16$
+    <br/>Hence, the total number of containers = $35$
+    <br/>As we know that one container contains $241$ gm of pohe, 
+    <br/>Therefore, $35$ will contain $35$*$241$
+    <Hence, the total number of containers is $35$ and total weight of pohe is $8435$ grams",
+text,1,30202,3,"Vaishnavi prepared some jam at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $164$g of jam in each container,what was the total weight of jam she made? 
+",Vaishnavi made a total of $29$ containers and the total weight of the jam is $4756$ ,,,,Vaishnavi made a total of $29$ containers and the total weight of the jam is $4920$,Vaishnavi made a total of $30$ containers and the total weight of the jam is $4756$,Vaishnavi made a total of $30$ containers and the total weight of the jam is $4920$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $10$
+    <br/>Hence, the total number of containers = $29$
+    <br/>As we know that one container contains $164$ gm of jam, 
+    <br/>Therefore, $29$ will contain $29$*$164$
+    <Hence, the total number of containers is $29$ and total weight of jam is $4756$ grams",
+text,1,30202,3,"Tanvi prepared some candies at home and filled it in containers. After giving away $15$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $190$g of candies in each container,what was the total weight of candies she made? 
+",Tanvi made a total of $33$ containers and the total weight of the candies is $6270$ ,,,,Tanvi made a total of $34$ containers and the total weight of the candies is $6270$,Tanvi made a total of $34$ containers and the total weight of the candies is $6460$,Tanvi made a total of $33$ containers and the total weight of the candies is $6460$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $15$ + $18$
+    <br/>Hence, the total number of containers = $33$
+    <br/>As we know that one container contains $190$ gm of candies, 
+    <br/>Therefore, $33$ will contain $33$*$190$
+    <Hence, the total number of containers is $33$ and total weight of candies is $6270$ grams",
+text,1,30202,3,"Saloni prepared some jam at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $125$g of jam in each container,what was the total weight of jam she made? 
+",Saloni made a total of $37$ containers and the total weight of the jam is $4625$ ,,,,Saloni made a total of $38$ containers and the total weight of the jam is $4750$,Saloni made a total of $37$ containers and the total weight of the jam is $4750$,Saloni made a total of $38$ containers and the total weight of the jam is $4625$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $20$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $125$ gm of jam, 
+    <br/>Therefore, $37$ will contain $37$*$125$
+    <Hence, the total number of containers is $37$ and total weight of jam is $4625$ grams",
+text,1,30202,3,"Shivani prepared some nutella at home and filled it in containers. After giving away $12$ of the containers to her friends,she still has $13$ for herself.
+How many containers did she fill? If she filled $188$g of nutella in each container,what was the total weight of nutella she made? 
+",Shivani made a total of $25$ containers and the total weight of the nutella is $4700$ ,,,,Shivani made a total of $26$ containers and the total weight of the nutella is $4700$,Shivani made a total of $25$ containers and the total weight of the nutella is $4888$,Shivani made a total of $26$ containers and the total weight of the nutella is $4888$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $12$ + $13$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $188$ gm of nutella, 
+    <br/>Therefore, $25$ will contain $25$*$188$
+    <Hence, the total number of containers is $25$ and total weight of nutella is $4700$ grams",
+text,1,30202,3,"Manali prepared some candies at home and filled it in containers. After giving away $8$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $285$g of candies in each container,what was the total weight of candies she made? 
+",Manali made a total of $24$ containers and the total weight of the candies is $6840$ ,,,,Manali made a total of $25$ containers and the total weight of the candies is $6840$,Manali made a total of $25$ containers and the total weight of the candies is $7125$,Manali made a total of $24$ containers and the total weight of the candies is $7125$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $8$ + $16$
+    <br/>Hence, the total number of containers = $24$
+    <br/>As we know that one container contains $285$ gm of candies, 
+    <br/>Therefore, $24$ will contain $24$*$285$
+    <Hence, the total number of containers is $24$ and total weight of candies is $6840$ grams",
+text,1,30202,3,"Ankita prepared some cake at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $197$g of cake in each container,what was the total weight of cake she made? 
+",Ankita made a total of $33$ containers and the total weight of the cake is $6501$ ,,,,Ankita made a total of $33$ containers and the total weight of the cake is $6698$,Ankita made a total of $34$ containers and the total weight of the cake is $6501$,Ankita made a total of $34$ containers and the total weight of the cake is $6698$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $14$
+    <br/>Hence, the total number of containers = $33$
+    <br/>As we know that one container contains $197$ gm of cake, 
+    <br/>Therefore, $33$ will contain $33$*$197$
+    <Hence, the total number of containers is $33$ and total weight of cake is $6501$ grams",
+text,1,30202,3,"Pooja prepared some cake at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $11$ for herself.
+How many containers did she fill? If she filled $215$g of cake in each container,what was the total weight of cake she made? 
+",Pooja made a total of $31$ containers and the total weight of the cake is $6665$ ,,,,Pooja made a total of $32$ containers and the total weight of the cake is $6880$,Pooja made a total of $31$ containers and the total weight of the cake is $6880$,Pooja made a total of $32$ containers and the total weight of the cake is $6665$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $11$
+    <br/>Hence, the total number of containers = $31$
+    <br/>As we know that one container contains $215$ gm of cake, 
+    <br/>Therefore, $31$ will contain $31$*$215$
+    <Hence, the total number of containers is $31$ and total weight of cake is $6665$ grams",
+text,1,30202,3,"Gautami prepared some nutella at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $104$g of nutella in each container,what was the total weight of nutella she made? 
+",Gautami made a total of $36$ containers and the total weight of the nutella is $3744$ ,,,,Gautami made a total of $36$ containers and the total weight of the nutella is $3848$,Gautami made a total of $37$ containers and the total weight of the nutella is $3848$,Gautami made a total of $37$ containers and the total weight of the nutella is $3744$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $19$
+    <br/>Hence, the total number of containers = $36$
+    <br/>As we know that one container contains $104$ gm of nutella, 
+    <br/>Therefore, $36$ will contain $36$*$104$
+    <Hence, the total number of containers is $36$ and total weight of nutella is $3744$ grams",
+text,1,30202,3,"Tanvi prepared some chocolate at home and filled it in containers. After giving away $19$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $289$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Tanvi made a total of $35$ containers and the total weight of the chocolate is $10115$ ,,,,Tanvi made a total of $36$ containers and the total weight of the chocolate is $10115$,Tanvi made a total of $36$ containers and the total weight of the chocolate is $10404$,Tanvi made a total of $35$ containers and the total weight of the chocolate is $10404$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $19$ + $16$
+    <br/>Hence, the total number of containers = $35$
+    <br/>As we know that one container contains $289$ gm of chocolate, 
+    <br/>Therefore, $35$ will contain $35$*$289$
+    <Hence, the total number of containers is $35$ and total weight of chocolate is $10115$ grams",
+text,1,30202,3,"Pooja prepared some ice cream at home and filled it in containers. After giving away $10$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $118$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Pooja made a total of $20$ containers and the total weight of the ice cream is $2360$ ,,,,Pooja made a total of $21$ containers and the total weight of the ice cream is $2478$,Pooja made a total of $20$ containers and the total weight of the ice cream is $2478$,Pooja made a total of $21$ containers and the total weight of the ice cream is $2360$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $10$ + $10$
+    <br/>Hence, the total number of containers = $20$
+    <br/>As we know that one container contains $118$ gm of ice cream, 
+    <br/>Therefore, $20$ will contain $20$*$118$
+    <Hence, the total number of containers is $20$ and total weight of ice cream is $2360$ grams",
+text,1,30202,3,"Akanksha prepared some chocolate at home and filled it in containers. After giving away $20$ of the containers to her friends,she still has $20$ for herself.
+How many containers did she fill? If she filled $138$g of chocolate in each container,what was the total weight of chocolate she made? 
+",Akanksha made a total of $40$ containers and the total weight of the chocolate is $5520$ ,,,,Akanksha made a total of $41$ containers and the total weight of the chocolate is $5658$,Akanksha made a total of $41$ containers and the total weight of the chocolate is $5520$,Akanksha made a total of $40$ containers and the total weight of the chocolate is $5658$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $20$ + $20$
+    <br/>Hence, the total number of containers = $40$
+    <br/>As we know that one container contains $138$ gm of chocolate, 
+    <br/>Therefore, $40$ will contain $40$*$138$
+    <Hence, the total number of containers is $40$ and total weight of chocolate is $5520$ grams",
+text,1,30202,3,"Ankita prepared some ice cream at home and filled it in containers. After giving away $17$ of the containers to her friends,she still has $12$ for herself.
+How many containers did she fill? If she filled $178$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Ankita made a total of $29$ containers and the total weight of the ice cream is $5162$ ,,,,Ankita made a total of $29$ containers and the total weight of the ice cream is $5340$,Ankita made a total of $30$ containers and the total weight of the ice cream is $5340$,Ankita made a total of $30$ containers and the total weight of the ice cream is $5162$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $17$ + $12$
+    <br/>Hence, the total number of containers = $29$
+    <br/>As we know that one container contains $178$ gm of ice cream, 
+    <br/>Therefore, $29$ will contain $29$*$178$
+    <Hence, the total number of containers is $29$ and total weight of ice cream is $5162$ grams",
+text,1,30202,3,"Ankita prepared some pohe at home and filled it in containers. After giving away $18$ of the containers to her friends,she still has $19$ for herself.
+How many containers did she fill? If she filled $154$g of pohe in each container,what was the total weight of pohe she made? 
+",Ankita made a total of $37$ containers and the total weight of the pohe is $5698$ ,,,,Ankita made a total of $38$ containers and the total weight of the pohe is $5698$,Ankita made a total of $38$ containers and the total weight of the pohe is $5852$,Ankita made a total of $37$ containers and the total weight of the pohe is $5852$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $18$ + $19$
+    <br/>Hence, the total number of containers = $37$
+    <br/>As we know that one container contains $154$ gm of pohe, 
+    <br/>Therefore, $37$ will contain $37$*$154$
+    <Hence, the total number of containers is $37$ and total weight of pohe is $5698$ grams",
+text,1,30202,3,"Aditi prepared some candies at home and filled it in containers. After giving away $10$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $215$g of candies in each container,what was the total weight of candies she made? 
+",Aditi made a total of $25$ containers and the total weight of the candies is $5375$ ,,,,Aditi made a total of $25$ containers and the total weight of the candies is $5590$,Aditi made a total of $26$ containers and the total weight of the candies is $5375$,Aditi made a total of $26$ containers and the total weight of the candies is $5590$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $10$ + $15$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $215$ gm of candies, 
+    <br/>Therefore, $25$ will contain $25$*$215$
+    <Hence, the total number of containers is $25$ and total weight of candies is $5375$ grams",
+text,1,30202,3,"Gautami prepared some candies at home and filled it in containers. After giving away $12$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $203$g of candies in each container,what was the total weight of candies she made? 
+",Gautami made a total of $30$ containers and the total weight of the candies is $6090$ ,,,,Gautami made a total of $30$ containers and the total weight of the candies is $6293$,Gautami made a total of $31$ containers and the total weight of the candies is $6293$,Gautami made a total of $31$ containers and the total weight of the candies is $6090$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $12$ + $18$
+    <br/>Hence, the total number of containers = $30$
+    <br/>As we know that one container contains $203$ gm of candies, 
+    <br/>Therefore, $30$ will contain $30$*$203$
+    <Hence, the total number of containers is $30$ and total weight of candies is $6090$ grams",
+text,1,30202,3,"Aabha prepared some nutella at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $16$ for herself.
+How many containers did she fill? If she filled $157$g of nutella in each container,what was the total weight of nutella she made? 
+",Aabha made a total of $29$ containers and the total weight of the nutella is $4553$ ,,,,Aabha made a total of $29$ containers and the total weight of the nutella is $4710$,Aabha made a total of $30$ containers and the total weight of the nutella is $4710$,Aabha made a total of $30$ containers and the total weight of the nutella is $4553$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $16$
+    <br/>Hence, the total number of containers = $29$
+    <br/>As we know that one container contains $157$ gm of nutella, 
+    <br/>Therefore, $29$ will contain $29$*$157$
+    <Hence, the total number of containers is $29$ and total weight of nutella is $4553$ grams",
+text,1,30202,3,"Kalyani prepared some pohe at home and filled it in containers. After giving away $9$ of the containers to her friends,she still has $18$ for herself.
+How many containers did she fill? If she filled $147$g of pohe in each container,what was the total weight of pohe she made? 
+",Kalyani made a total of $27$ containers and the total weight of the pohe is $3969$ ,,,,Kalyani made a total of $28$ containers and the total weight of the pohe is $4116$,Kalyani made a total of $28$ containers and the total weight of the pohe is $3969$,Kalyani made a total of $27$ containers and the total weight of the pohe is $4116$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $9$ + $18$
+    <br/>Hence, the total number of containers = $27$
+    <br/>As we know that one container contains $147$ gm of pohe, 
+    <br/>Therefore, $27$ will contain $27$*$147$
+    <Hence, the total number of containers is $27$ and total weight of pohe is $3969$ grams",
+text,1,30202,3,"Ankita prepared some ice cream at home and filled it in containers. After giving away $13$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $294$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Ankita made a total of $28$ containers and the total weight of the ice cream is $8232$ ,,,,Ankita made a total of $29$ containers and the total weight of the ice cream is $8232$,Ankita made a total of $28$ containers and the total weight of the ice cream is $8526$,Ankita made a total of $29$ containers and the total weight of the ice cream is $8526$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $13$ + $15$
+    <br/>Hence, the total number of containers = $28$
+    <br/>As we know that one container contains $294$ gm of ice cream, 
+    <br/>Therefore, $28$ will contain $28$*$294$
+    <Hence, the total number of containers is $28$ and total weight of ice cream is $8232$ grams",
+text,1,30202,3,"Aabha prepared some candies at home and filled it in containers. After giving away $11$ of the containers to her friends,she still has $15$ for herself.
+How many containers did she fill? If she filled $110$g of candies in each container,what was the total weight of candies she made? 
+",Aabha made a total of $26$ containers and the total weight of the candies is $2860$ ,,,,Aabha made a total of $26$ containers and the total weight of the candies is $2970$,Aabha made a total of $27$ containers and the total weight of the candies is $2970$,Aabha made a total of $27$ containers and the total weight of the candies is $2860$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $11$ + $15$
+    <br/>Hence, the total number of containers = $26$
+    <br/>As we know that one container contains $110$ gm of candies, 
+    <br/>Therefore, $26$ will contain $26$*$110$
+    <Hence, the total number of containers is $26$ and total weight of candies is $2860$ grams",
+text,1,30202,3,"Kalyani prepared some ice cream at home and filled it in containers. After giving away $16$ of the containers to her friends,she still has $10$ for herself.
+How many containers did she fill? If she filled $158$g of ice cream in each container,what was the total weight of ice cream she made? 
+",Kalyani made a total of $26$ containers and the total weight of the ice cream is $4108$ ,,,,Kalyani made a total of $27$ containers and the total weight of the ice cream is $4108$,Kalyani made a total of $27$ containers and the total weight of the ice cream is $4266$,Kalyani made a total of $26$ containers and the total weight of the ice cream is $4266$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $16$ + $10$
+    <br/>Hence, the total number of containers = $26$
+    <br/>As we know that one container contains $158$ gm of ice cream, 
+    <br/>Therefore, $26$ will contain $26$*$158$
+    <Hence, the total number of containers is $26$ and total weight of ice cream is $4108$ grams",
+text,1,30202,3,"Nishi prepared some pohe at home and filled it in containers. After giving away $11$ of the containers to her friends,she still has $14$ for herself.
+How many containers did she fill? If she filled $227$g of pohe in each container,what was the total weight of pohe she made? 
+",Nishi made a total of $25$ containers and the total weight of the pohe is $5675$ ,,,,Nishi made a total of $25$ containers and the total weight of the pohe is $5902$,Nishi made a total of $26$ containers and the total weight of the pohe is $5902$,Nishi made a total of $26$ containers and the total weight of the pohe is $5675$,60,3,,,"""
+    <br/>Here is the correct detailed solution
+    <br/>Let's suppose the total number of containers to be $X$
+    <br/>We know that total containers = containers given + containers left with her
+    <br/>That is, $X$ = containers  given + containers left
+    <br/>$X$ = $11$ + $14$
+    <br/>Hence, the total number of containers = $25$
+    <br/>As we know that one container contains $227$ gm of pohe, 
+    <br/>Therefore, $25$ will contain $25$*$227$
+    <Hence, the total number of containers is $25$ and total weight of pohe is $5675$ grams",

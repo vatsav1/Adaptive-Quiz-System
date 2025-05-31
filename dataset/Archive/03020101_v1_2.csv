@@ -1,0 +1,401 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-three from certain number is nine,represent in equation ",$b - 23 = 9$,,,,$23-b=9$,$9 - b = 23$,$b - 9 = 23$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $23$ and $9$
+Solution would be : $b - 23 = 9$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-six from certain number is thirteen,represent in equation ",$y - 46 = 13$,,,,$46-y=13$,$13 - y = 46$,$y - 13 = 46$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $46$ and $13$
+Solution would be : $y - 46 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-six from certain number is seventeen,represent in equation ",$z - 36 = 17$,,,,$36-z=17$,$17 - z = 36$,$z - 17 = 36$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $36$ and $17$
+Solution would be : $z - 36 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-three from certain number is eleven,represent in equation ",$a - 43 = 11$,,,,$43-a=11$,$11 - a = 43$,$a - 11 = 43$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $43$ and $11$
+Solution would be : $a - 43 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-three from certain number is three,represent in equation ",$z - 43 = 3$,,,,$43-z=3$,$3 - z = 43$,$z - 3 = 43$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $43$ and $3$
+Solution would be : $z - 43 = 3$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-two from certain number is sixteen,represent in equation ",$z - 22 = 16$,,,,$22-z=16$,$16 - z = 22$,$z - 16 = 22$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $22$ and $16$
+Solution would be : $z - 22 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-seven from certain number is eighteen,represent in equation ",$z - 37 = 18$,,,,$37-z=18$,$18 - z = 37$,$z - 18 = 37$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $37$ and $18$
+Solution would be : $z - 37 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty from certain number is thirteen,represent in equation ",$c - 20 = 13$,,,,$20-c=13$,$13 - c = 20$,$c - 13 = 20$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $20$ and $13$
+Solution would be : $c - 20 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-two from certain number is three,represent in equation ",$z - 32 = 3$,,,,$32-z=3$,$3 - z = 32$,$z - 3 = 32$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $32$ and $3$
+Solution would be : $z - 32 = 3$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-four from certain number is thirteen,represent in equation ",$z - 34 = 13$,,,,$34-z=13$,$13 - z = 34$,$z - 13 = 34$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $34$ and $13$
+Solution would be : $z - 34 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-three from certain number is sixteen,represent in equation ",$b - 23 = 16$,,,,$23-b=16$,$16 - b = 23$,$b - 16 = 23$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $23$ and $16$
+Solution would be : $b - 23 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-eight from certain number is sixteen,represent in equation ",$z - 48 = 16$,,,,$48-z=16$,$16 - z = 48$,$z - 16 = 48$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $48$ and $16$
+Solution would be : $z - 48 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-eight from certain number is eight,represent in equation ",$z - 38 = 8$,,,,$38-z=8$,$8 - z = 38$,$z - 8 = 38$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $38$ and $8$
+Solution would be : $z - 38 = 8$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-six from certain number is seven,represent in equation ",$a - 46 = 7$,,,,$46-a=7$,$7 - a = 46$,$a - 7 = 46$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $46$ and $7$
+Solution would be : $a - 46 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-nine from certain number is seven,represent in equation ",$b - 39 = 7$,,,,$39-b=7$,$7 - b = 39$,$b - 7 = 39$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $39$ and $7$
+Solution would be : $b - 39 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-four from certain number is seventeen,represent in equation ",$c - 24 = 17$,,,,$24-c=17$,$17 - c = 24$,$c - 17 = 24$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $24$ and $17$
+Solution would be : $c - 24 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is eleven,represent in equation ",$y - 42 = 11$,,,,$42-y=11$,$11 - y = 42$,$y - 11 = 42$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $42$ and $11$
+Solution would be : $y - 42 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-seven from certain number is six,represent in equation ",$c - 27 = 6$,,,,$27-c=6$,$6 - c = 27$,$c - 6 = 27$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $27$ and $6$
+Solution would be : $c - 27 = 6$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-three from certain number is thirteen,represent in equation ",$a - 33 = 13$,,,,$33-a=13$,$13 - a = 33$,$a - 13 = 33$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $33$ and $13$
+Solution would be : $a - 33 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-four from certain number is five,represent in equation ",$b - 34 = 5$,,,,$34-b=5$,$5 - b = 34$,$b - 5 = 34$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $34$ and $5$
+Solution would be : $b - 34 = 5$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-five from certain number is twenty,represent in equation ",$z - 45 = 20$,,,,$45-z=20$,$20 - z = 45$,$z - 20 = 45$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $45$ and $20$
+Solution would be : $z - 45 = 20$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-seven from certain number is six,represent in equation ",$c - 27 = 6$,,,,$27-c=6$,$6 - c = 27$,$c - 6 = 27$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $27$ and $6$
+Solution would be : $c - 27 = 6$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-five from certain number is four,represent in equation ",$y - 25 = 4$,,,,$25-y=4$,$4 - y = 25$,$y - 4 = 25$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $25$ and $4$
+Solution would be : $y - 25 = 4$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-nine from certain number is ten,represent in equation ",$a - 29 = 10$,,,,$29-a=10$,$10 - a = 29$,$a - 10 = 29$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $29$ and $10$
+Solution would be : $a - 29 = 10$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is seven,represent in equation ",$c - 40 = 7$,,,,$40-c=7$,$7 - c = 40$,$c - 7 = 40$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $40$ and $7$
+Solution would be : $c - 40 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is thirteen,represent in equation ",$z - 42 = 13$,,,,$42-z=13$,$13 - z = 42$,$z - 13 = 42$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $42$ and $13$
+Solution would be : $z - 42 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-three from certain number is seven,represent in equation ",$a - 43 = 7$,,,,$43-a=7$,$7 - a = 43$,$a - 7 = 43$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $43$ and $7$
+Solution would be : $a - 43 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-eight from certain number is five,represent in equation ",$c - 28 = 5$,,,,$28-c=5$,$5 - c = 28$,$c - 5 = 28$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $28$ and $5$
+Solution would be : $c - 28 = 5$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-three from certain number is twenty,represent in equation ",$c - 43 = 20$,,,,$43-c=20$,$20 - c = 43$,$c - 20 = 43$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $43$ and $20$
+Solution would be : $c - 43 = 20$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-nine from certain number is seven,represent in equation ",$b - 49 = 7$,,,,$49-b=7$,$7 - b = 49$,$b - 7 = 49$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $49$ and $7$
+Solution would be : $b - 49 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-two from certain number is nineteen,represent in equation ",$a - 32 = 19$,,,,$32-a=19$,$19 - a = 32$,$a - 19 = 32$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $32$ and $19$
+Solution would be : $a - 32 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-six from certain number is nineteen,represent in equation ",$z - 36 = 19$,,,,$36-z=19$,$19 - z = 36$,$z - 19 = 36$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $36$ and $19$
+Solution would be : $z - 36 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-seven from certain number is twelve,represent in equation ",$c - 27 = 12$,,,,$27-c=12$,$12 - c = 27$,$c - 12 = 27$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $27$ and $12$
+Solution would be : $c - 27 = 12$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is six,represent in equation ",$y - 26 = 6$,,,,$26-y=6$,$6 - y = 26$,$y - 6 = 26$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $26$ and $6$
+Solution would be : $y - 26 = 6$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-one from certain number is ten,represent in equation ",$z - 41 = 10$,,,,$41-z=10$,$10 - z = 41$,$z - 10 = 41$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $41$ and $10$
+Solution would be : $z - 41 = 10$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-nine from certain number is ten,represent in equation ",$z - 39 = 10$,,,,$39-z=10$,$10 - z = 39$,$z - 10 = 39$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $39$ and $10$
+Solution would be : $z - 39 = 10$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is nineteen,represent in equation ",$y - 40 = 19$,,,,$40-y=19$,$19 - y = 40$,$y - 19 = 40$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $40$ and $19$
+Solution would be : $y - 40 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-one from certain number is eight,represent in equation ",$y - 31 = 8$,,,,$31-y=8$,$8 - y = 31$,$y - 8 = 31$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $31$ and $8$
+Solution would be : $y - 31 = 8$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-eight from certain number is two,represent in equation ",$c - 48 = 2$,,,,$48-c=2$,$2 - c = 48$,$c - 2 = 48$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $48$ and $2$
+Solution would be : $c - 48 = 2$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-three from certain number is nineteen,represent in equation ",$a - 23 = 19$,,,,$23-a=19$,$19 - a = 23$,$a - 19 = 23$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $23$ and $19$
+Solution would be : $a - 23 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-six from certain number is eighteen,represent in equation ",$x - 46 = 18$,,,,$46-x=18$,$18 - x = 46$,$x - 18 = 46$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $46$ and $18$
+Solution would be : $x - 46 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-two from certain number is sixteen,represent in equation ",$x - 32 = 16$,,,,$32-x=16$,$16 - x = 32$,$x - 16 = 32$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $32$ and $16$
+Solution would be : $x - 32 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-one from certain number is ten,represent in equation ",$b - 41 = 10$,,,,$41-b=10$,$10 - b = 41$,$b - 10 = 41$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $41$ and $10$
+Solution would be : $b - 41 = 10$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-one from certain number is six,represent in equation ",$c - 31 = 6$,,,,$31-c=6$,$6 - c = 31$,$c - 6 = 31$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $31$ and $6$
+Solution would be : $c - 31 = 6$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-two from certain number is fifteen,represent in equation ",$a - 22 = 15$,,,,$22-a=15$,$15 - a = 22$,$a - 15 = 22$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $22$ and $15$
+Solution would be : $a - 22 = 15$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-nine from certain number is fifteen,represent in equation ",$c - 29 = 15$,,,,$29-c=15$,$15 - c = 29$,$c - 15 = 29$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $29$ and $15$
+Solution would be : $c - 29 = 15$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-three from certain number is twenty,represent in equation ",$x - 43 = 20$,,,,$43-x=20$,$20 - x = 43$,$x - 20 = 43$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $43$ and $20$
+Solution would be : $x - 43 = 20$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-five from certain number is thirteen,represent in equation ",$c - 45 = 13$,,,,$45-c=13$,$13 - c = 45$,$c - 13 = 45$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $45$ and $13$
+Solution would be : $c - 45 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-six from certain number is seventeen,represent in equation ",$x - 36 = 17$,,,,$36-x=17$,$17 - x = 36$,$x - 17 = 36$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $36$ and $17$
+Solution would be : $x - 36 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty from certain number is four,represent in equation ",$x - 30 = 4$,,,,$30-x=4$,$4 - x = 30$,$x - 4 = 30$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $30$ and $4$
+Solution would be : $x - 30 = 4$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-nine from certain number is fifteen,represent in equation ",$x - 39 = 15$,,,,$39-x=15$,$15 - x = 39$,$x - 15 = 39$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $39$ and $15$
+Solution would be : $x - 39 = 15$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-nine from certain number is six,represent in equation ",$c - 29 = 6$,,,,$29-c=6$,$6 - c = 29$,$c - 6 = 29$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $29$ and $6$
+Solution would be : $c - 29 = 6$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-three from certain number is thirteen,represent in equation ",$z - 23 = 13$,,,,$23-z=13$,$13 - z = 23$,$z - 13 = 23$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $23$ and $13$
+Solution would be : $z - 23 = 13$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is eight,represent in equation ",$b - 26 = 8$,,,,$26-b=8$,$8 - b = 26$,$b - 8 = 26$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $26$ and $8$
+Solution would be : $b - 26 = 8$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-three from certain number is sixteen,represent in equation ",$y - 23 = 16$,,,,$23-y=16$,$16 - y = 23$,$y - 16 = 23$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $23$ and $16$
+Solution would be : $y - 23 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-six from certain number is eleven,represent in equation ",$b - 36 = 11$,,,,$36-b=11$,$11 - b = 36$,$b - 11 = 36$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $36$ and $11$
+Solution would be : $b - 36 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-nine from certain number is sixteen,represent in equation ",$c - 49 = 16$,,,,$49-c=16$,$16 - c = 49$,$c - 16 = 49$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $49$ and $16$
+Solution would be : $c - 49 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-six from certain number is eighteen,represent in equation ",$a - 46 = 18$,,,,$46-a=18$,$18 - a = 46$,$a - 18 = 46$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $46$ and $18$
+Solution would be : $a - 46 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-three from certain number is eighteen,represent in equation ",$y - 33 = 18$,,,,$33-y=18$,$18 - y = 33$,$y - 18 = 33$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $33$ and $18$
+Solution would be : $y - 33 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty from certain number is eighteen,represent in equation ",$x - 20 = 18$,,,,$20-x=18$,$18 - x = 20$,$x - 18 = 20$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $20$ and $18$
+Solution would be : $x - 20 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-four from certain number is twenty,represent in equation ",$x - 24 = 20$,,,,$24-x=20$,$20 - x = 24$,$x - 20 = 24$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $24$ and $20$
+Solution would be : $x - 24 = 20$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-four from certain number is seven,represent in equation ",$a - 34 = 7$,,,,$34-a=7$,$7 - a = 34$,$a - 7 = 34$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $34$ and $7$
+Solution would be : $a - 34 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-eight from certain number is nineteen,represent in equation ",$c - 38 = 19$,,,,$38-c=19$,$19 - c = 38$,$c - 19 = 38$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $38$ and $19$
+Solution would be : $c - 38 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-two from certain number is eight,represent in equation ",$y - 22 = 8$,,,,$22-y=8$,$8 - y = 22$,$y - 8 = 22$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $22$ and $8$
+Solution would be : $y - 22 = 8$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-two from certain number is fourteen,represent in equation ",$x - 32 = 14$,,,,$32-x=14$,$14 - x = 32$,$x - 14 = 32$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $32$ and $14$
+Solution would be : $x - 32 = 14$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-eight from certain number is fifteen,represent in equation ",$y - 48 = 15$,,,,$48-y=15$,$15 - y = 48$,$y - 15 = 48$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $48$ and $15$
+Solution would be : $y - 48 = 15$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is twelve,represent in equation ",$a - 42 = 12$,,,,$42-a=12$,$12 - a = 42$,$a - 12 = 42$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $42$ and $12$
+Solution would be : $a - 42 = 12$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-one from certain number is nineteen,represent in equation ",$c - 21 = 19$,,,,$21-c=19$,$19 - c = 21$,$c - 19 = 21$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $21$ and $19$
+Solution would be : $c - 21 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-eight from certain number is eleven,represent in equation ",$a - 38 = 11$,,,,$38-a=11$,$11 - a = 38$,$a - 11 = 38$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $38$ and $11$
+Solution would be : $a - 38 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-three from certain number is three,represent in equation ",$y - 23 = 3$,,,,$23-y=3$,$3 - y = 23$,$y - 3 = 23$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $23$ and $3$
+Solution would be : $y - 23 = 3$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is five,represent in equation ",$c - 26 = 5$,,,,$26-c=5$,$5 - c = 26$,$c - 5 = 26$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $26$ and $5$
+Solution would be : $c - 26 = 5$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-one from certain number is sixteen,represent in equation ",$c - 21 = 16$,,,,$21-c=16$,$16 - c = 21$,$c - 16 = 21$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $21$ and $16$
+Solution would be : $c - 21 = 16$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is eighteen,represent in equation ",$x - 40 = 18$,,,,$40-x=18$,$18 - x = 40$,$x - 18 = 40$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $40$ and $18$
+Solution would be : $x - 40 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is eighteen,represent in equation ",$c - 26 = 18$,,,,$26-c=18$,$18 - c = 26$,$c - 18 = 26$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $26$ and $18$
+Solution would be : $c - 26 = 18$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-eight from certain number is fourteen,represent in equation ",$z - 48 = 14$,,,,$48-z=14$,$14 - z = 48$,$z - 14 = 48$,60,3,,,"Let's say certain number is :$z$
+Difference is subtraction
+Constant terms are : $48$ and $14$
+Solution would be : $z - 48 = 14$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty from certain number is eight,represent in equation ",$y - 20 = 8$,,,,$20-y=8$,$8 - y = 20$,$y - 8 = 20$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $20$ and $8$
+Solution would be : $y - 20 = 8$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is twenty,represent in equation ",$c - 42 = 20$,,,,$42-c=20$,$20 - c = 42$,$c - 20 = 42$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $42$ and $20$
+Solution would be : $c - 42 = 20$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is fourteen,represent in equation ",$x - 42 = 14$,,,,$42-x=14$,$14 - x = 42$,$x - 14 = 42$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $42$ and $14$
+Solution would be : $x - 42 = 14$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is six,represent in equation ",$x - 40 = 6$,,,,$40-x=6$,$6 - x = 40$,$x - 6 = 40$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $40$ and $6$
+Solution would be : $x - 40 = 6$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is two,represent in equation ",$c - 26 = 2$,,,,$26-c=2$,$2 - c = 26$,$c - 2 = 26$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $26$ and $2$
+Solution would be : $c - 26 = 2$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-eight from certain number is seventeen,represent in equation ",$x - 38 = 17$,,,,$38-x=17$,$17 - x = 38$,$x - 17 = 38$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $38$ and $17$
+Solution would be : $x - 38 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty from certain number is seventeen,represent in equation ",$a - 20 = 17$,,,,$20-a=17$,$17 - a = 20$,$a - 17 = 20$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $20$ and $17$
+Solution would be : $a - 20 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-nine from certain number is seven,represent in equation ",$b - 49 = 7$,,,,$49-b=7$,$7 - b = 49$,$b - 7 = 49$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $49$ and $7$
+Solution would be : $b - 49 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is seven,represent in equation ",$y - 26 = 7$,,,,$26-y=7$,$7 - y = 26$,$y - 7 = 26$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $26$ and $7$
+Solution would be : $y - 26 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-eight from certain number is seventeen,represent in equation ",$y - 48 = 17$,,,,$48-y=17$,$17 - y = 48$,$y - 17 = 48$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $48$ and $17$
+Solution would be : $y - 48 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-three from certain number is eleven,represent in equation ",$x - 43 = 11$,,,,$43-x=11$,$11 - x = 43$,$x - 11 = 43$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $43$ and $11$
+Solution would be : $x - 43 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is eight,represent in equation ",$b - 40 = 8$,,,,$40-b=8$,$8 - b = 40$,$b - 8 = 40$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $40$ and $8$
+Solution would be : $b - 40 = 8$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is eleven,represent in equation ",$x - 40 = 11$,,,,$40-x=11$,$11 - x = 40$,$x - 11 = 40$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $40$ and $11$
+Solution would be : $x - 40 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-nine from certain number is nineteen,represent in equation ",$c - 49 = 19$,,,,$49-c=19$,$19 - c = 49$,$c - 19 = 49$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $49$ and $19$
+Solution would be : $c - 49 = 19$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-five from certain number is fifteen,represent in equation ",$x - 25 = 15$,,,,$25-x=15$,$15 - x = 25$,$x - 15 = 25$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $25$ and $15$
+Solution would be : $x - 25 = 15$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting fifty from certain number is twenty,represent in equation ",$x - 50 = 20$,,,,$50-x=20$,$20 - x = 50$,$x - 20 = 50$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $50$ and $20$
+Solution would be : $x - 50 = 20$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-eight from certain number is seventeen,represent in equation ",$x - 48 = 17$,,,,$48-x=17$,$17 - x = 48$,$x - 17 = 48$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $48$ and $17$
+Solution would be : $x - 48 = 17$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-one from certain number is five,represent in equation ",$y - 31 = 5$,,,,$31-y=5$,$5 - y = 31$,$y - 5 = 31$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $31$ and $5$
+Solution would be : $y - 31 = 5$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-four from certain number is eleven,represent in equation ",$a - 34 = 11$,,,,$34-a=11$,$11 - a = 34$,$a - 11 = 34$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $34$ and $11$
+Solution would be : $a - 34 = 11$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-six from certain number is twelve,represent in equation ",$c - 26 = 12$,,,,$26-c=12$,$12 - c = 26$,$c - 12 = 26$,60,3,,,"Let's say certain number is :$c$
+Difference is subtraction
+Constant terms are : $26$ and $12$
+Solution would be : $c - 26 = 12$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is fifteen,represent in equation ",$a - 42 = 15$,,,,$42-a=15$,$15 - a = 42$,$a - 15 = 42$,60,3,,,"Let's say certain number is :$a$
+Difference is subtraction
+Constant terms are : $42$ and $15$
+Solution would be : $a - 42 = 15$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting twenty-two from certain number is three,represent in equation ",$b - 22 = 3$,,,,$22-b=3$,$3 - b = 22$,$b - 3 = 22$,60,3,,,"Let's say certain number is :$b$
+Difference is subtraction
+Constant terms are : $22$ and $3$
+Solution would be : $b - 22 = 3$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty from certain number is fourteen,represent in equation ",$x - 40 = 14$,,,,$40-x=14$,$14 - x = 40$,$x - 14 = 40$,60,3,,,"Let's say certain number is :$x$
+Difference is subtraction
+Constant terms are : $40$ and $14$
+Solution would be : $x - 40 = 14$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting thirty-one from certain number is seven,represent in equation ",$y - 31 = 7$,,,,$31-y=7$,$7 - y = 31$,$y - 7 = 31$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $31$ and $7$
+Solution would be : $y - 31 = 7$",
+text,1,3020101,2,"Ques. The difference obtained by subtracting forty-two from certain number is eight,represent in equation ",$y - 42 = 8$,,,,$42-y=8$,$8 - y = 42$,$y - 8 = 42$,60,3,,,"Let's say certain number is :$y$
+Difference is subtraction
+Constant terms are : $42$ and $8$
+Solution would be : $y - 42 = 8$",

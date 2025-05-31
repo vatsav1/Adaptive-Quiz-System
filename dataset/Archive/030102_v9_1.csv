@@ -1,0 +1,3301 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0+5,0-6 & 1 & =  \\
+        \hline
+        b & 0+8,2*5 & 2 & < \\
+        \hline
+        c & 8-9,4-5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,c-3 b-2 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $8-9,4-5$ <br>
+$LHS = 8-9 = -1$
+<br> $RHS = 4-5 = -1$
+<br> $LHS = RHS$
+ <br>In expressions - $0+8,2*5$ <br>
+$LHS = 0+8 = 8$
+<br> $RHS = 2*5 = 10$
+<br> $LHS < RHS$
+ <br>In expressions - $0+5,0-6$ <br>
+$LHS = 0+5 = 5$
+<br> $RHS = 0-6 = -6$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 8-6,5-10 & 1 & =  \\
+        \hline
+        b & 11-9,10*12 & 2 & < \\
+        \hline
+        c & 9-8,6-5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,b-2 c-3 a-1 ,a-1 c-3 b-2 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $9-8,6-5$ <br>
+$LHS = 9-8 = 1$
+<br> $RHS = 6-5 = 1$
+<br> $LHS = RHS$
+ <br>In expressions - $11-9,10*12$ <br>
+$LHS = 11-9 = 2$
+<br> $RHS = 10*12 = 120$
+<br> $LHS < RHS$
+ <br>In expressions - $8-6,5-10$ <br>
+$LHS = 8-6 = 2$
+<br> $RHS = 5-10 = -5$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11*14,3*0 & 1 & =  \\
+        \hline
+        b & 11+7,7+11 & 2 & < \\
+        \hline
+        c & 1-12,0-2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,c-3 a-1 b-2 ,a-1 b-2 c-3 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $11+7,7+11$ <br>
+$LHS = 11+7 = 18$
+<br> $RHS = 7+11 = 18$
+<br> $LHS = RHS$
+ <br>In expressions - $1-12,0-2$ <br>
+$LHS = 1-12 = -11$
+<br> $RHS = 0-2 = -2$
+<br> $LHS < RHS$
+ <br>In expressions - $11*14,3*0$ <br>
+$LHS = 11*14 = 154$
+<br> $RHS = 3*0 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13-6,13-14 & 1 & =  \\
+        \hline
+        b & 7-5,8-6 & 2 & < \\
+        \hline
+        c & 5*1,7+1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 a-1 c-3 ,c-3 b-2 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $7-5,8-6$ <br>
+$LHS = 7-5 = 2$
+<br> $RHS = 8-6 = 2$
+<br> $LHS = RHS$
+ <br>In expressions - $5*1,7+1$ <br>
+$LHS = 5*1 = 5$
+<br> $RHS = 7+1 = 8$
+<br> $LHS < RHS$
+ <br>In expressions - $13-6,13-14$ <br>
+$LHS = 13-6 = 7$
+<br> $RHS = 13-14 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11-13,7-9 & 1 & =  \\
+        \hline
+        b & 14+10,15-12 & 2 & < \\
+        \hline
+        c & 0+12,6*10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 c-3 a-1 ,a-1 b-2 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $11-13,7-9$ <br>
+$LHS = 11-13 = -2$
+<br> $RHS = 7-9 = -2$
+<br> $LHS = RHS$
+ <br>In expressions - $0+12,6*10$ <br>
+$LHS = 0+12 = 12$
+<br> $RHS = 6*10 = 60$
+<br> $LHS < RHS$
+ <br>In expressions - $14+10,15-12$ <br>
+$LHS = 14+10 = 24$
+<br> $RHS = 15-12 = 3$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12*14,15+10 & 1 & =  \\
+        \hline
+        b & 5*7,14*6 & 2 & < \\
+        \hline
+        c & 1*7,13-6 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 b-2 c-3 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1*7,13-6$ <br>
+$LHS = 1*7 = 7$
+<br> $RHS = 13-6 = 7$
+<br> $LHS = RHS$
+ <br>In expressions - $5*7,14*6$ <br>
+$LHS = 5*7 = 35$
+<br> $RHS = 14*6 = 84$
+<br> $LHS < RHS$
+ <br>In expressions - $12*14,15+10$ <br>
+$LHS = 12*14 = 168$
+<br> $RHS = 15+10 = 25$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3+7,12-2 & 1 & =  \\
+        \hline
+        b & 10-8,12+8 & 2 & < \\
+        \hline
+        c & 0+14,14-1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $3+7,12-2$ <br>
+$LHS = 3+7 = 10$
+<br> $RHS = 12-2 = 10$
+<br> $LHS = RHS$
+ <br>In expressions - $10-8,12+8$ <br>
+$LHS = 10-8 = 2$
+<br> $RHS = 12+8 = 20$
+<br> $LHS < RHS$
+ <br>In expressions - $0+14,14-1$ <br>
+$LHS = 0+14 = 14$
+<br> $RHS = 14-1 = 13$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0*12,6-8 & 1 & =  \\
+        \hline
+        b & 15*9,9*15 & 2 & < \\
+        \hline
+        c & 0+8,9*9 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,c-3 b-2 a-1 ,b-2 a-1 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15*9,9*15$ <br>
+$LHS = 15*9 = 135$
+<br> $RHS = 9*15 = 135$
+<br> $LHS = RHS$
+ <br>In expressions - $0+8,9*9$ <br>
+$LHS = 0+8 = 8$
+<br> $RHS = 9*9 = 81$
+<br> $LHS < RHS$
+ <br>In expressions - $0*12,6-8$ <br>
+$LHS = 0*12 = 0$
+<br> $RHS = 6-8 = -2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13+5,14+4 & 1 & =  \\
+        \hline
+        b & 1-8,10+1 & 2 & < \\
+        \hline
+        c & 11+13,1-15 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,a-1 c-3 b-2 ,a-1 b-2 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13+5,14+4$ <br>
+$LHS = 13+5 = 18$
+<br> $RHS = 14+4 = 18$
+<br> $LHS = RHS$
+ <br>In expressions - $1-8,10+1$ <br>
+$LHS = 1-8 = -7$
+<br> $RHS = 10+1 = 11$
+<br> $LHS < RHS$
+ <br>In expressions - $11+13,1-15$ <br>
+$LHS = 11+13 = 24$
+<br> $RHS = 1-15 = -14$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 1-5,7-11 & 1 & =  \\
+        \hline
+        b & 5*13,5+15 & 2 & < \\
+        \hline
+        c & 11*6,15*8 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,a-1 b-2 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1-5,7-11$ <br>
+$LHS = 1-5 = -4$
+<br> $RHS = 7-11 = -4$
+<br> $LHS = RHS$
+ <br>In expressions - $11*6,15*8$ <br>
+$LHS = 11*6 = 66$
+<br> $RHS = 15*8 = 120$
+<br> $LHS < RHS$
+ <br>In expressions - $5*13,5+15$ <br>
+$LHS = 5*13 = 65$
+<br> $RHS = 5+15 = 20$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11*12,11*15 & 1 & =  \\
+        \hline
+        b & 13-13,6-6 & 2 & < \\
+        \hline
+        c & 1+5,6-10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,a-1 c-3 b-2 ,a-1 b-2 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13-13,6-6$ <br>
+$LHS = 13-13 = 0$
+<br> $RHS = 6-6 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $11*12,11*15$ <br>
+$LHS = 11*12 = 132$
+<br> $RHS = 11*15 = 165$
+<br> $LHS < RHS$
+ <br>In expressions - $1+5,6-10$ <br>
+$LHS = 1+5 = 6$
+<br> $RHS = 6-10 = -4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 15-11,3*13 & 1 & =  \\
+        \hline
+        b & 6+9,6-8 & 2 & < \\
+        \hline
+        c & 2*15,10*3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,c-3 b-2 a-1 ,b-2 c-3 a-1 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2*15,10*3$ <br>
+$LHS = 2*15 = 30$
+<br> $RHS = 10*3 = 30$
+<br> $LHS = RHS$
+ <br>In expressions - $15-11,3*13$ <br>
+$LHS = 15-11 = 4$
+<br> $RHS = 3*13 = 39$
+<br> $LHS < RHS$
+ <br>In expressions - $6+9,6-8$ <br>
+$LHS = 6+9 = 15$
+<br> $RHS = 6-8 = -2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3*7,8+8 & 1 & =  \\
+        \hline
+        b & 15-12,13+14 & 2 & < \\
+        \hline
+        c & 6*4,12*2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,b-2 c-3 a-1 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $6*4,12*2$ <br>
+$LHS = 6*4 = 24$
+<br> $RHS = 12*2 = 24$
+<br> $LHS = RHS$
+ <br>In expressions - $15-12,13+14$ <br>
+$LHS = 15-12 = 3$
+<br> $RHS = 13+14 = 27$
+<br> $LHS < RHS$
+ <br>In expressions - $3*7,8+8$ <br>
+$LHS = 3*7 = 21$
+<br> $RHS = 8+8 = 16$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 5+8,13+0 & 1 & =  \\
+        \hline
+        b & 4-3,15+12 & 2 & < \\
+        \hline
+        c & 2+8,9-5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,b-2 c-3 a-1 ,a-1 b-2 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5+8,13+0$ <br>
+$LHS = 5+8 = 13$
+<br> $RHS = 13+0 = 13$
+<br> $LHS = RHS$
+ <br>In expressions - $4-3,15+12$ <br>
+$LHS = 4-3 = 1$
+<br> $RHS = 15+12 = 27$
+<br> $LHS < RHS$
+ <br>In expressions - $2+8,9-5$ <br>
+$LHS = 2+8 = 10$
+<br> $RHS = 9-5 = 4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 7-12,9*6 & 1 & =  \\
+        \hline
+        b & 14*0,13-13 & 2 & < \\
+        \hline
+        c & 15+5,4+10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,b-2 a-1 c-3 ,a-1 c-3 b-2 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $14*0,13-13$ <br>
+$LHS = 14*0 = 0$
+<br> $RHS = 13-13 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $7-12,9*6$ <br>
+$LHS = 7-12 = -5$
+<br> $RHS = 9*6 = 54$
+<br> $LHS < RHS$
+ <br>In expressions - $15+5,4+10$ <br>
+$LHS = 15+5 = 20$
+<br> $RHS = 4+10 = 14$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 15+9,10+14 & 1 & =  \\
+        \hline
+        b & 15-7,14-8 & 2 & < \\
+        \hline
+        c & 1-9,9*11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,b-2 a-1 c-3 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15+9,10+14$ <br>
+$LHS = 15+9 = 24$
+<br> $RHS = 10+14 = 24$
+<br> $LHS = RHS$
+ <br>In expressions - $1-9,9*11$ <br>
+$LHS = 1-9 = -8$
+<br> $RHS = 9*11 = 99$
+<br> $LHS < RHS$
+ <br>In expressions - $15-7,14-8$ <br>
+$LHS = 15-7 = 8$
+<br> $RHS = 14-8 = 6$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 7*6,7+4 & 1 & =  \\
+        \hline
+        b & 13+14,12+15 & 2 & < \\
+        \hline
+        c & 13-1,15*10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,a-1 b-2 c-3 ,b-2 c-3 a-1 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13+14,12+15$ <br>
+$LHS = 13+14 = 27$
+<br> $RHS = 12+15 = 27$
+<br> $LHS = RHS$
+ <br>In expressions - $13-1,15*10$ <br>
+$LHS = 13-1 = 12$
+<br> $RHS = 15*10 = 150$
+<br> $LHS < RHS$
+ <br>In expressions - $7*6,7+4$ <br>
+$LHS = 7*6 = 42$
+<br> $RHS = 7+4 = 11$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14*12,9*4 & 1 & =  \\
+        \hline
+        b & 3+0,2*2 & 2 & < \\
+        \hline
+        c & 9-5,4-0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,b-2 a-1 c-3 ,a-1 c-3 b-2 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $9-5,4-0$ <br>
+$LHS = 9-5 = 4$
+<br> $RHS = 4-0 = 4$
+<br> $LHS = RHS$
+ <br>In expressions - $3+0,2*2$ <br>
+$LHS = 3+0 = 3$
+<br> $RHS = 2*2 = 4$
+<br> $LHS < RHS$
+ <br>In expressions - $14*12,9*4$ <br>
+$LHS = 14*12 = 168$
+<br> $RHS = 9*4 = 36$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 10*6,12-5 & 1 & =  \\
+        \hline
+        b & 13+2,10+5 & 2 & < \\
+        \hline
+        c & 2-13,10*10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,a-1 b-2 c-3 ,b-2 c-3 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13+2,10+5$ <br>
+$LHS = 13+2 = 15$
+<br> $RHS = 10+5 = 15$
+<br> $LHS = RHS$
+ <br>In expressions - $2-13,10*10$ <br>
+$LHS = 2-13 = -11$
+<br> $RHS = 10*10 = 100$
+<br> $LHS < RHS$
+ <br>In expressions - $10*6,12-5$ <br>
+$LHS = 10*6 = 60$
+<br> $RHS = 12-5 = 7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 2+2,14-10 & 1 & =  \\
+        \hline
+        b & 5*6,13-13 & 2 & < \\
+        \hline
+        c & 5-9,1*14 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,a-1 b-2 c-3 ,c-3 b-2 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2+2,14-10$ <br>
+$LHS = 2+2 = 4$
+<br> $RHS = 14-10 = 4$
+<br> $LHS = RHS$
+ <br>In expressions - $5-9,1*14$ <br>
+$LHS = 5-9 = -4$
+<br> $RHS = 1*14 = 14$
+<br> $LHS < RHS$
+ <br>In expressions - $5*6,13-13$ <br>
+$LHS = 5*6 = 30$
+<br> $RHS = 13-13 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 4*14,1-2 & 1 & =  \\
+        \hline
+        b & 5*8,9*7 & 2 & < \\
+        \hline
+        c & 4-1,6-3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4-1,6-3$ <br>
+$LHS = 4-1 = 3$
+<br> $RHS = 6-3 = 3$
+<br> $LHS = RHS$
+ <br>In expressions - $5*8,9*7$ <br>
+$LHS = 5*8 = 40$
+<br> $RHS = 9*7 = 63$
+<br> $LHS < RHS$
+ <br>In expressions - $4*14,1-2$ <br>
+$LHS = 4*14 = 56$
+<br> $RHS = 1-2 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 1+0,13*4 & 1 & =  \\
+        \hline
+        b & 15-1,12+2 & 2 & < \\
+        \hline
+        c & 3*11,0+1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,a-1 b-2 c-3 ,b-2 a-1 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15-1,12+2$ <br>
+$LHS = 15-1 = 14$
+<br> $RHS = 12+2 = 14$
+<br> $LHS = RHS$
+ <br>In expressions - $1+0,13*4$ <br>
+$LHS = 1+0 = 1$
+<br> $RHS = 13*4 = 52$
+<br> $LHS < RHS$
+ <br>In expressions - $3*11,0+1$ <br>
+$LHS = 3*11 = 33$
+<br> $RHS = 0+1 = 1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6-1,12+3 & 1 & =  \\
+        \hline
+        b & 14+2,4+9 & 2 & < \\
+        \hline
+        c & 0+12,2*6 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,a-1 c-3 b-2 ,a-1 b-2 c-3 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $0+12,2*6$ <br>
+$LHS = 0+12 = 12$
+<br> $RHS = 2*6 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $6-1,12+3$ <br>
+$LHS = 6-1 = 5$
+<br> $RHS = 12+3 = 15$
+<br> $LHS < RHS$
+ <br>In expressions - $14+2,4+9$ <br>
+$LHS = 14+2 = 16$
+<br> $RHS = 4+9 = 13$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12*12,13*15 & 1 & =  \\
+        \hline
+        b & 4*2,4+4 & 2 & < \\
+        \hline
+        c & 14-1,8+1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 b-2 a-1 ,b-2 a-1 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4*2,4+4$ <br>
+$LHS = 4*2 = 8$
+<br> $RHS = 4+4 = 8$
+<br> $LHS = RHS$
+ <br>In expressions - $12*12,13*15$ <br>
+$LHS = 12*12 = 144$
+<br> $RHS = 13*15 = 195$
+<br> $LHS < RHS$
+ <br>In expressions - $14-1,8+1$ <br>
+$LHS = 14-1 = 13$
+<br> $RHS = 8+1 = 9$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3+2,11-11 & 1 & =  \\
+        \hline
+        b & 9+14,12+11 & 2 & < \\
+        \hline
+        c & 10-5,9+1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,c-3 a-1 b-2 ,c-3 b-2 a-1 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $9+14,12+11$ <br>
+$LHS = 9+14 = 23$
+<br> $RHS = 12+11 = 23$
+<br> $LHS = RHS$
+ <br>In expressions - $10-5,9+1$ <br>
+$LHS = 10-5 = 5$
+<br> $RHS = 9+1 = 10$
+<br> $LHS < RHS$
+ <br>In expressions - $3+2,11-11$ <br>
+$LHS = 3+2 = 5$
+<br> $RHS = 11-11 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11-3,1+7 & 1 & =  \\
+        \hline
+        b & 9+12,12-14 & 2 & < \\
+        \hline
+        c & 14-13,3*11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $11-3,1+7$ <br>
+$LHS = 11-3 = 8$
+<br> $RHS = 1+7 = 8$
+<br> $LHS = RHS$
+ <br>In expressions - $14-13,3*11$ <br>
+$LHS = 14-13 = 1$
+<br> $RHS = 3*11 = 33$
+<br> $LHS < RHS$
+ <br>In expressions - $9+12,12-14$ <br>
+$LHS = 9+12 = 21$
+<br> $RHS = 12-14 = -2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11+1,9*0 & 1 & =  \\
+        \hline
+        b & 14-15,5*1 & 2 & < \\
+        \hline
+        c & 13-0,10+3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,b-2 c-3 a-1 ,a-1 b-2 c-3 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13-0,10+3$ <br>
+$LHS = 13-0 = 13$
+<br> $RHS = 10+3 = 13$
+<br> $LHS = RHS$
+ <br>In expressions - $14-15,5*1$ <br>
+$LHS = 14-15 = -1$
+<br> $RHS = 5*1 = 5$
+<br> $LHS < RHS$
+ <br>In expressions - $11+1,9*0$ <br>
+$LHS = 11+1 = 12$
+<br> $RHS = 9*0 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 7-6,5-4 & 1 & =  \\
+        \hline
+        b & 11*2,5-12 & 2 & < \\
+        \hline
+        c & 0-2,10+9 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,a-1 b-2 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $7-6,5-4$ <br>
+$LHS = 7-6 = 1$
+<br> $RHS = 5-4 = 1$
+<br> $LHS = RHS$
+ <br>In expressions - $0-2,10+9$ <br>
+$LHS = 0-2 = -2$
+<br> $RHS = 10+9 = 19$
+<br> $LHS < RHS$
+ <br>In expressions - $11*2,5-12$ <br>
+$LHS = 11*2 = 22$
+<br> $RHS = 5-12 = -7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0+6,4+2 & 1 & =  \\
+        \hline
+        b & 1+11,14-7 & 2 & < \\
+        \hline
+        c & 3*0,1+12 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 a-1 c-3 ,a-1 b-2 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $0+6,4+2$ <br>
+$LHS = 0+6 = 6$
+<br> $RHS = 4+2 = 6$
+<br> $LHS = RHS$
+ <br>In expressions - $3*0,1+12$ <br>
+$LHS = 3*0 = 0$
+<br> $RHS = 1+12 = 13$
+<br> $LHS < RHS$
+ <br>In expressions - $1+11,14-7$ <br>
+$LHS = 1+11 = 12$
+<br> $RHS = 14-7 = 7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12*15,3+4 & 1 & =  \\
+        \hline
+        b & 1+15,13+3 & 2 & < \\
+        \hline
+        c & 4+9,4+10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,a-1 c-3 b-2 ,b-2 a-1 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1+15,13+3$ <br>
+$LHS = 1+15 = 16$
+<br> $RHS = 13+3 = 16$
+<br> $LHS = RHS$
+ <br>In expressions - $4+9,4+10$ <br>
+$LHS = 4+9 = 13$
+<br> $RHS = 4+10 = 14$
+<br> $LHS < RHS$
+ <br>In expressions - $12*15,3+4$ <br>
+$LHS = 12*15 = 180$
+<br> $RHS = 3+4 = 7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 7*13,7+11 & 1 & =  \\
+        \hline
+        b & 8-15,15+8 & 2 & < \\
+        \hline
+        c & 1*8,9-1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,b-2 a-1 c-3 ,a-1 c-3 b-2 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1*8,9-1$ <br>
+$LHS = 1*8 = 8$
+<br> $RHS = 9-1 = 8$
+<br> $LHS = RHS$
+ <br>In expressions - $8-15,15+8$ <br>
+$LHS = 8-15 = -7$
+<br> $RHS = 15+8 = 23$
+<br> $LHS < RHS$
+ <br>In expressions - $7*13,7+11$ <br>
+$LHS = 7*13 = 91$
+<br> $RHS = 7+11 = 18$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 9-5,0+11 & 1 & =  \\
+        \hline
+        b & 6+0,3-11 & 2 & < \\
+        \hline
+        c & 9-13,6-10 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,b-2 c-3 a-1 ,c-3 a-1 b-2 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $9-13,6-10$ <br>
+$LHS = 9-13 = -4$
+<br> $RHS = 6-10 = -4$
+<br> $LHS = RHS$
+ <br>In expressions - $9-5,0+11$ <br>
+$LHS = 9-5 = 4$
+<br> $RHS = 0+11 = 11$
+<br> $LHS < RHS$
+ <br>In expressions - $6+0,3-11$ <br>
+$LHS = 6+0 = 6$
+<br> $RHS = 3-11 = -8$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 8-8,0*15 & 1 & =  \\
+        \hline
+        b & 0-7,13*13 & 2 & < \\
+        \hline
+        c & 2*8,7+5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,a-1 b-2 c-3 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $8-8,0*15$ <br>
+$LHS = 8-8 = 0$
+<br> $RHS = 0*15 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $0-7,13*13$ <br>
+$LHS = 0-7 = -7$
+<br> $RHS = 13*13 = 169$
+<br> $LHS < RHS$
+ <br>In expressions - $2*8,7+5$ <br>
+$LHS = 2*8 = 16$
+<br> $RHS = 7+5 = 12$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14+9,15+15 & 1 & =  \\
+        \hline
+        b & 8+12,10-11 & 2 & < \\
+        \hline
+        c & 13-5,14-6 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,a-1 b-2 c-3 ,a-1 c-3 b-2 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13-5,14-6$ <br>
+$LHS = 13-5 = 8$
+<br> $RHS = 14-6 = 8$
+<br> $LHS = RHS$
+ <br>In expressions - $14+9,15+15$ <br>
+$LHS = 14+9 = 23$
+<br> $RHS = 15+15 = 30$
+<br> $LHS < RHS$
+ <br>In expressions - $8+12,10-11$ <br>
+$LHS = 8+12 = 20$
+<br> $RHS = 10-11 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14-8,8-0 & 1 & =  \\
+        \hline
+        b & 8+6,2*7 & 2 & < \\
+        \hline
+        c & 15+3,0+8 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,a-1 c-3 b-2 ,c-3 a-1 b-2 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $8+6,2*7$ <br>
+$LHS = 8+6 = 14$
+<br> $RHS = 2*7 = 14$
+<br> $LHS = RHS$
+ <br>In expressions - $14-8,8-0$ <br>
+$LHS = 14-8 = 6$
+<br> $RHS = 8-0 = 8$
+<br> $LHS < RHS$
+ <br>In expressions - $15+3,0+8$ <br>
+$LHS = 15+3 = 18$
+<br> $RHS = 0+8 = 8$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6*3,6+12 & 1 & =  \\
+        \hline
+        b & 0+7,13-12 & 2 & < \\
+        \hline
+        c & 11+3,8+13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 c-3 a-1 ,c-3 a-1 b-2 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $6*3,6+12$ <br>
+$LHS = 6*3 = 18$
+<br> $RHS = 6+12 = 18$
+<br> $LHS = RHS$
+ <br>In expressions - $11+3,8+13$ <br>
+$LHS = 11+3 = 14$
+<br> $RHS = 8+13 = 21$
+<br> $LHS < RHS$
+ <br>In expressions - $0+7,13-12$ <br>
+$LHS = 0+7 = 7$
+<br> $RHS = 13-12 = 1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6*2,1+1 & 1 & =  \\
+        \hline
+        b & 1*1,0+14 & 2 & < \\
+        \hline
+        c & 8*0,0*0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,b-2 c-3 a-1 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $8*0,0*0$ <br>
+$LHS = 8*0 = 0$
+<br> $RHS = 0*0 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $1*1,0+14$ <br>
+$LHS = 1*1 = 1$
+<br> $RHS = 0+14 = 14$
+<br> $LHS < RHS$
+ <br>In expressions - $6*2,1+1$ <br>
+$LHS = 6*2 = 12$
+<br> $RHS = 1+1 = 2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0*2,13-13 & 1 & =  \\
+        \hline
+        b & 6*8,6-7 & 2 & < \\
+        \hline
+        c & 6+6,7*2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $0*2,13-13$ <br>
+$LHS = 0*2 = 0$
+<br> $RHS = 13-13 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $6+6,7*2$ <br>
+$LHS = 6+6 = 12$
+<br> $RHS = 7*2 = 14$
+<br> $LHS < RHS$
+ <br>In expressions - $6*8,6-7$ <br>
+$LHS = 6*8 = 48$
+<br> $RHS = 6-7 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 10+2,4*3 & 1 & =  \\
+        \hline
+        b & 10*4,14+12 & 2 & < \\
+        \hline
+        c & 7+5,9*11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,a-1 c-3 b-2 ,a-1 b-2 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $10+2,4*3$ <br>
+$LHS = 10+2 = 12$
+<br> $RHS = 4*3 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $7+5,9*11$ <br>
+$LHS = 7+5 = 12$
+<br> $RHS = 9*11 = 99$
+<br> $LHS < RHS$
+ <br>In expressions - $10*4,14+12$ <br>
+$LHS = 10*4 = 40$
+<br> $RHS = 14+12 = 26$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 15+5,11-1 & 1 & =  \\
+        \hline
+        b & 11-5,8-2 & 2 & < \\
+        \hline
+        c & 10+3,15+13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,c-3 b-2 a-1 ,b-2 a-1 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $11-5,8-2$ <br>
+$LHS = 11-5 = 6$
+<br> $RHS = 8-2 = 6$
+<br> $LHS = RHS$
+ <br>In expressions - $10+3,15+13$ <br>
+$LHS = 10+3 = 13$
+<br> $RHS = 15+13 = 28$
+<br> $LHS < RHS$
+ <br>In expressions - $15+5,11-1$ <br>
+$LHS = 15+5 = 20$
+<br> $RHS = 11-1 = 10$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6-15,14+5 & 1 & =  \\
+        \hline
+        b & 2*10,8+12 & 2 & < \\
+        \hline
+        c & 14+10,10+11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2*10,8+12$ <br>
+$LHS = 2*10 = 20$
+<br> $RHS = 8+12 = 20$
+<br> $LHS = RHS$
+ <br>In expressions - $6-15,14+5$ <br>
+$LHS = 6-15 = -9$
+<br> $RHS = 14+5 = 19$
+<br> $LHS < RHS$
+ <br>In expressions - $14+10,10+11$ <br>
+$LHS = 14+10 = 24$
+<br> $RHS = 10+11 = 21$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14*10,0-4 & 1 & =  \\
+        \hline
+        b & 14-11,7*5 & 2 & < \\
+        \hline
+        c & 10+0,2+8 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $10+0,2+8$ <br>
+$LHS = 10+0 = 10$
+<br> $RHS = 2+8 = 10$
+<br> $LHS = RHS$
+ <br>In expressions - $14-11,7*5$ <br>
+$LHS = 14-11 = 3$
+<br> $RHS = 7*5 = 35$
+<br> $LHS < RHS$
+ <br>In expressions - $14*10,0-4$ <br>
+$LHS = 14*10 = 140$
+<br> $RHS = 0-4 = -4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0+9,11*8 & 1 & =  \\
+        \hline
+        b & 0+11,3+8 & 2 & < \\
+        \hline
+        c & 15+4,0-5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 b-2 a-1 ,b-2 a-1 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $0+11,3+8$ <br>
+$LHS = 0+11 = 11$
+<br> $RHS = 3+8 = 11$
+<br> $LHS = RHS$
+ <br>In expressions - $0+9,11*8$ <br>
+$LHS = 0+9 = 9$
+<br> $RHS = 11*8 = 88$
+<br> $LHS < RHS$
+ <br>In expressions - $15+4,0-5$ <br>
+$LHS = 15+4 = 19$
+<br> $RHS = 0-5 = -5$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 10-4,2-4 & 1 & =  \\
+        \hline
+        b & 7+7,3+11 & 2 & < \\
+        \hline
+        c & 3-3,5*13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,a-1 c-3 b-2 ,b-2 c-3 a-1 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $7+7,3+11$ <br>
+$LHS = 7+7 = 14$
+<br> $RHS = 3+11 = 14$
+<br> $LHS = RHS$
+ <br>In expressions - $3-3,5*13$ <br>
+$LHS = 3-3 = 0$
+<br> $RHS = 5*13 = 65$
+<br> $LHS < RHS$
+ <br>In expressions - $10-4,2-4$ <br>
+$LHS = 10-4 = 6$
+<br> $RHS = 2-4 = -2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 15*7,6+9 & 1 & =  \\
+        \hline
+        b & 11*2,14*3 & 2 & < \\
+        \hline
+        c & 6+9,1+14 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 c-3 b-2 ,a-1 b-2 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $6+9,1+14$ <br>
+$LHS = 6+9 = 15$
+<br> $RHS = 1+14 = 15$
+<br> $LHS = RHS$
+ <br>In expressions - $11*2,14*3$ <br>
+$LHS = 11*2 = 22$
+<br> $RHS = 14*3 = 42$
+<br> $LHS < RHS$
+ <br>In expressions - $15*7,6+9$ <br>
+$LHS = 15*7 = 105$
+<br> $RHS = 6+9 = 15$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 4+7,1+10 & 1 & =  \\
+        \hline
+        b & 13-9,8*12 & 2 & < \\
+        \hline
+        c & 1*8,10-7 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,a-1 b-2 c-3 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4+7,1+10$ <br>
+$LHS = 4+7 = 11$
+<br> $RHS = 1+10 = 11$
+<br> $LHS = RHS$
+ <br>In expressions - $13-9,8*12$ <br>
+$LHS = 13-9 = 4$
+<br> $RHS = 8*12 = 96$
+<br> $LHS < RHS$
+ <br>In expressions - $1*8,10-7$ <br>
+$LHS = 1*8 = 8$
+<br> $RHS = 10-7 = 3$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13-7,6*14 & 1 & =  \\
+        \hline
+        b & 2*12,6-4 & 2 & < \\
+        \hline
+        c & 14*1,11+3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,a-1 b-2 c-3 ,c-3 a-1 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $14*1,11+3$ <br>
+$LHS = 14*1 = 14$
+<br> $RHS = 11+3 = 14$
+<br> $LHS = RHS$
+ <br>In expressions - $13-7,6*14$ <br>
+$LHS = 13-7 = 6$
+<br> $RHS = 6*14 = 84$
+<br> $LHS < RHS$
+ <br>In expressions - $2*12,6-4$ <br>
+$LHS = 2*12 = 24$
+<br> $RHS = 6-4 = 2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0*4,2-0 & 1 & =  \\
+        \hline
+        b & 13*0,0*10 & 2 & < \\
+        \hline
+        c & 15*9,13*9 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,a-1 c-3 b-2 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13*0,0*10$ <br>
+$LHS = 13*0 = 0$
+<br> $RHS = 0*10 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $0*4,2-0$ <br>
+$LHS = 0*4 = 0$
+<br> $RHS = 2-0 = 2$
+<br> $LHS < RHS$
+ <br>In expressions - $15*9,13*9$ <br>
+$LHS = 15*9 = 135$
+<br> $RHS = 13*9 = 117$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 8+3,5+4 & 1 & =  \\
+        \hline
+        b & 1-3,8-10 & 2 & < \\
+        \hline
+        c & 9-11,0*13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,a-1 c-3 b-2 ,b-2 a-1 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1-3,8-10$ <br>
+$LHS = 1-3 = -2$
+<br> $RHS = 8-10 = -2$
+<br> $LHS = RHS$
+ <br>In expressions - $9-11,0*13$ <br>
+$LHS = 9-11 = -2$
+<br> $RHS = 0*13 = 0$
+<br> $LHS < RHS$
+ <br>In expressions - $8+3,5+4$ <br>
+$LHS = 8+3 = 11$
+<br> $RHS = 5+4 = 9$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13+3,0*2 & 1 & =  \\
+        \hline
+        b & 2-12,8+3 & 2 & < \\
+        \hline
+        c & 2+5,3+4 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,a-1 c-3 b-2 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2+5,3+4$ <br>
+$LHS = 2+5 = 7$
+<br> $RHS = 3+4 = 7$
+<br> $LHS = RHS$
+ <br>In expressions - $2-12,8+3$ <br>
+$LHS = 2-12 = -10$
+<br> $RHS = 8+3 = 11$
+<br> $LHS < RHS$
+ <br>In expressions - $13+3,0*2$ <br>
+$LHS = 13+3 = 16$
+<br> $RHS = 0*2 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13-9,2*0 & 1 & =  \\
+        \hline
+        b & 8-3,9*3 & 2 & < \\
+        \hline
+        c & 4+12,9+7 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 b-2 c-3 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4+12,9+7$ <br>
+$LHS = 4+12 = 16$
+<br> $RHS = 9+7 = 16$
+<br> $LHS = RHS$
+ <br>In expressions - $8-3,9*3$ <br>
+$LHS = 8-3 = 5$
+<br> $RHS = 9*3 = 27$
+<br> $LHS < RHS$
+ <br>In expressions - $13-9,2*0$ <br>
+$LHS = 13-9 = 4$
+<br> $RHS = 2*0 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 7+5,12*1 & 1 & =  \\
+        \hline
+        b & 9*5,10*0 & 2 & < \\
+        \hline
+        c & 2+6,15-3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,a-1 b-2 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $7+5,12*1$ <br>
+$LHS = 7+5 = 12$
+<br> $RHS = 12*1 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $2+6,15-3$ <br>
+$LHS = 2+6 = 8$
+<br> $RHS = 15-3 = 12$
+<br> $LHS < RHS$
+ <br>In expressions - $9*5,10*0$ <br>
+$LHS = 9*5 = 45$
+<br> $RHS = 10*0 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13*0,15-15 & 1 & =  \\
+        \hline
+        b & 3+12,11*11 & 2 & < \\
+        \hline
+        c & 8-11,4-9 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,c-3 a-1 b-2 ,a-1 b-2 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13*0,15-15$ <br>
+$LHS = 13*0 = 0$
+<br> $RHS = 15-15 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $3+12,11*11$ <br>
+$LHS = 3+12 = 15$
+<br> $RHS = 11*11 = 121$
+<br> $LHS < RHS$
+ <br>In expressions - $8-11,4-9$ <br>
+$LHS = 8-11 = -3$
+<br> $RHS = 4-9 = -5$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3+1,4-0 & 1 & =  \\
+        \hline
+        b & 1-8,12*2 & 2 & < \\
+        \hline
+        c & 11*14,9-2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,b-2 a-1 c-3 ,b-2 c-3 a-1 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $3+1,4-0$ <br>
+$LHS = 3+1 = 4$
+<br> $RHS = 4-0 = 4$
+<br> $LHS = RHS$
+ <br>In expressions - $1-8,12*2$ <br>
+$LHS = 1-8 = -7$
+<br> $RHS = 12*2 = 24$
+<br> $LHS < RHS$
+ <br>In expressions - $11*14,9-2$ <br>
+$LHS = 11*14 = 154$
+<br> $RHS = 9-2 = 7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3-1,13-11 & 1 & =  \\
+        \hline
+        b & 14+1,3+10 & 2 & < \\
+        \hline
+        c & 1+7,11-0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,c-3 b-2 a-1 ,b-2 c-3 a-1 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $3-1,13-11$ <br>
+$LHS = 3-1 = 2$
+<br> $RHS = 13-11 = 2$
+<br> $LHS = RHS$
+ <br>In expressions - $1+7,11-0$ <br>
+$LHS = 1+7 = 8$
+<br> $RHS = 11-0 = 11$
+<br> $LHS < RHS$
+ <br>In expressions - $14+1,3+10$ <br>
+$LHS = 14+1 = 15$
+<br> $RHS = 3+10 = 13$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6+0,12*13 & 1 & =  \\
+        \hline
+        b & 15-11,6-2 & 2 & < \\
+        \hline
+        c & 8*8,0+5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,a-1 b-2 c-3 ,b-2 a-1 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15-11,6-2$ <br>
+$LHS = 15-11 = 4$
+<br> $RHS = 6-2 = 4$
+<br> $LHS = RHS$
+ <br>In expressions - $6+0,12*13$ <br>
+$LHS = 6+0 = 6$
+<br> $RHS = 12*13 = 156$
+<br> $LHS < RHS$
+ <br>In expressions - $8*8,0+5$ <br>
+$LHS = 8*8 = 64$
+<br> $RHS = 0+5 = 5$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 9*9,5-5 & 1 & =  \\
+        \hline
+        b & 5+7,13-1 & 2 & < \\
+        \hline
+        c & 14-13,11-3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 c-3 a-1 ,a-1 c-3 b-2 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5+7,13-1$ <br>
+$LHS = 5+7 = 12$
+<br> $RHS = 13-1 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $14-13,11-3$ <br>
+$LHS = 14-13 = 1$
+<br> $RHS = 11-3 = 8$
+<br> $LHS < RHS$
+ <br>In expressions - $9*9,5-5$ <br>
+$LHS = 9*9 = 81$
+<br> $RHS = 5-5 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11+6,3-4 & 1 & =  \\
+        \hline
+        b & 0*0,2*9 & 2 & < \\
+        \hline
+        c & 13+6,11+8 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 c-3 b-2 ,c-3 b-2 a-1 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13+6,11+8$ <br>
+$LHS = 13+6 = 19$
+<br> $RHS = 11+8 = 19$
+<br> $LHS = RHS$
+ <br>In expressions - $0*0,2*9$ <br>
+$LHS = 0*0 = 0$
+<br> $RHS = 2*9 = 18$
+<br> $LHS < RHS$
+ <br>In expressions - $11+6,3-4$ <br>
+$LHS = 11+6 = 17$
+<br> $RHS = 3-4 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0*7,9-3 & 1 & =  \\
+        \hline
+        b & 12-3,12-7 & 2 & < \\
+        \hline
+        c & 2*0,14*0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,a-1 c-3 b-2 ,c-3 a-1 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2*0,14*0$ <br>
+$LHS = 2*0 = 0$
+<br> $RHS = 14*0 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $0*7,9-3$ <br>
+$LHS = 0*7 = 0$
+<br> $RHS = 9-3 = 6$
+<br> $LHS < RHS$
+ <br>In expressions - $12-3,12-7$ <br>
+$LHS = 12-3 = 9$
+<br> $RHS = 12-7 = 5$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6-4,9-2 & 1 & =  \\
+        \hline
+        b & 3+4,4+3 & 2 & < \\
+        \hline
+        c & 14*10,11+3 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,a-1 c-3 b-2 ,b-2 a-1 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $3+4,4+3$ <br>
+$LHS = 3+4 = 7$
+<br> $RHS = 4+3 = 7$
+<br> $LHS = RHS$
+ <br>In expressions - $6-4,9-2$ <br>
+$LHS = 6-4 = 2$
+<br> $RHS = 9-2 = 7$
+<br> $LHS < RHS$
+ <br>In expressions - $14*10,11+3$ <br>
+$LHS = 14*10 = 140$
+<br> $RHS = 11+3 = 14$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13-15,8-10 & 1 & =  \\
+        \hline
+        b & 8*1,9*12 & 2 & < \\
+        \hline
+        c & 5+4,11-11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,a-1 b-2 c-3 ,c-3 a-1 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13-15,8-10$ <br>
+$LHS = 13-15 = -2$
+<br> $RHS = 8-10 = -2$
+<br> $LHS = RHS$
+ <br>In expressions - $8*1,9*12$ <br>
+$LHS = 8*1 = 8$
+<br> $RHS = 9*12 = 108$
+<br> $LHS < RHS$
+ <br>In expressions - $5+4,11-11$ <br>
+$LHS = 5+4 = 9$
+<br> $RHS = 11-11 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6-6,3-4 & 1 & =  \\
+        \hline
+        b & 2+10,15-3 & 2 & < \\
+        \hline
+        c & 12-14,5-4 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 a-1 c-3 ,b-2 c-3 a-1 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2+10,15-3$ <br>
+$LHS = 2+10 = 12$
+<br> $RHS = 15-3 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $12-14,5-4$ <br>
+$LHS = 12-14 = -2$
+<br> $RHS = 5-4 = 1$
+<br> $LHS < RHS$
+ <br>In expressions - $6-6,3-4$ <br>
+$LHS = 6-6 = 0$
+<br> $RHS = 3-4 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12-4,10*4 & 1 & =  \\
+        \hline
+        b & 12+1,0+13 & 2 & < \\
+        \hline
+        c & 5+15,6-9 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 a-1 b-2 ,b-2 a-1 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $12+1,0+13$ <br>
+$LHS = 12+1 = 13$
+<br> $RHS = 0+13 = 13$
+<br> $LHS = RHS$
+ <br>In expressions - $12-4,10*4$ <br>
+$LHS = 12-4 = 8$
+<br> $RHS = 10*4 = 40$
+<br> $LHS < RHS$
+ <br>In expressions - $5+15,6-9$ <br>
+$LHS = 5+15 = 20$
+<br> $RHS = 6-9 = -3$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 8+1,5-12 & 1 & =  \\
+        \hline
+        b & 2+9,9*8 & 2 & < \\
+        \hline
+        c & 5+4,10-1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,a-1 c-3 b-2 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5+4,10-1$ <br>
+$LHS = 5+4 = 9$
+<br> $RHS = 10-1 = 9$
+<br> $LHS = RHS$
+ <br>In expressions - $2+9,9*8$ <br>
+$LHS = 2+9 = 11$
+<br> $RHS = 9*8 = 72$
+<br> $LHS < RHS$
+ <br>In expressions - $8+1,5-12$ <br>
+$LHS = 8+1 = 9$
+<br> $RHS = 5-12 = -7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6-13,13-0 & 1 & =  \\
+        \hline
+        b & 15-3,3*4 & 2 & < \\
+        \hline
+        c & 15-0,9-8 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15-3,3*4$ <br>
+$LHS = 15-3 = 12$
+<br> $RHS = 3*4 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $6-13,13-0$ <br>
+$LHS = 6-13 = -7$
+<br> $RHS = 13-0 = 13$
+<br> $LHS < RHS$
+ <br>In expressions - $15-0,9-8$ <br>
+$LHS = 15-0 = 15$
+<br> $RHS = 9-8 = 1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11-11,12-11 & 1 & =  \\
+        \hline
+        b & 13-11,3-7 & 2 & < \\
+        \hline
+        c & 9+12,8+13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $9+12,8+13$ <br>
+$LHS = 9+12 = 21$
+<br> $RHS = 8+13 = 21$
+<br> $LHS = RHS$
+ <br>In expressions - $11-11,12-11$ <br>
+$LHS = 11-11 = 0$
+<br> $RHS = 12-11 = 1$
+<br> $LHS < RHS$
+ <br>In expressions - $13-11,3-7$ <br>
+$LHS = 13-11 = 2$
+<br> $RHS = 3-7 = -4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3*7,12-12 & 1 & =  \\
+        \hline
+        b & 4-5,7-8 & 2 & < \\
+        \hline
+        c & 15-10,2+11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 a-1 c-3 ,a-1 b-2 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4-5,7-8$ <br>
+$LHS = 4-5 = -1$
+<br> $RHS = 7-8 = -1$
+<br> $LHS = RHS$
+ <br>In expressions - $15-10,2+11$ <br>
+$LHS = 15-10 = 5$
+<br> $RHS = 2+11 = 13$
+<br> $LHS < RHS$
+ <br>In expressions - $3*7,12-12$ <br>
+$LHS = 3*7 = 21$
+<br> $RHS = 12-12 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0+13,9-15 & 1 & =  \\
+        \hline
+        b & 10+4,5+9 & 2 & < \\
+        \hline
+        c & 4-10,10-5 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 c-3 a-1 ,a-1 b-2 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $10+4,5+9$ <br>
+$LHS = 10+4 = 14$
+<br> $RHS = 5+9 = 14$
+<br> $LHS = RHS$
+ <br>In expressions - $4-10,10-5$ <br>
+$LHS = 4-10 = -6$
+<br> $RHS = 10-5 = 5$
+<br> $LHS < RHS$
+ <br>In expressions - $0+13,9-15$ <br>
+$LHS = 0+13 = 13$
+<br> $RHS = 9-15 = -6$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12+4,10+4 & 1 & =  \\
+        \hline
+        b & 2-10,15+6 & 2 & < \\
+        \hline
+        c & 2+10,6*2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 c-3 b-2 ,c-3 b-2 a-1 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2+10,6*2$ <br>
+$LHS = 2+10 = 12$
+<br> $RHS = 6*2 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $2-10,15+6$ <br>
+$LHS = 2-10 = -8$
+<br> $RHS = 15+6 = 21$
+<br> $LHS < RHS$
+ <br>In expressions - $12+4,10+4$ <br>
+$LHS = 12+4 = 16$
+<br> $RHS = 10+4 = 14$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 11*1,14-3 & 1 & =  \\
+        \hline
+        b & 12-6,13-14 & 2 & < \\
+        \hline
+        c & 5+13,6*15 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,a-1 c-3 b-2 ,c-3 b-2 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $11*1,14-3$ <br>
+$LHS = 11*1 = 11$
+<br> $RHS = 14-3 = 11$
+<br> $LHS = RHS$
+ <br>In expressions - $5+13,6*15$ <br>
+$LHS = 5+13 = 18$
+<br> $RHS = 6*15 = 90$
+<br> $LHS < RHS$
+ <br>In expressions - $12-6,13-14$ <br>
+$LHS = 12-6 = 6$
+<br> $RHS = 13-14 = -1$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 5-11,8-14 & 1 & =  \\
+        \hline
+        b & 10-10,5-13 & 2 & < \\
+        \hline
+        c & 4+5,13*11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 a-1 c-3 ,a-1 b-2 c-3 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5-11,8-14$ <br>
+$LHS = 5-11 = -6$
+<br> $RHS = 8-14 = -6$
+<br> $LHS = RHS$
+ <br>In expressions - $4+5,13*11$ <br>
+$LHS = 4+5 = 9$
+<br> $RHS = 13*11 = 143$
+<br> $LHS < RHS$
+ <br>In expressions - $10-10,5-13$ <br>
+$LHS = 10-10 = 0$
+<br> $RHS = 5-13 = -8$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 1*14,4+15 & 1 & =  \\
+        \hline
+        b & 8*15,12-9 & 2 & < \\
+        \hline
+        c & 6-6,0-0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,a-1 b-2 c-3 ,c-3 a-1 b-2 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $6-6,0-0$ <br>
+$LHS = 6-6 = 0$
+<br> $RHS = 0-0 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $1*14,4+15$ <br>
+$LHS = 1*14 = 14$
+<br> $RHS = 4+15 = 19$
+<br> $LHS < RHS$
+ <br>In expressions - $8*15,12-9$ <br>
+$LHS = 8*15 = 120$
+<br> $RHS = 12-9 = 3$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14+0,14+14 & 1 & =  \\
+        \hline
+        b & 7+7,12+2 & 2 & < \\
+        \hline
+        c & 6*9,11*4 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 a-1 b-2 ,a-1 b-2 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $7+7,12+2$ <br>
+$LHS = 7+7 = 14$
+<br> $RHS = 12+2 = 14$
+<br> $LHS = RHS$
+ <br>In expressions - $14+0,14+14$ <br>
+$LHS = 14+0 = 14$
+<br> $RHS = 14+14 = 28$
+<br> $LHS < RHS$
+ <br>In expressions - $6*9,11*4$ <br>
+$LHS = 6*9 = 54$
+<br> $RHS = 11*4 = 44$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 5*7,10+14 & 1 & =  \\
+        \hline
+        b & 12-7,10-5 & 2 & < \\
+        \hline
+        c & 15+11,7*11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,a-1 c-3 b-2 ,c-3 a-1 b-2 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $12-7,10-5$ <br>
+$LHS = 12-7 = 5$
+<br> $RHS = 10-5 = 5$
+<br> $LHS = RHS$
+ <br>In expressions - $15+11,7*11$ <br>
+$LHS = 15+11 = 26$
+<br> $RHS = 7*11 = 77$
+<br> $LHS < RHS$
+ <br>In expressions - $5*7,10+14$ <br>
+$LHS = 5*7 = 35$
+<br> $RHS = 10+14 = 24$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 9-2,13+7 & 1 & =  \\
+        \hline
+        b & 11-0,7-11 & 2 & < \\
+        \hline
+        c & 3+13,12+4 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,b-2 a-1 c-3 ,a-1 b-2 c-3 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $3+13,12+4$ <br>
+$LHS = 3+13 = 16$
+<br> $RHS = 12+4 = 16$
+<br> $LHS = RHS$
+ <br>In expressions - $9-2,13+7$ <br>
+$LHS = 9-2 = 7$
+<br> $RHS = 13+7 = 20$
+<br> $LHS < RHS$
+ <br>In expressions - $11-0,7-11$ <br>
+$LHS = 11-0 = 11$
+<br> $RHS = 7-11 = -4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12+11,13-4 & 1 & =  \\
+        \hline
+        b & 3+3,15*13 & 2 & < \\
+        \hline
+        c & 2+4,6-0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 b-2 c-3 ,c-3 b-2 a-1 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $2+4,6-0$ <br>
+$LHS = 2+4 = 6$
+<br> $RHS = 6-0 = 6$
+<br> $LHS = RHS$
+ <br>In expressions - $3+3,15*13$ <br>
+$LHS = 3+3 = 6$
+<br> $RHS = 15*13 = 195$
+<br> $LHS < RHS$
+ <br>In expressions - $12+11,13-4$ <br>
+$LHS = 12+11 = 23$
+<br> $RHS = 13-4 = 9$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 2+7,2+8 & 1 & =  \\
+        \hline
+        b & 5-5,15-15 & 2 & < \\
+        \hline
+        c & 8*14,13+1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,b-2 c-3 a-1 ,c-3 b-2 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5-5,15-15$ <br>
+$LHS = 5-5 = 0$
+<br> $RHS = 15-15 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $2+7,2+8$ <br>
+$LHS = 2+7 = 9$
+<br> $RHS = 2+8 = 10$
+<br> $LHS < RHS$
+ <br>In expressions - $8*14,13+1$ <br>
+$LHS = 8*14 = 112$
+<br> $RHS = 13+1 = 14$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 15-2,5+8 & 1 & =  \\
+        \hline
+        b & 0*0,12-15 & 2 & < \\
+        \hline
+        c & 11-4,15+7 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 a-1 c-3 ,b-2 c-3 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15-2,5+8$ <br>
+$LHS = 15-2 = 13$
+<br> $RHS = 5+8 = 13$
+<br> $LHS = RHS$
+ <br>In expressions - $11-4,15+7$ <br>
+$LHS = 11-4 = 7$
+<br> $RHS = 15+7 = 22$
+<br> $LHS < RHS$
+ <br>In expressions - $0*0,12-15$ <br>
+$LHS = 0*0 = 0$
+<br> $RHS = 12-15 = -3$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 9-5,15-11 & 1 & =  \\
+        \hline
+        b & 13*12,8*3 & 2 & < \\
+        \hline
+        c & 5-12,11+13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 c-3 a-1 ,c-3 a-1 b-2 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $9-5,15-11$ <br>
+$LHS = 9-5 = 4$
+<br> $RHS = 15-11 = 4$
+<br> $LHS = RHS$
+ <br>In expressions - $5-12,11+13$ <br>
+$LHS = 5-12 = -7$
+<br> $RHS = 11+13 = 24$
+<br> $LHS < RHS$
+ <br>In expressions - $13*12,8*3$ <br>
+$LHS = 13*12 = 156$
+<br> $RHS = 8*3 = 24$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 1-12,0-11 & 1 & =  \\
+        \hline
+        b & 2*2,11*4 & 2 & < \\
+        \hline
+        c & 14*7,12+11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,b-2 c-3 a-1 ,a-1 c-3 b-2 ,c-3 a-1 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1-12,0-11$ <br>
+$LHS = 1-12 = -11$
+<br> $RHS = 0-11 = -11$
+<br> $LHS = RHS$
+ <br>In expressions - $2*2,11*4$ <br>
+$LHS = 2*2 = 4$
+<br> $RHS = 11*4 = 44$
+<br> $LHS < RHS$
+ <br>In expressions - $14*7,12+11$ <br>
+$LHS = 14*7 = 98$
+<br> $RHS = 12+11 = 23$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 8-11,6+3 & 1 & =  \\
+        \hline
+        b & 12-13,0-1 & 2 & < \\
+        \hline
+        c & 6*4,7-9 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 b-2 a-1 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $12-13,0-1$ <br>
+$LHS = 12-13 = -1$
+<br> $RHS = 0-1 = -1$
+<br> $LHS = RHS$
+ <br>In expressions - $8-11,6+3$ <br>
+$LHS = 8-11 = -3$
+<br> $RHS = 6+3 = 9$
+<br> $LHS < RHS$
+ <br>In expressions - $6*4,7-9$ <br>
+$LHS = 6*4 = 24$
+<br> $RHS = 7-9 = -2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 2*11,10+8 & 1 & =  \\
+        \hline
+        b & 4+11,6*6 & 2 & < \\
+        \hline
+        c & 0*14,6-6 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,b-2 c-3 a-1 ,b-2 a-1 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $0*14,6-6$ <br>
+$LHS = 0*14 = 0$
+<br> $RHS = 6-6 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $4+11,6*6$ <br>
+$LHS = 4+11 = 15$
+<br> $RHS = 6*6 = 36$
+<br> $LHS < RHS$
+ <br>In expressions - $2*11,10+8$ <br>
+$LHS = 2*11 = 22$
+<br> $RHS = 10+8 = 18$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 6+4,10-0 & 1 & =  \\
+        \hline
+        b & 8*5,14-4 & 2 & < \\
+        \hline
+        c & 3-9,14+14 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 c-3 a-1 ,c-3 a-1 b-2 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $6+4,10-0$ <br>
+$LHS = 6+4 = 10$
+<br> $RHS = 10-0 = 10$
+<br> $LHS = RHS$
+ <br>In expressions - $3-9,14+14$ <br>
+$LHS = 3-9 = -6$
+<br> $RHS = 14+14 = 28$
+<br> $LHS < RHS$
+ <br>In expressions - $8*5,14-4$ <br>
+$LHS = 8*5 = 40$
+<br> $RHS = 14-4 = 10$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 8+1,1*9 & 1 & =  \\
+        \hline
+        b & 12*15,5-0 & 2 & < \\
+        \hline
+        c & 2-0,13*2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,a-1 b-2 c-3 ,a-1 c-3 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $8+1,1*9$ <br>
+$LHS = 8+1 = 9$
+<br> $RHS = 1*9 = 9$
+<br> $LHS = RHS$
+ <br>In expressions - $2-0,13*2$ <br>
+$LHS = 2-0 = 2$
+<br> $RHS = 13*2 = 26$
+<br> $LHS < RHS$
+ <br>In expressions - $12*15,5-0$ <br>
+$LHS = 12*15 = 180$
+<br> $RHS = 5-0 = 5$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 5*0,12-12 & 1 & =  \\
+        \hline
+        b & 0+11,13*7 & 2 & < \\
+        \hline
+        c & 8*13,5-13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,c-3 b-2 a-1 ,c-3 a-1 b-2 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5*0,12-12$ <br>
+$LHS = 5*0 = 0$
+<br> $RHS = 12-12 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $0+11,13*7$ <br>
+$LHS = 0+11 = 11$
+<br> $RHS = 13*7 = 91$
+<br> $LHS < RHS$
+ <br>In expressions - $8*13,5-13$ <br>
+$LHS = 8*13 = 104$
+<br> $RHS = 5-13 = -8$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 3*4,0+12 & 1 & =  \\
+        \hline
+        b & 1-12,1*3 & 2 & < \\
+        \hline
+        c & 15*2,9*0 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,c-3 b-2 a-1 ,b-2 a-1 c-3 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $3*4,0+12$ <br>
+$LHS = 3*4 = 12$
+<br> $RHS = 0+12 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $1-12,1*3$ <br>
+$LHS = 1-12 = -11$
+<br> $RHS = 1*3 = 3$
+<br> $LHS < RHS$
+ <br>In expressions - $15*2,9*0$ <br>
+$LHS = 15*2 = 30$
+<br> $RHS = 9*0 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14*3,6*11 & 1 & =  \\
+        \hline
+        b & 12-4,1*8 & 2 & < \\
+        \hline
+        c & 10-3,6-13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 a-1 b-2 ,b-2 c-3 a-1 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $12-4,1*8$ <br>
+$LHS = 12-4 = 8$
+<br> $RHS = 1*8 = 8$
+<br> $LHS = RHS$
+ <br>In expressions - $14*3,6*11$ <br>
+$LHS = 14*3 = 42$
+<br> $RHS = 6*11 = 66$
+<br> $LHS < RHS$
+ <br>In expressions - $10-3,6-13$ <br>
+$LHS = 10-3 = 7$
+<br> $RHS = 6-13 = -7$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 5*10,15-11 & 1 & =  \\
+        \hline
+        b & 15+10,5*5 & 2 & < \\
+        \hline
+        c & 2-13,14+12 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 a-1 c-3 ,b-2 c-3 a-1 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $15+10,5*5$ <br>
+$LHS = 15+10 = 25$
+<br> $RHS = 5*5 = 25$
+<br> $LHS = RHS$
+ <br>In expressions - $2-13,14+12$ <br>
+$LHS = 2-13 = -11$
+<br> $RHS = 14+12 = 26$
+<br> $LHS < RHS$
+ <br>In expressions - $5*10,15-11$ <br>
+$LHS = 5*10 = 50$
+<br> $RHS = 15-11 = 4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 12-7,9+8 & 1 & =  \\
+        \hline
+        b & 11-6,9-13 & 2 & < \\
+        \hline
+        c & 7-8,12-13 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,c-3 a-1 b-2 ,c-3 b-2 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $7-8,12-13$ <br>
+$LHS = 7-8 = -1$
+<br> $RHS = 12-13 = -1$
+<br> $LHS = RHS$
+ <br>In expressions - $12-7,9+8$ <br>
+$LHS = 12-7 = 5$
+<br> $RHS = 9+8 = 17$
+<br> $LHS < RHS$
+ <br>In expressions - $11-6,9-13$ <br>
+$LHS = 11-6 = 5$
+<br> $RHS = 9-13 = -4$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 10-13,1-4 & 1 & =  \\
+        \hline
+        b & 8*1,12*9 & 2 & < \\
+        \hline
+        c & 0*5,4-12 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,b-2 a-1 c-3 ,a-1 b-2 c-3 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $10-13,1-4$ <br>
+$LHS = 10-13 = -3$
+<br> $RHS = 1-4 = -3$
+<br> $LHS = RHS$
+ <br>In expressions - $8*1,12*9$ <br>
+$LHS = 8*1 = 8$
+<br> $RHS = 12*9 = 108$
+<br> $LHS < RHS$
+ <br>In expressions - $0*5,4-12$ <br>
+$LHS = 0*5 = 0$
+<br> $RHS = 4-12 = -8$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13+10,3+3 & 1 & =  \\
+        \hline
+        b & 6-6,13*0 & 2 & < \\
+        \hline
+        c & 4-3,8+2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-1 c-2 ,,,,b-2 c-3 a-1 ,c-3 b-2 a-1 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $6-6,13*0$ <br>
+$LHS = 6-6 = 0$
+<br> $RHS = 13*0 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $4-3,8+2$ <br>
+$LHS = 4-3 = 1$
+<br> $RHS = 8+2 = 10$
+<br> $LHS < RHS$
+ <br>In expressions - $13+10,3+3$ <br>
+$LHS = 13+10 = 23$
+<br> $RHS = 3+3 = 6$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-1 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 10-13,15-7 & 1 & =  \\
+        \hline
+        b & 10+2,2*6 & 2 & < \\
+        \hline
+        c & 5*2,2-2 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,c-3 a-1 b-2 ,b-2 a-1 c-3 ,c-3 b-2 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $10+2,2*6$ <br>
+$LHS = 10+2 = 12$
+<br> $RHS = 2*6 = 12$
+<br> $LHS = RHS$
+ <br>In expressions - $10-13,15-7$ <br>
+$LHS = 10-13 = -3$
+<br> $RHS = 15-7 = 8$
+<br> $LHS < RHS$
+ <br>In expressions - $5*2,2-2$ <br>
+$LHS = 5*2 = 10$
+<br> $RHS = 2-2 = 0$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14+5,9*1 & 1 & =  \\
+        \hline
+        b & 0-2,8+12 & 2 & < \\
+        \hline
+        c & 5-1,10-6 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,c-3 a-1 b-2 ,a-1 c-3 b-2 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $5-1,10-6$ <br>
+$LHS = 5-1 = 4$
+<br> $RHS = 10-6 = 4$
+<br> $LHS = RHS$
+ <br>In expressions - $0-2,8+12$ <br>
+$LHS = 0-2 = -2$
+<br> $RHS = 8+12 = 20$
+<br> $LHS < RHS$
+ <br>In expressions - $14+5,9*1$ <br>
+$LHS = 14+5 = 19$
+<br> $RHS = 9*1 = 9$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 0*12,2-2 & 1 & =  \\
+        \hline
+        b & 7-7,2*11 & 2 & < \\
+        \hline
+        c & 10+8,8+1 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-2 c-3 ,,,,b-2 a-1 c-3 ,c-3 a-1 b-2 ,a-1 b-2 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $0*12,2-2$ <br>
+$LHS = 0*12 = 0$
+<br> $RHS = 2-2 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $7-7,2*11$ <br>
+$LHS = 7-7 = 0$
+<br> $RHS = 2*11 = 22$
+<br> $LHS < RHS$
+ <br>In expressions - $10+8,8+1$ <br>
+$LHS = 10+8 = 18$
+<br> $RHS = 8+1 = 9$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-2 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 7+5,8+10 & 1 & =  \\
+        \hline
+        b & 4-10,2-8 & 2 & < \\
+        \hline
+        c & 12*5,13-11 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,b-2 a-1 c-3 ,c-3 a-1 b-2 ,b-2 c-3 a-1 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4-10,2-8$ <br>
+$LHS = 4-10 = -6$
+<br> $RHS = 2-8 = -6$
+<br> $LHS = RHS$
+ <br>In expressions - $7+5,8+10$ <br>
+$LHS = 7+5 = 12$
+<br> $RHS = 8+10 = 18$
+<br> $LHS < RHS$
+ <br>In expressions - $12*5,13-11$ <br>
+$LHS = 12*5 = 60$
+<br> $RHS = 13-11 = 2$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 13-5,6+2 & 1 & =  \\
+        \hline
+        b & 11*12,14+3 & 2 & < \\
+        \hline
+        c & 11-12,9+4 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,a-1 c-3 b-2 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $13-5,6+2$ <br>
+$LHS = 13-5 = 8$
+<br> $RHS = 6+2 = 8$
+<br> $LHS = RHS$
+ <br>In expressions - $11-12,9+4$ <br>
+$LHS = 11-12 = -1$
+<br> $RHS = 9+4 = 13$
+<br> $LHS < RHS$
+ <br>In expressions - $11*12,14+3$ <br>
+$LHS = 11*12 = 132$
+<br> $RHS = 14+3 = 17$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 14-7,6-9 & 1 & =  \\
+        \hline
+        b & 0*15,13*7 & 2 & < \\
+        \hline
+        c & 4-10,1-7 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-3 b-2 c-1 ,,,,a-1 c-3 b-2 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $4-10,1-7$ <br>
+$LHS = 4-10 = -6$
+<br> $RHS = 1-7 = -6$
+<br> $LHS = RHS$
+ <br>In expressions - $0*15,13*7$ <br>
+$LHS = 0*15 = 0$
+<br> $RHS = 13*7 = 91$
+<br> $LHS < RHS$
+ <br>In expressions - $14-7,6-9$ <br>
+$LHS = 14-7 = 7$
+<br> $RHS = 6-9 = -3$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-3 b-2 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 4-4,3*13 & 1 & =  \\
+        \hline
+        b & 14+11,11+14 & 2 & < \\
+        \hline
+        c & 7*11,7+15 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-1 c-3 ,,,,b-2 a-1 c-3 ,c-3 b-2 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $14+11,11+14$ <br>
+$LHS = 14+11 = 25$
+<br> $RHS = 11+14 = 25$
+<br> $LHS = RHS$
+ <br>In expressions - $4-4,3*13$ <br>
+$LHS = 4-4 = 0$
+<br> $RHS = 3*13 = 39$
+<br> $LHS < RHS$
+ <br>In expressions - $7*11,7+15$ <br>
+$LHS = 7*11 = 77$
+<br> $RHS = 7+15 = 22$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-1 c-3 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 1-12,6*0 & 1 & =  \\
+        \hline
+        b & 14+13,12+0 & 2 & < \\
+        \hline
+        c & 10*0,0*6 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-2 b-3 c-1 ,,,,c-3 b-2 a-1 ,b-2 c-3 a-1 ,b-2 a-1 c-3 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $10*0,0*6$ <br>
+$LHS = 10*0 = 0$
+<br> $RHS = 0*6 = 0$
+<br> $LHS = RHS$
+ <br>In expressions - $1-12,6*0$ <br>
+$LHS = 1-12 = -11$
+<br> $RHS = 6*0 = 0$
+<br> $LHS < RHS$
+ <br>In expressions - $14+13,12+0$ <br>
+$LHS = 14+13 = 27$
+<br> $RHS = 12+0 = 12$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-2 b-3 c-1 ",
+text,1,30102,9,"
+====================Question====================
+                    
+Study the each pair of expressions given in Expressions column and match them with appropriate operator present in Relations column
+                    
+\[
+        \begin{array}{|c|c|c|c|}
+        \hline
+        \text{ } & \text{Operations} & \text{ } & \text{Relations} \\ 
+        \hline
+        a & 1-0,15-14 & 1 & =  \\
+        \hline
+        b & 13+7,9-1 & 2 & < \\
+        \hline
+        c & 15+3,9+12 & 3 & >  \\ 
+        \hline
+        \end{array}
+        \]
+    ",a-1 b-3 c-2 ,,,,b-2 a-1 c-3 ,b-2 c-3 a-1 ,a-1 c-3 b-2 ,60,3,,,"Evaluate each pair of equation and compare it by doing so you will get solution for each pair as follows-
+ <br>In expressions - $1-0,15-14$ <br>
+$LHS = 1-0 = 1$
+<br> $RHS = 15-14 = 1$
+<br> $LHS = RHS$
+ <br>In expressions - $15+3,9+12$ <br>
+$LHS = 15+3 = 18$
+<br> $RHS = 9+12 = 21$
+<br> $LHS < RHS$
+ <br>In expressions - $13+7,9-1$ <br>
+$LHS = 13+7 = 20$
+<br> $RHS = 9-1 = 8$
+<br> $LHS > RHS$
+ <br>
+ <br> Thus the correct option is - a-1 b-3 c-2 ",

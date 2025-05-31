@@ -1,0 +1,1501 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,3,"Gayatri and Isha have a total of 18 litres of Mango juice. If Isha has $\dfrac{5}{6}$ times the Mango juice that Gayatri has, how many litres of Mango juice does each one have?
+",Gayatri has $108/11$ litres of Mango juice and Isha has $90/11$ litres of Mango juice,,,,Gayatri has $23$ litres of Mango juice and Isha has $5$ litres of Mango juice,Gayatri has $29$ litres of Mango juice and Isha has $145/6$ litres of Mango juice,Gayatri has $90/11$ litres of Mango juice and Isha has $108/11$ litres of Mango juice,60,3,,,"let Gayatri has $x$ litres of Mango juice.
+    <br/>Since, Isha has $\dfrac{5}{6}$ times the Mango juice that Gayatri has
+        <br/>Therefore, Isha will have ($\dfrac{5}{6}$)* $x$ litres of Mango juice.  
+    <br/>Since, Gayatri and Isha have a total of $18$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{5}{6}$$)*x=18$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{6}$$)*x=18$
+ <br/>   => $(\dfrac{11}{6})* x =18$
+<br/>Dividing both the sides by $\dfrac{11}{6}$
+ <br/>   => $x=\dfrac{18}{11/6}$
+ <br/>   => $x=108/11$
+ <br/>   => $($$\dfrac{5}{6}$$)*x = ($$\dfrac{5}{6}$$)*(\dfrac{18}{11/6})=90/11$
+<br/>Hence, Gayatri has $108/11$ litres of Mango juice and Isha has $90/11$ litres of Mango juice 
+",
+text,1,30203,3,"Ganesh and Utkarsh have a total of 27 litres of water. If Utkarsh has $\dfrac{2}{4}$ times the water that Ganesh has, how many litres of water does each one have?
+",Ganesh has $18$ litres of water and Utkarsh has $9$ litres of water,,,,Ganesh has $25$ litres of water and Utkarsh has $2$ litres of water,Ganesh has $19$ litres of water and Utkarsh has $19/2$ litres of water,Ganesh has $9$ litres of water and Utkarsh has $18$ litres of water,60,3,,,"let Ganesh has $x$ litres of water.
+    <br/>Since, Utkarsh has $\dfrac{2}{4}$ times the water that Ganesh has
+        <br/>Therefore, Utkarsh will have ($\dfrac{2}{4}$)* $x$ litres of water.  
+    <br/>Since, Ganesh and Utkarsh have a total of $27$ litres of water
+        <br/>=>$x+($$\dfrac{2}{4}$$)*x=27$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{4}$$)*x=27$
+ <br/>   => $(\dfrac{6}{4})* x =27$
+<br/>Dividing both the sides by $\dfrac{6}{4}$
+ <br/>   => $x=\dfrac{27}{3/2}$
+ <br/>   => $x=18$
+ <br/>   => $($$\dfrac{2}{4}$$)*x = ($$\dfrac{2}{4}$$)*(\dfrac{27}{3/2})=9$
+<br/>Hence, Ganesh has $18$ litres of water and Utkarsh has $9$ litres of water 
+",
+text,1,30203,3,"Yash and Pooja have a total of 43 litres of Milk. If Pooja has $\dfrac{1}{2}$ times the Milk that Yash has, how many litres of Milk does each one have?
+",Yash has $86/3$ litres of Milk and Pooja has $43/3$ litres of Milk,,,,Yash has $20$ litres of Milk and Pooja has $23$ litres of Milk,Yash has $15$ litres of Milk and Pooja has $15/2$ litres of Milk,Yash has $43/3$ litres of Milk and Pooja has $86/3$ litres of Milk,60,3,,,"let Yash has $x$ litres of Milk.
+    <br/>Since, Pooja has $\dfrac{1}{2}$ times the Milk that Yash has
+        <br/>Therefore, Pooja will have ($\dfrac{1}{2}$)* $x$ litres of Milk.  
+    <br/>Since, Yash and Pooja have a total of $43$ litres of Milk
+        <br/>=>$x+($$\dfrac{1}{2}$$)*x=43$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{2}$$)*x=43$
+ <br/>   => $(\dfrac{3}{2})* x =43$
+<br/>Dividing both the sides by $\dfrac{3}{2}$
+ <br/>   => $x=\dfrac{43}{3/2}$
+ <br/>   => $x=86/3$
+ <br/>   => $($$\dfrac{1}{2}$$)*x = ($$\dfrac{1}{2}$$)*(\dfrac{43}{3/2})=43/3$
+<br/>Hence, Yash has $86/3$ litres of Milk and Pooja has $43/3$ litres of Milk 
+",
+text,1,30203,3,"Aabha and Gagan have a total of 13 litres of Apple juice. If Gagan has $\dfrac{4}{5}$ times the Apple juice that Aabha has, how many litres of Apple juice does each one have?
+",Aabha has $65/9$ litres of Apple juice and Gagan has $52/9$ litres of Apple juice,,,,Aabha has $24$ litres of Apple juice and Gagan has $11$ litres of Apple juice,Aabha has $18$ litres of Apple juice and Gagan has $72/5$ litres of Apple juice,Aabha has $52/9$ litres of Apple juice and Gagan has $65/9$ litres of Apple juice,60,3,,,"let Aabha has $x$ litres of Apple juice.
+    <br/>Since, Gagan has $\dfrac{4}{5}$ times the Apple juice that Aabha has
+        <br/>Therefore, Gagan will have ($\dfrac{4}{5}$)* $x$ litres of Apple juice.  
+    <br/>Since, Aabha and Gagan have a total of $13$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=13$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=13$
+ <br/>   => $(\dfrac{9}{5})* x =13$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{13}{9/5}$
+ <br/>   => $x=65/9$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{13}{9/5})=52/9$
+<br/>Hence, Aabha has $65/9$ litres of Apple juice and Gagan has $52/9$ litres of Apple juice 
+",
+text,1,30203,3,"Gauravi and Abhijeet have a total of 22 litres of Milk. If Abhijeet has $\dfrac{2}{3}$ times the Milk that Gauravi has, how many litres of Milk does each one have?
+",Gauravi has $66/5$ litres of Milk and Abhijeet has $44/5$ litres of Milk,,,,Gauravi has $7$ litres of Milk and Abhijeet has $15$ litres of Milk,Gauravi has $23$ litres of Milk and Abhijeet has $46/3$ litres of Milk,Gauravi has $44/5$ litres of Milk and Abhijeet has $66/5$ litres of Milk,60,3,,,"let Gauravi has $x$ litres of Milk.
+    <br/>Since, Abhijeet has $\dfrac{2}{3}$ times the Milk that Gauravi has
+        <br/>Therefore, Abhijeet will have ($\dfrac{2}{3}$)* $x$ litres of Milk.  
+    <br/>Since, Gauravi and Abhijeet have a total of $22$ litres of Milk
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=22$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=22$
+ <br/>   => $(\dfrac{5}{3})* x =22$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{22}{5/3}$
+ <br/>   => $x=66/5$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{22}{5/3})=44/5$
+<br/>Hence, Gauravi has $66/5$ litres of Milk and Abhijeet has $44/5$ litres of Milk 
+",
+text,1,30203,3,"Kshitij and Gauravi have a total of 47 litres of Soft drink. If Gauravi has $\dfrac{2}{6}$ times the Soft drink that Kshitij has, how many litres of Soft drink does each one have?
+",Kshitij has $141/4$ litres of Soft drink and Gauravi has $47/4$ litres of Soft drink,,,,Kshitij has $13$ litres of Soft drink and Gauravi has $34$ litres of Soft drink,Kshitij has $15$ litres of Soft drink and Gauravi has $5$ litres of Soft drink,Kshitij has $47/4$ litres of Soft drink and Gauravi has $141/4$ litres of Soft drink,60,3,,,"let Kshitij has $x$ litres of Soft drink.
+    <br/>Since, Gauravi has $\dfrac{2}{6}$ times the Soft drink that Kshitij has
+        <br/>Therefore, Gauravi will have ($\dfrac{2}{6}$)* $x$ litres of Soft drink.  
+    <br/>Since, Kshitij and Gauravi have a total of $47$ litres of Soft drink
+        <br/>=>$x+($$\dfrac{2}{6}$$)*x=47$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{6}$$)*x=47$
+ <br/>   => $(\dfrac{8}{6})* x =47$
+<br/>Dividing both the sides by $\dfrac{8}{6}$
+ <br/>   => $x=\dfrac{47}{4/3}$
+ <br/>   => $x=141/4$
+ <br/>   => $($$\dfrac{2}{6}$$)*x = ($$\dfrac{2}{6}$$)*(\dfrac{47}{4/3})=47/4$
+<br/>Hence, Kshitij has $141/4$ litres of Soft drink and Gauravi has $47/4$ litres of Soft drink 
+",
+text,1,30203,3,"Prajwal and Shivani have a total of 10 litres of Apple juice. If Shivani has $\dfrac{2}{3}$ times the Apple juice that Prajwal has, how many litres of Apple juice does each one have?
+",Prajwal has $6$ litres of Apple juice and Shivani has $4$ litres of Apple juice,,,,Prajwal has $21$ litres of Apple juice and Shivani has $11$ litres of Apple juice,Prajwal has $22$ litres of Apple juice and Shivani has $44/3$ litres of Apple juice,Prajwal has $4$ litres of Apple juice and Shivani has $6$ litres of Apple juice,60,3,,,"let Prajwal has $x$ litres of Apple juice.
+    <br/>Since, Shivani has $\dfrac{2}{3}$ times the Apple juice that Prajwal has
+        <br/>Therefore, Shivani will have ($\dfrac{2}{3}$)* $x$ litres of Apple juice.  
+    <br/>Since, Prajwal and Shivani have a total of $10$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=10$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=10$
+ <br/>   => $(\dfrac{5}{3})* x =10$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{10}{5/3}$
+ <br/>   => $x=6$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{10}{5/3})=4$
+<br/>Hence, Prajwal has $6$ litres of Apple juice and Shivani has $4$ litres of Apple juice 
+",
+text,1,30203,3,"Tushar and Mehul have a total of 58 litres of Apple juice. If Tushar has $\dfrac{2}{3}$ times the Apple juice that Mehul has, how many litres of Apple juice does each one have?
+",Mehul has $174/5$ litres of Apple juice and Tushar has $116/5$ litres of Apple juice,,,,Mehul has $23$ litres of Apple juice and Tushar has $35$ litres of Apple juice,Mehul has $19$ litres of Apple juice and Tushar has $38/3$ litres of Apple juice,Mehul has $116/5$ litres of Apple juice and Tushar has $174/5$ litres of Apple juice,60,3,,,"let Mehul has $x$ litres of Apple juice.
+    <br/>Since, Tushar has $\dfrac{2}{3}$ times the Apple juice that Mehul has
+        <br/>Therefore, Tushar will have ($\dfrac{2}{3}$)* $x$ litres of Apple juice.  
+    <br/>Since, Mehul and Tushar have a total of $58$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=58$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=58$
+ <br/>   => $(\dfrac{5}{3})* x =58$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{58}{5/3}$
+ <br/>   => $x=174/5$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{58}{5/3})=116/5$
+<br/>Hence, Mehul has $174/5$ litres of Apple juice and Tushar has $116/5$ litres of Apple juice 
+",
+text,1,30203,3,"Gopal and Manish have a total of 34 litres of Mango juice. If Manish has $\dfrac{3}{4}$ times the Mango juice that Gopal has, how many litres of Mango juice does each one have?
+",Gopal has $136/7$ litres of Mango juice and Manish has $102/7$ litres of Mango juice,,,,Gopal has $10$ litres of Mango juice and Manish has $24$ litres of Mango juice,Gopal has $12$ litres of Mango juice and Manish has $9$ litres of Mango juice,Gopal has $102/7$ litres of Mango juice and Manish has $136/7$ litres of Mango juice,60,3,,,"let Gopal has $x$ litres of Mango juice.
+    <br/>Since, Manish has $\dfrac{3}{4}$ times the Mango juice that Gopal has
+        <br/>Therefore, Manish will have ($\dfrac{3}{4}$)* $x$ litres of Mango juice.  
+    <br/>Since, Gopal and Manish have a total of $34$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=34$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=34$
+ <br/>   => $(\dfrac{7}{4})* x =34$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{34}{7/4}$
+ <br/>   => $x=136/7$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{34}{7/4})=102/7$
+<br/>Hence, Gopal has $136/7$ litres of Mango juice and Manish has $102/7$ litres of Mango juice 
+",
+text,1,30203,3,"Gauravi and Abhijeet have a total of 10 litres of Mango juice. If Abhijeet has $\dfrac{2}{3}$ times the Mango juice that Gauravi has, how many litres of Mango juice does each one have?
+",Gauravi has $6$ litres of Mango juice and Abhijeet has $4$ litres of Mango juice,,,,Gauravi has $17$ litres of Mango juice and Abhijeet has $7$ litres of Mango juice,Gauravi has $15$ litres of Mango juice and Abhijeet has $10$ litres of Mango juice,Gauravi has $4$ litres of Mango juice and Abhijeet has $6$ litres of Mango juice,60,3,,,"let Gauravi has $x$ litres of Mango juice.
+    <br/>Since, Abhijeet has $\dfrac{2}{3}$ times the Mango juice that Gauravi has
+        <br/>Therefore, Abhijeet will have ($\dfrac{2}{3}$)* $x$ litres of Mango juice.  
+    <br/>Since, Gauravi and Abhijeet have a total of $10$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=10$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=10$
+ <br/>   => $(\dfrac{5}{3})* x =10$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{10}{5/3}$
+ <br/>   => $x=6$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{10}{5/3})=4$
+<br/>Hence, Gauravi has $6$ litres of Mango juice and Abhijeet has $4$ litres of Mango juice 
+",
+text,1,30203,3,"Dharmesh and Mehul have a total of 35 litres of Coffee. If Mehul has $\dfrac{4}{6}$ times the Coffee that Dharmesh has, how many litres of Coffee does each one have?
+",Dharmesh has $21$ litres of Coffee and Mehul has $14$ litres of Coffee,,,,Dharmesh has $24$ litres of Coffee and Mehul has $11$ litres of Coffee,Dharmesh has $16$ litres of Coffee and Mehul has $32/3$ litres of Coffee,Dharmesh has $14$ litres of Coffee and Mehul has $21$ litres of Coffee,60,3,,,"let Dharmesh has $x$ litres of Coffee.
+    <br/>Since, Mehul has $\dfrac{4}{6}$ times the Coffee that Dharmesh has
+        <br/>Therefore, Mehul will have ($\dfrac{4}{6}$)* $x$ litres of Coffee.  
+    <br/>Since, Dharmesh and Mehul have a total of $35$ litres of Coffee
+        <br/>=>$x+($$\dfrac{4}{6}$$)*x=35$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{6}$$)*x=35$
+ <br/>   => $(\dfrac{10}{6})* x =35$
+<br/>Dividing both the sides by $\dfrac{10}{6}$
+ <br/>   => $x=\dfrac{35}{5/3}$
+ <br/>   => $x=21$
+ <br/>   => $($$\dfrac{4}{6}$$)*x = ($$\dfrac{4}{6}$$)*(\dfrac{35}{5/3})=14$
+<br/>Hence, Dharmesh has $21$ litres of Coffee and Mehul has $14$ litres of Coffee 
+",
+text,1,30203,3,"Akshata and Dhriti have a total of 26 litres of Oil. If Dhriti has $\dfrac{2}{6}$ times the Oil that Akshata has, how many litres of Oil does each one have?
+",Akshata has $39/2$ litres of Oil and Dhriti has $13/2$ litres of Oil,,,,Akshata has $14$ litres of Oil and Dhriti has $12$ litres of Oil,Akshata has $19$ litres of Oil and Dhriti has $19/3$ litres of Oil,Akshata has $13/2$ litres of Oil and Dhriti has $39/2$ litres of Oil,60,3,,,"let Akshata has $x$ litres of Oil.
+    <br/>Since, Dhriti has $\dfrac{2}{6}$ times the Oil that Akshata has
+        <br/>Therefore, Dhriti will have ($\dfrac{2}{6}$)* $x$ litres of Oil.  
+    <br/>Since, Akshata and Dhriti have a total of $26$ litres of Oil
+        <br/>=>$x+($$\dfrac{2}{6}$$)*x=26$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{6}$$)*x=26$
+ <br/>   => $(\dfrac{8}{6})* x =26$
+<br/>Dividing both the sides by $\dfrac{8}{6}$
+ <br/>   => $x=\dfrac{26}{4/3}$
+ <br/>   => $x=39/2$
+ <br/>   => $($$\dfrac{2}{6}$$)*x = ($$\dfrac{2}{6}$$)*(\dfrac{26}{4/3})=13/2$
+<br/>Hence, Akshata has $39/2$ litres of Oil and Dhriti has $13/2$ litres of Oil 
+",
+text,1,30203,3,"Ninad and Ninad have a total of 57 litres of Coffee. If Ninad has $\dfrac{1}{7}$ times the Coffee that Ninad has, how many litres of Coffee does each one have?
+",Ninad has $399/8$ litres of Coffee and Ninad has $57/8$ litres of Coffee,,,,Ninad has $15$ litres of Coffee and Ninad has $42$ litres of Coffee,Ninad has $26$ litres of Coffee and Ninad has $26/7$ litres of Coffee,Ninad has $57/8$ litres of Coffee and Ninad has $399/8$ litres of Coffee,60,3,,,"let Ninad has $x$ litres of Coffee.
+    <br/>Since, Ninad has $\dfrac{1}{7}$ times the Coffee that Ninad has
+        <br/>Therefore, Ninad will have ($\dfrac{1}{7}$)* $x$ litres of Coffee.  
+    <br/>Since, Ninad and Ninad have a total of $57$ litres of Coffee
+        <br/>=>$x+($$\dfrac{1}{7}$$)*x=57$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{7}$$)*x=57$
+ <br/>   => $(\dfrac{8}{7})* x =57$
+<br/>Dividing both the sides by $\dfrac{8}{7}$
+ <br/>   => $x=\dfrac{57}{8/7}$
+ <br/>   => $x=399/8$
+ <br/>   => $($$\dfrac{1}{7}$$)*x = ($$\dfrac{1}{7}$$)*(\dfrac{57}{8/7})=57/8$
+<br/>Hence, Ninad has $399/8$ litres of Coffee and Ninad has $57/8$ litres of Coffee 
+",
+text,1,30203,3,"Dhriti and Kshitij have a total of 41 litres of Coffee. If Kshitij has $\dfrac{5}{6}$ times the Coffee that Dhriti has, how many litres of Coffee does each one have?
+",Dhriti has $246/11$ litres of Coffee and Kshitij has $205/11$ litres of Coffee,,,,Dhriti has $20$ litres of Coffee and Kshitij has $21$ litres of Coffee,Dhriti has $11$ litres of Coffee and Kshitij has $55/6$ litres of Coffee,Dhriti has $205/11$ litres of Coffee and Kshitij has $246/11$ litres of Coffee,60,3,,,"let Dhriti has $x$ litres of Coffee.
+    <br/>Since, Kshitij has $\dfrac{5}{6}$ times the Coffee that Dhriti has
+        <br/>Therefore, Kshitij will have ($\dfrac{5}{6}$)* $x$ litres of Coffee.  
+    <br/>Since, Dhriti and Kshitij have a total of $41$ litres of Coffee
+        <br/>=>$x+($$\dfrac{5}{6}$$)*x=41$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{6}$$)*x=41$
+ <br/>   => $(\dfrac{11}{6})* x =41$
+<br/>Dividing both the sides by $\dfrac{11}{6}$
+ <br/>   => $x=\dfrac{41}{11/6}$
+ <br/>   => $x=246/11$
+ <br/>   => $($$\dfrac{5}{6}$$)*x = ($$\dfrac{5}{6}$$)*(\dfrac{41}{11/6})=205/11$
+<br/>Hence, Dhriti has $246/11$ litres of Coffee and Kshitij has $205/11$ litres of Coffee 
+",
+text,1,30203,3,"Aruni and Dharmesh have a total of 56 litres of Apple juice. If Aruni has $\dfrac{2}{3}$ times the Apple juice that Dharmesh has, how many litres of Apple juice does each one have?
+",Dharmesh has $168/5$ litres of Apple juice and Aruni has $112/5$ litres of Apple juice,,,,Dharmesh has $16$ litres of Apple juice and Aruni has $40$ litres of Apple juice,Dharmesh has $19$ litres of Apple juice and Aruni has $38/3$ litres of Apple juice,Dharmesh has $112/5$ litres of Apple juice and Aruni has $168/5$ litres of Apple juice,60,3,,,"let Dharmesh has $x$ litres of Apple juice.
+    <br/>Since, Aruni has $\dfrac{2}{3}$ times the Apple juice that Dharmesh has
+        <br/>Therefore, Aruni will have ($\dfrac{2}{3}$)* $x$ litres of Apple juice.  
+    <br/>Since, Dharmesh and Aruni have a total of $56$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=56$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=56$
+ <br/>   => $(\dfrac{5}{3})* x =56$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{56}{5/3}$
+ <br/>   => $x=168/5$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{56}{5/3})=112/5$
+<br/>Hence, Dharmesh has $168/5$ litres of Apple juice and Aruni has $112/5$ litres of Apple juice 
+",
+text,1,30203,3,"Suyash and Dharmesh have a total of 14 litres of Tea. If Suyash has $\dfrac{1}{4}$ times the Tea that Dharmesh has, how many litres of Tea does each one have?
+",Dharmesh has $56/5$ litres of Tea and Suyash has $14/5$ litres of Tea,,,,Dharmesh has $10$ litres of Tea and Suyash has $4$ litres of Tea,Dharmesh has $20$ litres of Tea and Suyash has $5$ litres of Tea,Dharmesh has $14/5$ litres of Tea and Suyash has $56/5$ litres of Tea,60,3,,,"let Dharmesh has $x$ litres of Tea.
+    <br/>Since, Suyash has $\dfrac{1}{4}$ times the Tea that Dharmesh has
+        <br/>Therefore, Suyash will have ($\dfrac{1}{4}$)* $x$ litres of Tea.  
+    <br/>Since, Dharmesh and Suyash have a total of $14$ litres of Tea
+        <br/>=>$x+($$\dfrac{1}{4}$$)*x=14$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{4}$$)*x=14$
+ <br/>   => $(\dfrac{5}{4})* x =14$
+<br/>Dividing both the sides by $\dfrac{5}{4}$
+ <br/>   => $x=\dfrac{14}{5/4}$
+ <br/>   => $x=56/5$
+ <br/>   => $($$\dfrac{1}{4}$$)*x = ($$\dfrac{1}{4}$$)*(\dfrac{14}{5/4})=14/5$
+<br/>Hence, Dharmesh has $56/5$ litres of Tea and Suyash has $14/5$ litres of Tea 
+",
+text,1,30203,3,"Prajwal and Isha have a total of 38 litres of Milk. If Isha has $\dfrac{1}{6}$ times the Milk that Prajwal has, how many litres of Milk does each one have?
+",Prajwal has $228/7$ litres of Milk and Isha has $38/7$ litres of Milk,,,,Prajwal has $24$ litres of Milk and Isha has $14$ litres of Milk,Prajwal has $20$ litres of Milk and Isha has $10/3$ litres of Milk,Prajwal has $38/7$ litres of Milk and Isha has $228/7$ litres of Milk,60,3,,,"let Prajwal has $x$ litres of Milk.
+    <br/>Since, Isha has $\dfrac{1}{6}$ times the Milk that Prajwal has
+        <br/>Therefore, Isha will have ($\dfrac{1}{6}$)* $x$ litres of Milk.  
+    <br/>Since, Prajwal and Isha have a total of $38$ litres of Milk
+        <br/>=>$x+($$\dfrac{1}{6}$$)*x=38$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{6}$$)*x=38$
+ <br/>   => $(\dfrac{7}{6})* x =38$
+<br/>Dividing both the sides by $\dfrac{7}{6}$
+ <br/>   => $x=\dfrac{38}{7/6}$
+ <br/>   => $x=228/7$
+ <br/>   => $($$\dfrac{1}{6}$$)*x = ($$\dfrac{1}{6}$$)*(\dfrac{38}{7/6})=38/7$
+<br/>Hence, Prajwal has $228/7$ litres of Milk and Isha has $38/7$ litres of Milk 
+",
+text,1,30203,3,"Anuja and Anmol have a total of 23 litres of Coffee. If Anuja has $\dfrac{1}{5}$ times the Coffee that Anmol has, how many litres of Coffee does each one have?
+",Anmol has $115/6$ litres of Coffee and Anuja has $23/6$ litres of Coffee,,,,Anmol has $26$ litres of Coffee and Anuja has $3$ litres of Coffee,Anmol has $14$ litres of Coffee and Anuja has $14/5$ litres of Coffee,Anmol has $23/6$ litres of Coffee and Anuja has $115/6$ litres of Coffee,60,3,,,"let Anmol has $x$ litres of Coffee.
+    <br/>Since, Anuja has $\dfrac{1}{5}$ times the Coffee that Anmol has
+        <br/>Therefore, Anuja will have ($\dfrac{1}{5}$)* $x$ litres of Coffee.  
+    <br/>Since, Anmol and Anuja have a total of $23$ litres of Coffee
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=23$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=23$
+ <br/>   => $(\dfrac{6}{5})* x =23$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{23}{6/5}$
+ <br/>   => $x=115/6$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{23}{6/5})=23/6$
+<br/>Hence, Anmol has $115/6$ litres of Coffee and Anuja has $23/6$ litres of Coffee 
+",
+text,1,30203,3,"Shruti and Vedang have a total of 55 litres of water. If Vedang has $\dfrac{4}{6}$ times the water that Shruti has, how many litres of water does each one have?
+",Shruti has $33$ litres of water and Vedang has $22$ litres of water,,,,Shruti has $28$ litres of water and Vedang has $27$ litres of water,Shruti has $15$ litres of water and Vedang has $10$ litres of water,Shruti has $22$ litres of water and Vedang has $33$ litres of water,60,3,,,"let Shruti has $x$ litres of water.
+    <br/>Since, Vedang has $\dfrac{4}{6}$ times the water that Shruti has
+        <br/>Therefore, Vedang will have ($\dfrac{4}{6}$)* $x$ litres of water.  
+    <br/>Since, Shruti and Vedang have a total of $55$ litres of water
+        <br/>=>$x+($$\dfrac{4}{6}$$)*x=55$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{6}$$)*x=55$
+ <br/>   => $(\dfrac{10}{6})* x =55$
+<br/>Dividing both the sides by $\dfrac{10}{6}$
+ <br/>   => $x=\dfrac{55}{5/3}$
+ <br/>   => $x=33$
+ <br/>   => $($$\dfrac{4}{6}$$)*x = ($$\dfrac{4}{6}$$)*(\dfrac{55}{5/3})=22$
+<br/>Hence, Shruti has $33$ litres of water and Vedang has $22$ litres of water 
+",
+text,1,30203,3,"Atharva and Isha have a total of 12 litres of Coffee. If Isha has $\dfrac{5}{7}$ times the Coffee that Atharva has, how many litres of Coffee does each one have?
+",Atharva has $7$ litres of Coffee and Isha has $5$ litres of Coffee,,,,Atharva has $24$ litres of Coffee and Isha has $12$ litres of Coffee,Atharva has $13$ litres of Coffee and Isha has $65/7$ litres of Coffee,Atharva has $5$ litres of Coffee and Isha has $7$ litres of Coffee,60,3,,,"let Atharva has $x$ litres of Coffee.
+    <br/>Since, Isha has $\dfrac{5}{7}$ times the Coffee that Atharva has
+        <br/>Therefore, Isha will have ($\dfrac{5}{7}$)* $x$ litres of Coffee.  
+    <br/>Since, Atharva and Isha have a total of $12$ litres of Coffee
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=12$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=12$
+ <br/>   => $(\dfrac{12}{7})* x =12$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{12}{12/7}$
+ <br/>   => $x=7$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{12}{12/7})=5$
+<br/>Hence, Atharva has $7$ litres of Coffee and Isha has $5$ litres of Coffee 
+",
+text,1,30203,3,"Prajwal and Sanket have a total of 54 litres of water. If Prajwal has $\dfrac{3}{5}$ times the water that Sanket has, how many litres of water does each one have?
+",Sanket has $135/4$ litres of water and Prajwal has $81/4$ litres of water,,,,Sanket has $17$ litres of water and Prajwal has $37$ litres of water,Sanket has $27$ litres of water and Prajwal has $81/5$ litres of water,Sanket has $81/4$ litres of water and Prajwal has $135/4$ litres of water,60,3,,,"let Sanket has $x$ litres of water.
+    <br/>Since, Prajwal has $\dfrac{3}{5}$ times the water that Sanket has
+        <br/>Therefore, Prajwal will have ($\dfrac{3}{5}$)* $x$ litres of water.  
+    <br/>Since, Sanket and Prajwal have a total of $54$ litres of water
+        <br/>=>$x+($$\dfrac{3}{5}$$)*x=54$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{5}$$)*x=54$
+ <br/>   => $(\dfrac{8}{5})* x =54$
+<br/>Dividing both the sides by $\dfrac{8}{5}$
+ <br/>   => $x=\dfrac{54}{8/5}$
+ <br/>   => $x=135/4$
+ <br/>   => $($$\dfrac{3}{5}$$)*x = ($$\dfrac{3}{5}$$)*(\dfrac{54}{8/5})=81/4$
+<br/>Hence, Sanket has $135/4$ litres of water and Prajwal has $81/4$ litres of water 
+",
+text,1,30203,3,"Gaurav and Om have a total of 43 litres of Coffee. If Gaurav has $\dfrac{1}{4}$ times the Coffee that Om has, how many litres of Coffee does each one have?
+",Om has $172/5$ litres of Coffee and Gaurav has $43/5$ litres of Coffee,,,,Om has $30$ litres of Coffee and Gaurav has $13$ litres of Coffee,Om has $13$ litres of Coffee and Gaurav has $13/4$ litres of Coffee,Om has $43/5$ litres of Coffee and Gaurav has $172/5$ litres of Coffee,60,3,,,"let Om has $x$ litres of Coffee.
+    <br/>Since, Gaurav has $\dfrac{1}{4}$ times the Coffee that Om has
+        <br/>Therefore, Gaurav will have ($\dfrac{1}{4}$)* $x$ litres of Coffee.  
+    <br/>Since, Om and Gaurav have a total of $43$ litres of Coffee
+        <br/>=>$x+($$\dfrac{1}{4}$$)*x=43$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{4}$$)*x=43$
+ <br/>   => $(\dfrac{5}{4})* x =43$
+<br/>Dividing both the sides by $\dfrac{5}{4}$
+ <br/>   => $x=\dfrac{43}{5/4}$
+ <br/>   => $x=172/5$
+ <br/>   => $($$\dfrac{1}{4}$$)*x = ($$\dfrac{1}{4}$$)*(\dfrac{43}{5/4})=43/5$
+<br/>Hence, Om has $172/5$ litres of Coffee and Gaurav has $43/5$ litres of Coffee 
+",
+text,1,30203,3,"Mehul and Dharmesh have a total of 13 litres of Coffee. If Mehul has $\dfrac{4}{5}$ times the Coffee that Dharmesh has, how many litres of Coffee does each one have?
+",Dharmesh has $65/9$ litres of Coffee and Mehul has $52/9$ litres of Coffee,,,,Dharmesh has $20$ litres of Coffee and Mehul has $7$ litres of Coffee,Dharmesh has $20$ litres of Coffee and Mehul has $16$ litres of Coffee,Dharmesh has $52/9$ litres of Coffee and Mehul has $65/9$ litres of Coffee,60,3,,,"let Dharmesh has $x$ litres of Coffee.
+    <br/>Since, Mehul has $\dfrac{4}{5}$ times the Coffee that Dharmesh has
+        <br/>Therefore, Mehul will have ($\dfrac{4}{5}$)* $x$ litres of Coffee.  
+    <br/>Since, Dharmesh and Mehul have a total of $13$ litres of Coffee
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=13$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=13$
+ <br/>   => $(\dfrac{9}{5})* x =13$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{13}{9/5}$
+ <br/>   => $x=65/9$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{13}{9/5})=52/9$
+<br/>Hence, Dharmesh has $65/9$ litres of Coffee and Mehul has $52/9$ litres of Coffee 
+",
+text,1,30203,3,"Ninad and Akshata have a total of 49 litres of Orange juice. If Ninad has $\dfrac{1}{4}$ times the Orange juice that Akshata has, how many litres of Orange juice does each one have?
+",Akshata has $196/5$ litres of Orange juice and Ninad has $49/5$ litres of Orange juice,,,,Akshata has $30$ litres of Orange juice and Ninad has $19$ litres of Orange juice,Akshata has $22$ litres of Orange juice and Ninad has $11/2$ litres of Orange juice,Akshata has $49/5$ litres of Orange juice and Ninad has $196/5$ litres of Orange juice,60,3,,,"let Akshata has $x$ litres of Orange juice.
+    <br/>Since, Ninad has $\dfrac{1}{4}$ times the Orange juice that Akshata has
+        <br/>Therefore, Ninad will have ($\dfrac{1}{4}$)* $x$ litres of Orange juice.  
+    <br/>Since, Akshata and Ninad have a total of $49$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{1}{4}$$)*x=49$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{4}$$)*x=49$
+ <br/>   => $(\dfrac{5}{4})* x =49$
+<br/>Dividing both the sides by $\dfrac{5}{4}$
+ <br/>   => $x=\dfrac{49}{5/4}$
+ <br/>   => $x=196/5$
+ <br/>   => $($$\dfrac{1}{4}$$)*x = ($$\dfrac{1}{4}$$)*(\dfrac{49}{5/4})=49/5$
+<br/>Hence, Akshata has $196/5$ litres of Orange juice and Ninad has $49/5$ litres of Orange juice 
+",
+text,1,30203,3,"Aboli and Soham have a total of 40 litres of Milk. If Soham has $\dfrac{5}{6}$ times the Milk that Aboli has, how many litres of Milk does each one have?
+",Aboli has $240/11$ litres of Milk and Soham has $200/11$ litres of Milk,,,,Aboli has $18$ litres of Milk and Soham has $22$ litres of Milk,Aboli has $30$ litres of Milk and Soham has $25$ litres of Milk,Aboli has $200/11$ litres of Milk and Soham has $240/11$ litres of Milk,60,3,,,"let Aboli has $x$ litres of Milk.
+    <br/>Since, Soham has $\dfrac{5}{6}$ times the Milk that Aboli has
+        <br/>Therefore, Soham will have ($\dfrac{5}{6}$)* $x$ litres of Milk.  
+    <br/>Since, Aboli and Soham have a total of $40$ litres of Milk
+        <br/>=>$x+($$\dfrac{5}{6}$$)*x=40$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{6}$$)*x=40$
+ <br/>   => $(\dfrac{11}{6})* x =40$
+<br/>Dividing both the sides by $\dfrac{11}{6}$
+ <br/>   => $x=\dfrac{40}{11/6}$
+ <br/>   => $x=240/11$
+ <br/>   => $($$\dfrac{5}{6}$$)*x = ($$\dfrac{5}{6}$$)*(\dfrac{40}{11/6})=200/11$
+<br/>Hence, Aboli has $240/11$ litres of Milk and Soham has $200/11$ litres of Milk 
+",
+text,1,30203,3,"Kalyani and Saloni have a total of 41 litres of Apple juice. If Kalyani has $\dfrac{3}{5}$ times the Apple juice that Saloni has, how many litres of Apple juice does each one have?
+",Saloni has $205/8$ litres of Apple juice and Kalyani has $123/8$ litres of Apple juice,,,,Saloni has $19$ litres of Apple juice and Kalyani has $22$ litres of Apple juice,Saloni has $19$ litres of Apple juice and Kalyani has $57/5$ litres of Apple juice,Saloni has $123/8$ litres of Apple juice and Kalyani has $205/8$ litres of Apple juice,60,3,,,"let Saloni has $x$ litres of Apple juice.
+    <br/>Since, Kalyani has $\dfrac{3}{5}$ times the Apple juice that Saloni has
+        <br/>Therefore, Kalyani will have ($\dfrac{3}{5}$)* $x$ litres of Apple juice.  
+    <br/>Since, Saloni and Kalyani have a total of $41$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{3}{5}$$)*x=41$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{5}$$)*x=41$
+ <br/>   => $(\dfrac{8}{5})* x =41$
+<br/>Dividing both the sides by $\dfrac{8}{5}$
+ <br/>   => $x=\dfrac{41}{8/5}$
+ <br/>   => $x=205/8$
+ <br/>   => $($$\dfrac{3}{5}$$)*x = ($$\dfrac{3}{5}$$)*(\dfrac{41}{8/5})=123/8$
+<br/>Hence, Saloni has $205/8$ litres of Apple juice and Kalyani has $123/8$ litres of Apple juice 
+",
+text,1,30203,3,"Gautami and Gopal have a total of 32 litres of Lemonade. If Gautami has $\dfrac{4}{5}$ times the Lemonade that Gopal has, how many litres of Lemonade does each one have?
+",Gopal has $160/9$ litres of Lemonade and Gautami has $128/9$ litres of Lemonade,,,,Gopal has $15$ litres of Lemonade and Gautami has $17$ litres of Lemonade,Gopal has $15$ litres of Lemonade and Gautami has $12$ litres of Lemonade,Gopal has $128/9$ litres of Lemonade and Gautami has $160/9$ litres of Lemonade,60,3,,,"let Gopal has $x$ litres of Lemonade.
+    <br/>Since, Gautami has $\dfrac{4}{5}$ times the Lemonade that Gopal has
+        <br/>Therefore, Gautami will have ($\dfrac{4}{5}$)* $x$ litres of Lemonade.  
+    <br/>Since, Gopal and Gautami have a total of $32$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=32$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=32$
+ <br/>   => $(\dfrac{9}{5})* x =32$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{32}{9/5}$
+ <br/>   => $x=160/9$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{32}{9/5})=128/9$
+<br/>Hence, Gopal has $160/9$ litres of Lemonade and Gautami has $128/9$ litres of Lemonade 
+",
+text,1,30203,3,"Atharva and Chaitrali have a total of 17 litres of Tea. If Chaitrali has $\dfrac{5}{7}$ times the Tea that Atharva has, how many litres of Tea does each one have?
+",Atharva has $119/12$ litres of Tea and Chaitrali has $85/12$ litres of Tea,,,,Atharva has $22$ litres of Tea and Chaitrali has $5$ litres of Tea,Atharva has $25$ litres of Tea and Chaitrali has $125/7$ litres of Tea,Atharva has $85/12$ litres of Tea and Chaitrali has $119/12$ litres of Tea,60,3,,,"let Atharva has $x$ litres of Tea.
+    <br/>Since, Chaitrali has $\dfrac{5}{7}$ times the Tea that Atharva has
+        <br/>Therefore, Chaitrali will have ($\dfrac{5}{7}$)* $x$ litres of Tea.  
+    <br/>Since, Atharva and Chaitrali have a total of $17$ litres of Tea
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=17$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=17$
+ <br/>   => $(\dfrac{12}{7})* x =17$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{17}{12/7}$
+ <br/>   => $x=119/12$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{17}{12/7})=85/12$
+<br/>Hence, Atharva has $119/12$ litres of Tea and Chaitrali has $85/12$ litres of Tea 
+",
+text,1,30203,3,"Vedang and Rohit have a total of 21 litres of Milk. If Vedang has $\dfrac{3}{4}$ times the Milk that Rohit has, how many litres of Milk does each one have?
+",Rohit has $12$ litres of Milk and Vedang has $9$ litres of Milk,,,,Rohit has $14$ litres of Milk and Vedang has $7$ litres of Milk,Rohit has $20$ litres of Milk and Vedang has $15$ litres of Milk,Rohit has $9$ litres of Milk and Vedang has $12$ litres of Milk,60,3,,,"let Rohit has $x$ litres of Milk.
+    <br/>Since, Vedang has $\dfrac{3}{4}$ times the Milk that Rohit has
+        <br/>Therefore, Vedang will have ($\dfrac{3}{4}$)* $x$ litres of Milk.  
+    <br/>Since, Rohit and Vedang have a total of $21$ litres of Milk
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=21$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=21$
+ <br/>   => $(\dfrac{7}{4})* x =21$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{21}{7/4}$
+ <br/>   => $x=12$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{21}{7/4})=9$
+<br/>Hence, Rohit has $12$ litres of Milk and Vedang has $9$ litres of Milk 
+",
+text,1,30203,3,"Vaishnavi and Aadesh have a total of 52 litres of Oil. If Vaishnavi has $\dfrac{4}{7}$ times the Oil that Aadesh has, how many litres of Oil does each one have?
+",Aadesh has $364/11$ litres of Oil and Vaishnavi has $208/11$ litres of Oil,,,,Aadesh has $26$ litres of Oil and Vaishnavi has $26$ litres of Oil,Aadesh has $25$ litres of Oil and Vaishnavi has $100/7$ litres of Oil,Aadesh has $208/11$ litres of Oil and Vaishnavi has $364/11$ litres of Oil,60,3,,,"let Aadesh has $x$ litres of Oil.
+    <br/>Since, Vaishnavi has $\dfrac{4}{7}$ times the Oil that Aadesh has
+        <br/>Therefore, Vaishnavi will have ($\dfrac{4}{7}$)* $x$ litres of Oil.  
+    <br/>Since, Aadesh and Vaishnavi have a total of $52$ litres of Oil
+        <br/>=>$x+($$\dfrac{4}{7}$$)*x=52$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{7}$$)*x=52$
+ <br/>   => $(\dfrac{11}{7})* x =52$
+<br/>Dividing both the sides by $\dfrac{11}{7}$
+ <br/>   => $x=\dfrac{52}{11/7}$
+ <br/>   => $x=364/11$
+ <br/>   => $($$\dfrac{4}{7}$$)*x = ($$\dfrac{4}{7}$$)*(\dfrac{52}{11/7})=208/11$
+<br/>Hence, Aadesh has $364/11$ litres of Oil and Vaishnavi has $208/11$ litres of Oil 
+",
+text,1,30203,3,"Gargi and Aditi have a total of 48 litres of Tea. If Gargi has $\dfrac{2}{5}$ times the Tea that Aditi has, how many litres of Tea does each one have?
+",Aditi has $240/7$ litres of Tea and Gargi has $96/7$ litres of Tea,,,,Aditi has $30$ litres of Tea and Gargi has $18$ litres of Tea,Aditi has $17$ litres of Tea and Gargi has $34/5$ litres of Tea,Aditi has $96/7$ litres of Tea and Gargi has $240/7$ litres of Tea,60,3,,,"let Aditi has $x$ litres of Tea.
+    <br/>Since, Gargi has $\dfrac{2}{5}$ times the Tea that Aditi has
+        <br/>Therefore, Gargi will have ($\dfrac{2}{5}$)* $x$ litres of Tea.  
+    <br/>Since, Aditi and Gargi have a total of $48$ litres of Tea
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=48$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=48$
+ <br/>   => $(\dfrac{7}{5})* x =48$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{48}{7/5}$
+ <br/>   => $x=240/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{48}{7/5})=96/7$
+<br/>Hence, Aditi has $240/7$ litres of Tea and Gargi has $96/7$ litres of Tea 
+",
+text,1,30203,3,"Varun and Ishan have a total of 48 litres of Soft drink. If Ishan has $\dfrac{1}{6}$ times the Soft drink that Varun has, how many litres of Soft drink does each one have?
+",Varun has $288/7$ litres of Soft drink and Ishan has $48/7$ litres of Soft drink,,,,Varun has $26$ litres of Soft drink and Ishan has $22$ litres of Soft drink,Varun has $23$ litres of Soft drink and Ishan has $23/6$ litres of Soft drink,Varun has $48/7$ litres of Soft drink and Ishan has $288/7$ litres of Soft drink,60,3,,,"let Varun has $x$ litres of Soft drink.
+    <br/>Since, Ishan has $\dfrac{1}{6}$ times the Soft drink that Varun has
+        <br/>Therefore, Ishan will have ($\dfrac{1}{6}$)* $x$ litres of Soft drink.  
+    <br/>Since, Varun and Ishan have a total of $48$ litres of Soft drink
+        <br/>=>$x+($$\dfrac{1}{6}$$)*x=48$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{6}$$)*x=48$
+ <br/>   => $(\dfrac{7}{6})* x =48$
+<br/>Dividing both the sides by $\dfrac{7}{6}$
+ <br/>   => $x=\dfrac{48}{7/6}$
+ <br/>   => $x=288/7$
+ <br/>   => $($$\dfrac{1}{6}$$)*x = ($$\dfrac{1}{6}$$)*(\dfrac{48}{7/6})=48/7$
+<br/>Hence, Varun has $288/7$ litres of Soft drink and Ishan has $48/7$ litres of Soft drink 
+",
+text,1,30203,3,"Shruti and Chaitrali have a total of 47 litres of water. If Shruti has $\dfrac{1}{3}$ times the water that Chaitrali has, how many litres of water does each one have?
+",Chaitrali has $141/4$ litres of water and Shruti has $47/4$ litres of water,,,,Chaitrali has $17$ litres of water and Shruti has $30$ litres of water,Chaitrali has $20$ litres of water and Shruti has $20/3$ litres of water,Chaitrali has $47/4$ litres of water and Shruti has $141/4$ litres of water,60,3,,,"let Chaitrali has $x$ litres of water.
+    <br/>Since, Shruti has $\dfrac{1}{3}$ times the water that Chaitrali has
+        <br/>Therefore, Shruti will have ($\dfrac{1}{3}$)* $x$ litres of water.  
+    <br/>Since, Chaitrali and Shruti have a total of $47$ litres of water
+        <br/>=>$x+($$\dfrac{1}{3}$$)*x=47$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{3}$$)*x=47$
+ <br/>   => $(\dfrac{4}{3})* x =47$
+<br/>Dividing both the sides by $\dfrac{4}{3}$
+ <br/>   => $x=\dfrac{47}{4/3}$
+ <br/>   => $x=141/4$
+ <br/>   => $($$\dfrac{1}{3}$$)*x = ($$\dfrac{1}{3}$$)*(\dfrac{47}{4/3})=47/4$
+<br/>Hence, Chaitrali has $141/4$ litres of water and Shruti has $47/4$ litres of water 
+",
+text,1,30203,3,"Chaitanya and Gauravi have a total of 57 litres of Soup. If Gauravi has $\dfrac{4}{5}$ times the Soup that Chaitanya has, how many litres of Soup does each one have?
+",Chaitanya has $95/3$ litres of Soup and Gauravi has $76/3$ litres of Soup,,,,Chaitanya has $18$ litres of Soup and Gauravi has $39$ litres of Soup,Chaitanya has $22$ litres of Soup and Gauravi has $88/5$ litres of Soup,Chaitanya has $76/3$ litres of Soup and Gauravi has $95/3$ litres of Soup,60,3,,,"let Chaitanya has $x$ litres of Soup.
+    <br/>Since, Gauravi has $\dfrac{4}{5}$ times the Soup that Chaitanya has
+        <br/>Therefore, Gauravi will have ($\dfrac{4}{5}$)* $x$ litres of Soup.  
+    <br/>Since, Chaitanya and Gauravi have a total of $57$ litres of Soup
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=57$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=57$
+ <br/>   => $(\dfrac{9}{5})* x =57$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{57}{9/5}$
+ <br/>   => $x=95/3$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{57}{9/5})=76/3$
+<br/>Hence, Chaitanya has $95/3$ litres of Soup and Gauravi has $76/3$ litres of Soup 
+",
+text,1,30203,3,"Prajwal and Divya have a total of 28 litres of Tea. If Divya has $\dfrac{3}{6}$ times the Tea that Prajwal has, how many litres of Tea does each one have?
+",Prajwal has $56/3$ litres of Tea and Divya has $28/3$ litres of Tea,,,,Prajwal has $13$ litres of Tea and Divya has $15$ litres of Tea,Prajwal has $18$ litres of Tea and Divya has $9$ litres of Tea,Prajwal has $28/3$ litres of Tea and Divya has $56/3$ litres of Tea,60,3,,,"let Prajwal has $x$ litres of Tea.
+    <br/>Since, Divya has $\dfrac{3}{6}$ times the Tea that Prajwal has
+        <br/>Therefore, Divya will have ($\dfrac{3}{6}$)* $x$ litres of Tea.  
+    <br/>Since, Prajwal and Divya have a total of $28$ litres of Tea
+        <br/>=>$x+($$\dfrac{3}{6}$$)*x=28$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{6}$$)*x=28$
+ <br/>   => $(\dfrac{9}{6})* x =28$
+<br/>Dividing both the sides by $\dfrac{9}{6}$
+ <br/>   => $x=\dfrac{28}{3/2}$
+ <br/>   => $x=56/3$
+ <br/>   => $($$\dfrac{3}{6}$$)*x = ($$\dfrac{3}{6}$$)*(\dfrac{28}{3/2})=28/3$
+<br/>Hence, Prajwal has $56/3$ litres of Tea and Divya has $28/3$ litres of Tea 
+",
+text,1,30203,3,"Chaitanya and Aadesh have a total of 26 litres of Soup. If Chaitanya has $\dfrac{4}{5}$ times the Soup that Aadesh has, how many litres of Soup does each one have?
+",Aadesh has $130/9$ litres of Soup and Chaitanya has $104/9$ litres of Soup,,,,Aadesh has $19$ litres of Soup and Chaitanya has $7$ litres of Soup,Aadesh has $11$ litres of Soup and Chaitanya has $44/5$ litres of Soup,Aadesh has $104/9$ litres of Soup and Chaitanya has $130/9$ litres of Soup,60,3,,,"let Aadesh has $x$ litres of Soup.
+    <br/>Since, Chaitanya has $\dfrac{4}{5}$ times the Soup that Aadesh has
+        <br/>Therefore, Chaitanya will have ($\dfrac{4}{5}$)* $x$ litres of Soup.  
+    <br/>Since, Aadesh and Chaitanya have a total of $26$ litres of Soup
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=26$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=26$
+ <br/>   => $(\dfrac{9}{5})* x =26$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{26}{9/5}$
+ <br/>   => $x=130/9$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{26}{9/5})=104/9$
+<br/>Hence, Aadesh has $130/9$ litres of Soup and Chaitanya has $104/9$ litres of Soup 
+",
+text,1,30203,3,"Aditi and Kajal have a total of 22 litres of Apple juice. If Kajal has $\dfrac{2}{5}$ times the Apple juice that Aditi has, how many litres of Apple juice does each one have?
+",Aditi has $110/7$ litres of Apple juice and Kajal has $44/7$ litres of Apple juice,,,,Aditi has $28$ litres of Apple juice and Kajal has $6$ litres of Apple juice,Aditi has $23$ litres of Apple juice and Kajal has $46/5$ litres of Apple juice,Aditi has $44/7$ litres of Apple juice and Kajal has $110/7$ litres of Apple juice,60,3,,,"let Aditi has $x$ litres of Apple juice.
+    <br/>Since, Kajal has $\dfrac{2}{5}$ times the Apple juice that Aditi has
+        <br/>Therefore, Kajal will have ($\dfrac{2}{5}$)* $x$ litres of Apple juice.  
+    <br/>Since, Aditi and Kajal have a total of $22$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=22$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=22$
+ <br/>   => $(\dfrac{7}{5})* x =22$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{22}{7/5}$
+ <br/>   => $x=110/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{22}{7/5})=44/7$
+<br/>Hence, Aditi has $110/7$ litres of Apple juice and Kajal has $44/7$ litres of Apple juice 
+",
+text,1,30203,3,"Kshitij and Gargi have a total of 22 litres of water. If Gargi has $\dfrac{2}{4}$ times the water that Kshitij has, how many litres of water does each one have?
+",Kshitij has $44/3$ litres of water and Gargi has $22/3$ litres of water,,,,Kshitij has $24$ litres of water and Gargi has $2$ litres of water,Kshitij has $30$ litres of water and Gargi has $15$ litres of water,Kshitij has $22/3$ litres of water and Gargi has $44/3$ litres of water,60,3,,,"let Kshitij has $x$ litres of water.
+    <br/>Since, Gargi has $\dfrac{2}{4}$ times the water that Kshitij has
+        <br/>Therefore, Gargi will have ($\dfrac{2}{4}$)* $x$ litres of water.  
+    <br/>Since, Kshitij and Gargi have a total of $22$ litres of water
+        <br/>=>$x+($$\dfrac{2}{4}$$)*x=22$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{4}$$)*x=22$
+ <br/>   => $(\dfrac{6}{4})* x =22$
+<br/>Dividing both the sides by $\dfrac{6}{4}$
+ <br/>   => $x=\dfrac{22}{3/2}$
+ <br/>   => $x=44/3$
+ <br/>   => $($$\dfrac{2}{4}$$)*x = ($$\dfrac{2}{4}$$)*(\dfrac{22}{3/2})=22/3$
+<br/>Hence, Kshitij has $44/3$ litres of water and Gargi has $22/3$ litres of water 
+",
+text,1,30203,3,"Siddhesh and Aabha have a total of 52 litres of Tea. If Aabha has $\dfrac{1}{3}$ times the Tea that Siddhesh has, how many litres of Tea does each one have?
+",Siddhesh has $39$ litres of Tea and Aabha has $13$ litres of Tea,,,,Siddhesh has $12$ litres of Tea and Aabha has $40$ litres of Tea,Siddhesh has $18$ litres of Tea and Aabha has $6$ litres of Tea,Siddhesh has $13$ litres of Tea and Aabha has $39$ litres of Tea,60,3,,,"let Siddhesh has $x$ litres of Tea.
+    <br/>Since, Aabha has $\dfrac{1}{3}$ times the Tea that Siddhesh has
+        <br/>Therefore, Aabha will have ($\dfrac{1}{3}$)* $x$ litres of Tea.  
+    <br/>Since, Siddhesh and Aabha have a total of $52$ litres of Tea
+        <br/>=>$x+($$\dfrac{1}{3}$$)*x=52$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{3}$$)*x=52$
+ <br/>   => $(\dfrac{4}{3})* x =52$
+<br/>Dividing both the sides by $\dfrac{4}{3}$
+ <br/>   => $x=\dfrac{52}{4/3}$
+ <br/>   => $x=39$
+ <br/>   => $($$\dfrac{1}{3}$$)*x = ($$\dfrac{1}{3}$$)*(\dfrac{52}{4/3})=13$
+<br/>Hence, Siddhesh has $39$ litres of Tea and Aabha has $13$ litres of Tea 
+",
+text,1,30203,3,"Dhriti and Vaishnavi have a total of 36 litres of Apple juice. If Vaishnavi has $\dfrac{1}{4}$ times the Apple juice that Dhriti has, how many litres of Apple juice does each one have?
+",Dhriti has $144/5$ litres of Apple juice and Vaishnavi has $36/5$ litres of Apple juice,,,,Dhriti has $16$ litres of Apple juice and Vaishnavi has $20$ litres of Apple juice,Dhriti has $16$ litres of Apple juice and Vaishnavi has $4$ litres of Apple juice,Dhriti has $36/5$ litres of Apple juice and Vaishnavi has $144/5$ litres of Apple juice,60,3,,,"let Dhriti has $x$ litres of Apple juice.
+    <br/>Since, Vaishnavi has $\dfrac{1}{4}$ times the Apple juice that Dhriti has
+        <br/>Therefore, Vaishnavi will have ($\dfrac{1}{4}$)* $x$ litres of Apple juice.  
+    <br/>Since, Dhriti and Vaishnavi have a total of $36$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{1}{4}$$)*x=36$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{4}$$)*x=36$
+ <br/>   => $(\dfrac{5}{4})* x =36$
+<br/>Dividing both the sides by $\dfrac{5}{4}$
+ <br/>   => $x=\dfrac{36}{5/4}$
+ <br/>   => $x=144/5$
+ <br/>   => $($$\dfrac{1}{4}$$)*x = ($$\dfrac{1}{4}$$)*(\dfrac{36}{5/4})=36/5$
+<br/>Hence, Dhriti has $144/5$ litres of Apple juice and Vaishnavi has $36/5$ litres of Apple juice 
+",
+text,1,30203,3,"Vedang and Devang have a total of 27 litres of Coffee. If Vedang has $\dfrac{3}{4}$ times the Coffee that Devang has, how many litres of Coffee does each one have?
+",Devang has $108/7$ litres of Coffee and Vedang has $81/7$ litres of Coffee,,,,Devang has $24$ litres of Coffee and Vedang has $3$ litres of Coffee,Devang has $26$ litres of Coffee and Vedang has $39/2$ litres of Coffee,Devang has $81/7$ litres of Coffee and Vedang has $108/7$ litres of Coffee,60,3,,,"let Devang has $x$ litres of Coffee.
+    <br/>Since, Vedang has $\dfrac{3}{4}$ times the Coffee that Devang has
+        <br/>Therefore, Vedang will have ($\dfrac{3}{4}$)* $x$ litres of Coffee.  
+    <br/>Since, Devang and Vedang have a total of $27$ litres of Coffee
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=27$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=27$
+ <br/>   => $(\dfrac{7}{4})* x =27$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{27}{7/4}$
+ <br/>   => $x=108/7$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{27}{7/4})=81/7$
+<br/>Hence, Devang has $108/7$ litres of Coffee and Vedang has $81/7$ litres of Coffee 
+",
+text,1,30203,3,"Manali and Yash have a total of 15 litres of Tea. If Yash has $\dfrac{5}{7}$ times the Tea that Manali has, how many litres of Tea does each one have?
+",Manali has $35/4$ litres of Tea and Yash has $25/4$ litres of Tea,,,,Manali has $27$ litres of Tea and Yash has $12$ litres of Tea,Manali has $17$ litres of Tea and Yash has $85/7$ litres of Tea,Manali has $25/4$ litres of Tea and Yash has $35/4$ litres of Tea,60,3,,,"let Manali has $x$ litres of Tea.
+    <br/>Since, Yash has $\dfrac{5}{7}$ times the Tea that Manali has
+        <br/>Therefore, Yash will have ($\dfrac{5}{7}$)* $x$ litres of Tea.  
+    <br/>Since, Manali and Yash have a total of $15$ litres of Tea
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=15$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=15$
+ <br/>   => $(\dfrac{12}{7})* x =15$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{15}{12/7}$
+ <br/>   => $x=35/4$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{15}{12/7})=25/4$
+<br/>Hence, Manali has $35/4$ litres of Tea and Yash has $25/4$ litres of Tea 
+",
+text,1,30203,3,"Manali and Pranali have a total of 22 litres of Orange juice. If Pranali has $\dfrac{2}{7}$ times the Orange juice that Manali has, how many litres of Orange juice does each one have?
+",Manali has $154/9$ litres of Orange juice and Pranali has $44/9$ litres of Orange juice,,,,Manali has $16$ litres of Orange juice and Pranali has $6$ litres of Orange juice,Manali has $21$ litres of Orange juice and Pranali has $6$ litres of Orange juice,Manali has $44/9$ litres of Orange juice and Pranali has $154/9$ litres of Orange juice,60,3,,,"let Manali has $x$ litres of Orange juice.
+    <br/>Since, Pranali has $\dfrac{2}{7}$ times the Orange juice that Manali has
+        <br/>Therefore, Pranali will have ($\dfrac{2}{7}$)* $x$ litres of Orange juice.  
+    <br/>Since, Manali and Pranali have a total of $22$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{2}{7}$$)*x=22$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{7}$$)*x=22$
+ <br/>   => $(\dfrac{9}{7})* x =22$
+<br/>Dividing both the sides by $\dfrac{9}{7}$
+ <br/>   => $x=\dfrac{22}{9/7}$
+ <br/>   => $x=154/9$
+ <br/>   => $($$\dfrac{2}{7}$$)*x = ($$\dfrac{2}{7}$$)*(\dfrac{22}{9/7})=44/9$
+<br/>Hence, Manali has $154/9$ litres of Orange juice and Pranali has $44/9$ litres of Orange juice 
+",
+text,1,30203,3,"Manish and Isha have a total of 51 litres of Apple juice. If Isha has $\dfrac{2}{5}$ times the Apple juice that Manish has, how many litres of Apple juice does each one have?
+",Manish has $255/7$ litres of Apple juice and Isha has $102/7$ litres of Apple juice,,,,Manish has $26$ litres of Apple juice and Isha has $25$ litres of Apple juice,Manish has $15$ litres of Apple juice and Isha has $6$ litres of Apple juice,Manish has $102/7$ litres of Apple juice and Isha has $255/7$ litres of Apple juice,60,3,,,"let Manish has $x$ litres of Apple juice.
+    <br/>Since, Isha has $\dfrac{2}{5}$ times the Apple juice that Manish has
+        <br/>Therefore, Isha will have ($\dfrac{2}{5}$)* $x$ litres of Apple juice.  
+    <br/>Since, Manish and Isha have a total of $51$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=51$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=51$
+ <br/>   => $(\dfrac{7}{5})* x =51$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{51}{7/5}$
+ <br/>   => $x=255/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{51}{7/5})=102/7$
+<br/>Hence, Manish has $255/7$ litres of Apple juice and Isha has $102/7$ litres of Apple juice 
+",
+text,1,30203,3,"Saloni and Tushar have a total of 48 litres of Lemonade. If Saloni has $\dfrac{5}{7}$ times the Lemonade that Tushar has, how many litres of Lemonade does each one have?
+",Tushar has $28$ litres of Lemonade and Saloni has $20$ litres of Lemonade,,,,Tushar has $22$ litres of Lemonade and Saloni has $26$ litres of Lemonade,Tushar has $22$ litres of Lemonade and Saloni has $110/7$ litres of Lemonade,Tushar has $20$ litres of Lemonade and Saloni has $28$ litres of Lemonade,60,3,,,"let Tushar has $x$ litres of Lemonade.
+    <br/>Since, Saloni has $\dfrac{5}{7}$ times the Lemonade that Tushar has
+        <br/>Therefore, Saloni will have ($\dfrac{5}{7}$)* $x$ litres of Lemonade.  
+    <br/>Since, Tushar and Saloni have a total of $48$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=48$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=48$
+ <br/>   => $(\dfrac{12}{7})* x =48$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{48}{12/7}$
+ <br/>   => $x=28$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{48}{12/7})=20$
+<br/>Hence, Tushar has $28$ litres of Lemonade and Saloni has $20$ litres of Lemonade 
+",
+text,1,30203,3,"Nishi and Siddhesh have a total of 11 litres of Apple juice. If Siddhesh has $\dfrac{1}{5}$ times the Apple juice that Nishi has, how many litres of Apple juice does each one have?
+",Nishi has $55/6$ litres of Apple juice and Siddhesh has $11/6$ litres of Apple juice,,,,Nishi has $17$ litres of Apple juice and Siddhesh has $6$ litres of Apple juice,Nishi has $28$ litres of Apple juice and Siddhesh has $28/5$ litres of Apple juice,Nishi has $11/6$ litres of Apple juice and Siddhesh has $55/6$ litres of Apple juice,60,3,,,"let Nishi has $x$ litres of Apple juice.
+    <br/>Since, Siddhesh has $\dfrac{1}{5}$ times the Apple juice that Nishi has
+        <br/>Therefore, Siddhesh will have ($\dfrac{1}{5}$)* $x$ litres of Apple juice.  
+    <br/>Since, Nishi and Siddhesh have a total of $11$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=11$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=11$
+ <br/>   => $(\dfrac{6}{5})* x =11$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{11}{6/5}$
+ <br/>   => $x=55/6$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{11}{6/5})=11/6$
+<br/>Hence, Nishi has $55/6$ litres of Apple juice and Siddhesh has $11/6$ litres of Apple juice 
+",
+text,1,30203,3,"Tejas and Onkar have a total of 50 litres of Milk. If Tejas has $\dfrac{2}{5}$ times the Milk that Onkar has, how many litres of Milk does each one have?
+",Onkar has $250/7$ litres of Milk and Tejas has $100/7$ litres of Milk,,,,Onkar has $19$ litres of Milk and Tejas has $31$ litres of Milk,Onkar has $20$ litres of Milk and Tejas has $8$ litres of Milk,Onkar has $100/7$ litres of Milk and Tejas has $250/7$ litres of Milk,60,3,,,"let Onkar has $x$ litres of Milk.
+    <br/>Since, Tejas has $\dfrac{2}{5}$ times the Milk that Onkar has
+        <br/>Therefore, Tejas will have ($\dfrac{2}{5}$)* $x$ litres of Milk.  
+    <br/>Since, Onkar and Tejas have a total of $50$ litres of Milk
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=50$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=50$
+ <br/>   => $(\dfrac{7}{5})* x =50$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{50}{7/5}$
+ <br/>   => $x=250/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{50}{7/5})=100/7$
+<br/>Hence, Onkar has $250/7$ litres of Milk and Tejas has $100/7$ litres of Milk 
+",
+text,1,30203,3,"Gauravi and Anmol have a total of 42 litres of Coffee. If Anmol has $\dfrac{2}{6}$ times the Coffee that Gauravi has, how many litres of Coffee does each one have?
+",Gauravi has $63/2$ litres of Coffee and Anmol has $21/2$ litres of Coffee,,,,Gauravi has $26$ litres of Coffee and Anmol has $16$ litres of Coffee,Gauravi has $17$ litres of Coffee and Anmol has $17/3$ litres of Coffee,Gauravi has $21/2$ litres of Coffee and Anmol has $63/2$ litres of Coffee,60,3,,,"let Gauravi has $x$ litres of Coffee.
+    <br/>Since, Anmol has $\dfrac{2}{6}$ times the Coffee that Gauravi has
+        <br/>Therefore, Anmol will have ($\dfrac{2}{6}$)* $x$ litres of Coffee.  
+    <br/>Since, Gauravi and Anmol have a total of $42$ litres of Coffee
+        <br/>=>$x+($$\dfrac{2}{6}$$)*x=42$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{6}$$)*x=42$
+ <br/>   => $(\dfrac{8}{6})* x =42$
+<br/>Dividing both the sides by $\dfrac{8}{6}$
+ <br/>   => $x=\dfrac{42}{4/3}$
+ <br/>   => $x=63/2$
+ <br/>   => $($$\dfrac{2}{6}$$)*x = ($$\dfrac{2}{6}$$)*(\dfrac{42}{4/3})=21/2$
+<br/>Hence, Gauravi has $63/2$ litres of Coffee and Anmol has $21/2$ litres of Coffee 
+",
+text,1,30203,3,"Aakriti and Rohit have a total of 36 litres of water. If Rohit has $\dfrac{1}{5}$ times the water that Aakriti has, how many litres of water does each one have?
+",Aakriti has $30$ litres of water and Rohit has $6$ litres of water,,,,Aakriti has $19$ litres of water and Rohit has $17$ litres of water,Aakriti has $22$ litres of water and Rohit has $22/5$ litres of water,Aakriti has $6$ litres of water and Rohit has $30$ litres of water,60,3,,,"let Aakriti has $x$ litres of water.
+    <br/>Since, Rohit has $\dfrac{1}{5}$ times the water that Aakriti has
+        <br/>Therefore, Rohit will have ($\dfrac{1}{5}$)* $x$ litres of water.  
+    <br/>Since, Aakriti and Rohit have a total of $36$ litres of water
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=36$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=36$
+ <br/>   => $(\dfrac{6}{5})* x =36$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{36}{6/5}$
+ <br/>   => $x=30$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{36}{6/5})=6$
+<br/>Hence, Aakriti has $30$ litres of water and Rohit has $6$ litres of water 
+",
+text,1,30203,3,"Prathamesh and Shantanu have a total of 35 litres of Mango juice. If Shantanu has $\dfrac{1}{5}$ times the Mango juice that Prathamesh has, how many litres of Mango juice does each one have?
+",Prathamesh has $175/6$ litres of Mango juice and Shantanu has $35/6$ litres of Mango juice,,,,Prathamesh has $23$ litres of Mango juice and Shantanu has $12$ litres of Mango juice,Prathamesh has $16$ litres of Mango juice and Shantanu has $16/5$ litres of Mango juice,Prathamesh has $35/6$ litres of Mango juice and Shantanu has $175/6$ litres of Mango juice,60,3,,,"let Prathamesh has $x$ litres of Mango juice.
+    <br/>Since, Shantanu has $\dfrac{1}{5}$ times the Mango juice that Prathamesh has
+        <br/>Therefore, Shantanu will have ($\dfrac{1}{5}$)* $x$ litres of Mango juice.  
+    <br/>Since, Prathamesh and Shantanu have a total of $35$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=35$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=35$
+ <br/>   => $(\dfrac{6}{5})* x =35$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{35}{6/5}$
+ <br/>   => $x=175/6$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{35}{6/5})=35/6$
+<br/>Hence, Prathamesh has $175/6$ litres of Mango juice and Shantanu has $35/6$ litres of Mango juice 
+",
+text,1,30203,3,"Gopal and Aniket have a total of 34 litres of Orange juice. If Gopal has $\dfrac{2}{3}$ times the Orange juice that Aniket has, how many litres of Orange juice does each one have?
+",Aniket has $102/5$ litres of Orange juice and Gopal has $68/5$ litres of Orange juice,,,,Aniket has $28$ litres of Orange juice and Gopal has $6$ litres of Orange juice,Aniket has $19$ litres of Orange juice and Gopal has $38/3$ litres of Orange juice,Aniket has $68/5$ litres of Orange juice and Gopal has $102/5$ litres of Orange juice,60,3,,,"let Aniket has $x$ litres of Orange juice.
+    <br/>Since, Gopal has $\dfrac{2}{3}$ times the Orange juice that Aniket has
+        <br/>Therefore, Gopal will have ($\dfrac{2}{3}$)* $x$ litres of Orange juice.  
+    <br/>Since, Aniket and Gopal have a total of $34$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=34$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=34$
+ <br/>   => $(\dfrac{5}{3})* x =34$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{34}{5/3}$
+ <br/>   => $x=102/5$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{34}{5/3})=68/5$
+<br/>Hence, Aniket has $102/5$ litres of Orange juice and Gopal has $68/5$ litres of Orange juice 
+",
+text,1,30203,3,"Prathamesh and Gargi have a total of 52 litres of Milk. If Prathamesh has $\dfrac{2}{6}$ times the Milk that Gargi has, how many litres of Milk does each one have?
+",Gargi has $39$ litres of Milk and Prathamesh has $13$ litres of Milk,,,,Gargi has $25$ litres of Milk and Prathamesh has $27$ litres of Milk,Gargi has $11$ litres of Milk and Prathamesh has $11/3$ litres of Milk,Gargi has $13$ litres of Milk and Prathamesh has $39$ litres of Milk,60,3,,,"let Gargi has $x$ litres of Milk.
+    <br/>Since, Prathamesh has $\dfrac{2}{6}$ times the Milk that Gargi has
+        <br/>Therefore, Prathamesh will have ($\dfrac{2}{6}$)* $x$ litres of Milk.  
+    <br/>Since, Gargi and Prathamesh have a total of $52$ litres of Milk
+        <br/>=>$x+($$\dfrac{2}{6}$$)*x=52$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{6}$$)*x=52$
+ <br/>   => $(\dfrac{8}{6})* x =52$
+<br/>Dividing both the sides by $\dfrac{8}{6}$
+ <br/>   => $x=\dfrac{52}{4/3}$
+ <br/>   => $x=39$
+ <br/>   => $($$\dfrac{2}{6}$$)*x = ($$\dfrac{2}{6}$$)*(\dfrac{52}{4/3})=13$
+<br/>Hence, Gargi has $39$ litres of Milk and Prathamesh has $13$ litres of Milk 
+",
+text,1,30203,3,"Chaitanya and Sandesh have a total of 59 litres of water. If Sandesh has $\dfrac{1}{7}$ times the water that Chaitanya has, how many litres of water does each one have?
+",Chaitanya has $413/8$ litres of water and Sandesh has $59/8$ litres of water,,,,Chaitanya has $21$ litres of water and Sandesh has $38$ litres of water,Chaitanya has $15$ litres of water and Sandesh has $15/7$ litres of water,Chaitanya has $59/8$ litres of water and Sandesh has $413/8$ litres of water,60,3,,,"let Chaitanya has $x$ litres of water.
+    <br/>Since, Sandesh has $\dfrac{1}{7}$ times the water that Chaitanya has
+        <br/>Therefore, Sandesh will have ($\dfrac{1}{7}$)* $x$ litres of water.  
+    <br/>Since, Chaitanya and Sandesh have a total of $59$ litres of water
+        <br/>=>$x+($$\dfrac{1}{7}$$)*x=59$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{7}$$)*x=59$
+ <br/>   => $(\dfrac{8}{7})* x =59$
+<br/>Dividing both the sides by $\dfrac{8}{7}$
+ <br/>   => $x=\dfrac{59}{8/7}$
+ <br/>   => $x=413/8$
+ <br/>   => $($$\dfrac{1}{7}$$)*x = ($$\dfrac{1}{7}$$)*(\dfrac{59}{8/7})=59/8$
+<br/>Hence, Chaitanya has $413/8$ litres of water and Sandesh has $59/8$ litres of water 
+",
+text,1,30203,3,"Vivek and Neha have a total of 28 litres of Tea. If Neha has $\dfrac{1}{5}$ times the Tea that Vivek has, how many litres of Tea does each one have?
+",Vivek has $70/3$ litres of Tea and Neha has $14/3$ litres of Tea,,,,Vivek has $19$ litres of Tea and Neha has $9$ litres of Tea,Vivek has $29$ litres of Tea and Neha has $29/5$ litres of Tea,Vivek has $14/3$ litres of Tea and Neha has $70/3$ litres of Tea,60,3,,,"let Vivek has $x$ litres of Tea.
+    <br/>Since, Neha has $\dfrac{1}{5}$ times the Tea that Vivek has
+        <br/>Therefore, Neha will have ($\dfrac{1}{5}$)* $x$ litres of Tea.  
+    <br/>Since, Vivek and Neha have a total of $28$ litres of Tea
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=28$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=28$
+ <br/>   => $(\dfrac{6}{5})* x =28$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{28}{6/5}$
+ <br/>   => $x=70/3$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{28}{6/5})=14/3$
+<br/>Hence, Vivek has $70/3$ litres of Tea and Neha has $14/3$ litres of Tea 
+",
+text,1,30203,3,"Om and Om have a total of 57 litres of water. If Om has $\dfrac{1}{4}$ times the water that Om has, how many litres of water does each one have?
+",Om has $228/5$ litres of water and Om has $57/5$ litres of water,,,,Om has $27$ litres of water and Om has $30$ litres of water,Om has $10$ litres of water and Om has $5/2$ litres of water,Om has $57/5$ litres of water and Om has $228/5$ litres of water,60,3,,,"let Om has $x$ litres of water.
+    <br/>Since, Om has $\dfrac{1}{4}$ times the water that Om has
+        <br/>Therefore, Om will have ($\dfrac{1}{4}$)* $x$ litres of water.  
+    <br/>Since, Om and Om have a total of $57$ litres of water
+        <br/>=>$x+($$\dfrac{1}{4}$$)*x=57$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{4}$$)*x=57$
+ <br/>   => $(\dfrac{5}{4})* x =57$
+<br/>Dividing both the sides by $\dfrac{5}{4}$
+ <br/>   => $x=\dfrac{57}{5/4}$
+ <br/>   => $x=228/5$
+ <br/>   => $($$\dfrac{1}{4}$$)*x = ($$\dfrac{1}{4}$$)*(\dfrac{57}{5/4})=57/5$
+<br/>Hence, Om has $228/5$ litres of water and Om has $57/5$ litres of water 
+",
+text,1,30203,3,"Kalyani and Gopal have a total of 37 litres of Milk. If Gopal has $\dfrac{1}{2}$ times the Milk that Kalyani has, how many litres of Milk does each one have?
+",Kalyani has $74/3$ litres of Milk and Gopal has $37/3$ litres of Milk,,,,Kalyani has $28$ litres of Milk and Gopal has $9$ litres of Milk,Kalyani has $16$ litres of Milk and Gopal has $8$ litres of Milk,Kalyani has $37/3$ litres of Milk and Gopal has $74/3$ litres of Milk,60,3,,,"let Kalyani has $x$ litres of Milk.
+    <br/>Since, Gopal has $\dfrac{1}{2}$ times the Milk that Kalyani has
+        <br/>Therefore, Gopal will have ($\dfrac{1}{2}$)* $x$ litres of Milk.  
+    <br/>Since, Kalyani and Gopal have a total of $37$ litres of Milk
+        <br/>=>$x+($$\dfrac{1}{2}$$)*x=37$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{2}$$)*x=37$
+ <br/>   => $(\dfrac{3}{2})* x =37$
+<br/>Dividing both the sides by $\dfrac{3}{2}$
+ <br/>   => $x=\dfrac{37}{3/2}$
+ <br/>   => $x=74/3$
+ <br/>   => $($$\dfrac{1}{2}$$)*x = ($$\dfrac{1}{2}$$)*(\dfrac{37}{3/2})=37/3$
+<br/>Hence, Kalyani has $74/3$ litres of Milk and Gopal has $37/3$ litres of Milk 
+",
+text,1,30203,3,"Siddhesh and Aruni have a total of 38 litres of Coffee. If Siddhesh has $\dfrac{1}{5}$ times the Coffee that Aruni has, how many litres of Coffee does each one have?
+",Aruni has $95/3$ litres of Coffee and Siddhesh has $19/3$ litres of Coffee,,,,Aruni has $30$ litres of Coffee and Siddhesh has $8$ litres of Coffee,Aruni has $20$ litres of Coffee and Siddhesh has $4$ litres of Coffee,Aruni has $19/3$ litres of Coffee and Siddhesh has $95/3$ litres of Coffee,60,3,,,"let Aruni has $x$ litres of Coffee.
+    <br/>Since, Siddhesh has $\dfrac{1}{5}$ times the Coffee that Aruni has
+        <br/>Therefore, Siddhesh will have ($\dfrac{1}{5}$)* $x$ litres of Coffee.  
+    <br/>Since, Aruni and Siddhesh have a total of $38$ litres of Coffee
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=38$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=38$
+ <br/>   => $(\dfrac{6}{5})* x =38$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{38}{6/5}$
+ <br/>   => $x=95/3$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{38}{6/5})=19/3$
+<br/>Hence, Aruni has $95/3$ litres of Coffee and Siddhesh has $19/3$ litres of Coffee 
+",
+text,1,30203,3,"Yogesh and Mihir have a total of 18 litres of Milk. If Yogesh has $\dfrac{3}{4}$ times the Milk that Mihir has, how many litres of Milk does each one have?
+",Mihir has $72/7$ litres of Milk and Yogesh has $54/7$ litres of Milk,,,,Mihir has $28$ litres of Milk and Yogesh has $10$ litres of Milk,Mihir has $11$ litres of Milk and Yogesh has $33/4$ litres of Milk,Mihir has $54/7$ litres of Milk and Yogesh has $72/7$ litres of Milk,60,3,,,"let Mihir has $x$ litres of Milk.
+    <br/>Since, Yogesh has $\dfrac{3}{4}$ times the Milk that Mihir has
+        <br/>Therefore, Yogesh will have ($\dfrac{3}{4}$)* $x$ litres of Milk.  
+    <br/>Since, Mihir and Yogesh have a total of $18$ litres of Milk
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=18$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=18$
+ <br/>   => $(\dfrac{7}{4})* x =18$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{18}{7/4}$
+ <br/>   => $x=72/7$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{18}{7/4})=54/7$
+<br/>Hence, Mihir has $72/7$ litres of Milk and Yogesh has $54/7$ litres of Milk 
+",
+text,1,30203,3,"Chaitrali and Om have a total of 33 litres of Mango juice. If Om has $\dfrac{2}{5}$ times the Mango juice that Chaitrali has, how many litres of Mango juice does each one have?
+",Chaitrali has $165/7$ litres of Mango juice and Om has $66/7$ litres of Mango juice,,,,Chaitrali has $26$ litres of Mango juice and Om has $7$ litres of Mango juice,Chaitrali has $15$ litres of Mango juice and Om has $6$ litres of Mango juice,Chaitrali has $66/7$ litres of Mango juice and Om has $165/7$ litres of Mango juice,60,3,,,"let Chaitrali has $x$ litres of Mango juice.
+    <br/>Since, Om has $\dfrac{2}{5}$ times the Mango juice that Chaitrali has
+        <br/>Therefore, Om will have ($\dfrac{2}{5}$)* $x$ litres of Mango juice.  
+    <br/>Since, Chaitrali and Om have a total of $33$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=33$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=33$
+ <br/>   => $(\dfrac{7}{5})* x =33$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{33}{7/5}$
+ <br/>   => $x=165/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{33}{7/5})=66/7$
+<br/>Hence, Chaitrali has $165/7$ litres of Mango juice and Om has $66/7$ litres of Mango juice 
+",
+text,1,30203,3,"Siddhesh and Manali have a total of 21 litres of Coffee. If Manali has $\dfrac{2}{4}$ times the Coffee that Siddhesh has, how many litres of Coffee does each one have?
+",Siddhesh has $14$ litres of Coffee and Manali has $7$ litres of Coffee,,,,Siddhesh has $20$ litres of Coffee and Manali has $1$ litres of Coffee,Siddhesh has $28$ litres of Coffee and Manali has $14$ litres of Coffee,Siddhesh has $7$ litres of Coffee and Manali has $14$ litres of Coffee,60,3,,,"let Siddhesh has $x$ litres of Coffee.
+    <br/>Since, Manali has $\dfrac{2}{4}$ times the Coffee that Siddhesh has
+        <br/>Therefore, Manali will have ($\dfrac{2}{4}$)* $x$ litres of Coffee.  
+    <br/>Since, Siddhesh and Manali have a total of $21$ litres of Coffee
+        <br/>=>$x+($$\dfrac{2}{4}$$)*x=21$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{4}$$)*x=21$
+ <br/>   => $(\dfrac{6}{4})* x =21$
+<br/>Dividing both the sides by $\dfrac{6}{4}$
+ <br/>   => $x=\dfrac{21}{3/2}$
+ <br/>   => $x=14$
+ <br/>   => $($$\dfrac{2}{4}$$)*x = ($$\dfrac{2}{4}$$)*(\dfrac{21}{3/2})=7$
+<br/>Hence, Siddhesh has $14$ litres of Coffee and Manali has $7$ litres of Coffee 
+",
+text,1,30203,3,"Vivek and Shivani have a total of 41 litres of water. If Shivani has $\dfrac{1}{3}$ times the water that Vivek has, how many litres of water does each one have?
+",Vivek has $123/4$ litres of water and Shivani has $41/4$ litres of water,,,,Vivek has $19$ litres of water and Shivani has $22$ litres of water,Vivek has $15$ litres of water and Shivani has $5$ litres of water,Vivek has $41/4$ litres of water and Shivani has $123/4$ litres of water,60,3,,,"let Vivek has $x$ litres of water.
+    <br/>Since, Shivani has $\dfrac{1}{3}$ times the water that Vivek has
+        <br/>Therefore, Shivani will have ($\dfrac{1}{3}$)* $x$ litres of water.  
+    <br/>Since, Vivek and Shivani have a total of $41$ litres of water
+        <br/>=>$x+($$\dfrac{1}{3}$$)*x=41$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{3}$$)*x=41$
+ <br/>   => $(\dfrac{4}{3})* x =41$
+<br/>Dividing both the sides by $\dfrac{4}{3}$
+ <br/>   => $x=\dfrac{41}{4/3}$
+ <br/>   => $x=123/4$
+ <br/>   => $($$\dfrac{1}{3}$$)*x = ($$\dfrac{1}{3}$$)*(\dfrac{41}{4/3})=41/4$
+<br/>Hence, Vivek has $123/4$ litres of water and Shivani has $41/4$ litres of water 
+",
+text,1,30203,3,"Aakash and Aakriti have a total of 15 litres of water. If Aakash has $\dfrac{2}{3}$ times the water that Aakriti has, how many litres of water does each one have?
+",Aakriti has $9$ litres of water and Aakash has $6$ litres of water,,,,Aakriti has $12$ litres of water and Aakash has $3$ litres of water,Aakriti has $16$ litres of water and Aakash has $32/3$ litres of water,Aakriti has $6$ litres of water and Aakash has $9$ litres of water,60,3,,,"let Aakriti has $x$ litres of water.
+    <br/>Since, Aakash has $\dfrac{2}{3}$ times the water that Aakriti has
+        <br/>Therefore, Aakash will have ($\dfrac{2}{3}$)* $x$ litres of water.  
+    <br/>Since, Aakriti and Aakash have a total of $15$ litres of water
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=15$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=15$
+ <br/>   => $(\dfrac{5}{3})* x =15$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{15}{5/3}$
+ <br/>   => $x=9$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{15}{5/3})=6$
+<br/>Hence, Aakriti has $9$ litres of water and Aakash has $6$ litres of water 
+",
+text,1,30203,3,"Manali and Divya have a total of 52 litres of Tea. If Divya has $\dfrac{3}{5}$ times the Tea that Manali has, how many litres of Tea does each one have?
+",Manali has $65/2$ litres of Tea and Divya has $39/2$ litres of Tea,,,,Manali has $11$ litres of Tea and Divya has $41$ litres of Tea,Manali has $29$ litres of Tea and Divya has $87/5$ litres of Tea,Manali has $39/2$ litres of Tea and Divya has $65/2$ litres of Tea,60,3,,,"let Manali has $x$ litres of Tea.
+    <br/>Since, Divya has $\dfrac{3}{5}$ times the Tea that Manali has
+        <br/>Therefore, Divya will have ($\dfrac{3}{5}$)* $x$ litres of Tea.  
+    <br/>Since, Manali and Divya have a total of $52$ litres of Tea
+        <br/>=>$x+($$\dfrac{3}{5}$$)*x=52$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{5}$$)*x=52$
+ <br/>   => $(\dfrac{8}{5})* x =52$
+<br/>Dividing both the sides by $\dfrac{8}{5}$
+ <br/>   => $x=\dfrac{52}{8/5}$
+ <br/>   => $x=65/2$
+ <br/>   => $($$\dfrac{3}{5}$$)*x = ($$\dfrac{3}{5}$$)*(\dfrac{52}{8/5})=39/2$
+<br/>Hence, Manali has $65/2$ litres of Tea and Divya has $39/2$ litres of Tea 
+",
+text,1,30203,3,"Aabha and Aniket have a total of 12 litres of Mango juice. If Aniket has $\dfrac{2}{5}$ times the Mango juice that Aabha has, how many litres of Mango juice does each one have?
+",Aabha has $60/7$ litres of Mango juice and Aniket has $24/7$ litres of Mango juice,,,,Aabha has $24$ litres of Mango juice and Aniket has $12$ litres of Mango juice,Aabha has $27$ litres of Mango juice and Aniket has $54/5$ litres of Mango juice,Aabha has $24/7$ litres of Mango juice and Aniket has $60/7$ litres of Mango juice,60,3,,,"let Aabha has $x$ litres of Mango juice.
+    <br/>Since, Aniket has $\dfrac{2}{5}$ times the Mango juice that Aabha has
+        <br/>Therefore, Aniket will have ($\dfrac{2}{5}$)* $x$ litres of Mango juice.  
+    <br/>Since, Aabha and Aniket have a total of $12$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=12$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=12$
+ <br/>   => $(\dfrac{7}{5})* x =12$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{12}{7/5}$
+ <br/>   => $x=60/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{12}{7/5})=24/7$
+<br/>Hence, Aabha has $60/7$ litres of Mango juice and Aniket has $24/7$ litres of Mango juice 
+",
+text,1,30203,3,"Yash and Ishan have a total of 36 litres of Apple juice. If Ishan has $\dfrac{2}{5}$ times the Apple juice that Yash has, how many litres of Apple juice does each one have?
+",Yash has $180/7$ litres of Apple juice and Ishan has $72/7$ litres of Apple juice,,,,Yash has $24$ litres of Apple juice and Ishan has $12$ litres of Apple juice,Yash has $13$ litres of Apple juice and Ishan has $26/5$ litres of Apple juice,Yash has $72/7$ litres of Apple juice and Ishan has $180/7$ litres of Apple juice,60,3,,,"let Yash has $x$ litres of Apple juice.
+    <br/>Since, Ishan has $\dfrac{2}{5}$ times the Apple juice that Yash has
+        <br/>Therefore, Ishan will have ($\dfrac{2}{5}$)* $x$ litres of Apple juice.  
+    <br/>Since, Yash and Ishan have a total of $36$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=36$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=36$
+ <br/>   => $(\dfrac{7}{5})* x =36$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{36}{7/5}$
+ <br/>   => $x=180/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{36}{7/5})=72/7$
+<br/>Hence, Yash has $180/7$ litres of Apple juice and Ishan has $72/7$ litres of Apple juice 
+",
+text,1,30203,3,"Veerja and Aadesh have a total of 34 litres of Milk. If Veerja has $\dfrac{3}{4}$ times the Milk that Aadesh has, how many litres of Milk does each one have?
+",Aadesh has $136/7$ litres of Milk and Veerja has $102/7$ litres of Milk,,,,Aadesh has $30$ litres of Milk and Veerja has $4$ litres of Milk,Aadesh has $13$ litres of Milk and Veerja has $39/4$ litres of Milk,Aadesh has $102/7$ litres of Milk and Veerja has $136/7$ litres of Milk,60,3,,,"let Aadesh has $x$ litres of Milk.
+    <br/>Since, Veerja has $\dfrac{3}{4}$ times the Milk that Aadesh has
+        <br/>Therefore, Veerja will have ($\dfrac{3}{4}$)* $x$ litres of Milk.  
+    <br/>Since, Aadesh and Veerja have a total of $34$ litres of Milk
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=34$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=34$
+ <br/>   => $(\dfrac{7}{4})* x =34$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{34}{7/4}$
+ <br/>   => $x=136/7$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{34}{7/4})=102/7$
+<br/>Hence, Aadesh has $136/7$ litres of Milk and Veerja has $102/7$ litres of Milk 
+",
+text,1,30203,3,"Sanket and Abhijeet have a total of 26 litres of Soft drink. If Sanket has $\dfrac{2}{3}$ times the Soft drink that Abhijeet has, how many litres of Soft drink does each one have?
+",Abhijeet has $78/5$ litres of Soft drink and Sanket has $52/5$ litres of Soft drink,,,,Abhijeet has $11$ litres of Soft drink and Sanket has $15$ litres of Soft drink,Abhijeet has $30$ litres of Soft drink and Sanket has $20$ litres of Soft drink,Abhijeet has $52/5$ litres of Soft drink and Sanket has $78/5$ litres of Soft drink,60,3,,,"let Abhijeet has $x$ litres of Soft drink.
+    <br/>Since, Sanket has $\dfrac{2}{3}$ times the Soft drink that Abhijeet has
+        <br/>Therefore, Sanket will have ($\dfrac{2}{3}$)* $x$ litres of Soft drink.  
+    <br/>Since, Abhijeet and Sanket have a total of $26$ litres of Soft drink
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=26$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=26$
+ <br/>   => $(\dfrac{5}{3})* x =26$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{26}{5/3}$
+ <br/>   => $x=78/5$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{26}{5/3})=52/5$
+<br/>Hence, Abhijeet has $78/5$ litres of Soft drink and Sanket has $52/5$ litres of Soft drink 
+",
+text,1,30203,3,"Aruni and Onkar have a total of 12 litres of Apple juice. If Aruni has $\dfrac{1}{6}$ times the Apple juice that Onkar has, how many litres of Apple juice does each one have?
+",Onkar has $72/7$ litres of Apple juice and Aruni has $12/7$ litres of Apple juice,,,,Onkar has $29$ litres of Apple juice and Aruni has $17$ litres of Apple juice,Onkar has $22$ litres of Apple juice and Aruni has $11/3$ litres of Apple juice,Onkar has $12/7$ litres of Apple juice and Aruni has $72/7$ litres of Apple juice,60,3,,,"let Onkar has $x$ litres of Apple juice.
+    <br/>Since, Aruni has $\dfrac{1}{6}$ times the Apple juice that Onkar has
+        <br/>Therefore, Aruni will have ($\dfrac{1}{6}$)* $x$ litres of Apple juice.  
+    <br/>Since, Onkar and Aruni have a total of $12$ litres of Apple juice
+        <br/>=>$x+($$\dfrac{1}{6}$$)*x=12$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{6}$$)*x=12$
+ <br/>   => $(\dfrac{7}{6})* x =12$
+<br/>Dividing both the sides by $\dfrac{7}{6}$
+ <br/>   => $x=\dfrac{12}{7/6}$
+ <br/>   => $x=72/7$
+ <br/>   => $($$\dfrac{1}{6}$$)*x = ($$\dfrac{1}{6}$$)*(\dfrac{12}{7/6})=12/7$
+<br/>Hence, Onkar has $72/7$ litres of Apple juice and Aruni has $12/7$ litres of Apple juice 
+",
+text,1,30203,3,"Divya and Ankita have a total of 31 litres of Milk. If Ankita has $\dfrac{5}{7}$ times the Milk that Divya has, how many litres of Milk does each one have?
+",Divya has $217/12$ litres of Milk and Ankita has $155/12$ litres of Milk,,,,Divya has $27$ litres of Milk and Ankita has $4$ litres of Milk,Divya has $30$ litres of Milk and Ankita has $150/7$ litres of Milk,Divya has $155/12$ litres of Milk and Ankita has $217/12$ litres of Milk,60,3,,,"let Divya has $x$ litres of Milk.
+    <br/>Since, Ankita has $\dfrac{5}{7}$ times the Milk that Divya has
+        <br/>Therefore, Ankita will have ($\dfrac{5}{7}$)* $x$ litres of Milk.  
+    <br/>Since, Divya and Ankita have a total of $31$ litres of Milk
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=31$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=31$
+ <br/>   => $(\dfrac{12}{7})* x =31$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{31}{12/7}$
+ <br/>   => $x=217/12$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{31}{12/7})=155/12$
+<br/>Hence, Divya has $217/12$ litres of Milk and Ankita has $155/12$ litres of Milk 
+",
+text,1,30203,3,"Anmol and Gaurav have a total of 10 litres of Oil. If Anmol has $\dfrac{1}{2}$ times the Oil that Gaurav has, how many litres of Oil does each one have?
+",Gaurav has $20/3$ litres of Oil and Anmol has $10/3$ litres of Oil,,,,Gaurav has $23$ litres of Oil and Anmol has $13$ litres of Oil,Gaurav has $26$ litres of Oil and Anmol has $13$ litres of Oil,Gaurav has $10/3$ litres of Oil and Anmol has $20/3$ litres of Oil,60,3,,,"let Gaurav has $x$ litres of Oil.
+    <br/>Since, Anmol has $\dfrac{1}{2}$ times the Oil that Gaurav has
+        <br/>Therefore, Anmol will have ($\dfrac{1}{2}$)* $x$ litres of Oil.  
+    <br/>Since, Gaurav and Anmol have a total of $10$ litres of Oil
+        <br/>=>$x+($$\dfrac{1}{2}$$)*x=10$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{2}$$)*x=10$
+ <br/>   => $(\dfrac{3}{2})* x =10$
+<br/>Dividing both the sides by $\dfrac{3}{2}$
+ <br/>   => $x=\dfrac{10}{3/2}$
+ <br/>   => $x=20/3$
+ <br/>   => $($$\dfrac{1}{2}$$)*x = ($$\dfrac{1}{2}$$)*(\dfrac{10}{3/2})=10/3$
+<br/>Hence, Gaurav has $20/3$ litres of Oil and Anmol has $10/3$ litres of Oil 
+",
+text,1,30203,3,"Shivani and Gauravi have a total of 41 litres of Mango juice. If Shivani has $\dfrac{2}{3}$ times the Mango juice that Gauravi has, how many litres of Mango juice does each one have?
+",Gauravi has $123/5$ litres of Mango juice and Shivani has $82/5$ litres of Mango juice,,,,Gauravi has $18$ litres of Mango juice and Shivani has $23$ litres of Mango juice,Gauravi has $14$ litres of Mango juice and Shivani has $28/3$ litres of Mango juice,Gauravi has $82/5$ litres of Mango juice and Shivani has $123/5$ litres of Mango juice,60,3,,,"let Gauravi has $x$ litres of Mango juice.
+    <br/>Since, Shivani has $\dfrac{2}{3}$ times the Mango juice that Gauravi has
+        <br/>Therefore, Shivani will have ($\dfrac{2}{3}$)* $x$ litres of Mango juice.  
+    <br/>Since, Gauravi and Shivani have a total of $41$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=41$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=41$
+ <br/>   => $(\dfrac{5}{3})* x =41$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{41}{5/3}$
+ <br/>   => $x=123/5$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{41}{5/3})=82/5$
+<br/>Hence, Gauravi has $123/5$ litres of Mango juice and Shivani has $82/5$ litres of Mango juice 
+",
+text,1,30203,3,"Aruni and Chaitanya have a total of 23 litres of Lemonade. If Aruni has $\dfrac{4}{6}$ times the Lemonade that Chaitanya has, how many litres of Lemonade does each one have?
+",Chaitanya has $69/5$ litres of Lemonade and Aruni has $46/5$ litres of Lemonade,,,,Chaitanya has $30$ litres of Lemonade and Aruni has $7$ litres of Lemonade,Chaitanya has $22$ litres of Lemonade and Aruni has $44/3$ litres of Lemonade,Chaitanya has $46/5$ litres of Lemonade and Aruni has $69/5$ litres of Lemonade,60,3,,,"let Chaitanya has $x$ litres of Lemonade.
+    <br/>Since, Aruni has $\dfrac{4}{6}$ times the Lemonade that Chaitanya has
+        <br/>Therefore, Aruni will have ($\dfrac{4}{6}$)* $x$ litres of Lemonade.  
+    <br/>Since, Chaitanya and Aruni have a total of $23$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{4}{6}$$)*x=23$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{6}$$)*x=23$
+ <br/>   => $(\dfrac{10}{6})* x =23$
+<br/>Dividing both the sides by $\dfrac{10}{6}$
+ <br/>   => $x=\dfrac{23}{5/3}$
+ <br/>   => $x=69/5$
+ <br/>   => $($$\dfrac{4}{6}$$)*x = ($$\dfrac{4}{6}$$)*(\dfrac{23}{5/3})=46/5$
+<br/>Hence, Chaitanya has $69/5$ litres of Lemonade and Aruni has $46/5$ litres of Lemonade 
+",
+text,1,30203,3,"Tushar and Sachin have a total of 48 litres of Milk. If Sachin has $\dfrac{5}{7}$ times the Milk that Tushar has, how many litres of Milk does each one have?
+",Tushar has $28$ litres of Milk and Sachin has $20$ litres of Milk,,,,Tushar has $17$ litres of Milk and Sachin has $31$ litres of Milk,Tushar has $21$ litres of Milk and Sachin has $15$ litres of Milk,Tushar has $20$ litres of Milk and Sachin has $28$ litres of Milk,60,3,,,"let Tushar has $x$ litres of Milk.
+    <br/>Since, Sachin has $\dfrac{5}{7}$ times the Milk that Tushar has
+        <br/>Therefore, Sachin will have ($\dfrac{5}{7}$)* $x$ litres of Milk.  
+    <br/>Since, Tushar and Sachin have a total of $48$ litres of Milk
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=48$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=48$
+ <br/>   => $(\dfrac{12}{7})* x =48$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{48}{12/7}$
+ <br/>   => $x=28$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{48}{12/7})=20$
+<br/>Hence, Tushar has $28$ litres of Milk and Sachin has $20$ litres of Milk 
+",
+text,1,30203,3,"Saloni and Mihir have a total of 45 litres of Coffee. If Mihir has $\dfrac{2}{3}$ times the Coffee that Saloni has, how many litres of Coffee does each one have?
+",Saloni has $27$ litres of Coffee and Mihir has $18$ litres of Coffee,,,,Saloni has $13$ litres of Coffee and Mihir has $32$ litres of Coffee,Saloni has $21$ litres of Coffee and Mihir has $14$ litres of Coffee,Saloni has $18$ litres of Coffee and Mihir has $27$ litres of Coffee,60,3,,,"let Saloni has $x$ litres of Coffee.
+    <br/>Since, Mihir has $\dfrac{2}{3}$ times the Coffee that Saloni has
+        <br/>Therefore, Mihir will have ($\dfrac{2}{3}$)* $x$ litres of Coffee.  
+    <br/>Since, Saloni and Mihir have a total of $45$ litres of Coffee
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=45$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=45$
+ <br/>   => $(\dfrac{5}{3})* x =45$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{45}{5/3}$
+ <br/>   => $x=27$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{45}{5/3})=18$
+<br/>Hence, Saloni has $27$ litres of Coffee and Mihir has $18$ litres of Coffee 
+",
+text,1,30203,3,"Ganesh and Utkarsh have a total of 52 litres of Orange juice. If Utkarsh has $\dfrac{4}{5}$ times the Orange juice that Ganesh has, how many litres of Orange juice does each one have?
+",Ganesh has $260/9$ litres of Orange juice and Utkarsh has $208/9$ litres of Orange juice,,,,Ganesh has $27$ litres of Orange juice and Utkarsh has $25$ litres of Orange juice,Ganesh has $28$ litres of Orange juice and Utkarsh has $112/5$ litres of Orange juice,Ganesh has $208/9$ litres of Orange juice and Utkarsh has $260/9$ litres of Orange juice,60,3,,,"let Ganesh has $x$ litres of Orange juice.
+    <br/>Since, Utkarsh has $\dfrac{4}{5}$ times the Orange juice that Ganesh has
+        <br/>Therefore, Utkarsh will have ($\dfrac{4}{5}$)* $x$ litres of Orange juice.  
+    <br/>Since, Ganesh and Utkarsh have a total of $52$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=52$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=52$
+ <br/>   => $(\dfrac{9}{5})* x =52$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{52}{9/5}$
+ <br/>   => $x=260/9$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{52}{9/5})=208/9$
+<br/>Hence, Ganesh has $260/9$ litres of Orange juice and Utkarsh has $208/9$ litres of Orange juice 
+",
+text,1,30203,3,"Yuti and Yuti have a total of 36 litres of Orange juice. If Yuti has $\dfrac{1}{6}$ times the Orange juice that Yuti has, how many litres of Orange juice does each one have?
+",Yuti has $216/7$ litres of Orange juice and Yuti has $36/7$ litres of Orange juice,,,,Yuti has $29$ litres of Orange juice and Yuti has $7$ litres of Orange juice,Yuti has $25$ litres of Orange juice and Yuti has $25/6$ litres of Orange juice,Yuti has $36/7$ litres of Orange juice and Yuti has $216/7$ litres of Orange juice,60,3,,,"let Yuti has $x$ litres of Orange juice.
+    <br/>Since, Yuti has $\dfrac{1}{6}$ times the Orange juice that Yuti has
+        <br/>Therefore, Yuti will have ($\dfrac{1}{6}$)* $x$ litres of Orange juice.  
+    <br/>Since, Yuti and Yuti have a total of $36$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{1}{6}$$)*x=36$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{6}$$)*x=36$
+ <br/>   => $(\dfrac{7}{6})* x =36$
+<br/>Dividing both the sides by $\dfrac{7}{6}$
+ <br/>   => $x=\dfrac{36}{7/6}$
+ <br/>   => $x=216/7$
+ <br/>   => $($$\dfrac{1}{6}$$)*x = ($$\dfrac{1}{6}$$)*(\dfrac{36}{7/6})=36/7$
+<br/>Hence, Yuti has $216/7$ litres of Orange juice and Yuti has $36/7$ litres of Orange juice 
+",
+text,1,30203,3,"Devang and Pooja have a total of 14 litres of Oil. If Devang has $\dfrac{4}{7}$ times the Oil that Pooja has, how many litres of Oil does each one have?
+",Pooja has $98/11$ litres of Oil and Devang has $56/11$ litres of Oil,,,,Pooja has $28$ litres of Oil and Devang has $14$ litres of Oil,Pooja has $29$ litres of Oil and Devang has $116/7$ litres of Oil,Pooja has $56/11$ litres of Oil and Devang has $98/11$ litres of Oil,60,3,,,"let Pooja has $x$ litres of Oil.
+    <br/>Since, Devang has $\dfrac{4}{7}$ times the Oil that Pooja has
+        <br/>Therefore, Devang will have ($\dfrac{4}{7}$)* $x$ litres of Oil.  
+    <br/>Since, Pooja and Devang have a total of $14$ litres of Oil
+        <br/>=>$x+($$\dfrac{4}{7}$$)*x=14$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{7}$$)*x=14$
+ <br/>   => $(\dfrac{11}{7})* x =14$
+<br/>Dividing both the sides by $\dfrac{11}{7}$
+ <br/>   => $x=\dfrac{14}{11/7}$
+ <br/>   => $x=98/11$
+ <br/>   => $($$\dfrac{4}{7}$$)*x = ($$\dfrac{4}{7}$$)*(\dfrac{14}{11/7})=56/11$
+<br/>Hence, Pooja has $98/11$ litres of Oil and Devang has $56/11$ litres of Oil 
+",
+text,1,30203,3,"Maithili and Abhijeet have a total of 39 litres of Mango juice. If Maithili has $\dfrac{2}{6}$ times the Mango juice that Abhijeet has, how many litres of Mango juice does each one have?
+",Abhijeet has $117/4$ litres of Mango juice and Maithili has $39/4$ litres of Mango juice,,,,Abhijeet has $23$ litres of Mango juice and Maithili has $16$ litres of Mango juice,Abhijeet has $16$ litres of Mango juice and Maithili has $16/3$ litres of Mango juice,Abhijeet has $39/4$ litres of Mango juice and Maithili has $117/4$ litres of Mango juice,60,3,,,"let Abhijeet has $x$ litres of Mango juice.
+    <br/>Since, Maithili has $\dfrac{2}{6}$ times the Mango juice that Abhijeet has
+        <br/>Therefore, Maithili will have ($\dfrac{2}{6}$)* $x$ litres of Mango juice.  
+    <br/>Since, Abhijeet and Maithili have a total of $39$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{2}{6}$$)*x=39$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{6}$$)*x=39$
+ <br/>   => $(\dfrac{8}{6})* x =39$
+<br/>Dividing both the sides by $\dfrac{8}{6}$
+ <br/>   => $x=\dfrac{39}{4/3}$
+ <br/>   => $x=117/4$
+ <br/>   => $($$\dfrac{2}{6}$$)*x = ($$\dfrac{2}{6}$$)*(\dfrac{39}{4/3})=39/4$
+<br/>Hence, Abhijeet has $117/4$ litres of Mango juice and Maithili has $39/4$ litres of Mango juice 
+",
+text,1,30203,3,"Tushar and Vedang have a total of 57 litres of Lemonade. If Tushar has $\dfrac{3}{6}$ times the Lemonade that Vedang has, how many litres of Lemonade does each one have?
+",Vedang has $38$ litres of Lemonade and Tushar has $19$ litres of Lemonade,,,,Vedang has $16$ litres of Lemonade and Tushar has $41$ litres of Lemonade,Vedang has $26$ litres of Lemonade and Tushar has $13$ litres of Lemonade,Vedang has $19$ litres of Lemonade and Tushar has $38$ litres of Lemonade,60,3,,,"let Vedang has $x$ litres of Lemonade.
+    <br/>Since, Tushar has $\dfrac{3}{6}$ times the Lemonade that Vedang has
+        <br/>Therefore, Tushar will have ($\dfrac{3}{6}$)* $x$ litres of Lemonade.  
+    <br/>Since, Vedang and Tushar have a total of $57$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{3}{6}$$)*x=57$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{6}$$)*x=57$
+ <br/>   => $(\dfrac{9}{6})* x =57$
+<br/>Dividing both the sides by $\dfrac{9}{6}$
+ <br/>   => $x=\dfrac{57}{3/2}$
+ <br/>   => $x=38$
+ <br/>   => $($$\dfrac{3}{6}$$)*x = ($$\dfrac{3}{6}$$)*(\dfrac{57}{3/2})=19$
+<br/>Hence, Vedang has $38$ litres of Lemonade and Tushar has $19$ litres of Lemonade 
+",
+text,1,30203,3,"Varun and Aniket have a total of 41 litres of Coffee. If Aniket has $\dfrac{3}{5}$ times the Coffee that Varun has, how many litres of Coffee does each one have?
+",Varun has $205/8$ litres of Coffee and Aniket has $123/8$ litres of Coffee,,,,Varun has $25$ litres of Coffee and Aniket has $16$ litres of Coffee,Varun has $17$ litres of Coffee and Aniket has $51/5$ litres of Coffee,Varun has $123/8$ litres of Coffee and Aniket has $205/8$ litres of Coffee,60,3,,,"let Varun has $x$ litres of Coffee.
+    <br/>Since, Aniket has $\dfrac{3}{5}$ times the Coffee that Varun has
+        <br/>Therefore, Aniket will have ($\dfrac{3}{5}$)* $x$ litres of Coffee.  
+    <br/>Since, Varun and Aniket have a total of $41$ litres of Coffee
+        <br/>=>$x+($$\dfrac{3}{5}$$)*x=41$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{5}$$)*x=41$
+ <br/>   => $(\dfrac{8}{5})* x =41$
+<br/>Dividing both the sides by $\dfrac{8}{5}$
+ <br/>   => $x=\dfrac{41}{8/5}$
+ <br/>   => $x=205/8$
+ <br/>   => $($$\dfrac{3}{5}$$)*x = ($$\dfrac{3}{5}$$)*(\dfrac{41}{8/5})=123/8$
+<br/>Hence, Varun has $205/8$ litres of Coffee and Aniket has $123/8$ litres of Coffee 
+",
+text,1,30203,3,"Smital and Neha have a total of 31 litres of Soup. If Neha has $\dfrac{2}{5}$ times the Soup that Smital has, how many litres of Soup does each one have?
+",Smital has $155/7$ litres of Soup and Neha has $62/7$ litres of Soup,,,,Smital has $28$ litres of Soup and Neha has $3$ litres of Soup,Smital has $24$ litres of Soup and Neha has $48/5$ litres of Soup,Smital has $62/7$ litres of Soup and Neha has $155/7$ litres of Soup,60,3,,,"let Smital has $x$ litres of Soup.
+    <br/>Since, Neha has $\dfrac{2}{5}$ times the Soup that Smital has
+        <br/>Therefore, Neha will have ($\dfrac{2}{5}$)* $x$ litres of Soup.  
+    <br/>Since, Smital and Neha have a total of $31$ litres of Soup
+        <br/>=>$x+($$\dfrac{2}{5}$$)*x=31$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{5}$$)*x=31$
+ <br/>   => $(\dfrac{7}{5})* x =31$
+<br/>Dividing both the sides by $\dfrac{7}{5}$
+ <br/>   => $x=\dfrac{31}{7/5}$
+ <br/>   => $x=155/7$
+ <br/>   => $($$\dfrac{2}{5}$$)*x = ($$\dfrac{2}{5}$$)*(\dfrac{31}{7/5})=62/7$
+<br/>Hence, Smital has $155/7$ litres of Soup and Neha has $62/7$ litres of Soup 
+",
+text,1,30203,3,"Prajwal and Aabha have a total of 12 litres of Orange juice. If Aabha has $\dfrac{1}{5}$ times the Orange juice that Prajwal has, how many litres of Orange juice does each one have?
+",Prajwal has $10$ litres of Orange juice and Aabha has $2$ litres of Orange juice,,,,Prajwal has $20$ litres of Orange juice and Aabha has $8$ litres of Orange juice,Prajwal has $11$ litres of Orange juice and Aabha has $11/5$ litres of Orange juice,Prajwal has $2$ litres of Orange juice and Aabha has $10$ litres of Orange juice,60,3,,,"let Prajwal has $x$ litres of Orange juice.
+    <br/>Since, Aabha has $\dfrac{1}{5}$ times the Orange juice that Prajwal has
+        <br/>Therefore, Aabha will have ($\dfrac{1}{5}$)* $x$ litres of Orange juice.  
+    <br/>Since, Prajwal and Aabha have a total of $12$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=12$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=12$
+ <br/>   => $(\dfrac{6}{5})* x =12$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{12}{6/5}$
+ <br/>   => $x=10$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{12}{6/5})=2$
+<br/>Hence, Prajwal has $10$ litres of Orange juice and Aabha has $2$ litres of Orange juice 
+",
+text,1,30203,3,"Soham and Neha have a total of 37 litres of Lemonade. If Neha has $\dfrac{3}{6}$ times the Lemonade that Soham has, how many litres of Lemonade does each one have?
+",Soham has $74/3$ litres of Lemonade and Neha has $37/3$ litres of Lemonade,,,,Soham has $22$ litres of Lemonade and Neha has $15$ litres of Lemonade,Soham has $27$ litres of Lemonade and Neha has $27/2$ litres of Lemonade,Soham has $37/3$ litres of Lemonade and Neha has $74/3$ litres of Lemonade,60,3,,,"let Soham has $x$ litres of Lemonade.
+    <br/>Since, Neha has $\dfrac{3}{6}$ times the Lemonade that Soham has
+        <br/>Therefore, Neha will have ($\dfrac{3}{6}$)* $x$ litres of Lemonade.  
+    <br/>Since, Soham and Neha have a total of $37$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{3}{6}$$)*x=37$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{6}$$)*x=37$
+ <br/>   => $(\dfrac{9}{6})* x =37$
+<br/>Dividing both the sides by $\dfrac{9}{6}$
+ <br/>   => $x=\dfrac{37}{3/2}$
+ <br/>   => $x=74/3$
+ <br/>   => $($$\dfrac{3}{6}$$)*x = ($$\dfrac{3}{6}$$)*(\dfrac{37}{3/2})=37/3$
+<br/>Hence, Soham has $74/3$ litres of Lemonade and Neha has $37/3$ litres of Lemonade 
+",
+text,1,30203,3,"Prajwal and Mehul have a total of 14 litres of Lemonade. If Mehul has $\dfrac{1}{3}$ times the Lemonade that Prajwal has, how many litres of Lemonade does each one have?
+",Prajwal has $21/2$ litres of Lemonade and Mehul has $7/2$ litres of Lemonade,,,,Prajwal has $16$ litres of Lemonade and Mehul has $2$ litres of Lemonade,Prajwal has $15$ litres of Lemonade and Mehul has $5$ litres of Lemonade,Prajwal has $7/2$ litres of Lemonade and Mehul has $21/2$ litres of Lemonade,60,3,,,"let Prajwal has $x$ litres of Lemonade.
+    <br/>Since, Mehul has $\dfrac{1}{3}$ times the Lemonade that Prajwal has
+        <br/>Therefore, Mehul will have ($\dfrac{1}{3}$)* $x$ litres of Lemonade.  
+    <br/>Since, Prajwal and Mehul have a total of $14$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{1}{3}$$)*x=14$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{3}$$)*x=14$
+ <br/>   => $(\dfrac{4}{3})* x =14$
+<br/>Dividing both the sides by $\dfrac{4}{3}$
+ <br/>   => $x=\dfrac{14}{4/3}$
+ <br/>   => $x=21/2$
+ <br/>   => $($$\dfrac{1}{3}$$)*x = ($$\dfrac{1}{3}$$)*(\dfrac{14}{4/3})=7/2$
+<br/>Hence, Prajwal has $21/2$ litres of Lemonade and Mehul has $7/2$ litres of Lemonade 
+",
+text,1,30203,3,"Onkar and Manish have a total of 27 litres of Mango juice. If Onkar has $\dfrac{4}{5}$ times the Mango juice that Manish has, how many litres of Mango juice does each one have?
+",Manish has $15$ litres of Mango juice and Onkar has $12$ litres of Mango juice,,,,Manish has $25$ litres of Mango juice and Onkar has $2$ litres of Mango juice,Manish has $19$ litres of Mango juice and Onkar has $76/5$ litres of Mango juice,Manish has $12$ litres of Mango juice and Onkar has $15$ litres of Mango juice,60,3,,,"let Manish has $x$ litres of Mango juice.
+    <br/>Since, Onkar has $\dfrac{4}{5}$ times the Mango juice that Manish has
+        <br/>Therefore, Onkar will have ($\dfrac{4}{5}$)* $x$ litres of Mango juice.  
+    <br/>Since, Manish and Onkar have a total of $27$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=27$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=27$
+ <br/>   => $(\dfrac{9}{5})* x =27$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{27}{9/5}$
+ <br/>   => $x=15$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{27}{9/5})=12$
+<br/>Hence, Manish has $15$ litres of Mango juice and Onkar has $12$ litres of Mango juice 
+",
+text,1,30203,3,"Tanvi and Dhriti have a total of 19 litres of Coffee. If Tanvi has $\dfrac{4}{7}$ times the Coffee that Dhriti has, how many litres of Coffee does each one have?
+",Dhriti has $133/11$ litres of Coffee and Tanvi has $76/11$ litres of Coffee,,,,Dhriti has $29$ litres of Coffee and Tanvi has $10$ litres of Coffee,Dhriti has $25$ litres of Coffee and Tanvi has $100/7$ litres of Coffee,Dhriti has $76/11$ litres of Coffee and Tanvi has $133/11$ litres of Coffee,60,3,,,"let Dhriti has $x$ litres of Coffee.
+    <br/>Since, Tanvi has $\dfrac{4}{7}$ times the Coffee that Dhriti has
+        <br/>Therefore, Tanvi will have ($\dfrac{4}{7}$)* $x$ litres of Coffee.  
+    <br/>Since, Dhriti and Tanvi have a total of $19$ litres of Coffee
+        <br/>=>$x+($$\dfrac{4}{7}$$)*x=19$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{7}$$)*x=19$
+ <br/>   => $(\dfrac{11}{7})* x =19$
+<br/>Dividing both the sides by $\dfrac{11}{7}$
+ <br/>   => $x=\dfrac{19}{11/7}$
+ <br/>   => $x=133/11$
+ <br/>   => $($$\dfrac{4}{7}$$)*x = ($$\dfrac{4}{7}$$)*(\dfrac{19}{11/7})=76/11$
+<br/>Hence, Dhriti has $133/11$ litres of Coffee and Tanvi has $76/11$ litres of Coffee 
+",
+text,1,30203,3,"Vaishnavi and Neha have a total of 60 litres of Orange juice. If Vaishnavi has $\dfrac{3}{4}$ times the Orange juice that Neha has, how many litres of Orange juice does each one have?
+",Neha has $240/7$ litres of Orange juice and Vaishnavi has $180/7$ litres of Orange juice,,,,Neha has $12$ litres of Orange juice and Vaishnavi has $48$ litres of Orange juice,Neha has $13$ litres of Orange juice and Vaishnavi has $39/4$ litres of Orange juice,Neha has $180/7$ litres of Orange juice and Vaishnavi has $240/7$ litres of Orange juice,60,3,,,"let Neha has $x$ litres of Orange juice.
+    <br/>Since, Vaishnavi has $\dfrac{3}{4}$ times the Orange juice that Neha has
+        <br/>Therefore, Vaishnavi will have ($\dfrac{3}{4}$)* $x$ litres of Orange juice.  
+    <br/>Since, Neha and Vaishnavi have a total of $60$ litres of Orange juice
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=60$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=60$
+ <br/>   => $(\dfrac{7}{4})* x =60$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{60}{7/4}$
+ <br/>   => $x=240/7$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{60}{7/4})=180/7$
+<br/>Hence, Neha has $240/7$ litres of Orange juice and Vaishnavi has $180/7$ litres of Orange juice 
+",
+text,1,30203,3,"Vaishnavi and Veerja have a total of 60 litres of Lemonade. If Veerja has $\dfrac{4}{5}$ times the Lemonade that Vaishnavi has, how many litres of Lemonade does each one have?
+",Vaishnavi has $100/3$ litres of Lemonade and Veerja has $80/3$ litres of Lemonade,,,,Vaishnavi has $27$ litres of Lemonade and Veerja has $33$ litres of Lemonade,Vaishnavi has $12$ litres of Lemonade and Veerja has $48/5$ litres of Lemonade,Vaishnavi has $80/3$ litres of Lemonade and Veerja has $100/3$ litres of Lemonade,60,3,,,"let Vaishnavi has $x$ litres of Lemonade.
+    <br/>Since, Veerja has $\dfrac{4}{5}$ times the Lemonade that Vaishnavi has
+        <br/>Therefore, Veerja will have ($\dfrac{4}{5}$)* $x$ litres of Lemonade.  
+    <br/>Since, Vaishnavi and Veerja have a total of $60$ litres of Lemonade
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=60$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=60$
+ <br/>   => $(\dfrac{9}{5})* x =60$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{60}{9/5}$
+ <br/>   => $x=100/3$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{60}{9/5})=80/3$
+<br/>Hence, Vaishnavi has $100/3$ litres of Lemonade and Veerja has $80/3$ litres of Lemonade 
+",
+text,1,30203,3,"Vaishnavi and Ishan have a total of 20 litres of Soup. If Ishan has $\dfrac{5}{7}$ times the Soup that Vaishnavi has, how many litres of Soup does each one have?
+",Vaishnavi has $35/3$ litres of Soup and Ishan has $25/3$ litres of Soup,,,,Vaishnavi has $22$ litres of Soup and Ishan has $2$ litres of Soup,Vaishnavi has $10$ litres of Soup and Ishan has $50/7$ litres of Soup,Vaishnavi has $25/3$ litres of Soup and Ishan has $35/3$ litres of Soup,60,3,,,"let Vaishnavi has $x$ litres of Soup.
+    <br/>Since, Ishan has $\dfrac{5}{7}$ times the Soup that Vaishnavi has
+        <br/>Therefore, Ishan will have ($\dfrac{5}{7}$)* $x$ litres of Soup.  
+    <br/>Since, Vaishnavi and Ishan have a total of $20$ litres of Soup
+        <br/>=>$x+($$\dfrac{5}{7}$$)*x=20$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{5}{7}$$)*x=20$
+ <br/>   => $(\dfrac{12}{7})* x =20$
+<br/>Dividing both the sides by $\dfrac{12}{7}$
+ <br/>   => $x=\dfrac{20}{12/7}$
+ <br/>   => $x=35/3$
+ <br/>   => $($$\dfrac{5}{7}$$)*x = ($$\dfrac{5}{7}$$)*(\dfrac{20}{12/7})=25/3$
+<br/>Hence, Vaishnavi has $35/3$ litres of Soup and Ishan has $25/3$ litres of Soup 
+",
+text,1,30203,3,"Gargi and Dhriti have a total of 55 litres of Soft drink. If Gargi has $\dfrac{2}{3}$ times the Soft drink that Dhriti has, how many litres of Soft drink does each one have?
+",Dhriti has $33$ litres of Soft drink and Gargi has $22$ litres of Soft drink,,,,Dhriti has $23$ litres of Soft drink and Gargi has $32$ litres of Soft drink,Dhriti has $18$ litres of Soft drink and Gargi has $12$ litres of Soft drink,Dhriti has $22$ litres of Soft drink and Gargi has $33$ litres of Soft drink,60,3,,,"let Dhriti has $x$ litres of Soft drink.
+    <br/>Since, Gargi has $\dfrac{2}{3}$ times the Soft drink that Dhriti has
+        <br/>Therefore, Gargi will have ($\dfrac{2}{3}$)* $x$ litres of Soft drink.  
+    <br/>Since, Dhriti and Gargi have a total of $55$ litres of Soft drink
+        <br/>=>$x+($$\dfrac{2}{3}$$)*x=55$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{3}$$)*x=55$
+ <br/>   => $(\dfrac{5}{3})* x =55$
+<br/>Dividing both the sides by $\dfrac{5}{3}$
+ <br/>   => $x=\dfrac{55}{5/3}$
+ <br/>   => $x=33$
+ <br/>   => $($$\dfrac{2}{3}$$)*x = ($$\dfrac{2}{3}$$)*(\dfrac{55}{5/3})=22$
+<br/>Hence, Dhriti has $33$ litres of Soft drink and Gargi has $22$ litres of Soft drink 
+",
+text,1,30203,3,"Vedang and Ganesh have a total of 48 litres of water. If Vedang has $\dfrac{1}{7}$ times the water that Ganesh has, how many litres of water does each one have?
+",Ganesh has $42$ litres of water and Vedang has $6$ litres of water,,,,Ganesh has $20$ litres of water and Vedang has $28$ litres of water,Ganesh has $11$ litres of water and Vedang has $11/7$ litres of water,Ganesh has $6$ litres of water and Vedang has $42$ litres of water,60,3,,,"let Ganesh has $x$ litres of water.
+    <br/>Since, Vedang has $\dfrac{1}{7}$ times the water that Ganesh has
+        <br/>Therefore, Vedang will have ($\dfrac{1}{7}$)* $x$ litres of water.  
+    <br/>Since, Ganesh and Vedang have a total of $48$ litres of water
+        <br/>=>$x+($$\dfrac{1}{7}$$)*x=48$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{7}$$)*x=48$
+ <br/>   => $(\dfrac{8}{7})* x =48$
+<br/>Dividing both the sides by $\dfrac{8}{7}$
+ <br/>   => $x=\dfrac{48}{8/7}$
+ <br/>   => $x=42$
+ <br/>   => $($$\dfrac{1}{7}$$)*x = ($$\dfrac{1}{7}$$)*(\dfrac{48}{8/7})=6$
+<br/>Hence, Ganesh has $42$ litres of water and Vedang has $6$ litres of water 
+",
+text,1,30203,3,"Rohit and Utkarsh have a total of 32 litres of Oil. If Utkarsh has $\dfrac{4}{5}$ times the Oil that Rohit has, how many litres of Oil does each one have?
+",Rohit has $160/9$ litres of Oil and Utkarsh has $128/9$ litres of Oil,,,,Rohit has $12$ litres of Oil and Utkarsh has $20$ litres of Oil,Rohit has $30$ litres of Oil and Utkarsh has $24$ litres of Oil,Rohit has $128/9$ litres of Oil and Utkarsh has $160/9$ litres of Oil,60,3,,,"let Rohit has $x$ litres of Oil.
+    <br/>Since, Utkarsh has $\dfrac{4}{5}$ times the Oil that Rohit has
+        <br/>Therefore, Utkarsh will have ($\dfrac{4}{5}$)* $x$ litres of Oil.  
+    <br/>Since, Rohit and Utkarsh have a total of $32$ litres of Oil
+        <br/>=>$x+($$\dfrac{4}{5}$$)*x=32$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{4}{5}$$)*x=32$
+ <br/>   => $(\dfrac{9}{5})* x =32$
+<br/>Dividing both the sides by $\dfrac{9}{5}$
+ <br/>   => $x=\dfrac{32}{9/5}$
+ <br/>   => $x=160/9$
+ <br/>   => $($$\dfrac{4}{5}$$)*x = ($$\dfrac{4}{5}$$)*(\dfrac{32}{9/5})=128/9$
+<br/>Hence, Rohit has $160/9$ litres of Oil and Utkarsh has $128/9$ litres of Oil 
+",
+text,1,30203,3,"Ankita and Chaitanya have a total of 26 litres of Mango juice. If Chaitanya has $\dfrac{1}{5}$ times the Mango juice that Ankita has, how many litres of Mango juice does each one have?
+",Ankita has $65/3$ litres of Mango juice and Chaitanya has $13/3$ litres of Mango juice,,,,Ankita has $15$ litres of Mango juice and Chaitanya has $11$ litres of Mango juice,Ankita has $22$ litres of Mango juice and Chaitanya has $22/5$ litres of Mango juice,Ankita has $13/3$ litres of Mango juice and Chaitanya has $65/3$ litres of Mango juice,60,3,,,"let Ankita has $x$ litres of Mango juice.
+    <br/>Since, Chaitanya has $\dfrac{1}{5}$ times the Mango juice that Ankita has
+        <br/>Therefore, Chaitanya will have ($\dfrac{1}{5}$)* $x$ litres of Mango juice.  
+    <br/>Since, Ankita and Chaitanya have a total of $26$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{1}{5}$$)*x=26$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{5}$$)*x=26$
+ <br/>   => $(\dfrac{6}{5})* x =26$
+<br/>Dividing both the sides by $\dfrac{6}{5}$
+ <br/>   => $x=\dfrac{26}{6/5}$
+ <br/>   => $x=65/3$
+ <br/>   => $($$\dfrac{1}{5}$$)*x = ($$\dfrac{1}{5}$$)*(\dfrac{26}{6/5})=13/3$
+<br/>Hence, Ankita has $65/3$ litres of Mango juice and Chaitanya has $13/3$ litres of Mango juice 
+",
+text,1,30203,3,"Aarav and Sachin have a total of 46 litres of Tea. If Sachin has $\dfrac{1}{3}$ times the Tea that Aarav has, how many litres of Tea does each one have?
+",Aarav has $69/2$ litres of Tea and Sachin has $23/2$ litres of Tea,,,,Aarav has $17$ litres of Tea and Sachin has $29$ litres of Tea,Aarav has $17$ litres of Tea and Sachin has $17/3$ litres of Tea,Aarav has $23/2$ litres of Tea and Sachin has $69/2$ litres of Tea,60,3,,,"let Aarav has $x$ litres of Tea.
+    <br/>Since, Sachin has $\dfrac{1}{3}$ times the Tea that Aarav has
+        <br/>Therefore, Sachin will have ($\dfrac{1}{3}$)* $x$ litres of Tea.  
+    <br/>Since, Aarav and Sachin have a total of $46$ litres of Tea
+        <br/>=>$x+($$\dfrac{1}{3}$$)*x=46$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{3}$$)*x=46$
+ <br/>   => $(\dfrac{4}{3})* x =46$
+<br/>Dividing both the sides by $\dfrac{4}{3}$
+ <br/>   => $x=\dfrac{46}{4/3}$
+ <br/>   => $x=69/2$
+ <br/>   => $($$\dfrac{1}{3}$$)*x = ($$\dfrac{1}{3}$$)*(\dfrac{46}{4/3})=23/2$
+<br/>Hence, Aarav has $69/2$ litres of Tea and Sachin has $23/2$ litres of Tea 
+",
+text,1,30203,3,"Prajwal and Ninad have a total of 57 litres of Soup. If Ninad has $\dfrac{2}{4}$ times the Soup that Prajwal has, how many litres of Soup does each one have?
+",Prajwal has $38$ litres of Soup and Ninad has $19$ litres of Soup,,,,Prajwal has $20$ litres of Soup and Ninad has $37$ litres of Soup,Prajwal has $26$ litres of Soup and Ninad has $13$ litres of Soup,Prajwal has $19$ litres of Soup and Ninad has $38$ litres of Soup,60,3,,,"let Prajwal has $x$ litres of Soup.
+    <br/>Since, Ninad has $\dfrac{2}{4}$ times the Soup that Prajwal has
+        <br/>Therefore, Ninad will have ($\dfrac{2}{4}$)* $x$ litres of Soup.  
+    <br/>Since, Prajwal and Ninad have a total of $57$ litres of Soup
+        <br/>=>$x+($$\dfrac{2}{4}$$)*x=57$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{4}$$)*x=57$
+ <br/>   => $(\dfrac{6}{4})* x =57$
+<br/>Dividing both the sides by $\dfrac{6}{4}$
+ <br/>   => $x=\dfrac{57}{3/2}$
+ <br/>   => $x=38$
+ <br/>   => $($$\dfrac{2}{4}$$)*x = ($$\dfrac{2}{4}$$)*(\dfrac{57}{3/2})=19$
+<br/>Hence, Prajwal has $38$ litres of Soup and Ninad has $19$ litres of Soup 
+",
+text,1,30203,3,"Aakriti and Ishan have a total of 19 litres of Milk. If Ishan has $\dfrac{1}{4}$ times the Milk that Aakriti has, how many litres of Milk does each one have?
+",Aakriti has $76/5$ litres of Milk and Ishan has $19/5$ litres of Milk,,,,Aakriti has $21$ litres of Milk and Ishan has $2$ litres of Milk,Aakriti has $28$ litres of Milk and Ishan has $7$ litres of Milk,Aakriti has $19/5$ litres of Milk and Ishan has $76/5$ litres of Milk,60,3,,,"let Aakriti has $x$ litres of Milk.
+    <br/>Since, Ishan has $\dfrac{1}{4}$ times the Milk that Aakriti has
+        <br/>Therefore, Ishan will have ($\dfrac{1}{4}$)* $x$ litres of Milk.  
+    <br/>Since, Aakriti and Ishan have a total of $19$ litres of Milk
+        <br/>=>$x+($$\dfrac{1}{4}$$)*x=19$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{4}$$)*x=19$
+ <br/>   => $(\dfrac{5}{4})* x =19$
+<br/>Dividing both the sides by $\dfrac{5}{4}$
+ <br/>   => $x=\dfrac{19}{5/4}$
+ <br/>   => $x=76/5$
+ <br/>   => $($$\dfrac{1}{4}$$)*x = ($$\dfrac{1}{4}$$)*(\dfrac{19}{5/4})=19/5$
+<br/>Hence, Aakriti has $76/5$ litres of Milk and Ishan has $19/5$ litres of Milk 
+",
+text,1,30203,3,"Abhijeet and Mihir have a total of 29 litres of Oil. If Abhijeet has $\dfrac{3}{4}$ times the Oil that Mihir has, how many litres of Oil does each one have?
+",Mihir has $116/7$ litres of Oil and Abhijeet has $87/7$ litres of Oil,,,,Mihir has $16$ litres of Oil and Abhijeet has $13$ litres of Oil,Mihir has $11$ litres of Oil and Abhijeet has $33/4$ litres of Oil,Mihir has $87/7$ litres of Oil and Abhijeet has $116/7$ litres of Oil,60,3,,,"let Mihir has $x$ litres of Oil.
+    <br/>Since, Abhijeet has $\dfrac{3}{4}$ times the Oil that Mihir has
+        <br/>Therefore, Abhijeet will have ($\dfrac{3}{4}$)* $x$ litres of Oil.  
+    <br/>Since, Mihir and Abhijeet have a total of $29$ litres of Oil
+        <br/>=>$x+($$\dfrac{3}{4}$$)*x=29$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{4}$$)*x=29$
+ <br/>   => $(\dfrac{7}{4})* x =29$
+<br/>Dividing both the sides by $\dfrac{7}{4}$
+ <br/>   => $x=\dfrac{29}{7/4}$
+ <br/>   => $x=116/7$
+ <br/>   => $($$\dfrac{3}{4}$$)*x = ($$\dfrac{3}{4}$$)*(\dfrac{29}{7/4})=87/7$
+<br/>Hence, Mihir has $116/7$ litres of Oil and Abhijeet has $87/7$ litres of Oil 
+",
+text,1,30203,3,"Aabha and Akshata have a total of 25 litres of water. If Akshata has $\dfrac{3}{5}$ times the water that Aabha has, how many litres of water does each one have?
+",Aabha has $125/8$ litres of water and Akshata has $75/8$ litres of water,,,,Aabha has $20$ litres of water and Akshata has $5$ litres of water,Aabha has $20$ litres of water and Akshata has $12$ litres of water,Aabha has $75/8$ litres of water and Akshata has $125/8$ litres of water,60,3,,,"let Aabha has $x$ litres of water.
+    <br/>Since, Akshata has $\dfrac{3}{5}$ times the water that Aabha has
+        <br/>Therefore, Akshata will have ($\dfrac{3}{5}$)* $x$ litres of water.  
+    <br/>Since, Aabha and Akshata have a total of $25$ litres of water
+        <br/>=>$x+($$\dfrac{3}{5}$$)*x=25$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{3}{5}$$)*x=25$
+ <br/>   => $(\dfrac{8}{5})* x =25$
+<br/>Dividing both the sides by $\dfrac{8}{5}$
+ <br/>   => $x=\dfrac{25}{8/5}$
+ <br/>   => $x=125/8$
+ <br/>   => $($$\dfrac{3}{5}$$)*x = ($$\dfrac{3}{5}$$)*(\dfrac{25}{8/5})=75/8$
+<br/>Hence, Aabha has $125/8$ litres of water and Akshata has $75/8$ litres of water 
+",
+text,1,30203,3,"Ninad and Prathamesh have a total of 60 litres of Mango juice. If Ninad has $\dfrac{1}{7}$ times the Mango juice that Prathamesh has, how many litres of Mango juice does each one have?
+",Prathamesh has $105/2$ litres of Mango juice and Ninad has $15/2$ litres of Mango juice,,,,Prathamesh has $24$ litres of Mango juice and Ninad has $36$ litres of Mango juice,Prathamesh has $25$ litres of Mango juice and Ninad has $25/7$ litres of Mango juice,Prathamesh has $15/2$ litres of Mango juice and Ninad has $105/2$ litres of Mango juice,60,3,,,"let Prathamesh has $x$ litres of Mango juice.
+    <br/>Since, Ninad has $\dfrac{1}{7}$ times the Mango juice that Prathamesh has
+        <br/>Therefore, Ninad will have ($\dfrac{1}{7}$)* $x$ litres of Mango juice.  
+    <br/>Since, Prathamesh and Ninad have a total of $60$ litres of Mango juice
+        <br/>=>$x+($$\dfrac{1}{7}$$)*x=60$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{1}{7}$$)*x=60$
+ <br/>   => $(\dfrac{8}{7})* x =60$
+<br/>Dividing both the sides by $\dfrac{8}{7}$
+ <br/>   => $x=\dfrac{60}{8/7}$
+ <br/>   => $x=105/2$
+ <br/>   => $($$\dfrac{1}{7}$$)*x = ($$\dfrac{1}{7}$$)*(\dfrac{60}{8/7})=15/2$
+<br/>Hence, Prathamesh has $105/2$ litres of Mango juice and Ninad has $15/2$ litres of Mango juice 
+",
+text,1,30203,3,"Aruni and Atharva have a total of 41 litres of water. If Atharva has $\dfrac{2}{4}$ times the water that Aruni has, how many litres of water does each one have?
+",Aruni has $82/3$ litres of water and Atharva has $41/3$ litres of water,,,,Aruni has $20$ litres of water and Atharva has $21$ litres of water,Aruni has $15$ litres of water and Atharva has $15/2$ litres of water,Aruni has $41/3$ litres of water and Atharva has $82/3$ litres of water,60,3,,,"let Aruni has $x$ litres of water.
+    <br/>Since, Atharva has $\dfrac{2}{4}$ times the water that Aruni has
+        <br/>Therefore, Atharva will have ($\dfrac{2}{4}$)* $x$ litres of water.  
+    <br/>Since, Aruni and Atharva have a total of $41$ litres of water
+        <br/>=>$x+($$\dfrac{2}{4}$$)*x=41$       
+        <br/>Taking $x$ common from both the terms in L.H.S :-
+        <br/>=> $(1+$$\dfrac{2}{4}$$)*x=41$
+ <br/>   => $(\dfrac{6}{4})* x =41$
+<br/>Dividing both the sides by $\dfrac{6}{4}$
+ <br/>   => $x=\dfrac{41}{3/2}$
+ <br/>   => $x=82/3$
+ <br/>   => $($$\dfrac{2}{4}$$)*x = ($$\dfrac{2}{4}$$)*(\dfrac{41}{3/2})=41/3$
+<br/>Hence, Aruni has $82/3$ litres of water and Atharva has $41/3$ litres of water 
+",

@@ -1,0 +1,17 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30101,1,"Simple pulley system is an equation - True or False ? 
+",True,,,,False,,,60,3,,,Simple pulley system will form a equation because in this situation the LHS will be equal to RHS,
+text,1,30101,1,"Placing books on bookshelf is an equation - True or False ? 
+",False,,,,True,,,60,3,,,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
+text,1,30101,1,"A lever system is an equation - True or False ? 
+",True,,,,False,,,60,3,,,A lever system will form a equation because in this situation the LHS will be equal to RHS,
+text,1,30101,1,"Spinning of ferris wheel is an equation - True or False ? 
+",False,,,,True,,,60,3,,,Spinning of ferris wheel will not form a equation because in this situation the LHS will not be equal to RHS,
+text,1,30101,1,"Analog weighing machine is an equation - True or False ? 
+",True,,,,False,,,60,3,,,Analog weighing machine will form a equation because in this situation the LHS will be equal to RHS,
+text,1,30101,1,"Filling water in bucket is an equation - True or False ? 
+",False,,,,True,,,60,3,,,Filling water in bucket will not form a equation because in this situation the LHS will not be equal to RHS,
+text,1,30101,1,"Balanced see-saw is an equation - True or False ? 
+",True,,,,False,,,60,3,,,Balanced see-saw will form a equation because in this situation the LHS will be equal to RHS,
+text,1,30101,1,"Car-towing is an equation - True or False ? 
+",True,,,,False,,,60,3,,,Car-towing will form a equation because in this situation the LHS will be equal to RHS,

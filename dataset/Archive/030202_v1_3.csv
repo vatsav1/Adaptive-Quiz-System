@@ -1,0 +1,701 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30202,1,"Let Reema have '$x$' minutes time to complete $15$ tasks. If Reema decides to give equal time for each task, then each task has to done in $15$ minutes. Select correct operation to solve for '$x$'.",$ ( x \div 15 ) \times 15 = 15 \times 15 $,,,,$ ( x \times 15 ) \times 15 = 15 \times 15 $,$ ( x - 15 ) + 15 = 15 + 15 $,$ ( x - 15 ) + 15 = 15 + 15 $,60,3,,,"
+        Reema had '$x$' minutes to perform $15$ tasks. Each task has to be done in  $15$ minutes.
+        <br> We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 15 )  =  15 $
+        <br> $( x \div 15 ) \times 15 = 15 \times 15$   ,by multiplying $15$ on both sides ",
+text,text,30202,1,Let Sam have '$y$' litres of honey. Sam fills honey in $11$ bottles of $10$ litre volume. Select correct operation to solve for '$y$'. ,$ ( y \div 11 ) \times 11 = 10 \times 11 $,,,,$ ( y \times 11 ) \div 11 = 10 \div 11 $,$ ( y + 11 ) - 11 = 10 - 11 $,$ ( y + 11 ) - 11 = 10 - 11 $,60,3,,,"
+        Sam had $'y'$ litres of honey which will fill<br>  into $11$ bottles of $10$ litre volume.
+       <br>  We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 11 )  =  10 $
+        <br> $( y \div 11 ) \times 11 = 10 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Seema have '$a$' litres of shampoo. Seema fills shampoo in $11$ bottles of $4$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 11 ) \times 11 = 4 \times 11 $,,,,$ ( a \div 11 ) \div 11 = 4 \div 11 $,$ ( a + 11 ) + 11 = 4 + 11 $,$ ( a + 11 ) + 11 = 4 + 11 $,60,3,,,"
+        Seema had $'a'$ litres of shampoo which will fill<br>  into $11$ bottles of $4$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 11 )  =  4 $
+        <br> $( a \div 11 ) \times 11 = 4 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Rohan have '$c$' pencils . Rohan distributed pencils among $4$ students and each student got $14$ pencils. Select correct operation to solve for '$c$'.,$ ( c \div 4 ) \times 4 = 14 \times 4 $,,,,$ ( c \times 4 ) \div 4 = 14 \div 4 $,$ ( c - 4 ) - 4 = 14 - 4 $,$ ( c - 4 ) - 4 = 14 - 4 $,60,3,,,"
+        Rohan had '$c$' pencils which was distributed to $4$ students. Each student recieves $14$ pencils.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 4 )  =  14 $
+        <br> $( c \div 4 ) \times 4 = 14 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Rahul have '$x$' lollipops . Rahul distributed lollipops among $9$ students and each student got $8$ lollipops. Select correct operation to solve for '$x$'.,$ ( x \div 9 ) \times 9 = 8 \times 9 $,,,,$ ( x + 9 ) + 9 = 8 + 9 $,$ ( x - 9 ) + 9 = 8 + 9 $,$ ( x - 9 ) + 9 = 8 + 9 $,60,3,,,"
+        Rahul had '$x$' lollipops which was distributed to $9$ students. Each student recieves $8$ lollipops.
+        <br>We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 9 )  =  8 $
+        <br> $( x \div 9 ) \times 9 = 8 \times 9$   ,by multiplying $9$ on both sides ",
+text,text,30202,1,Let Reema have '$m$' litres of honey. Reema fills honey in $11$ bottles of $12$ litre volume. Select correct operation to solve for '$m$'. ,$ ( m \div 11 ) \times 11 = 12 \times 11 $,,,,$ ( m \times 11 ) \div 11 = 12 \div 11 $,$ ( m - 11 ) - 11 = 12 - 11 $,$ ( m - 11 ) - 11 = 12 - 11 $,60,3,,,"
+        Reema had $'m'$ litres of honey which will fill<br>  into $11$ bottles of $12$ litre volume.
+       <br>  We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 11 )  =  12 $
+        <br> $( m \div 11 ) \times 11 = 12 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Sam have '$x$' litres of sanitizer. Sam fills sanitizer in $11$ bottles of $14$ litre volume. Select correct operation to solve for '$x$'. ,$ ( x \div 11 ) \times 11 = 14 \times 11 $,,,,$ ( x - 11 ) - 11 = 14 - 11 $,$ ( x \times 11 ) \div 11 = 14 \div 11 $,$ ( x \times 11 ) \div 11 = 14 \div 11 $,60,3,,,"
+        Sam had $'x'$ litres of sanitizer which will fill<br>  into $11$ bottles of $14$ litre volume.
+       <br>  We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 11 )  =  14 $
+        <br> $( x \div 11 ) \times 11 = 14 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Rohan have '$m$' litres of juice. Rohan fills juice in $6$ bottles of $12$ litre volume. Select correct operation to solve for '$m$'. ,$ ( m \div 6 ) \times 6 = 12 \times 6 $,,,,$ ( m \times 6 ) \times 6 = 12 \times 6 $,$ ( m - 6 ) + 6 = 12 + 6 $,$ ( m - 6 ) + 6 = 12 + 6 $,60,3,,,"
+        Rohan had $'m'$ litres of juice which will fill<br>  into $6$ bottles of $12$ litre volume.
+       <br>  We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 6 )  =  12 $
+        <br> $( m \div 6 ) \times 6 = 12 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Rahul have '$x$' litres of milk. Rahul fills milk in $11$ bottles of $6$ litre volume. Select correct operation to solve for '$x$'. ,$ ( x \div 11 ) \times 11 = 6 \times 11 $,,,,$ ( x - 11 ) + 11 = 6 + 11 $,$ ( x + 11 ) + 11 = 6 + 11 $,$ ( x + 11 ) + 11 = 6 + 11 $,60,3,,,"
+        Rahul had $'x'$ litres of milk which will fill<br>  into $11$ bottles of $6$ litre volume.
+       <br>  We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 11 )  =  6 $
+        <br> $( x \div 11 ) \times 11 = 6 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,"Let Arun have '$m$' hours time to complete $14$ tasks. If Arun decides to give equal time for each task, then each task has to done in $11$ hours. Select correct operation to solve for '$m$'.",$ ( m \div 14 ) \times 14 = 11 \times 14 $,,,,$ ( m + 14 ) - 14 = 11 - 14 $,$ ( m - 14 ) - 14 = 11 - 14 $,$ ( m - 14 ) - 14 = 11 - 14 $,60,3,,,"
+        Arun had '$m$' hours to perform $14$ tasks. Each task has to be done in  $11$ hours.
+        <br> We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 14 )  =  11 $
+        <br> $( m \div 14 ) \times 14 = 11 \times 14$   ,by multiplying $14$ on both sides ",
+text,text,30202,1,Let Sam have '$z$' litres of honey. Sam fills honey in $7$ bottles of $11$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 7 ) \times 7 = 11 \times 7 $,,,,$ ( z - 7 ) - 7 = 11 - 7 $,$ ( z + 7 ) + 7 = 11 + 7 $,$ ( z + 7 ) + 7 = 11 + 7 $,60,3,,,"
+        Sam had $'z'$ litres of honey which will fill<br>  into $7$ bottles of $11$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 7 )  =  11 $
+        <br> $( z \div 7 ) \times 7 = 11 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,Let Reema have '$b$' toys . Reema distributed toys among $6$ students and each student got $6$ toys. Select correct operation to solve for '$b$'.,$ ( b \div 6 ) \times 6 = 6 \times 6 $,,,,$ ( b \times 6 ) \times 6 = 6 \times 6 $,$ ( b \times 6 ) \div 6 = 6 \div 6 $,$ ( b \times 6 ) \div 6 = 6 \div 6 $,60,3,,,"
+        Reema had '$b$' toys which was distributed to $6$ students. Each student recieves $6$ toys.
+        <br>We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 6 )  =  6 $
+        <br> $( b \div 6 ) \times 6 = 6 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Seema have '$p$' icecreams . Seema distributed icecreams among $8$ students and each student got $8$ icecreams. Select correct operation to solve for '$p$'.,$ ( p \div 8 ) \times 8 = 8 \times 8 $,,,,$ ( p \div 8 ) \div 8 = 8 \div 8 $,$ ( p \times 8 ) \div 8 = 8 \div 8 $,$ ( p \times 8 ) \div 8 = 8 \div 8 $,60,3,,,"
+        Seema had '$p$' icecreams which was distributed to $8$ students. Each student recieves $8$ icecreams.
+        <br>We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 8 )  =  8 $
+        <br> $( p \div 8 ) \times 8 = 8 \times 8$   ,by multiplying $8$ on both sides ",
+text,text,30202,1,Let Arun have '$c$' chocolate . Arun distributed chocolate among $12$ students and each student got $10$ chocolate. Select correct operation to solve for '$c$'.,$ ( c \div 12 ) \times 12 = 10 \times 12 $,,,,$ ( c + 12 ) - 12 = 10 - 12 $,$ ( c \times 12 ) \times 12 = 10 \times 12 $,$ ( c \times 12 ) \times 12 = 10 \times 12 $,60,3,,,"
+        Arun had '$c$' chocolate which was distributed to $12$ students. Each student recieves $10$ chocolate.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 12 )  =  10 $
+        <br> $( c \div 12 ) \times 12 = 10 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,Let Arun have '$y$' litres of shampoo. Arun fills shampoo in $7$ bottles of $9$ litre volume. Select correct operation to solve for '$y$'. ,$ ( y \div 7 ) \times 7 = 9 \times 7 $,,,,$ ( y + 7 ) - 7 = 9 - 7 $,$ ( y - 7 ) + 7 = 9 + 7 $,$ ( y - 7 ) + 7 = 9 + 7 $,60,3,,,"
+        Arun had $'y'$ litres of shampoo which will fill<br>  into $7$ bottles of $9$ litre volume.
+       <br>  We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 7 )  =  9 $
+        <br> $( y \div 7 ) \times 7 = 9 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,Let Rahul have '$q$' samosa . Rahul distributed samosa among $3$ students and each student got $10$ samosa. Select correct operation to solve for '$q$'.,$ ( q \div 3 ) \times 3 = 10 \times 3 $,,,,$ ( q + 3 ) + 3 = 10 + 3 $,$ ( q \times 3 ) \div 3 = 10 \div 3 $,$ ( q \times 3 ) \div 3 = 10 \div 3 $,60,3,,,"
+        Rahul had '$q$' samosa which was distributed to $3$ students. Each student recieves $10$ samosa.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 3 )  =  10 $
+        <br> $( q \div 3 ) \times 3 = 10 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Reema have '$x$' litres of shampoo. Reema fills shampoo in $12$ bottles of $3$ litre volume. Select correct operation to solve for '$x$'. ,$ ( x \div 12 ) \times 12 = 3 \times 12 $,,,,$ ( x \times 12 ) \times 12 = 3 \times 12 $,$ ( x \div 12 ) \div 12 = 3 \div 12 $,$ ( x \div 12 ) \div 12 = 3 \div 12 $,60,3,,,"
+        Reema had $'x'$ litres of shampoo which will fill<br>  into $12$ bottles of $3$ litre volume.
+       <br>  We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 12 )  =  3 $
+        <br> $( x \div 12 ) \times 12 = 3 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,Let Sam have '$b$' litres of shampoo. Sam fills shampoo in $2$ bottles of $14$ litre volume. Select correct operation to solve for '$b$'. ,$ ( b \div 2 ) \times 2 = 14 \times 2 $,,,,$ ( b + 2 ) - 2 = 14 - 2 $,$ ( b \div 2 ) \div 2 = 14 \div 2 $,$ ( b \div 2 ) \div 2 = 14 \div 2 $,60,3,,,"
+        Sam had $'b'$ litres of shampoo which will fill<br>  into $2$ bottles of $14$ litre volume.
+       <br>  We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 2 )  =  14 $
+        <br> $( b \div 2 ) \times 2 = 14 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,30202,1,"Let Seema have '$x$' minutes time to complete $10$ tasks. If Seema decides to give equal time for each task, then each task has to done in $5$ minutes. Select correct operation to solve for '$x$'.",$ ( x \div 10 ) \times 10 = 5 \times 10 $,,,,$ ( x \times 10 ) \times 10 = 5 \times 10 $,$ ( x - 10 ) - 10 = 5 - 10 $,$ ( x - 10 ) - 10 = 5 - 10 $,60,3,,,"
+        Seema had '$x$' minutes to perform $10$ tasks. Each task has to be done in  $5$ minutes.
+        <br> We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 10 )  =  5 $
+        <br> $( x \div 10 ) \times 10 = 5 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,"Let Rohan have '$x$' hours time to complete $13$ tasks. If Rohan decides to give equal time for each task, then each task has to done in $10$ hours. Select correct operation to solve for '$x$'.",$ ( x \div 13 ) \times 13 = 10 \times 13 $,,,,$ ( x + 13 ) - 13 = 10 - 13 $,$ ( x - 13 ) - 13 = 10 - 13 $,$ ( x - 13 ) - 13 = 10 - 13 $,60,3,,,"
+        Rohan had '$x$' hours to perform $13$ tasks. Each task has to be done in  $10$ hours.
+        <br> We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 13 )  =  10 $
+        <br> $( x \div 13 ) \times 13 = 10 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,30202,1,Let Rohan have '$n$' litres of honey. Rohan fills honey in $2$ bottles of $3$ litre volume. Select correct operation to solve for '$n$'. ,$ ( n \div 2 ) \times 2 = 3 \times 2 $,,,,$ ( n + 2 ) - 2 = 3 - 2 $,$ ( n - 2 ) + 2 = 3 + 2 $,$ ( n - 2 ) + 2 = 3 + 2 $,60,3,,,"
+        Rohan had $'n'$ litres of honey which will fill<br>  into $2$ bottles of $3$ litre volume.
+       <br>  We want to find '$n$'
+        
+        <br> Therefore we write ,
+        <br> $( n \div 2 )  =  3 $
+        <br> $( n \div 2 ) \times 2 = 3 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,30202,1,Let Rahul have '$p$' pencils . Rahul distributed pencils among $8$ students and each student got $14$ pencils. Select correct operation to solve for '$p$'.,$ ( p \div 8 ) \times 8 = 14 \times 8 $,,,,$ ( p \div 8 ) \div 8 = 14 \div 8 $,$ ( p - 8 ) - 8 = 14 - 8 $,$ ( p - 8 ) - 8 = 14 - 8 $,60,3,,,"
+        Rahul had '$p$' pencils which was distributed to $8$ students. Each student recieves $14$ pencils.
+        <br>We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 8 )  =  14 $
+        <br> $( p \div 8 ) \times 8 = 14 \times 8$   ,by multiplying $8$ on both sides ",
+text,text,30202,1,Let Rohan have '$a$' litres of milk. Rohan fills milk in $4$ bottles of $6$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 4 ) \times 4 = 6 \times 4 $,,,,$ ( a + 4 ) - 4 = 6 - 4 $,$ ( a - 4 ) - 4 = 6 - 4 $,$ ( a - 4 ) - 4 = 6 - 4 $,60,3,,,"
+        Rohan had $'a'$ litres of milk which will fill<br>  into $4$ bottles of $6$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 4 )  =  6 $
+        <br> $( a \div 4 ) \times 4 = 6 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Seema have '$p$' toys . Seema distributed toys among $5$ students and each student got $4$ toys. Select correct operation to solve for '$p$'.,$ ( p \div 5 ) \times 5 = 4 \times 5 $,,,,$ ( p + 5 ) + 5 = 4 + 5 $,$ ( p \div 5 ) \div 5 = 4 \div 5 $,$ ( p \div 5 ) \div 5 = 4 \div 5 $,60,3,,,"
+        Seema had '$p$' toys which was distributed to $5$ students. Each student recieves $4$ toys.
+        <br>We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 5 )  =  4 $
+        <br> $( p \div 5 ) \times 5 = 4 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,"Let Seema have '$p$' hours time to complete $5$ tasks. If Seema decides to give equal time for each task, then each task has to done in $10$ hours. Select correct operation to solve for '$p$'.",$ ( p \div 5 ) \times 5 = 10 \times 5 $,,,,$ ( p \times 5 ) \times 5 = 10 \times 5 $,$ ( p + 5 ) + 5 = 10 + 5 $,$ ( p + 5 ) + 5 = 10 + 5 $,60,3,,,"
+        Seema had '$p$' hours to perform $5$ tasks. Each task has to be done in  $10$ hours.
+        <br> We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 5 )  =  10 $
+        <br> $( p \div 5 ) \times 5 = 10 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Rohan have '$x$' samosa . Rohan distributed samosa among $13$ students and each student got $2$ samosa. Select correct operation to solve for '$x$'.,$ ( x \div 13 ) \times 13 = 2 \times 13 $,,,,$ ( x + 13 ) - 13 = 2 - 13 $,$ ( x + 13 ) + 13 = 2 + 13 $,$ ( x + 13 ) + 13 = 2 + 13 $,60,3,,,"
+        Rohan had '$x$' samosa which was distributed to $13$ students. Each student recieves $2$ samosa.
+        <br>We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 13 )  =  2 $
+        <br> $( x \div 13 ) \times 13 = 2 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,30202,1,Let Arun have '$b$' litres of shampoo. Arun fills shampoo in $12$ bottles of $7$ litre volume. Select correct operation to solve for '$b$'. ,$ ( b \div 12 ) \times 12 = 7 \times 12 $,,,,$ ( b \times 12 ) \div 12 = 7 \div 12 $,$ ( b + 12 ) - 12 = 7 - 12 $,$ ( b + 12 ) - 12 = 7 - 12 $,60,3,,,"
+        Arun had $'b'$ litres of shampoo which will fill<br>  into $12$ bottles of $7$ litre volume.
+       <br>  We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 12 )  =  7 $
+        <br> $( b \div 12 ) \times 12 = 7 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,Let Sam have '$c$' apples . Sam distributed apples among $5$ students and each student got $15$ apples. Select correct operation to solve for '$c$'.,$ ( c \div 5 ) \times 5 = 15 \times 5 $,,,,$ ( c - 5 ) - 5 = 15 - 5 $,$ ( c \times 5 ) \times 5 = 15 \times 5 $,$ ( c \times 5 ) \times 5 = 15 \times 5 $,60,3,,,"
+        Sam had '$c$' apples which was distributed to $5$ students. Each student recieves $15$ apples.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 5 )  =  15 $
+        <br> $( c \div 5 ) \times 5 = 15 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Sam have '$x$' litres of shampoo. Sam fills shampoo in $5$ bottles of $2$ litre volume. Select correct operation to solve for '$x$'. ,$ ( x \div 5 ) \times 5 = 2 \times 5 $,,,,$ ( x + 5 ) - 5 = 2 - 5 $,$ ( x \times 5 ) \times 5 = 2 \times 5 $,$ ( x \times 5 ) \times 5 = 2 \times 5 $,60,3,,,"
+        Sam had $'x'$ litres of shampoo which will fill<br>  into $5$ bottles of $2$ litre volume.
+       <br>  We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 5 )  =  2 $
+        <br> $( x \div 5 ) \times 5 = 2 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Sam have '$a$' litres of oil. Sam fills oil in $9$ bottles of $8$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 9 ) \times 9 = 8 \times 9 $,,,,$ ( a \times 9 ) \times 9 = 8 \times 9 $,$ ( a - 9 ) + 9 = 8 + 9 $,$ ( a - 9 ) + 9 = 8 + 9 $,60,3,,,"
+        Sam had $'a'$ litres of oil which will fill<br>  into $9$ bottles of $8$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 9 )  =  8 $
+        <br> $( a \div 9 ) \times 9 = 8 \times 9$   ,by multiplying $9$ on both sides ",
+text,text,30202,1,"Let Rahul have '$z$' minutes time to complete $9$ tasks. If Rahul decides to give equal time for each task, then each task has to done in $9$ minutes. Select correct operation to solve for '$z$'.",$ ( z \div 9 ) \times 9 = 9 \times 9 $,,,,$ ( z \times 9 ) \times 9 = 9 \times 9 $,$ ( z + 9 ) - 9 = 9 - 9 $,$ ( z + 9 ) - 9 = 9 - 9 $,60,3,,,"
+        Rahul had '$z$' minutes to perform $9$ tasks. Each task has to be done in  $9$ minutes.
+        <br> We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 9 )  =  9 $
+        <br> $( z \div 9 ) \times 9 = 9 \times 9$   ,by multiplying $9$ on both sides ",
+text,text,30202,1,Let Reema have '$z$' litres of oil. Reema fills oil in $2$ bottles of $7$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 2 ) \times 2 = 7 \times 2 $,,,,$ ( z \div 2 ) \div 2 = 7 \div 2 $,$ ( z + 2 ) - 2 = 7 - 2 $,$ ( z + 2 ) - 2 = 7 - 2 $,60,3,,,"
+        Reema had $'z'$ litres of oil which will fill<br>  into $2$ bottles of $7$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 2 )  =  7 $
+        <br> $( z \div 2 ) \times 2 = 7 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,30202,1,Let Rahul have '$c$' lollipops . Rahul distributed lollipops among $9$ students and each student got $3$ lollipops. Select correct operation to solve for '$c$'.,$ ( c \div 9 ) \times 9 = 3 \times 9 $,,,,$ ( c + 9 ) + 9 = 3 + 9 $,$ ( c + 9 ) - 9 = 3 - 9 $,$ ( c + 9 ) - 9 = 3 - 9 $,60,3,,,"
+        Rahul had '$c$' lollipops which was distributed to $9$ students. Each student recieves $3$ lollipops.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 9 )  =  3 $
+        <br> $( c \div 9 ) \times 9 = 3 \times 9$   ,by multiplying $9$ on both sides ",
+text,text,30202,1,Let Sam have '$p$' litres of milk. Sam fills milk in $8$ bottles of $2$ litre volume. Select correct operation to solve for '$p$'. ,$ ( p \div 8 ) \times 8 = 2 \times 8 $,,,,$ ( p - 8 ) + 8 = 2 + 8 $,$ ( p + 8 ) + 8 = 2 + 8 $,$ ( p + 8 ) + 8 = 2 + 8 $,60,3,,,"
+        Sam had $'p'$ litres of milk which will fill<br>  into $8$ bottles of $2$ litre volume.
+       <br>  We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 8 )  =  2 $
+        <br> $( p \div 8 ) \times 8 = 2 \times 8$   ,by multiplying $8$ on both sides ",
+text,text,30202,1,"Let Rohan have '$p$' minutes time to complete $3$ tasks. If Rohan decides to give equal time for each task, then each task has to done in $3$ minutes. Select correct operation to solve for '$p$'.",$ ( p \div 3 ) \times 3 = 3 \times 3 $,,,,$ ( p \times 3 ) \div 3 = 3 \div 3 $,$ ( p \times 3 ) \times 3 = 3 \times 3 $,$ ( p \times 3 ) \times 3 = 3 \times 3 $,60,3,,,"
+        Rohan had '$p$' minutes to perform $3$ tasks. Each task has to be done in  $3$ minutes.
+        <br> We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 3 )  =  3 $
+        <br> $( p \div 3 ) \times 3 = 3 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Arun have '$z$' lollipops . Arun distributed lollipops among $15$ students and each student got $7$ lollipops. Select correct operation to solve for '$z$'.,$ ( z \div 15 ) \times 15 = 7 \times 15 $,,,,$ ( z - 15 ) + 15 = 7 + 15 $,$ ( z \times 15 ) \div 15 = 7 \div 15 $,$ ( z \times 15 ) \div 15 = 7 \div 15 $,60,3,,,"
+        Arun had '$z$' lollipops which was distributed to $15$ students. Each student recieves $7$ lollipops.
+        <br>We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 15 )  =  7 $
+        <br> $( z \div 15 ) \times 15 = 7 \times 15$   ,by multiplying $15$ on both sides ",
+text,text,30202,1,Let Seema have '$q$' chocolate . Seema distributed chocolate among $5$ students and each student got $11$ chocolate. Select correct operation to solve for '$q$'.,$ ( q \div 5 ) \times 5 = 11 \times 5 $,,,,$ ( q + 5 ) - 5 = 11 - 5 $,$ ( q \times 5 ) \div 5 = 11 \div 5 $,$ ( q \times 5 ) \div 5 = 11 \div 5 $,60,3,,,"
+        Seema had '$q$' chocolate which was distributed to $5$ students. Each student recieves $11$ chocolate.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 5 )  =  11 $
+        <br> $( q \div 5 ) \times 5 = 11 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Seema have '$y$' samosa . Seema distributed samosa among $14$ students and each student got $13$ samosa. Select correct operation to solve for '$y$'.,$ ( y \div 14 ) \times 14 = 13 \times 14 $,,,,$ ( y + 14 ) + 14 = 13 + 14 $,$ ( y \times 14 ) \times 14 = 13 \times 14 $,$ ( y \times 14 ) \times 14 = 13 \times 14 $,60,3,,,"
+        Seema had '$y$' samosa which was distributed to $14$ students. Each student recieves $13$ samosa.
+        <br>We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 14 )  =  13 $
+        <br> $( y \div 14 ) \times 14 = 13 \times 14$   ,by multiplying $14$ on both sides ",
+text,text,30202,1,Let Arun have '$y$' litres of shampoo. Arun fills shampoo in $10$ bottles of $15$ litre volume. Select correct operation to solve for '$y$'. ,$ ( y \div 10 ) \times 10 = 15 \times 10 $,,,,$ ( y + 10 ) + 10 = 15 + 10 $,$ ( y + 10 ) - 10 = 15 - 10 $,$ ( y + 10 ) - 10 = 15 - 10 $,60,3,,,"
+        Arun had $'y'$ litres of shampoo which will fill<br>  into $10$ bottles of $15$ litre volume.
+       <br>  We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 10 )  =  15 $
+        <br> $( y \div 10 ) \times 10 = 15 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Rohan have '$c$' litres of juice. Rohan fills juice in $7$ bottles of $2$ litre volume. Select correct operation to solve for '$c$'. ,$ ( c \div 7 ) \times 7 = 2 \times 7 $,,,,$ ( c \times 7 ) \div 7 = 2 \div 7 $,$ ( c + 7 ) + 7 = 2 + 7 $,$ ( c + 7 ) + 7 = 2 + 7 $,60,3,,,"
+        Rohan had $'c'$ litres of juice which will fill<br>  into $7$ bottles of $2$ litre volume.
+       <br>  We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 7 )  =  2 $
+        <br> $( c \div 7 ) \times 7 = 2 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,Let Sam have '$a$' ladoo . Sam distributed ladoo among $12$ students and each student got $6$ ladoo. Select correct operation to solve for '$a$'.,$ ( a \div 12 ) \times 12 = 6 \times 12 $,,,,$ ( a \times 12 ) \div 12 = 6 \div 12 $,$ ( a \times 12 ) \times 12 = 6 \times 12 $,$ ( a \times 12 ) \times 12 = 6 \times 12 $,60,3,,,"
+        Sam had '$a$' ladoo which was distributed to $12$ students. Each student recieves $6$ ladoo.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 12 )  =  6 $
+        <br> $( a \div 12 ) \times 12 = 6 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,Let Reema have '$a$' litres of sanitizer. Reema fills sanitizer in $14$ bottles of $15$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 14 ) \times 14 = 15 \times 14 $,,,,$ ( a + 14 ) + 14 = 15 + 14 $,$ ( a \div 14 ) \div 14 = 15 \div 14 $,$ ( a \div 14 ) \div 14 = 15 \div 14 $,60,3,,,"
+        Reema had $'a'$ litres of sanitizer which will fill<br>  into $14$ bottles of $15$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 14 )  =  15 $
+        <br> $( a \div 14 ) \times 14 = 15 \times 14$   ,by multiplying $14$ on both sides ",
+text,text,30202,1,Let Sam have '$x$' pens . Sam distributed pens among $11$ students and each student got $11$ pens. Select correct operation to solve for '$x$'.,$ ( x \div 11 ) \times 11 = 11 \times 11 $,,,,$ ( x - 11 ) - 11 = 11 - 11 $,$ ( x + 11 ) + 11 = 11 + 11 $,$ ( x + 11 ) + 11 = 11 + 11 $,60,3,,,"
+        Sam had '$x$' pens which was distributed to $11$ students. Each student recieves $11$ pens.
+        <br>We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 11 )  =  11 $
+        <br> $( x \div 11 ) \times 11 = 11 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Arun have '$m$' litres of oil. Arun fills oil in $10$ bottles of $5$ litre volume. Select correct operation to solve for '$m$'. ,$ ( m \div 10 ) \times 10 = 5 \times 10 $,,,,$ ( m - 10 ) + 10 = 5 + 10 $,$ ( m + 10 ) + 10 = 5 + 10 $,$ ( m + 10 ) + 10 = 5 + 10 $,60,3,,,"
+        Arun had $'m'$ litres of oil which will fill<br>  into $10$ bottles of $5$ litre volume.
+       <br>  We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 10 )  =  5 $
+        <br> $( m \div 10 ) \times 10 = 5 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Arun have '$q$' samosa . Arun distributed samosa among $4$ students and each student got $14$ samosa. Select correct operation to solve for '$q$'.,$ ( q \div 4 ) \times 4 = 14 \times 4 $,,,,$ ( q \times 4 ) \div 4 = 14 \div 4 $,$ ( q \div 4 ) \div 4 = 14 \div 4 $,$ ( q \div 4 ) \div 4 = 14 \div 4 $,60,3,,,"
+        Arun had '$q$' samosa which was distributed to $4$ students. Each student recieves $14$ samosa.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 4 )  =  14 $
+        <br> $( q \div 4 ) \times 4 = 14 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Arun have '$p$' litres of milk. Arun fills milk in $7$ bottles of $6$ litre volume. Select correct operation to solve for '$p$'. ,$ ( p \div 7 ) \times 7 = 6 \times 7 $,,,,$ ( p \times 7 ) \times 7 = 6 \times 7 $,$ ( p + 7 ) - 7 = 6 - 7 $,$ ( p + 7 ) - 7 = 6 - 7 $,60,3,,,"
+        Arun had $'p'$ litres of milk which will fill<br>  into $7$ bottles of $6$ litre volume.
+       <br>  We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 7 )  =  6 $
+        <br> $( p \div 7 ) \times 7 = 6 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,Let Seema have '$y$' litres of oil. Seema fills oil in $4$ bottles of $13$ litre volume. Select correct operation to solve for '$y$'. ,$ ( y \div 4 ) \times 4 = 13 \times 4 $,,,,$ ( y - 4 ) + 4 = 13 + 4 $,$ ( y + 4 ) - 4 = 13 - 4 $,$ ( y + 4 ) - 4 = 13 - 4 $,60,3,,,"
+        Seema had $'y'$ litres of oil which will fill<br>  into $4$ bottles of $13$ litre volume.
+       <br>  We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 4 )  =  13 $
+        <br> $( y \div 4 ) \times 4 = 13 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Reema have '$m$' pencils . Reema distributed pencils among $12$ students and each student got $14$ pencils. Select correct operation to solve for '$m$'.,$ ( m \div 12 ) \times 12 = 14 \times 12 $,,,,$ ( m + 12 ) + 12 = 14 + 12 $,$ ( m - 12 ) + 12 = 14 + 12 $,$ ( m - 12 ) + 12 = 14 + 12 $,60,3,,,"
+        Reema had '$m$' pencils which was distributed to $12$ students. Each student recieves $14$ pencils.
+        <br>We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 12 )  =  14 $
+        <br> $( m \div 12 ) \times 12 = 14 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,Let Seema have '$z$' litres of honey. Seema fills honey in $2$ bottles of $12$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 2 ) \times 2 = 12 \times 2 $,,,,$ ( z \times 2 ) \times 2 = 12 \times 2 $,$ ( z \times 2 ) \div 2 = 12 \div 2 $,$ ( z \times 2 ) \div 2 = 12 \div 2 $,60,3,,,"
+        Seema had $'z'$ litres of honey which will fill<br>  into $2$ bottles of $12$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 2 )  =  12 $
+        <br> $( z \div 2 ) \times 2 = 12 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,30202,1,Let Rahul have '$a$' chocolate . Rahul distributed chocolate among $3$ students and each student got $11$ chocolate. Select correct operation to solve for '$a$'.,$ ( a \div 3 ) \times 3 = 11 \times 3 $,,,,$ ( a \times 3 ) \times 3 = 11 \times 3 $,$ ( a + 3 ) + 3 = 11 + 3 $,$ ( a + 3 ) + 3 = 11 + 3 $,60,3,,,"
+        Rahul had '$a$' chocolate which was distributed to $3$ students. Each student recieves $11$ chocolate.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 3 )  =  11 $
+        <br> $( a \div 3 ) \times 3 = 11 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Rohan have '$q$' modak . Rohan distributed modak among $6$ students and each student got $2$ modak. Select correct operation to solve for '$q$'.,$ ( q \div 6 ) \times 6 = 2 \times 6 $,,,,$ ( q \div 6 ) \div 6 = 2 \div 6 $,$ ( q - 6 ) - 6 = 2 - 6 $,$ ( q - 6 ) - 6 = 2 - 6 $,60,3,,,"
+        Rohan had '$q$' modak which was distributed to $6$ students. Each student recieves $2$ modak.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 6 )  =  2 $
+        <br> $( q \div 6 ) \times 6 = 2 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Reema have '$a$' litres of oil. Reema fills oil in $7$ bottles of $2$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 7 ) \times 7 = 2 \times 7 $,,,,$ ( a - 7 ) + 7 = 2 + 7 $,$ ( a \div 7 ) \div 7 = 2 \div 7 $,$ ( a \div 7 ) \div 7 = 2 \div 7 $,60,3,,,"
+        Reema had $'a'$ litres of oil which will fill<br>  into $7$ bottles of $2$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 7 )  =  2 $
+        <br> $( a \div 7 ) \times 7 = 2 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,Let Arun have '$q$' litres of oil. Arun fills oil in $4$ bottles of $15$ litre volume. Select correct operation to solve for '$q$'. ,$ ( q \div 4 ) \times 4 = 15 \times 4 $,,,,$ ( q + 4 ) + 4 = 15 + 4 $,$ ( q \times 4 ) \div 4 = 15 \div 4 $,$ ( q \times 4 ) \div 4 = 15 \div 4 $,60,3,,,"
+        Arun had $'q'$ litres of oil which will fill<br>  into $4$ bottles of $15$ litre volume.
+       <br>  We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 4 )  =  15 $
+        <br> $( q \div 4 ) \times 4 = 15 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Seema have '$q$' pencils . Seema distributed pencils among $3$ students and each student got $6$ pencils. Select correct operation to solve for '$q$'.,$ ( q \div 3 ) \times 3 = 6 \times 3 $,,,,$ ( q + 3 ) - 3 = 6 - 3 $,$ ( q \times 3 ) \times 3 = 6 \times 3 $,$ ( q \times 3 ) \times 3 = 6 \times 3 $,60,3,,,"
+        Seema had '$q$' pencils which was distributed to $3$ students. Each student recieves $6$ pencils.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 3 )  =  6 $
+        <br> $( q \div 3 ) \times 3 = 6 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Reema have '$m$' litres of milk. Reema fills milk in $8$ bottles of $13$ litre volume. Select correct operation to solve for '$m$'. ,$ ( m \div 8 ) \times 8 = 13 \times 8 $,,,,$ ( m - 8 ) - 8 = 13 - 8 $,$ ( m + 8 ) + 8 = 13 + 8 $,$ ( m + 8 ) + 8 = 13 + 8 $,60,3,,,"
+        Reema had $'m'$ litres of milk which will fill<br>  into $8$ bottles of $13$ litre volume.
+       <br>  We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 8 )  =  13 $
+        <br> $( m \div 8 ) \times 8 = 13 \times 8$   ,by multiplying $8$ on both sides ",
+text,text,30202,1,Let Reema have '$c$' icecreams . Reema distributed icecreams among $11$ students and each student got $15$ icecreams. Select correct operation to solve for '$c$'.,$ ( c \div 11 ) \times 11 = 15 \times 11 $,,,,$ ( c + 11 ) + 11 = 15 + 11 $,$ ( c + 11 ) - 11 = 15 - 11 $,$ ( c + 11 ) - 11 = 15 - 11 $,60,3,,,"
+        Reema had '$c$' icecreams which was distributed to $11$ students. Each student recieves $15$ icecreams.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 11 )  =  15 $
+        <br> $( c \div 11 ) \times 11 = 15 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,"Let Sam have '$a$' minutes time to complete $14$ tasks. If Sam decides to give equal time for each task, then each task has to done in $11$ minutes. Select correct operation to solve for '$a$'.",$ ( a \div 14 ) \times 14 = 11 \times 14 $,,,,$ ( a + 14 ) + 14 = 11 + 14 $,$ ( a - 14 ) + 14 = 11 + 14 $,$ ( a - 14 ) + 14 = 11 + 14 $,60,3,,,"
+        Sam had '$a$' minutes to perform $14$ tasks. Each task has to be done in  $11$ minutes.
+        <br> We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 14 )  =  11 $
+        <br> $( a \div 14 ) \times 14 = 11 \times 14$   ,by multiplying $14$ on both sides ",
+text,text,30202,1,Let Reema have '$y$' litres of oil. Reema fills oil in $7$ bottles of $3$ litre volume. Select correct operation to solve for '$y$'. ,$ ( y \div 7 ) \times 7 = 3 \times 7 $,,,,$ ( y \times 7 ) \div 7 = 3 \div 7 $,$ ( y \times 7 ) \times 7 = 3 \times 7 $,$ ( y \times 7 ) \times 7 = 3 \times 7 $,60,3,,,"
+        Reema had $'y'$ litres of oil which will fill<br>  into $7$ bottles of $3$ litre volume.
+       <br>  We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 7 )  =  3 $
+        <br> $( y \div 7 ) \times 7 = 3 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,"Let Rohan have '$z$' minutes time to complete $8$ tasks. If Rohan decides to give equal time for each task, then each task has to done in $8$ minutes. Select correct operation to solve for '$z$'.",$ ( z \div 8 ) \times 8 = 8 \times 8 $,,,,$ ( z \div 8 ) \div 8 = 8 \div 8 $,$ ( z \times 8 ) \div 8 = 8 \div 8 $,$ ( z \times 8 ) \div 8 = 8 \div 8 $,60,3,,,"
+        Rohan had '$z$' minutes to perform $8$ tasks. Each task has to be done in  $8$ minutes.
+        <br> We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 8 )  =  8 $
+        <br> $( z \div 8 ) \times 8 = 8 \times 8$   ,by multiplying $8$ on both sides ",
+text,text,30202,1,Let Seema have '$p$' pencils . Seema distributed pencils among $13$ students and each student got $14$ pencils. Select correct operation to solve for '$p$'.,$ ( p \div 13 ) \times 13 = 14 \times 13 $,,,,$ ( p \times 13 ) \div 13 = 14 \div 13 $,$ ( p \times 13 ) \times 13 = 14 \times 13 $,$ ( p \times 13 ) \times 13 = 14 \times 13 $,60,3,,,"
+        Seema had '$p$' pencils which was distributed to $13$ students. Each student recieves $14$ pencils.
+        <br>We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 13 )  =  14 $
+        <br> $( p \div 13 ) \times 13 = 14 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,30202,1,Let Arun have '$q$' icecreams . Arun distributed icecreams among $11$ students and each student got $8$ icecreams. Select correct operation to solve for '$q$'.,$ ( q \div 11 ) \times 11 = 8 \times 11 $,,,,$ ( q \times 11 ) \times 11 = 8 \times 11 $,$ ( q + 11 ) + 11 = 8 + 11 $,$ ( q + 11 ) + 11 = 8 + 11 $,60,3,,,"
+        Arun had '$q$' icecreams which was distributed to $11$ students. Each student recieves $8$ icecreams.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 11 )  =  8 $
+        <br> $( q \div 11 ) \times 11 = 8 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Reema have '$b$' samosa . Reema distributed samosa among $13$ students and each student got $2$ samosa. Select correct operation to solve for '$b$'.,$ ( b \div 13 ) \times 13 = 2 \times 13 $,,,,$ ( b + 13 ) + 13 = 2 + 13 $,$ ( b - 13 ) - 13 = 2 - 13 $,$ ( b - 13 ) - 13 = 2 - 13 $,60,3,,,"
+        Reema had '$b$' samosa which was distributed to $13$ students. Each student recieves $2$ samosa.
+        <br>We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 13 )  =  2 $
+        <br> $( b \div 13 ) \times 13 = 2 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,30202,1,Let Rahul have '$z$' icecreams . Rahul distributed icecreams among $12$ students and each student got $8$ icecreams. Select correct operation to solve for '$z$'.,$ ( z \div 12 ) \times 12 = 8 \times 12 $,,,,$ ( z + 12 ) + 12 = 8 + 12 $,$ ( z + 12 ) - 12 = 8 - 12 $,$ ( z + 12 ) - 12 = 8 - 12 $,60,3,,,"
+        Rahul had '$z$' icecreams which was distributed to $12$ students. Each student recieves $8$ icecreams.
+        <br>We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 12 )  =  8 $
+        <br> $( z \div 12 ) \times 12 = 8 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,Let Rohan have '$z$' litres of shampoo. Rohan fills shampoo in $11$ bottles of $10$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 11 ) \times 11 = 10 \times 11 $,,,,$ ( z + 11 ) + 11 = 10 + 11 $,$ ( z + 11 ) - 11 = 10 - 11 $,$ ( z + 11 ) - 11 = 10 - 11 $,60,3,,,"
+        Rohan had $'z'$ litres of shampoo which will fill<br>  into $11$ bottles of $10$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 11 )  =  10 $
+        <br> $( z \div 11 ) \times 11 = 10 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Seema have '$x$' mangoes . Seema distributed mangoes among $5$ students and each student got $8$ mangoes. Select correct operation to solve for '$x$'.,$ ( x \div 5 ) \times 5 = 8 \times 5 $,,,,$ ( x - 5 ) + 5 = 8 + 5 $,$ ( x - 5 ) - 5 = 8 - 5 $,$ ( x - 5 ) - 5 = 8 - 5 $,60,3,,,"
+        Seema had '$x$' mangoes which was distributed to $5$ students. Each student recieves $8$ mangoes.
+        <br>We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 5 )  =  8 $
+        <br> $( x \div 5 ) \times 5 = 8 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Arun have '$a$' litres of juice. Arun fills juice in $5$ bottles of $8$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 5 ) \times 5 = 8 \times 5 $,,,,$ ( a + 5 ) - 5 = 8 - 5 $,$ ( a - 5 ) - 5 = 8 - 5 $,$ ( a - 5 ) - 5 = 8 - 5 $,60,3,,,"
+        Arun had $'a'$ litres of juice which will fill<br>  into $5$ bottles of $8$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 5 )  =  8 $
+        <br> $( a \div 5 ) \times 5 = 8 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Sam have '$c$' litres of oil. Sam fills oil in $6$ bottles of $13$ litre volume. Select correct operation to solve for '$c$'. ,$ ( c \div 6 ) \times 6 = 13 \times 6 $,,,,$ ( c + 6 ) + 6 = 13 + 6 $,$ ( c \times 6 ) \div 6 = 13 \div 6 $,$ ( c \times 6 ) \div 6 = 13 \div 6 $,60,3,,,"
+        Sam had $'c'$ litres of oil which will fill<br>  into $6$ bottles of $13$ litre volume.
+       <br>  We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 6 )  =  13 $
+        <br> $( c \div 6 ) \times 6 = 13 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Rohan have '$n$' lollipops . Rohan distributed lollipops among $6$ students and each student got $12$ lollipops. Select correct operation to solve for '$n$'.,$ ( n \div 6 ) \times 6 = 12 \times 6 $,,,,$ ( n + 6 ) + 6 = 12 + 6 $,$ ( n \times 6 ) \times 6 = 12 \times 6 $,$ ( n \times 6 ) \times 6 = 12 \times 6 $,60,3,,,"
+        Rohan had '$n$' lollipops which was distributed to $6$ students. Each student recieves $12$ lollipops.
+        <br>We want to find '$n$'
+        
+        <br> Therefore we write ,
+        <br> $( n \div 6 )  =  12 $
+        <br> $( n \div 6 ) \times 6 = 12 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Arun have '$y$' ladoo . Arun distributed ladoo among $6$ students and each student got $11$ ladoo. Select correct operation to solve for '$y$'.,$ ( y \div 6 ) \times 6 = 11 \times 6 $,,,,$ ( y \times 6 ) \div 6 = 11 \div 6 $,$ ( y - 6 ) - 6 = 11 - 6 $,$ ( y - 6 ) - 6 = 11 - 6 $,60,3,,,"
+        Arun had '$y$' ladoo which was distributed to $6$ students. Each student recieves $11$ ladoo.
+        <br>We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 6 )  =  11 $
+        <br> $( y \div 6 ) \times 6 = 11 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Sam have '$n$' litres of sanitizer. Sam fills sanitizer in $4$ bottles of $3$ litre volume. Select correct operation to solve for '$n$'. ,$ ( n \div 4 ) \times 4 = 3 \times 4 $,,,,$ ( n \div 4 ) \div 4 = 3 \div 4 $,$ ( n \times 4 ) \times 4 = 3 \times 4 $,$ ( n \times 4 ) \times 4 = 3 \times 4 $,60,3,,,"
+        Sam had $'n'$ litres of sanitizer which will fill<br>  into $4$ bottles of $3$ litre volume.
+       <br>  We want to find '$n$'
+        
+        <br> Therefore we write ,
+        <br> $( n \div 4 )  =  3 $
+        <br> $( n \div 4 ) \times 4 = 3 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Arun have '$m$' chocolate . Arun distributed chocolate among $6$ students and each student got $5$ chocolate. Select correct operation to solve for '$m$'.,$ ( m \div 6 ) \times 6 = 5 \times 6 $,,,,$ ( m \div 6 ) \div 6 = 5 \div 6 $,$ ( m - 6 ) + 6 = 5 + 6 $,$ ( m - 6 ) + 6 = 5 + 6 $,60,3,,,"
+        Arun had '$m$' chocolate which was distributed to $6$ students. Each student recieves $5$ chocolate.
+        <br>We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 6 )  =  5 $
+        <br> $( m \div 6 ) \times 6 = 5 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Sam have '$x$' mangoes . Sam distributed mangoes among $2$ students and each student got $4$ mangoes. Select correct operation to solve for '$x$'.,$ ( x \div 2 ) \times 2 = 4 \times 2 $,,,,$ ( x - 2 ) + 2 = 4 + 2 $,$ ( x + 2 ) + 2 = 4 + 2 $,$ ( x + 2 ) + 2 = 4 + 2 $,60,3,,,"
+        Sam had '$x$' mangoes which was distributed to $2$ students. Each student recieves $4$ mangoes.
+        <br>We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 2 )  =  4 $
+        <br> $( x \div 2 ) \times 2 = 4 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,30202,1,Let Sam have '$p$' mangoes . Sam distributed mangoes among $14$ students and each student got $6$ mangoes. Select correct operation to solve for '$p$'.,$ ( p \div 14 ) \times 14 = 6 \times 14 $,,,,$ ( p + 14 ) - 14 = 6 - 14 $,$ ( p \times 14 ) \times 14 = 6 \times 14 $,$ ( p \times 14 ) \times 14 = 6 \times 14 $,60,3,,,"
+        Sam had '$p$' mangoes which was distributed to $14$ students. Each student recieves $6$ mangoes.
+        <br>We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 14 )  =  6 $
+        <br> $( p \div 14 ) \times 14 = 6 \times 14$   ,by multiplying $14$ on both sides ",
+text,text,30202,1,Let Rohan have '$m$' litres of milk. Rohan fills milk in $8$ bottles of $12$ litre volume. Select correct operation to solve for '$m$'. ,$ ( m \div 8 ) \times 8 = 12 \times 8 $,,,,$ ( m \times 8 ) \div 8 = 12 \div 8 $,$ ( m \div 8 ) \div 8 = 12 \div 8 $,$ ( m \div 8 ) \div 8 = 12 \div 8 $,60,3,,,"
+        Rohan had $'m'$ litres of milk which will fill<br>  into $8$ bottles of $12$ litre volume.
+       <br>  We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 8 )  =  12 $
+        <br> $( m \div 8 ) \times 8 = 12 \times 8$   ,by multiplying $8$ on both sides ",
+text,text,30202,1,Let Rohan have '$b$' chocolate . Rohan distributed chocolate among $4$ students and each student got $2$ chocolate. Select correct operation to solve for '$b$'.,$ ( b \div 4 ) \times 4 = 2 \times 4 $,,,,$ ( b \div 4 ) \div 4 = 2 \div 4 $,$ ( b \times 4 ) \div 4 = 2 \div 4 $,$ ( b \times 4 ) \div 4 = 2 \div 4 $,60,3,,,"
+        Rohan had '$b$' chocolate which was distributed to $4$ students. Each student recieves $2$ chocolate.
+        <br>We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 4 )  =  2 $
+        <br> $( b \div 4 ) \times 4 = 2 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Rohan have '$b$' litres of sanitizer. Rohan fills sanitizer in $9$ bottles of $10$ litre volume. Select correct operation to solve for '$b$'. ,$ ( b \div 9 ) \times 9 = 10 \times 9 $,,,,$ ( b - 9 ) + 9 = 10 + 9 $,$ ( b \div 9 ) \div 9 = 10 \div 9 $,$ ( b \div 9 ) \div 9 = 10 \div 9 $,60,3,,,"
+        Rohan had $'b'$ litres of sanitizer which will fill<br>  into $9$ bottles of $10$ litre volume.
+       <br>  We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 9 )  =  10 $
+        <br> $( b \div 9 ) \times 9 = 10 \times 9$   ,by multiplying $9$ on both sides ",
+text,text,30202,1,Let Seema have '$p$' chocolate . Seema distributed chocolate among $13$ students and each student got $8$ chocolate. Select correct operation to solve for '$p$'.,$ ( p \div 13 ) \times 13 = 8 \times 13 $,,,,$ ( p + 13 ) - 13 = 8 - 13 $,$ ( p - 13 ) - 13 = 8 - 13 $,$ ( p - 13 ) - 13 = 8 - 13 $,60,3,,,"
+        Seema had '$p$' chocolate which was distributed to $13$ students. Each student recieves $8$ chocolate.
+        <br>We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 13 )  =  8 $
+        <br> $( p \div 13 ) \times 13 = 8 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,30202,1,"Let Sam have '$p$' hours time to complete $13$ tasks. If Sam decides to give equal time for each task, then each task has to done in $10$ hours. Select correct operation to solve for '$p$'.",$ ( p \div 13 ) \times 13 = 10 \times 13 $,,,,$ ( p + 13 ) + 13 = 10 + 13 $,$ ( p + 13 ) - 13 = 10 - 13 $,$ ( p + 13 ) - 13 = 10 - 13 $,60,3,,,"
+        Sam had '$p$' hours to perform $13$ tasks. Each task has to be done in  $10$ hours.
+        <br> We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 13 )  =  10 $
+        <br> $( p \div 13 ) \times 13 = 10 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,30202,1,Let Rahul have '$a$' ladoo . Rahul distributed ladoo among $3$ students and each student got $12$ ladoo. Select correct operation to solve for '$a$'.,$ ( a \div 3 ) \times 3 = 12 \times 3 $,,,,$ ( a \div 3 ) \div 3 = 12 \div 3 $,$ ( a + 3 ) + 3 = 12 + 3 $,$ ( a + 3 ) + 3 = 12 + 3 $,60,3,,,"
+        Rahul had '$a$' ladoo which was distributed to $3$ students. Each student recieves $12$ ladoo.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 3 )  =  12 $
+        <br> $( a \div 3 ) \times 3 = 12 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Sam have '$a$' litres of oil. Sam fills oil in $5$ bottles of $15$ litre volume. Select correct operation to solve for '$a$'. ,$ ( a \div 5 ) \times 5 = 15 \times 5 $,,,,$ ( a + 5 ) - 5 = 15 - 5 $,$ ( a \times 5 ) \times 5 = 15 \times 5 $,$ ( a \times 5 ) \times 5 = 15 \times 5 $,60,3,,,"
+        Sam had $'a'$ litres of oil which will fill<br>  into $5$ bottles of $15$ litre volume.
+       <br>  We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 5 )  =  15 $
+        <br> $( a \div 5 ) \times 5 = 15 \times 5$   ,by multiplying $5$ on both sides ",
+text,text,30202,1,Let Arun have '$b$' samosa . Arun distributed samosa among $2$ students and each student got $15$ samosa. Select correct operation to solve for '$b$'.,$ ( b \div 2 ) \times 2 = 15 \times 2 $,,,,$ ( b - 2 ) + 2 = 15 + 2 $,$ ( b - 2 ) - 2 = 15 - 2 $,$ ( b - 2 ) - 2 = 15 - 2 $,60,3,,,"
+        Arun had '$b$' samosa which was distributed to $2$ students. Each student recieves $15$ samosa.
+        <br>We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 2 )  =  15 $
+        <br> $( b \div 2 ) \times 2 = 15 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,30202,1,Let Rahul have '$q$' pencils . Rahul distributed pencils among $10$ students and each student got $5$ pencils. Select correct operation to solve for '$q$'.,$ ( q \div 10 ) \times 10 = 5 \times 10 $,,,,$ ( q + 10 ) - 10 = 5 - 10 $,$ ( q \div 10 ) \div 10 = 5 \div 10 $,$ ( q \div 10 ) \div 10 = 5 \div 10 $,60,3,,,"
+        Rahul had '$q$' pencils which was distributed to $10$ students. Each student recieves $5$ pencils.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 10 )  =  5 $
+        <br> $( q \div 10 ) \times 10 = 5 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Arun have '$q$' apples . Arun distributed apples among $7$ students and each student got $13$ apples. Select correct operation to solve for '$q$'.,$ ( q \div 7 ) \times 7 = 13 \times 7 $,,,,$ ( q + 7 ) + 7 = 13 + 7 $,$ ( q \div 7 ) \div 7 = 13 \div 7 $,$ ( q \div 7 ) \div 7 = 13 \div 7 $,60,3,,,"
+        Arun had '$q$' apples which was distributed to $7$ students. Each student recieves $13$ apples.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 7 )  =  13 $
+        <br> $( q \div 7 ) \times 7 = 13 \times 7$   ,by multiplying $7$ on both sides ",
+text,text,30202,1,Let Reema have '$q$' pedas . Reema distributed pedas among $3$ students and each student got $6$ pedas. Select correct operation to solve for '$q$'.,$ ( q \div 3 ) \times 3 = 6 \times 3 $,,,,$ ( q + 3 ) - 3 = 6 - 3 $,$ ( q \div 3 ) \div 3 = 6 \div 3 $,$ ( q \div 3 ) \div 3 = 6 \div 3 $,60,3,,,"
+        Reema had '$q$' pedas which was distributed to $3$ students. Each student recieves $6$ pedas.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 3 )  =  6 $
+        <br> $( q \div 3 ) \times 3 = 6 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Arun have '$b$' litres of honey. Arun fills honey in $12$ bottles of $15$ litre volume. Select correct operation to solve for '$b$'. ,$ ( b \div 12 ) \times 12 = 15 \times 12 $,,,,$ ( b + 12 ) + 12 = 15 + 12 $,$ ( b + 12 ) - 12 = 15 - 12 $,$ ( b + 12 ) - 12 = 15 - 12 $,60,3,,,"
+        Arun had $'b'$ litres of honey which will fill<br>  into $12$ bottles of $15$ litre volume.
+       <br>  We want to find '$b$'
+        
+        <br> Therefore we write ,
+        <br> $( b \div 12 )  =  15 $
+        <br> $( b \div 12 ) \times 12 = 15 \times 12$   ,by multiplying $12$ on both sides ",
+text,text,30202,1,"Let Arun have '$n$' minutes time to complete $15$ tasks. If Arun decides to give equal time for each task, then each task has to done in $14$ minutes. Select correct operation to solve for '$n$'.",$ ( n \div 15 ) \times 15 = 14 \times 15 $,,,,$ ( n + 15 ) + 15 = 14 + 15 $,$ ( n \times 15 ) \div 15 = 14 \div 15 $,$ ( n \times 15 ) \div 15 = 14 \div 15 $,60,3,,,"
+        Arun had '$n$' minutes to perform $15$ tasks. Each task has to be done in  $14$ minutes.
+        <br> We want to find '$n$'
+        
+        <br> Therefore we write ,
+        <br> $( n \div 15 )  =  14 $
+        <br> $( n \div 15 ) \times 15 = 14 \times 15$   ,by multiplying $15$ on both sides ",
+text,text,30202,1,Let Arun have '$c$' ladoo . Arun distributed ladoo among $4$ students and each student got $11$ ladoo. Select correct operation to solve for '$c$'.,$ ( c \div 4 ) \times 4 = 11 \times 4 $,,,,$ ( c - 4 ) + 4 = 11 + 4 $,$ ( c + 4 ) + 4 = 11 + 4 $,$ ( c + 4 ) + 4 = 11 + 4 $,60,3,,,"
+        Arun had '$c$' ladoo which was distributed to $4$ students. Each student recieves $11$ ladoo.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 4 )  =  11 $
+        <br> $( c \div 4 ) \times 4 = 11 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Rohan have '$x$' litres of shampoo. Rohan fills shampoo in $11$ bottles of $4$ litre volume. Select correct operation to solve for '$x$'. ,$ ( x \div 11 ) \times 11 = 4 \times 11 $,,,,$ ( x - 11 ) - 11 = 4 - 11 $,$ ( x \times 11 ) \div 11 = 4 \div 11 $,$ ( x \times 11 ) \div 11 = 4 \div 11 $,60,3,,,"
+        Rohan had $'x'$ litres of shampoo which will fill<br>  into $11$ bottles of $4$ litre volume.
+       <br>  We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 11 )  =  4 $
+        <br> $( x \div 11 ) \times 11 = 4 \times 11$   ,by multiplying $11$ on both sides ",
+text,text,30202,1,Let Rahul have '$p$' litres of juice. Rahul fills juice in $3$ bottles of $10$ litre volume. Select correct operation to solve for '$p$'. ,$ ( p \div 3 ) \times 3 = 10 \times 3 $,,,,$ ( p \times 3 ) \div 3 = 10 \div 3 $,$ ( p \div 3 ) \div 3 = 10 \div 3 $,$ ( p \div 3 ) \div 3 = 10 \div 3 $,60,3,,,"
+        Rahul had $'p'$ litres of juice which will fill<br>  into $3$ bottles of $10$ litre volume.
+       <br>  We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 3 )  =  10 $
+        <br> $( p \div 3 ) \times 3 = 10 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Reema have '$a$' pedas . Reema distributed pedas among $10$ students and each student got $4$ pedas. Select correct operation to solve for '$a$'.,$ ( a \div 10 ) \times 10 = 4 \times 10 $,,,,$ ( a + 10 ) - 10 = 4 - 10 $,$ ( a - 10 ) - 10 = 4 - 10 $,$ ( a - 10 ) - 10 = 4 - 10 $,60,3,,,"
+        Reema had '$a$' pedas which was distributed to $10$ students. Each student recieves $4$ pedas.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 10 )  =  4 $
+        <br> $( a \div 10 ) \times 10 = 4 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Reema have '$z$' litres of juice. Reema fills juice in $10$ bottles of $7$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 10 ) \times 10 = 7 \times 10 $,,,,$ ( z \times 10 ) \div 10 = 7 \div 10 $,$ ( z + 10 ) - 10 = 7 - 10 $,$ ( z + 10 ) - 10 = 7 - 10 $,60,3,,,"
+        Reema had $'z'$ litres of juice which will fill<br>  into $10$ bottles of $7$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 10 )  =  7 $
+        <br> $( z \div 10 ) \times 10 = 7 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Arun have '$a$' apples . Arun distributed apples among $6$ students and each student got $14$ apples. Select correct operation to solve for '$a$'.,$ ( a \div 6 ) \times 6 = 14 \times 6 $,,,,$ ( a - 6 ) + 6 = 14 + 6 $,$ ( a + 6 ) - 6 = 14 - 6 $,$ ( a + 6 ) - 6 = 14 - 6 $,60,3,,,"
+        Arun had '$a$' apples which was distributed to $6$ students. Each student recieves $14$ apples.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 6 )  =  14 $
+        <br> $( a \div 6 ) \times 6 = 14 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Rohan have '$p$' litres of sanitizer. Rohan fills sanitizer in $4$ bottles of $11$ litre volume. Select correct operation to solve for '$p$'. ,$ ( p \div 4 ) \times 4 = 11 \times 4 $,,,,$ ( p + 4 ) - 4 = 11 - 4 $,$ ( p - 4 ) + 4 = 11 + 4 $,$ ( p - 4 ) + 4 = 11 + 4 $,60,3,,,"
+        Rohan had $'p'$ litres of sanitizer which will fill<br>  into $4$ bottles of $11$ litre volume.
+       <br>  We want to find '$p$'
+        
+        <br> Therefore we write ,
+        <br> $( p \div 4 )  =  11 $
+        <br> $( p \div 4 ) \times 4 = 11 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Reema have '$c$' samosa . Reema distributed samosa among $6$ students and each student got $10$ samosa. Select correct operation to solve for '$c$'.,$ ( c \div 6 ) \times 6 = 10 \times 6 $,,,,$ ( c - 6 ) + 6 = 10 + 6 $,$ ( c + 6 ) - 6 = 10 - 6 $,$ ( c + 6 ) - 6 = 10 - 6 $,60,3,,,"
+        Reema had '$c$' samosa which was distributed to $6$ students. Each student recieves $10$ samosa.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 6 )  =  10 $
+        <br> $( c \div 6 ) \times 6 = 10 \times 6$   ,by multiplying $6$ on both sides ",
+text,text,30202,1,Let Reema have '$a$' ladoo . Reema distributed ladoo among $10$ students and each student got $4$ ladoo. Select correct operation to solve for '$a$'.,$ ( a \div 10 ) \times 10 = 4 \times 10 $,,,,$ ( a \div 10 ) \div 10 = 4 \div 10 $,$ ( a \times 10 ) \div 10 = 4 \div 10 $,$ ( a \times 10 ) \div 10 = 4 \div 10 $,60,3,,,"
+        Reema had '$a$' ladoo which was distributed to $10$ students. Each student recieves $4$ ladoo.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 10 )  =  4 $
+        <br> $( a \div 10 ) \times 10 = 4 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Reema have '$m$' toys . Reema distributed toys among $10$ students and each student got $2$ toys. Select correct operation to solve for '$m$'.,$ ( m \div 10 ) \times 10 = 2 \times 10 $,,,,$ ( m - 10 ) + 10 = 2 + 10 $,$ ( m + 10 ) + 10 = 2 + 10 $,$ ( m + 10 ) + 10 = 2 + 10 $,60,3,,,"
+        Reema had '$m$' toys which was distributed to $10$ students. Each student recieves $2$ toys.
+        <br>We want to find '$m$'
+        
+        <br> Therefore we write ,
+        <br> $( m \div 10 )  =  2 $
+        <br> $( m \div 10 ) \times 10 = 2 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,30202,1,Let Arun have '$a$' modak . Arun distributed modak among $4$ students and each student got $15$ modak. Select correct operation to solve for '$a$'.,$ ( a \div 4 ) \times 4 = 15 \times 4 $,,,,$ ( a + 4 ) + 4 = 15 + 4 $,$ ( a - 4 ) - 4 = 15 - 4 $,$ ( a - 4 ) - 4 = 15 - 4 $,60,3,,,"
+        Arun had '$a$' modak which was distributed to $4$ students. Each student recieves $15$ modak.
+        <br>We want to find '$a$'
+        
+        <br> Therefore we write ,
+        <br> $( a \div 4 )  =  15 $
+        <br> $( a \div 4 ) \times 4 = 15 \times 4$   ,by multiplying $4$ on both sides ",
+text,text,30202,1,Let Rohan have '$z$' litres of milk. Rohan fills milk in $3$ bottles of $10$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 3 ) \times 3 = 10 \times 3 $,,,,$ ( z + 3 ) + 3 = 10 + 3 $,$ ( z \times 3 ) \div 3 = 10 \div 3 $,$ ( z \times 3 ) \div 3 = 10 \div 3 $,60,3,,,"
+        Rohan had $'z'$ litres of milk which will fill<br>  into $3$ bottles of $10$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 3 )  =  10 $
+        <br> $( z \div 3 ) \times 3 = 10 \times 3$   ,by multiplying $3$ on both sides ",
+text,text,30202,1,Let Sam have '$y$' litres of shampoo. Sam fills shampoo in $9$ bottles of $14$ litre volume. Select correct operation to solve for '$y$'. ,$ ( y \div 9 ) \times 9 = 14 \times 9 $,,,,$ ( y + 9 ) + 9 = 14 + 9 $,$ ( y \times 9 ) \div 9 = 14 \div 9 $,$ ( y \times 9 ) \div 9 = 14 \div 9 $,60,3,,,"
+        Sam had $'y'$ litres of shampoo which will fill<br>  into $9$ bottles of $14$ litre volume.
+       <br>  We want to find '$y$'
+        
+        <br> Therefore we write ,
+        <br> $( y \div 9 )  =  14 $
+        <br> $( y \div 9 ) \times 9 = 14 \times 9$   ,by multiplying $9$ on both sides ",
+text,text,30202,1,Let Seema have '$z$' litres of honey. Seema fills honey in $6$ bottles of $9$ litre volume. Select correct operation to solve for '$z$'. ,$ ( z \div 6 ) \times 6 = 9 \times 6 $,,,,$ ( z \div 6 ) \div 6 = 9 \div 6 $,$ ( z \times 6 ) \times 6 = 9 \times 6 $,$ ( z \times 6 ) \times 6 = 9 \times 6 $,60,3,,,"
+        Seema had $'z'$ litres of honey which will fill<br>  into $6$ bottles of $9$ litre volume.
+       <br>  We want to find '$z$'
+        
+        <br> Therefore we write ,
+        <br> $( z \div 6 )  =  9 $
+        <br> $( z \div 6 ) \times 6 = 9 \times 6$   ,by multiplying $6$ on both sides ",

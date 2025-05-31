@@ -1,0 +1,501 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,3020101,1,"The sum of a cetrtain number and three is eight,represent in equation",$y+3=8$,,,,$3y=8$,$3y+3=8$,$y=3-8$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $3$ and $8$
+solution would be : $y+3=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is eight,represent in equation",$c+9=8$,,,,$9c=8$,$9c+9=8$,$c=9-8$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $9$ and $8$
+solution would be : $c+9=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is nine,represent in equation",$c+5=9$,,,,$5c=9$,$5c+5=9$,$c=5-9$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $5$ and $9$
+solution would be : $c+5=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is five,represent in equation",$c+9=5$,,,,$9c=5$,$9c+9=5$,$c=9-5$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $9$ and $5$
+solution would be : $c+9=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is twelve,represent in equation",$c+4=12$,,,,$4c=12$,$4c+4=12$,$c=4-12$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $4$ and $12$
+solution would be : $c+4=12$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is ten,represent in equation",$y+9=10$,,,,$9y=10$,$9y+9=10$,$y=9-10$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $9$ and $10$
+solution would be : $y+9=10$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is three,represent in equation",$c+4=3$,,,,$4c=3$,$4c+4=3$,$c=4-3$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $4$ and $3$
+solution would be : $c+4=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is nine,represent in equation",$x+6=9$,,,,$6x=9$,$6x+6=9$,$x=6-9$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $9$
+solution would be : $x+6=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is fifteen,represent in equation",$x+10=15$,,,,$10x=15$,$10x+10=15$,$x=10-15$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $10$ and $15$
+solution would be : $x+10=15$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is sixteen,represent in equation",$y+7=16$,,,,$7y=16$,$7y+7=16$,$y=7-16$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $7$ and $16$
+solution would be : $y+7=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is three,represent in equation",$x+6=3$,,,,$6x=3$,$6x+6=3$,$x=6-3$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $3$
+solution would be : $x+6=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eight,represent in equation",$x+5=8$,,,,$5x=8$,$5x+5=8$,$x=5-8$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $8$
+solution would be : $x+5=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is eighteen,represent in equation",$a+3=18$,,,,$3a=18$,$3a+3=18$,$a=3-18$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $3$ and $18$
+solution would be : $a+3=18$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is five,represent in equation",$x+8=5$,,,,$8x=5$,$8x+8=5$,$x=8-5$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $5$
+solution would be : $x+8=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is three,represent in equation",$c+8=3$,,,,$8c=3$,$8c+8=3$,$c=8-3$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $8$ and $3$
+solution would be : $c+8=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is nineteen,represent in equation",$b+7=19$,,,,$7b=19$,$7b+7=19$,$b=7-19$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $7$ and $19$
+solution would be : $b+7=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is thirteen,represent in equation",$x+3=13$,,,,$3x=13$,$3x+3=13$,$x=3-13$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $3$ and $13$
+solution would be : $x+3=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is seventeen,represent in equation",$y+8=17$,,,,$8y=17$,$8y+8=17$,$y=8-17$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $8$ and $17$
+solution would be : $y+8=17$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eight,represent in equation",$x+5=8$,,,,$5x=8$,$5x+5=8$,$x=5-8$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $8$
+solution would be : $x+5=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is three,represent in equation",$b+5=3$,,,,$5b=3$,$5b+5=3$,$b=5-3$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $5$ and $3$
+solution would be : $b+5=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is nineteen,represent in equation",$b+5=19$,,,,$5b=19$,$5b+5=19$,$b=5-19$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $5$ and $19$
+solution would be : $b+5=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is five,represent in equation",$b+8=5$,,,,$8b=5$,$8b+8=5$,$b=8-5$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $8$ and $5$
+solution would be : $b+8=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is eleven,represent in equation",$c+7=11$,,,,$7c=11$,$7c+7=11$,$c=7-11$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $7$ and $11$
+solution would be : $c+7=11$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is nine,represent in equation",$b+10=9$,,,,$10b=9$,$10b+10=9$,$b=10-9$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $10$ and $9$
+solution would be : $b+10=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is nineteen,represent in equation",$b+6=19$,,,,$6b=19$,$6b+6=19$,$b=6-19$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $6$ and $19$
+solution would be : $b+6=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is fourteen,represent in equation",$c+6=14$,,,,$6c=14$,$6c+6=14$,$c=6-14$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $6$ and $14$
+solution would be : $c+6=14$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is fourteen,represent in equation",$y+8=14$,,,,$8y=14$,$8y+8=14$,$y=8-14$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $8$ and $14$
+solution would be : $y+8=14$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is seventeen,represent in equation",$y+5=17$,,,,$5y=17$,$5y+5=17$,$y=5-17$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $5$ and $17$
+solution would be : $y+5=17$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is five,represent in equation",$y+3=5$,,,,$3y=5$,$3y+3=5$,$y=3-5$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $3$ and $5$
+solution would be : $y+3=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is six,represent in equation",$b+10=6$,,,,$10b=6$,$10b+10=6$,$b=10-6$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $10$ and $6$
+solution would be : $b+10=6$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is thirteen,represent in equation",$x+4=13$,,,,$4x=13$,$4x+4=13$,$x=4-13$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $13$
+solution would be : $x+4=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is four,represent in equation",$x+6=4$,,,,$6x=4$,$6x+6=4$,$x=6-4$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $4$
+solution would be : $x+6=4$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is nine,represent in equation",$x+4=9$,,,,$4x=9$,$4x+4=9$,$x=4-9$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $9$
+solution would be : $x+4=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is three,represent in equation",$a+8=3$,,,,$8a=3$,$8a+8=3$,$a=8-3$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $8$ and $3$
+solution would be : $a+8=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is six,represent in equation",$y+7=6$,,,,$7y=6$,$7y+7=6$,$y=7-6$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $7$ and $6$
+solution would be : $y+7=6$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is nineteen,represent in equation",$x+5=19$,,,,$5x=19$,$5x+5=19$,$x=5-19$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $19$
+solution would be : $x+5=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is nineteen,represent in equation",$b+10=19$,,,,$10b=19$,$10b+10=19$,$b=10-19$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $10$ and $19$
+solution would be : $b+10=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is sixteen,represent in equation",$x+3=16$,,,,$3x=16$,$3x+3=16$,$x=3-16$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $3$ and $16$
+solution would be : $x+3=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is nineteen,represent in equation",$y+8=19$,,,,$8y=19$,$8y+8=19$,$y=8-19$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $8$ and $19$
+solution would be : $y+8=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is seventeen,represent in equation",$y+4=17$,,,,$4y=17$,$4y+4=17$,$y=4-17$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $4$ and $17$
+solution would be : $y+4=17$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is sixteen,represent in equation",$a+4=16$,,,,$4a=16$,$4a+4=16$,$a=4-16$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $4$ and $16$
+solution would be : $a+4=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is ten,represent in equation",$x+5=10$,,,,$5x=10$,$5x+5=10$,$x=5-10$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $10$
+solution would be : $x+5=10$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is fourteen,represent in equation",$a+3=14$,,,,$3a=14$,$3a+3=14$,$a=3-14$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $3$ and $14$
+solution would be : $a+3=14$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is twenty,represent in equation",$x+8=20$,,,,$8x=20$,$8x+8=20$,$x=8-20$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $20$
+solution would be : $x+8=20$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is thirteen,represent in equation",$c+7=13$,,,,$7c=13$,$7c+7=13$,$c=7-13$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $7$ and $13$
+solution would be : $c+7=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is nine,represent in equation",$b+10=9$,,,,$10b=9$,$10b+10=9$,$b=10-9$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $10$ and $9$
+solution would be : $b+10=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is five,represent in equation",$b+6=5$,,,,$6b=5$,$6b+6=5$,$b=6-5$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $6$ and $5$
+solution would be : $b+6=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is twelve,represent in equation",$y+8=12$,,,,$8y=12$,$8y+8=12$,$y=8-12$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $8$ and $12$
+solution would be : $y+8=12$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is eleven,represent in equation",$y+9=11$,,,,$9y=11$,$9y+9=11$,$y=9-11$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $9$ and $11$
+solution would be : $y+9=11$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is nineteen,represent in equation",$b+7=19$,,,,$7b=19$,$7b+7=19$,$b=7-19$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $7$ and $19$
+solution would be : $b+7=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is twelve,represent in equation",$x+6=12$,,,,$6x=12$,$6x+6=12$,$x=6-12$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $12$
+solution would be : $x+6=12$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eighteen,represent in equation",$x+5=18$,,,,$5x=18$,$5x+5=18$,$x=5-18$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $18$
+solution would be : $x+5=18$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is twenty,represent in equation",$y+6=20$,,,,$6y=20$,$6y+6=20$,$y=6-20$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $6$ and $20$
+solution would be : $y+6=20$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is sixteen,represent in equation",$y+6=16$,,,,$6y=16$,$6y+6=16$,$y=6-16$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $6$ and $16$
+solution would be : $y+6=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is three,represent in equation",$x+3=3$,,,,$3x=3$,$3x+3=3$,$x=3-3$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $3$ and $3$
+solution would be : $x+3=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is nine,represent in equation",$y+9=9$,,,,$9y=9$,$9y+9=9$,$y=9-9$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $9$ and $9$
+solution would be : $y+9=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is seventeen,represent in equation",$y+3=17$,,,,$3y=17$,$3y+3=17$,$y=3-17$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $3$ and $17$
+solution would be : $y+3=17$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is four,represent in equation",$b+6=4$,,,,$6b=4$,$6b+6=4$,$b=6-4$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $6$ and $4$
+solution would be : $b+6=4$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is eight,represent in equation",$x+3=8$,,,,$3x=8$,$3x+3=8$,$x=3-8$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $3$ and $8$
+solution would be : $x+3=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is nineteen,represent in equation",$x+4=19$,,,,$4x=19$,$4x+4=19$,$x=4-19$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $19$
+solution would be : $x+4=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is nineteen,represent in equation",$c+5=19$,,,,$5c=19$,$5c+5=19$,$c=5-19$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $5$ and $19$
+solution would be : $c+5=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is ten,represent in equation",$y+8=10$,,,,$8y=10$,$8y+8=10$,$y=8-10$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $8$ and $10$
+solution would be : $y+8=10$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is four,represent in equation",$x+4=4$,,,,$4x=4$,$4x+4=4$,$x=4-4$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $4$
+solution would be : $x+4=4$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is ten,represent in equation",$y+5=10$,,,,$5y=10$,$5y+5=10$,$y=5-10$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $5$ and $10$
+solution would be : $y+5=10$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is twenty,represent in equation",$a+4=20$,,,,$4a=20$,$4a+4=20$,$a=4-20$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $4$ and $20$
+solution would be : $a+4=20$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is four,represent in equation",$x+6=4$,,,,$6x=4$,$6x+6=4$,$x=6-4$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $4$
+solution would be : $x+6=4$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is seventeen,represent in equation",$b+10=17$,,,,$10b=17$,$10b+10=17$,$b=10-17$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $10$ and $17$
+solution would be : $b+10=17$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is sixteen,represent in equation",$b+3=16$,,,,$3b=16$,$3b+3=16$,$b=3-16$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $3$ and $16$
+solution would be : $b+3=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is eight,represent in equation",$c+10=8$,,,,$10c=8$,$10c+10=8$,$c=10-8$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $10$ and $8$
+solution would be : $c+10=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is eight,represent in equation",$x+8=8$,,,,$8x=8$,$8x+8=8$,$x=8-8$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $8$
+solution would be : $x+8=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and ten is sixteen,represent in equation",$x+10=16$,,,,$10x=16$,$10x+10=16$,$x=10-16$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $10$ and $16$
+solution would be : $x+10=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is eleven,represent in equation",$x+6=11$,,,,$6x=11$,$6x+6=11$,$x=6-11$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $11$
+solution would be : $x+6=11$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is ten,represent in equation",$b+4=10$,,,,$4b=10$,$4b+4=10$,$b=4-10$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $4$ and $10$
+solution would be : $b+4=10$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is three,represent in equation",$x+4=3$,,,,$4x=3$,$4x+4=3$,$x=4-3$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $3$
+solution would be : $x+4=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is three,represent in equation",$c+8=3$,,,,$8c=3$,$8c+8=3$,$c=8-3$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $8$ and $3$
+solution would be : $c+8=3$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is thirteen,represent in equation",$x+4=13$,,,,$4x=13$,$4x+4=13$,$x=4-13$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $13$
+solution would be : $x+4=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is five,represent in equation",$y+4=5$,,,,$4y=5$,$4y+4=5$,$y=4-5$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $4$ and $5$
+solution would be : $y+4=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is five,represent in equation",$a+3=5$,,,,$3a=5$,$3a+3=5$,$a=3-5$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $3$ and $5$
+solution would be : $a+3=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eighteen,represent in equation",$a+5=18$,,,,$5a=18$,$5a+5=18$,$a=5-18$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $5$ and $18$
+solution would be : $a+5=18$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is eight,represent in equation",$x+8=8$,,,,$8x=8$,$8x+8=8$,$x=8-8$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $8$
+solution would be : $x+8=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is eight,represent in equation",$b+3=8$,,,,$3b=8$,$3b+3=8$,$b=3-8$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $3$ and $8$
+solution would be : $b+3=8$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is nine,represent in equation",$x+6=9$,,,,$6x=9$,$6x+6=9$,$x=6-9$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $9$
+solution would be : $x+6=9$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is ten,represent in equation",$a+5=10$,,,,$5a=10$,$5a+5=10$,$a=5-10$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $5$ and $10$
+solution would be : $a+5=10$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is five,represent in equation",$a+8=5$,,,,$8a=5$,$8a+8=5$,$a=8-5$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $8$ and $5$
+solution would be : $a+8=5$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is eighteen,represent in equation",$x+4=18$,,,,$4x=18$,$4x+4=18$,$x=4-18$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $4$ and $18$
+solution would be : $x+4=18$
+",
+text,1,3020101,1,"The sum of a cetrtain number and seven is twenty,represent in equation",$c+7=20$,,,,$7c=20$,$7c+7=20$,$c=7-20$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $7$ and $20$
+solution would be : $c+7=20$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eleven,represent in equation",$y+5=11$,,,,$5y=11$,$5y+5=11$,$y=5-11$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $5$ and $11$
+solution would be : $y+5=11$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eighteen,represent in equation",$x+5=18$,,,,$5x=18$,$5x+5=18$,$x=5-18$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $18$
+solution would be : $x+5=18$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is eleven,represent in equation",$a+9=11$,,,,$9a=11$,$9a+9=11$,$a=9-11$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $9$ and $11$
+solution would be : $a+9=11$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is thirteen,represent in equation",$a+3=13$,,,,$3a=13$,$3a+3=13$,$a=3-13$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $3$ and $13$
+solution would be : $a+3=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is nineteen,represent in equation",$x+8=19$,,,,$8x=19$,$8x+8=19$,$x=8-19$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $19$
+solution would be : $x+8=19$
+",
+text,1,3020101,1,"The sum of a cetrtain number and five is eleven,represent in equation",$b+5=11$,,,,$5b=11$,$5b+5=11$,$b=5-11$,60,3,,,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $5$ and $11$
+solution would be : $b+5=11$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is thirteen,represent in equation",$y+9=13$,,,,$9y=13$,$9y+9=13$,$y=9-13$,60,3,,,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $9$ and $13$
+solution would be : $y+9=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is twenty,represent in equation",$x+6=20$,,,,$6x=20$,$6x+6=20$,$x=6-20$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $20$
+solution would be : $x+6=20$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is thirteen,represent in equation",$x+6=13$,,,,$6x=13$,$6x+6=13$,$x=6-13$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $6$ and $13$
+solution would be : $x+6=13$
+",
+text,1,3020101,1,"The sum of a cetrtain number and six is sixteen,represent in equation",$a+6=16$,,,,$6a=16$,$6a+6=16$,$a=6-16$,60,3,,,"Let's say certain no. will be :$a$
+Sum means addition
+Constant terms are : $6$ and $16$
+solution would be : $a+6=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and three is twenty,represent in equation",$x+3=20$,,,,$3x=20$,$3x+3=20$,$x=3-20$,60,3,,,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $3$ and $20$
+solution would be : $x+3=20$
+",
+text,1,3020101,1,"The sum of a cetrtain number and four is sixteen,represent in equation",$c+4=16$,,,,$4c=16$,$4c+4=16$,$c=4-16$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $4$ and $16$
+solution would be : $c+4=16$
+",
+text,1,3020101,1,"The sum of a cetrtain number and nine is six,represent in equation",$c+9=6$,,,,$9c=6$,$9c+9=6$,$c=9-6$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $9$ and $6$
+solution would be : $c+9=6$
+",
+text,1,3020101,1,"The sum of a cetrtain number and eight is six,represent in equation",$c+8=6$,,,,$8c=6$,$8c+8=6$,$c=8-6$,60,3,,,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $8$ and $6$
+solution would be : $c+8=6$
+",

@@ -1,0 +1,701 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,4,30102,8,"
+ <br> $2 + 0$ and $3 - 1$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 0 = 2$
+ <br>Second expression $3 - 1 = 2$
+<br>Since both expression give same values i.e. $2$, answer is True",
+text,4,30102,8,"
+ <br> $9 * 2$ and $22 - 4$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 * 2 = 18$
+ <br>Second expression $22 - 4 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,4,30102,8,"
+ <br> $8 - 0$ and $2 + 6$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 - 0 = 8$
+ <br>Second expression $2 + 6 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,4,30102,8,"
+ <br> $0 + 25$ and $18 - 17$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 25 = 25$
+ <br>Second expression $18 - 17 = 1$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $5 * 10$ and $19 + 6$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 * 10 = 50$
+ <br>Second expression $19 + 6 = 25$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $2 - 25$ and $5 * 2$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 - 25 = -23$
+ <br>Second expression $5 * 2 = 10$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $4 * 10$ and $19 - 17$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 10 = 40$
+ <br>Second expression $19 - 17 = 2$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $12 - 0$ and $10 + 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 - 0 = 12$
+ <br>Second expression $10 + 2 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $1 * 9$ and $4 + 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 9 = 9$
+ <br>Second expression $4 + 5 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,4,30102,8,"
+ <br> $18 - 11$ and $7 * 3$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 - 11 = 7$
+ <br>Second expression $7 * 3 = 21$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $1 * 4$ and $5 - 1$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 4 = 4$
+ <br>Second expression $5 - 1 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,4,30102,8,"
+ <br> $2 * 4$ and $8 - 0$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 4 = 8$
+ <br>Second expression $8 - 0 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,4,30102,8,"
+ <br> $3 * 2$ and $21 + 12$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 2 = 6$
+ <br>Second expression $21 + 12 = 33$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $9 * 2$ and $23 - 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 * 2 = 18$
+ <br>Second expression $23 - 5 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,4,30102,8,"
+ <br> $10 - 24$ and $15 + 23$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 - 24 = -14$
+ <br>Second expression $15 + 23 = 38$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $16 + 0$ and $2 * 9$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 + 0 = 16$
+ <br>Second expression $2 * 9 = 18$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $2 + 18$ and $5 * 4$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 18 = 20$
+ <br>Second expression $5 * 4 = 20$
+<br>Since both expression give same values i.e. $20$, answer is True",
+text,4,30102,8,"
+ <br> $8 * 9$ and $10 + 0$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 9 = 72$
+ <br>Second expression $10 + 0 = 10$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $13 - 1$ and $7 + 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 - 1 = 12$
+ <br>Second expression $7 + 5 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $3 + 15$ and $23 - 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 15 = 18$
+ <br>Second expression $23 - 5 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,4,30102,8,"
+ <br> $20 - 11$ and $3 * 3$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 11 = 9$
+ <br>Second expression $3 * 3 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,4,30102,8,"
+ <br> $5 + 7$ and $6 * 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 + 7 = 12$
+ <br>Second expression $6 * 2 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $9 - 2$ and $2 + 15$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 2 = 7$
+ <br>Second expression $2 + 15 = 17$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $22 - 17$ and $1 * 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 17 = 5$
+ <br>Second expression $1 * 5 = 5$
+<br>Since both expression give same values i.e. $5$, answer is True",
+text,4,30102,8,"
+ <br> $3 * 5$ and $20 - 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 5 = 15$
+ <br>Second expression $20 - 5 = 15$
+<br>Since both expression give same values i.e. $15$, answer is True",
+text,4,30102,8,"
+ <br> $1 + 17$ and $23 - 4$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 17 = 18$
+ <br>Second expression $23 - 4 = 19$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $9 * 1$ and $11 + 3$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 * 1 = 9$
+ <br>Second expression $11 + 3 = 14$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $1 + 19$ and $3 * 3$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 19 = 20$
+ <br>Second expression $3 * 3 = 9$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $22 - 4$ and $3 + 15$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 4 = 18$
+ <br>Second expression $3 + 15 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,4,30102,8,"
+ <br> $2 + 8$ and $2 * 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 8 = 10$
+ <br>Second expression $2 * 5 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,4,30102,8,"
+ <br> $1 * 2$ and $24 + 13$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 2 = 2$
+ <br>Second expression $24 + 13 = 37$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $21 - 12$ and $3 * 3$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $21 - 12 = 9$
+ <br>Second expression $3 * 3 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,4,30102,8,"
+ <br> $0 + 6$ and $18 - 12$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 6 = 6$
+ <br>Second expression $18 - 12 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,4,30102,8,"
+ <br> $2 + 22$ and $3 * 8$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 22 = 24$
+ <br>Second expression $3 * 8 = 24$
+<br>Since both expression give same values i.e. $24$, answer is True",
+text,4,30102,8,"
+ <br> $3 + 5$ and $5 * 4$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 5 = 8$
+ <br>Second expression $5 * 4 = 20$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $23 - 14$ and $4 + 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 - 14 = 9$
+ <br>Second expression $4 + 5 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,4,30102,8,"
+ <br> $7 * 6$ and $18 - 25$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 6 = 42$
+ <br>Second expression $18 - 25 = -7$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $2 * 6$ and $4 + 8$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 6 = 12$
+ <br>Second expression $4 + 8 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $1 * 2$ and $14 - 19$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 2 = 2$
+ <br>Second expression $14 - 19 = -5$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $6 + 9$ and $10 * 6$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 9 = 15$
+ <br>Second expression $10 * 6 = 60$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $9 * 7$ and $20 + 8$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 * 7 = 63$
+ <br>Second expression $20 + 8 = 28$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $20 - 25$ and $21 + 6$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 25 = -5$
+ <br>Second expression $21 + 6 = 27$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $7 * 5$ and $9 + 16$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 5 = 35$
+ <br>Second expression $9 + 16 = 25$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $2 * 2$ and $15 - 11$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 2 = 4$
+ <br>Second expression $15 - 11 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,4,30102,8,"
+ <br> $2 * 6$ and $18 - 6$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 6 = 12$
+ <br>Second expression $18 - 6 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $8 - 18$ and $5 * 6$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 - 18 = -10$
+ <br>Second expression $5 * 6 = 30$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $0 + 7$ and $4 * 7$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 7 = 7$
+ <br>Second expression $4 * 7 = 28$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $3 - 14$ and $4 + 20$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 - 14 = -11$
+ <br>Second expression $4 + 20 = 24$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $1 * 5$ and $23 + 21$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 5 = 5$
+ <br>Second expression $23 + 21 = 44$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $21 - 2$ and $18 + 2$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $21 - 2 = 19$
+ <br>Second expression $18 + 2 = 20$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $9 - 10$ and $9 * 6$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 10 = -1$
+ <br>Second expression $9 * 6 = 54$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $24 + 21$ and $2 - 7$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $24 + 21 = 45$
+ <br>Second expression $2 - 7 = -5$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $2 * 5$ and $13 - 3$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 5 = 10$
+ <br>Second expression $13 - 3 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,4,30102,8,"
+ <br> $0 + 14$ and $14 - 13$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 14 = 14$
+ <br>Second expression $14 - 13 = 1$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $18 - 2$ and $4 + 12$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 - 2 = 16$
+ <br>Second expression $4 + 12 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,4,30102,8,"
+ <br> $6 * 8$ and $7 - 3$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 8 = 48$
+ <br>Second expression $7 - 3 = 4$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $4 - 0$ and $1 + 3$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 - 0 = 4$
+ <br>Second expression $1 + 3 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,4,30102,8,"
+ <br> $1 + 7$ and $4 * 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 7 = 8$
+ <br>Second expression $4 * 2 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,4,30102,8,"
+ <br> $16 + 10$ and $10 * 4$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 + 10 = 26$
+ <br>Second expression $10 * 4 = 40$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $12 + 5$ and $0 - 2$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 + 5 = 17$
+ <br>Second expression $0 - 2 = -2$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $22 + 9$ and $7 - 18$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 + 9 = 31$
+ <br>Second expression $7 - 18 = -11$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $8 + 2$ and $1 * 10$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 2 = 10$
+ <br>Second expression $1 * 10 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,4,30102,8,"
+ <br> $23 - 17$ and $4 + 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 - 17 = 6$
+ <br>Second expression $4 + 2 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,4,30102,8,"
+ <br> $23 + 13$ and $21 - 6$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 + 13 = 36$
+ <br>Second expression $21 - 6 = 15$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $13 + 3$ and $8 * 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 + 3 = 16$
+ <br>Second expression $8 * 2 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,4,30102,8,"
+ <br> $0 + 6$ and $24 - 11$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 6 = 6$
+ <br>Second expression $24 - 11 = 13$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $9 - 4$ and $1 * 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 4 = 5$
+ <br>Second expression $1 * 5 = 5$
+<br>Since both expression give same values i.e. $5$, answer is True",
+text,4,30102,8,"
+ <br> $16 - 6$ and $2 * 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 - 6 = 10$
+ <br>Second expression $2 * 5 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,4,30102,8,"
+ <br> $6 + 7$ and $22 - 7$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 7 = 13$
+ <br>Second expression $22 - 7 = 15$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $1 * 3$ and $1 + 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 3 = 3$
+ <br>Second expression $1 + 2 = 3$
+<br>Since both expression give same values i.e. $3$, answer is True",
+text,4,30102,8,"
+ <br> $6 * 7$ and $0 - 18$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 7 = 42$
+ <br>Second expression $0 - 18 = -18$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $5 - 22$ and $23 + 14$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 - 22 = -17$
+ <br>Second expression $23 + 14 = 37$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $2 * 9$ and $1 + 17$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 9 = 18$
+ <br>Second expression $1 + 17 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,4,30102,8,"
+ <br> $14 - 25$ and $2 + 19$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $14 - 25 = -11$
+ <br>Second expression $2 + 19 = 21$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $3 * 3$ and $15 - 6$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 3 = 9$
+ <br>Second expression $15 - 6 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,4,30102,8,"
+ <br> $14 - 10$ and $2 + 2$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $14 - 10 = 4$
+ <br>Second expression $2 + 2 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,4,30102,8,"
+ <br> $11 - 1$ and $1 + 9$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 - 1 = 10$
+ <br>Second expression $1 + 9 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,4,30102,8,"
+ <br> $4 * 8$ and $7 + 0$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 8 = 32$
+ <br>Second expression $7 + 0 = 7$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $9 + 13$ and $19 - 24$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 + 13 = 22$
+ <br>Second expression $19 - 24 = -5$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $3 + 17$ and $2 * 10$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 17 = 20$
+ <br>Second expression $2 * 10 = 20$
+<br>Since both expression give same values i.e. $20$, answer is True",
+text,4,30102,8,"
+ <br> $5 * 9$ and $14 + 12$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 * 9 = 45$
+ <br>Second expression $14 + 12 = 26$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $22 - 16$ and $1 + 5$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 16 = 6$
+ <br>Second expression $1 + 5 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,4,30102,8,"
+ <br> $3 * 1$ and $0 + 3$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 1 = 3$
+ <br>Second expression $0 + 3 = 3$
+<br>Since both expression give same values i.e. $3$, answer is True",
+text,4,30102,8,"
+ <br> $2 * 3$ and $8 - 7$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 3 = 6$
+ <br>Second expression $8 - 7 = 1$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $20 + 17$ and $16 - 11$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 + 17 = 37$
+ <br>Second expression $16 - 11 = 5$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $6 + 1$ and $5 * 8$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 1 = 7$
+ <br>Second expression $5 * 8 = 40$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $22 - 0$ and $4 * 2$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 0 = 22$
+ <br>Second expression $4 * 2 = 8$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $3 * 2$ and $10 - 7$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 2 = 6$
+ <br>Second expression $10 - 7 = 3$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $3 * 5$ and $14 + 9$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 5 = 15$
+ <br>Second expression $14 + 9 = 23$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $3 * 4$ and $12 + 0$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 4 = 12$
+ <br>Second expression $12 + 0 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $10 * 1$ and $1 - 1$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 1 = 10$
+ <br>Second expression $1 - 1 = 0$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $24 - 10$ and $13 + 1$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $24 - 10 = 14$
+ <br>Second expression $13 + 1 = 14$
+<br>Since both expression give same values i.e. $14$, answer is True",
+text,4,30102,8,"
+ <br> $17 - 7$ and $10 * 1$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $17 - 7 = 10$
+ <br>Second expression $10 * 1 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,4,30102,8,"
+ <br> $22 - 13$ and $5 + 4$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 13 = 9$
+ <br>Second expression $5 + 4 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,4,30102,8,"
+ <br> $16 - 14$ and $2 * 1$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 - 14 = 2$
+ <br>Second expression $2 * 1 = 2$
+<br>Since both expression give same values i.e. $2$, answer is True",
+text,4,30102,8,"
+ <br> $6 * 2$ and $13 - 1$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 2 = 12$
+ <br>Second expression $13 - 1 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,4,30102,8,"
+ <br> $3 + 1$ and $1 * 4$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 1 = 4$
+ <br>Second expression $1 * 4 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,4,30102,8,"
+ <br> $3 + 10$ and $8 - 1$, do they represent two sides of an equation ?",False,,,,True,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 10 = 13$
+ <br>Second expression $8 - 1 = 7$
+<br>Since both expressions give different values, the answer is False",
+text,4,30102,8,"
+ <br> $6 + 15$ and $25 - 4$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 15 = 21$
+ <br>Second expression $25 - 4 = 21$
+<br>Since both expression give same values i.e. $21$, answer is True",
+text,4,30102,8,"
+ <br> $2 * 9$ and $18 + 0$, do they represent two sides of an equation ?",True,,,,False,,,60,3,,,"<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 9 = 18$
+ <br>Second expression $18 + 0 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",

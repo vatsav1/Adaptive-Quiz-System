@@ -1,0 +1,1301 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,3,"Isha and Soham have a total of 92 pencils.If Isha has 12pencilsless than Soham, how many pencils does each one have?
+",Soham has 52 pencils and Isha has 40 pencils,,,,Soham has 27 pencils and Isha has 65 pencils,Soham has 50 pencils and Isha has 38 pencils,Soham has 40 pencils and Isha has 52 pencils,60,3,,,"let Soham has $x$ pencils.
+    <br/>Since, Isha has $12$ less pencils than Soham
+        <br/>Therefore, Isha will have $x$-$12$ pencils.
+    <br/>Since, Soham and Isha have a total of 92 pencils    
+        <br/>=> $x+(x-12)=92$  
+        <br/>=> $x+x-12=92$    
+        <br/>=> $2x-12=92$<br/>=> $2x=92+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{104}{2}$
+<br/>=> $x=52$
+<br/>=> $x-12=52-12=40$
+<br/>Hence, Soham has $52$ pencils and Isha has $40$ pencils ",
+text,1,30203,3,"Rahul and Shivani have a total of 54 sheets.If Shivani has 14sheetsless than Rahul, how many sheets does each one have?
+",Rahul has 34 sheets and Shivani has 20 sheets,,,,Rahul has 31 sheets and Shivani has 23 sheets,Rahul has 28 sheets and Shivani has 14 sheets,Rahul has 20 sheets and Shivani has 34 sheets,60,3,,,"let Rahul has $x$ sheets.
+    <br/>Since, Shivani has $14$ less sheets than Rahul
+        <br/>Therefore, Shivani will have $x$-$14$ sheets.
+    <br/>Since, Rahul and Shivani have a total of 54 sheets    
+        <br/>=> $x+(x-14)=54$  
+        <br/>=> $x+x-14=54$    
+        <br/>=> $2x-14=54$<br/>=> $2x=54+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{68}{2}$
+<br/>=> $x=34$
+<br/>=> $x-14=34-14=20$
+<br/>Hence, Rahul has $34$ sheets and Shivani has $20$ sheets ",
+text,1,30203,3,"Anmol and Utkarsh have a total of 70 books.If Anmol has 18booksless than Utkarsh, how many books does each one have?
+",Utkarsh has 44 books and Anmol has 26 books,,,,Utkarsh has 37 books and Anmol has 33 books,Utkarsh has 24 books and Anmol has 6 books,Utkarsh has 26 books and Anmol has 44 books,60,3,,,"let Utkarsh has $x$ books.
+    <br/>Since, Anmol has $18$ less books than Utkarsh
+        <br/>Therefore, Anmol will have $x$-$18$ books.
+    <br/>Since, Utkarsh and Anmol have a total of 70 books    
+        <br/>=> $x+(x-18)=70$  
+        <br/>=> $x+x-18=70$    
+        <br/>=> $2x-18=70$<br/>=> $2x=70+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{88}{2}$
+<br/>=> $x=44$
+<br/>=> $x-18=44-18=26$
+<br/>Hence, Utkarsh has $44$ books and Anmol has $26$ books ",
+text,1,30203,3,"Dhriti and Ninad have a total of 60 books.If Ninad has 16booksless than Dhriti, how many books does each one have?
+",Dhriti has 38 books and Ninad has 22 books,,,,Dhriti has 26 books and Ninad has 34 books,Dhriti has 44 books and Ninad has 28 books,Dhriti has 22 books and Ninad has 38 books,60,3,,,"let Dhriti has $x$ books.
+    <br/>Since, Ninad has $16$ less books than Dhriti
+        <br/>Therefore, Ninad will have $x$-$16$ books.
+    <br/>Since, Dhriti and Ninad have a total of 60 books    
+        <br/>=> $x+(x-16)=60$  
+        <br/>=> $x+x-16=60$    
+        <br/>=> $2x-16=60$<br/>=> $2x=60+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-16=38-16=22$
+<br/>Hence, Dhriti has $38$ books and Ninad has $22$ books ",
+text,1,30203,3,"Om and Prathamesh have a total of 62 toys.If Om has 14toysless than Prathamesh, how many toys does each one have?
+",Prathamesh has 38 toys and Om has 24 toys,,,,Prathamesh has 39 toys and Om has 23 toys,Prathamesh has 42 toys and Om has 28 toys,Prathamesh has 24 toys and Om has 38 toys,60,3,,,"let Prathamesh has $x$ toys.
+    <br/>Since, Om has $14$ less toys than Prathamesh
+        <br/>Therefore, Om will have $x$-$14$ toys.
+    <br/>Since, Prathamesh and Om have a total of 62 toys    
+        <br/>=> $x+(x-14)=62$  
+        <br/>=> $x+x-14=62$    
+        <br/>=> $2x-14=62$<br/>=> $2x=62+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-14=38-14=24$
+<br/>Hence, Prathamesh has $38$ toys and Om has $24$ toys ",
+text,1,30203,3,"Tejas and Atharva have a total of 76 Apples.If Tejas has 20Applesless than Atharva, how many Apples does each one have?
+",Atharva has 48 Apples and Tejas has 28 Apples,,,,Atharva has 36 Apples and Tejas has 40 Apples,Atharva has 49 Apples and Tejas has 29 Apples,Atharva has 28 Apples and Tejas has 48 Apples,60,3,,,"let Atharva has $x$ Apples.
+    <br/>Since, Tejas has $20$ less Apples than Atharva
+        <br/>Therefore, Tejas will have $x$-$20$ Apples.
+    <br/>Since, Atharva and Tejas have a total of 76 Apples    
+        <br/>=> $x+(x-20)=76$  
+        <br/>=> $x+x-20=76$    
+        <br/>=> $2x-20=76$<br/>=> $2x=76+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{96}{2}$
+<br/>=> $x=48$
+<br/>=> $x-20=48-20=28$
+<br/>Hence, Atharva has $48$ Apples and Tejas has $28$ Apples ",
+text,1,30203,3,"Mihir and Gayatri have a total of 78 Jackets.If Gayatri has 4Jacketsless than Mihir, how many Jackets does each one have?
+",Mihir has 41 Jackets and Gayatri has 37 Jackets,,,,Mihir has 36 Jackets and Gayatri has 42 Jackets,Mihir has 28 Jackets and Gayatri has 24 Jackets,Mihir has 37 Jackets and Gayatri has 41 Jackets,60,3,,,"let Mihir has $x$ Jackets.
+    <br/>Since, Gayatri has $4$ less Jackets than Mihir
+        <br/>Therefore, Gayatri will have $x$-$4$ Jackets.
+    <br/>Since, Mihir and Gayatri have a total of 78 Jackets    
+        <br/>=> $x+(x-4)=78$  
+        <br/>=> $x+x-4=78$    
+        <br/>=> $2x-4=78$<br/>=> $2x=78+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-4=41-4=37$
+<br/>Hence, Mihir has $41$ Jackets and Gayatri has $37$ Jackets ",
+text,1,30203,3,"Maithili and Smital have a total of 50 pants.If Smital has 20pantsless than Maithili, how many pants does each one have?
+",Maithili has 35 pants and Smital has 15 pants,,,,Maithili has 36 pants and Smital has 14 pants,Maithili has 43 pants and Smital has 23 pants,Maithili has 15 pants and Smital has 35 pants,60,3,,,"let Maithili has $x$ pants.
+    <br/>Since, Smital has $20$ less pants than Maithili
+        <br/>Therefore, Smital will have $x$-$20$ pants.
+    <br/>Since, Maithili and Smital have a total of 50 pants    
+        <br/>=> $x+(x-20)=50$  
+        <br/>=> $x+x-20=50$    
+        <br/>=> $2x-20=50$<br/>=> $2x=50+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{70}{2}$
+<br/>=> $x=35$
+<br/>=> $x-20=35-20=15$
+<br/>Hence, Maithili has $35$ pants and Smital has $15$ pants ",
+text,1,30203,3,"Ishika and Soham have a total of 98 Apples.If Soham has 6Applesless than Ishika, how many Apples does each one have?
+",Ishika has 52 Apples and Soham has 46 Apples,,,,Ishika has 31 Apples and Soham has 67 Apples,Ishika has 26 Apples and Soham has 20 Apples,Ishika has 46 Apples and Soham has 52 Apples,60,3,,,"let Ishika has $x$ Apples.
+    <br/>Since, Soham has $6$ less Apples than Ishika
+        <br/>Therefore, Soham will have $x$-$6$ Apples.
+    <br/>Since, Ishika and Soham have a total of 98 Apples    
+        <br/>=> $x+(x-6)=98$  
+        <br/>=> $x+x-6=98$    
+        <br/>=> $2x-6=98$<br/>=> $2x=98+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{104}{2}$
+<br/>=> $x=52$
+<br/>=> $x-6=52-6=46$
+<br/>Hence, Ishika has $52$ Apples and Soham has $46$ Apples ",
+text,1,30203,3,"Gauravi and Anuja have a total of 100 Cookies.If Gauravi has 10Cookiesless than Anuja, how many Cookies does each one have?
+",Anuja has 55 Cookies and Gauravi has 45 Cookies,,,,Anuja has 35 Cookies and Gauravi has 65 Cookies,Anuja has 35 Cookies and Gauravi has 25 Cookies,Anuja has 45 Cookies and Gauravi has 55 Cookies,60,3,,,"let Anuja has $x$ Cookies.
+    <br/>Since, Gauravi has $10$ less Cookies than Anuja
+        <br/>Therefore, Gauravi will have $x$-$10$ Cookies.
+    <br/>Since, Anuja and Gauravi have a total of 100 Cookies    
+        <br/>=> $x+(x-10)=100$  
+        <br/>=> $x+x-10=100$    
+        <br/>=> $2x-10=100$<br/>=> $2x=100+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{110}{2}$
+<br/>=> $x=55$
+<br/>=> $x-10=55-10=45$
+<br/>Hence, Anuja has $55$ Cookies and Gauravi has $45$ Cookies ",
+text,1,30203,3,"Yash and Rohit have a total of 56 candies.If Yash has 6candiesless than Rohit, how many candies does each one have?
+",Rohit has 31 candies and Yash has 25 candies,,,,Rohit has 36 candies and Yash has 20 candies,Rohit has 40 candies and Yash has 34 candies,Rohit has 25 candies and Yash has 31 candies,60,3,,,"let Rohit has $x$ candies.
+    <br/>Since, Yash has $6$ less candies than Rohit
+        <br/>Therefore, Yash will have $x$-$6$ candies.
+    <br/>Since, Rohit and Yash have a total of 56 candies    
+        <br/>=> $x+(x-6)=56$  
+        <br/>=> $x+x-6=56$    
+        <br/>=> $2x-6=56$<br/>=> $2x=56+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{62}{2}$
+<br/>=> $x=31$
+<br/>=> $x-6=31-6=25$
+<br/>Hence, Rohit has $31$ candies and Yash has $25$ candies ",
+text,1,30203,3,"Yuti and Aarav have a total of 90 shirts.If Aarav has 8shirtsless than Yuti, how many shirts does each one have?
+",Yuti has 49 shirts and Aarav has 41 shirts,,,,Yuti has 25 shirts and Aarav has 65 shirts,Yuti has 35 shirts and Aarav has 27 shirts,Yuti has 41 shirts and Aarav has 49 shirts,60,3,,,"let Yuti has $x$ shirts.
+    <br/>Since, Aarav has $8$ less shirts than Yuti
+        <br/>Therefore, Aarav will have $x$-$8$ shirts.
+    <br/>Since, Yuti and Aarav have a total of 90 shirts    
+        <br/>=> $x+(x-8)=90$  
+        <br/>=> $x+x-8=90$    
+        <br/>=> $2x-8=90$<br/>=> $2x=90+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-8=49-8=41$
+<br/>Hence, Yuti has $49$ shirts and Aarav has $41$ shirts ",
+text,1,30203,3,"Abhijeet and Aniket have a total of 94 T-shirts.If Aniket has 4T-shirtsless than Abhijeet, how many T-shirts does each one have?
+",Abhijeet has 49 T-shirts and Aniket has 45 T-shirts,,,,Abhijeet has 38 T-shirts and Aniket has 56 T-shirts,Abhijeet has 38 T-shirts and Aniket has 34 T-shirts,Abhijeet has 45 T-shirts and Aniket has 49 T-shirts,60,3,,,"let Abhijeet has $x$ T-shirts.
+    <br/>Since, Aniket has $4$ less T-shirts than Abhijeet
+        <br/>Therefore, Aniket will have $x$-$4$ T-shirts.
+    <br/>Since, Abhijeet and Aniket have a total of 94 T-shirts    
+        <br/>=> $x+(x-4)=94$  
+        <br/>=> $x+x-4=94$    
+        <br/>=> $2x-4=94$<br/>=> $2x=94+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-4=49-4=45$
+<br/>Hence, Abhijeet has $49$ T-shirts and Aniket has $45$ T-shirts ",
+text,1,30203,3,"Vaishnavi and Pranali have a total of 48 books.If Vaishnavi has 2booksless than Pranali, how many books does each one have?
+",Pranali has 25 books and Vaishnavi has 23 books,,,,Pranali has 40 books and Vaishnavi has 8 books,Pranali has 32 books and Vaishnavi has 30 books,Pranali has 23 books and Vaishnavi has 25 books,60,3,,,"let Pranali has $x$ books.
+    <br/>Since, Vaishnavi has $2$ less books than Pranali
+        <br/>Therefore, Vaishnavi will have $x$-$2$ books.
+    <br/>Since, Pranali and Vaishnavi have a total of 48 books    
+        <br/>=> $x+(x-2)=48$  
+        <br/>=> $x+x-2=48$    
+        <br/>=> $2x-2=48$<br/>=> $2x=48+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{50}{2}$
+<br/>=> $x=25$
+<br/>=> $x-2=25-2=23$
+<br/>Hence, Pranali has $25$ books and Vaishnavi has $23$ books ",
+text,1,30203,3,"Kalyani and Tushar have a total of 66 shirts.If Kalyani has 18shirtsless than Tushar, how many shirts does each one have?
+",Tushar has 42 shirts and Kalyani has 24 shirts,,,,Tushar has 40 shirts and Kalyani has 26 shirts,Tushar has 31 shirts and Kalyani has 13 shirts,Tushar has 24 shirts and Kalyani has 42 shirts,60,3,,,"let Tushar has $x$ shirts.
+    <br/>Since, Kalyani has $18$ less shirts than Tushar
+        <br/>Therefore, Kalyani will have $x$-$18$ shirts.
+    <br/>Since, Tushar and Kalyani have a total of 66 shirts    
+        <br/>=> $x+(x-18)=66$  
+        <br/>=> $x+x-18=66$    
+        <br/>=> $2x-18=66$<br/>=> $2x=66+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{84}{2}$
+<br/>=> $x=42$
+<br/>=> $x-18=42-18=24$
+<br/>Hence, Tushar has $42$ shirts and Kalyani has $24$ shirts ",
+text,1,30203,3,"Aabha and Aniket have a total of 64 Apples.If Aniket has 18Applesless than Aabha, how many Apples does each one have?
+",Aabha has 41 Apples and Aniket has 23 Apples,,,,Aabha has 35 Apples and Aniket has 29 Apples,Aabha has 30 Apples and Aniket has 12 Apples,Aabha has 23 Apples and Aniket has 41 Apples,60,3,,,"let Aabha has $x$ Apples.
+    <br/>Since, Aniket has $18$ less Apples than Aabha
+        <br/>Therefore, Aniket will have $x$-$18$ Apples.
+    <br/>Since, Aabha and Aniket have a total of 64 Apples    
+        <br/>=> $x+(x-18)=64$  
+        <br/>=> $x+x-18=64$    
+        <br/>=> $2x-18=64$<br/>=> $2x=64+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-18=41-18=23$
+<br/>Hence, Aabha has $41$ Apples and Aniket has $23$ Apples ",
+text,1,30203,3,"Tushar and Prathamesh have a total of 74 toys.If Tushar has 4toysless than Prathamesh, how many toys does each one have?
+",Prathamesh has 39 toys and Tushar has 35 toys,,,,Prathamesh has 38 toys and Tushar has 36 toys,Prathamesh has 49 toys and Tushar has 45 toys,Prathamesh has 35 toys and Tushar has 39 toys,60,3,,,"let Prathamesh has $x$ toys.
+    <br/>Since, Tushar has $4$ less toys than Prathamesh
+        <br/>Therefore, Tushar will have $x$-$4$ toys.
+    <br/>Since, Prathamesh and Tushar have a total of 74 toys    
+        <br/>=> $x+(x-4)=74$  
+        <br/>=> $x+x-4=74$    
+        <br/>=> $2x-4=74$<br/>=> $2x=74+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-4=39-4=35$
+<br/>Hence, Prathamesh has $39$ toys and Tushar has $35$ toys ",
+text,1,30203,3,"Gopal and Gagan have a total of 62 pens.If Gagan has 16pensless than Gopal, how many pens does each one have?
+",Gopal has 39 pens and Gagan has 23 pens,,,,Gopal has 31 pens and Gagan has 31 pens,Gopal has 48 pens and Gagan has 32 pens,Gopal has 23 pens and Gagan has 39 pens,60,3,,,"let Gopal has $x$ pens.
+    <br/>Since, Gagan has $16$ less pens than Gopal
+        <br/>Therefore, Gagan will have $x$-$16$ pens.
+    <br/>Since, Gopal and Gagan have a total of 62 pens    
+        <br/>=> $x+(x-16)=62$  
+        <br/>=> $x+x-16=62$    
+        <br/>=> $2x-16=62$<br/>=> $2x=62+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-16=39-16=23$
+<br/>Hence, Gopal has $39$ pens and Gagan has $23$ pens ",
+text,1,30203,3,"Pranali and Tejas have a total of 58 candies.If Pranali has 18candiesless than Tejas, how many candies does each one have?
+",Tejas has 38 candies and Pranali has 20 candies,,,,Tejas has 33 candies and Pranali has 25 candies,Tejas has 44 candies and Pranali has 26 candies,Tejas has 20 candies and Pranali has 38 candies,60,3,,,"let Tejas has $x$ candies.
+    <br/>Since, Pranali has $18$ less candies than Tejas
+        <br/>Therefore, Pranali will have $x$-$18$ candies.
+    <br/>Since, Tejas and Pranali have a total of 58 candies    
+        <br/>=> $x+(x-18)=58$  
+        <br/>=> $x+x-18=58$    
+        <br/>=> $2x-18=58$<br/>=> $2x=58+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-18=38-18=20$
+<br/>Hence, Tejas has $38$ candies and Pranali has $20$ candies ",
+text,1,30203,3,"Aboli and Isha have a total of 54 chocolates.If Isha has 4chocolatesless than Aboli, how many chocolates does each one have?
+",Aboli has 29 chocolates and Isha has 25 chocolates,,,,Aboli has 33 chocolates and Isha has 21 chocolates,Aboli has 22 chocolates and Isha has 18 chocolates,Aboli has 25 chocolates and Isha has 29 chocolates,60,3,,,"let Aboli has $x$ chocolates.
+    <br/>Since, Isha has $4$ less chocolates than Aboli
+        <br/>Therefore, Isha will have $x$-$4$ chocolates.
+    <br/>Since, Aboli and Isha have a total of 54 chocolates    
+        <br/>=> $x+(x-4)=54$  
+        <br/>=> $x+x-4=54$    
+        <br/>=> $2x-4=54$<br/>=> $2x=54+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{58}{2}$
+<br/>=> $x=29$
+<br/>=> $x-4=29-4=25$
+<br/>Hence, Aboli has $29$ chocolates and Isha has $25$ chocolates ",
+text,1,30203,3,"Tanmay and Ishika have a total of 52 shirts.If Ishika has 6shirtsless than Tanmay, how many shirts does each one have?
+",Tanmay has 29 shirts and Ishika has 23 shirts,,,,Tanmay has 40 shirts and Ishika has 12 shirts,Tanmay has 25 shirts and Ishika has 19 shirts,Tanmay has 23 shirts and Ishika has 29 shirts,60,3,,,"let Tanmay has $x$ shirts.
+    <br/>Since, Ishika has $6$ less shirts than Tanmay
+        <br/>Therefore, Ishika will have $x$-$6$ shirts.
+    <br/>Since, Tanmay and Ishika have a total of 52 shirts    
+        <br/>=> $x+(x-6)=52$  
+        <br/>=> $x+x-6=52$    
+        <br/>=> $2x-6=52$<br/>=> $2x=52+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{58}{2}$
+<br/>=> $x=29$
+<br/>=> $x-6=29-6=23$
+<br/>Hence, Tanmay has $29$ shirts and Ishika has $23$ shirts ",
+text,1,30203,3,"Aadesh and Vaibhav have a total of 72 books.If Vaibhav has 12booksless than Aadesh, how many books does each one have?
+",Aadesh has 42 books and Vaibhav has 30 books,,,,Aadesh has 34 books and Vaibhav has 38 books,Aadesh has 35 books and Vaibhav has 23 books,Aadesh has 30 books and Vaibhav has 42 books,60,3,,,"let Aadesh has $x$ books.
+    <br/>Since, Vaibhav has $12$ less books than Aadesh
+        <br/>Therefore, Vaibhav will have $x$-$12$ books.
+    <br/>Since, Aadesh and Vaibhav have a total of 72 books    
+        <br/>=> $x+(x-12)=72$  
+        <br/>=> $x+x-12=72$    
+        <br/>=> $2x-12=72$<br/>=> $2x=72+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{84}{2}$
+<br/>=> $x=42$
+<br/>=> $x-12=42-12=30$
+<br/>Hence, Aadesh has $42$ books and Vaibhav has $30$ books ",
+text,1,30203,3,"Sanket and Aditi have a total of 74 Cookies.If Aditi has 18Cookiesless than Sanket, how many Cookies does each one have?
+",Sanket has 46 Cookies and Aditi has 28 Cookies,,,,Sanket has 26 Cookies and Aditi has 48 Cookies,Sanket has 32 Cookies and Aditi has 14 Cookies,Sanket has 28 Cookies and Aditi has 46 Cookies,60,3,,,"let Sanket has $x$ Cookies.
+    <br/>Since, Aditi has $18$ less Cookies than Sanket
+        <br/>Therefore, Aditi will have $x$-$18$ Cookies.
+    <br/>Since, Sanket and Aditi have a total of 74 Cookies    
+        <br/>=> $x+(x-18)=74$  
+        <br/>=> $x+x-18=74$    
+        <br/>=> $2x-18=74$<br/>=> $2x=74+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{92}{2}$
+<br/>=> $x=46$
+<br/>=> $x-18=46-18=28$
+<br/>Hence, Sanket has $46$ Cookies and Aditi has $28$ Cookies ",
+text,1,30203,3,"Shruti and Vaibhav have a total of 80 pens.If Shruti has 8pensless than Vaibhav, how many pens does each one have?
+",Vaibhav has 44 pens and Shruti has 36 pens,,,,Vaibhav has 33 pens and Shruti has 47 pens,Vaibhav has 50 pens and Shruti has 42 pens,Vaibhav has 36 pens and Shruti has 44 pens,60,3,,,"let Vaibhav has $x$ pens.
+    <br/>Since, Shruti has $8$ less pens than Vaibhav
+        <br/>Therefore, Shruti will have $x$-$8$ pens.
+    <br/>Since, Vaibhav and Shruti have a total of 80 pens    
+        <br/>=> $x+(x-8)=80$  
+        <br/>=> $x+x-8=80$    
+        <br/>=> $2x-8=80$<br/>=> $2x=80+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{88}{2}$
+<br/>=> $x=44$
+<br/>=> $x-8=44-8=36$
+<br/>Hence, Vaibhav has $44$ pens and Shruti has $36$ pens ",
+text,1,30203,3,"Shruti and Shivani have a total of 82 shirts.If Shivani has 16shirtsless than Shruti, how many shirts does each one have?
+",Shruti has 49 shirts and Shivani has 33 shirts,,,,Shruti has 31 shirts and Shivani has 51 shirts,Shruti has 27 shirts and Shivani has 11 shirts,Shruti has 33 shirts and Shivani has 49 shirts,60,3,,,"let Shruti has $x$ shirts.
+    <br/>Since, Shivani has $16$ less shirts than Shruti
+        <br/>Therefore, Shivani will have $x$-$16$ shirts.
+    <br/>Since, Shruti and Shivani have a total of 82 shirts    
+        <br/>=> $x+(x-16)=82$  
+        <br/>=> $x+x-16=82$    
+        <br/>=> $2x-16=82$<br/>=> $2x=82+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-16=49-16=33$
+<br/>Hence, Shruti has $49$ shirts and Shivani has $33$ shirts ",
+text,1,30203,3,"Devang and Rahul have a total of 74 chocolates.If Rahul has 4chocolatesless than Devang, how many chocolates does each one have?
+",Devang has 39 chocolates and Rahul has 35 chocolates,,,,Devang has 38 chocolates and Rahul has 36 chocolates,Devang has 37 chocolates and Rahul has 33 chocolates,Devang has 35 chocolates and Rahul has 39 chocolates,60,3,,,"let Devang has $x$ chocolates.
+    <br/>Since, Rahul has $4$ less chocolates than Devang
+        <br/>Therefore, Rahul will have $x$-$4$ chocolates.
+    <br/>Since, Devang and Rahul have a total of 74 chocolates    
+        <br/>=> $x+(x-4)=74$  
+        <br/>=> $x+x-4=74$    
+        <br/>=> $2x-4=74$<br/>=> $2x=74+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-4=39-4=35$
+<br/>Hence, Devang has $39$ chocolates and Rahul has $35$ chocolates ",
+text,1,30203,3,"Onkar and Tejas have a total of 62 Cookies.If Onkar has 2Cookiesless than Tejas, how many Cookies does each one have?
+",Tejas has 32 Cookies and Onkar has 30 Cookies,,,,Tejas has 35 Cookies and Onkar has 27 Cookies,Tejas has 46 Cookies and Onkar has 44 Cookies,Tejas has 30 Cookies and Onkar has 32 Cookies,60,3,,,"let Tejas has $x$ Cookies.
+    <br/>Since, Onkar has $2$ less Cookies than Tejas
+        <br/>Therefore, Onkar will have $x$-$2$ Cookies.
+    <br/>Since, Tejas and Onkar have a total of 62 Cookies    
+        <br/>=> $x+(x-2)=62$  
+        <br/>=> $x+x-2=62$    
+        <br/>=> $2x-2=62$<br/>=> $2x=62+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{64}{2}$
+<br/>=> $x=32$
+<br/>=> $x-2=32-2=30$
+<br/>Hence, Tejas has $32$ Cookies and Onkar has $30$ Cookies ",
+text,1,30203,3,"Akanksha and Rohit have a total of 50 books.If Akanksha has 6booksless than Rohit, how many books does each one have?
+",Rohit has 28 books and Akanksha has 22 books,,,,Rohit has 40 books and Akanksha has 10 books,Rohit has 38 books and Akanksha has 32 books,Rohit has 22 books and Akanksha has 28 books,60,3,,,"let Rohit has $x$ books.
+    <br/>Since, Akanksha has $6$ less books than Rohit
+        <br/>Therefore, Akanksha will have $x$-$6$ books.
+    <br/>Since, Rohit and Akanksha have a total of 50 books    
+        <br/>=> $x+(x-6)=50$  
+        <br/>=> $x+x-6=50$    
+        <br/>=> $2x-6=50$<br/>=> $2x=50+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{56}{2}$
+<br/>=> $x=28$
+<br/>=> $x-6=28-6=22$
+<br/>Hence, Rohit has $28$ books and Akanksha has $22$ books ",
+text,1,30203,3,"Rohit and Devang have a total of 86 candies.If Rohit has 4candiesless than Devang, how many candies does each one have?
+",Devang has 45 candies and Rohit has 41 candies,,,,Devang has 35 candies and Rohit has 51 candies,Devang has 26 candies and Rohit has 22 candies,Devang has 41 candies and Rohit has 45 candies,60,3,,,"let Devang has $x$ candies.
+    <br/>Since, Rohit has $4$ less candies than Devang
+        <br/>Therefore, Rohit will have $x$-$4$ candies.
+    <br/>Since, Devang and Rohit have a total of 86 candies    
+        <br/>=> $x+(x-4)=86$  
+        <br/>=> $x+x-4=86$    
+        <br/>=> $2x-4=86$<br/>=> $2x=86+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{90}{2}$
+<br/>=> $x=45$
+<br/>=> $x-4=45-4=41$
+<br/>Hence, Devang has $45$ candies and Rohit has $41$ candies ",
+text,1,30203,3,"Akshata and Prathamesh have a total of 72 T-shirts.If Prathamesh has 20T-shirtsless than Akshata, how many T-shirts does each one have?
+",Akshata has 46 T-shirts and Prathamesh has 26 T-shirts,,,,Akshata has 40 T-shirts and Prathamesh has 32 T-shirts,Akshata has 34 T-shirts and Prathamesh has 14 T-shirts,Akshata has 26 T-shirts and Prathamesh has 46 T-shirts,60,3,,,"let Akshata has $x$ T-shirts.
+    <br/>Since, Prathamesh has $20$ less T-shirts than Akshata
+        <br/>Therefore, Prathamesh will have $x$-$20$ T-shirts.
+    <br/>Since, Akshata and Prathamesh have a total of 72 T-shirts    
+        <br/>=> $x+(x-20)=72$  
+        <br/>=> $x+x-20=72$    
+        <br/>=> $2x-20=72$<br/>=> $2x=72+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{92}{2}$
+<br/>=> $x=46$
+<br/>=> $x-20=46-20=26$
+<br/>Hence, Akshata has $46$ T-shirts and Prathamesh has $26$ T-shirts ",
+text,1,30203,3,"Saloni and Manish have a total of 74 sheets.If Manish has 2sheetsless than Saloni, how many sheets does each one have?
+",Saloni has 38 sheets and Manish has 36 sheets,,,,Saloni has 26 sheets and Manish has 48 sheets,Saloni has 45 sheets and Manish has 43 sheets,Saloni has 36 sheets and Manish has 38 sheets,60,3,,,"let Saloni has $x$ sheets.
+    <br/>Since, Manish has $2$ less sheets than Saloni
+        <br/>Therefore, Manish will have $x$-$2$ sheets.
+    <br/>Since, Saloni and Manish have a total of 74 sheets    
+        <br/>=> $x+(x-2)=74$  
+        <br/>=> $x+x-2=74$    
+        <br/>=> $2x-2=74$<br/>=> $2x=74+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-2=38-2=36$
+<br/>Hence, Saloni has $38$ sheets and Manish has $36$ sheets ",
+text,1,30203,3,"Manish and Maithili have a total of 88 Watermelons.If Maithili has 10Watermelonsless than Manish, how many Watermelons does each one have?
+",Manish has 49 Watermelons and Maithili has 39 Watermelons,,,,Manish has 36 Watermelons and Maithili has 52 Watermelons,Manish has 47 Watermelons and Maithili has 37 Watermelons,Manish has 39 Watermelons and Maithili has 49 Watermelons,60,3,,,"let Manish has $x$ Watermelons.
+    <br/>Since, Maithili has $10$ less Watermelons than Manish
+        <br/>Therefore, Maithili will have $x$-$10$ Watermelons.
+    <br/>Since, Manish and Maithili have a total of 88 Watermelons    
+        <br/>=> $x+(x-10)=88$  
+        <br/>=> $x+x-10=88$    
+        <br/>=> $2x-10=88$<br/>=> $2x=88+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-10=49-10=39$
+<br/>Hence, Manish has $49$ Watermelons and Maithili has $39$ Watermelons ",
+text,1,30203,3,"Aboli and Shantanu have a total of 46 T-shirts.If Aboli has 20T-shirtsless than Shantanu, how many T-shirts does each one have?
+",Shantanu has 33 T-shirts and Aboli has 13 T-shirts,,,,Shantanu has 39 T-shirts and Aboli has 7 T-shirts,Shantanu has 41 T-shirts and Aboli has 21 T-shirts,Shantanu has 13 T-shirts and Aboli has 33 T-shirts,60,3,,,"let Shantanu has $x$ T-shirts.
+    <br/>Since, Aboli has $20$ less T-shirts than Shantanu
+        <br/>Therefore, Aboli will have $x$-$20$ T-shirts.
+    <br/>Since, Shantanu and Aboli have a total of 46 T-shirts    
+        <br/>=> $x+(x-20)=46$  
+        <br/>=> $x+x-20=46$    
+        <br/>=> $2x-20=46$<br/>=> $2x=46+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-20=33-20=13$
+<br/>Hence, Shantanu has $33$ T-shirts and Aboli has $13$ T-shirts ",
+text,1,30203,3,"Gaurav and Gagan have a total of 90 pants.If Gagan has 12pantsless than Gaurav, how many pants does each one have?
+",Gaurav has 51 pants and Gagan has 39 pants,,,,Gaurav has 28 pants and Gagan has 62 pants,Gaurav has 43 pants and Gagan has 31 pants,Gaurav has 39 pants and Gagan has 51 pants,60,3,,,"let Gaurav has $x$ pants.
+    <br/>Since, Gagan has $12$ less pants than Gaurav
+        <br/>Therefore, Gagan will have $x$-$12$ pants.
+    <br/>Since, Gaurav and Gagan have a total of 90 pants    
+        <br/>=> $x+(x-12)=90$  
+        <br/>=> $x+x-12=90$    
+        <br/>=> $2x-12=90$<br/>=> $2x=90+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-12=51-12=39$
+<br/>Hence, Gaurav has $51$ pants and Gagan has $39$ pants ",
+text,1,30203,3,"Aabha and Manish have a total of 50 Jackets.If Manish has 2Jacketsless than Aabha, how many Jackets does each one have?
+",Aabha has 26 Jackets and Manish has 24 Jackets,,,,Aabha has 28 Jackets and Manish has 22 Jackets,Aabha has 38 Jackets and Manish has 36 Jackets,Aabha has 24 Jackets and Manish has 26 Jackets,60,3,,,"let Aabha has $x$ Jackets.
+    <br/>Since, Manish has $2$ less Jackets than Aabha
+        <br/>Therefore, Manish will have $x$-$2$ Jackets.
+    <br/>Since, Aabha and Manish have a total of 50 Jackets    
+        <br/>=> $x+(x-2)=50$  
+        <br/>=> $x+x-2=50$    
+        <br/>=> $2x-2=50$<br/>=> $2x=50+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{52}{2}$
+<br/>=> $x=26$
+<br/>=> $x-2=26-2=24$
+<br/>Hence, Aabha has $26$ Jackets and Manish has $24$ Jackets ",
+text,1,30203,3,"Anmol and Shruti have a total of 60 pencils.If Anmol has 18pencilsless than Shruti, how many pencils does each one have?
+",Shruti has 39 pencils and Anmol has 21 pencils,,,,Shruti has 40 pencils and Anmol has 20 pencils,Shruti has 48 pencils and Anmol has 30 pencils,Shruti has 21 pencils and Anmol has 39 pencils,60,3,,,"let Shruti has $x$ pencils.
+    <br/>Since, Anmol has $18$ less pencils than Shruti
+        <br/>Therefore, Anmol will have $x$-$18$ pencils.
+    <br/>Since, Shruti and Anmol have a total of 60 pencils    
+        <br/>=> $x+(x-18)=60$  
+        <br/>=> $x+x-18=60$    
+        <br/>=> $2x-18=60$<br/>=> $2x=60+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-18=39-18=21$
+<br/>Hence, Shruti has $39$ pencils and Anmol has $21$ pencils ",
+text,1,30203,3,"Varun and Shivani have a total of 46 books.If Varun has 20booksless than Shivani, how many books does each one have?
+",Shivani has 33 books and Varun has 13 books,,,,Shivani has 37 books and Varun has 9 books,Shivani has 37 books and Varun has 17 books,Shivani has 13 books and Varun has 33 books,60,3,,,"let Shivani has $x$ books.
+    <br/>Since, Varun has $20$ less books than Shivani
+        <br/>Therefore, Varun will have $x$-$20$ books.
+    <br/>Since, Shivani and Varun have a total of 46 books    
+        <br/>=> $x+(x-20)=46$  
+        <br/>=> $x+x-20=46$    
+        <br/>=> $2x-20=46$<br/>=> $2x=46+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-20=33-20=13$
+<br/>Hence, Shivani has $33$ books and Varun has $13$ books ",
+text,1,30203,3,"Nishi and Onkar have a total of 54 shirts.If Nishi has 4shirtsless than Onkar, how many shirts does each one have?
+",Onkar has 29 shirts and Nishi has 25 shirts,,,,Onkar has 40 shirts and Nishi has 14 shirts,Onkar has 35 shirts and Nishi has 31 shirts,Onkar has 25 shirts and Nishi has 29 shirts,60,3,,,"let Onkar has $x$ shirts.
+    <br/>Since, Nishi has $4$ less shirts than Onkar
+        <br/>Therefore, Nishi will have $x$-$4$ shirts.
+    <br/>Since, Onkar and Nishi have a total of 54 shirts    
+        <br/>=> $x+(x-4)=54$  
+        <br/>=> $x+x-4=54$    
+        <br/>=> $2x-4=54$<br/>=> $2x=54+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{58}{2}$
+<br/>=> $x=29$
+<br/>=> $x-4=29-4=25$
+<br/>Hence, Onkar has $29$ shirts and Nishi has $25$ shirts ",
+text,1,30203,3,"Smital and Anmol have a total of 58 pencils.If Smital has 12pencilsless than Anmol, how many pencils does each one have?
+",Anmol has 35 pencils and Smital has 23 pencils,,,,Anmol has 31 pencils and Smital has 27 pencils,Anmol has 50 pencils and Smital has 38 pencils,Anmol has 23 pencils and Smital has 35 pencils,60,3,,,"let Anmol has $x$ pencils.
+    <br/>Since, Smital has $12$ less pencils than Anmol
+        <br/>Therefore, Smital will have $x$-$12$ pencils.
+    <br/>Since, Anmol and Smital have a total of 58 pencils    
+        <br/>=> $x+(x-12)=58$  
+        <br/>=> $x+x-12=58$    
+        <br/>=> $2x-12=58$<br/>=> $2x=58+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{70}{2}$
+<br/>=> $x=35$
+<br/>=> $x-12=35-12=23$
+<br/>Hence, Anmol has $35$ pencils and Smital has $23$ pencils ",
+text,1,30203,3,"Anmol and Maithili have a total of 88 Apples.If Maithili has 16Applesless than Anmol, how many Apples does each one have?
+",Anmol has 52 Apples and Maithili has 36 Apples,,,,Anmol has 33 Apples and Maithili has 55 Apples,Anmol has 42 Apples and Maithili has 26 Apples,Anmol has 36 Apples and Maithili has 52 Apples,60,3,,,"let Anmol has $x$ Apples.
+    <br/>Since, Maithili has $16$ less Apples than Anmol
+        <br/>Therefore, Maithili will have $x$-$16$ Apples.
+    <br/>Since, Anmol and Maithili have a total of 88 Apples    
+        <br/>=> $x+(x-16)=88$  
+        <br/>=> $x+x-16=88$    
+        <br/>=> $2x-16=88$<br/>=> $2x=88+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{104}{2}$
+<br/>=> $x=52$
+<br/>=> $x-16=52-16=36$
+<br/>Hence, Anmol has $52$ Apples and Maithili has $36$ Apples ",
+text,1,30203,3,"Tanvi and Aboli have a total of 62 pens.If Aboli has 16pensless than Tanvi, how many pens does each one have?
+",Tanvi has 39 pens and Aboli has 23 pens,,,,Tanvi has 29 pens and Aboli has 33 pens,Tanvi has 25 pens and Aboli has 9 pens,Tanvi has 23 pens and Aboli has 39 pens,60,3,,,"let Tanvi has $x$ pens.
+    <br/>Since, Aboli has $16$ less pens than Tanvi
+        <br/>Therefore, Aboli will have $x$-$16$ pens.
+    <br/>Since, Tanvi and Aboli have a total of 62 pens    
+        <br/>=> $x+(x-16)=62$  
+        <br/>=> $x+x-16=62$    
+        <br/>=> $2x-16=62$<br/>=> $2x=62+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-16=39-16=23$
+<br/>Hence, Tanvi has $39$ pens and Aboli has $23$ pens ",
+text,1,30203,3,"Dharmesh and Onkar have a total of 96 pens.If Onkar has 16pensless than Dharmesh, how many pens does each one have?
+",Dharmesh has 56 pens and Onkar has 40 pens,,,,Dharmesh has 41 pens and Onkar has 55 pens,Dharmesh has 29 pens and Onkar has 13 pens,Dharmesh has 40 pens and Onkar has 56 pens,60,3,,,"let Dharmesh has $x$ pens.
+    <br/>Since, Onkar has $16$ less pens than Dharmesh
+        <br/>Therefore, Onkar will have $x$-$16$ pens.
+    <br/>Since, Dharmesh and Onkar have a total of 96 pens    
+        <br/>=> $x+(x-16)=96$  
+        <br/>=> $x+x-16=96$    
+        <br/>=> $2x-16=96$<br/>=> $2x=96+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{112}{2}$
+<br/>=> $x=56$
+<br/>=> $x-16=56-16=40$
+<br/>Hence, Dharmesh has $56$ pens and Onkar has $40$ pens ",
+text,1,30203,3,"Aarav and Shantanu have a total of 48 Watermelons.If Aarav has 2Watermelonsless than Shantanu, how many Watermelons does each one have?
+",Shantanu has 25 Watermelons and Aarav has 23 Watermelons,,,,Shantanu has 34 Watermelons and Aarav has 14 Watermelons,Shantanu has 49 Watermelons and Aarav has 47 Watermelons,Shantanu has 23 Watermelons and Aarav has 25 Watermelons,60,3,,,"let Shantanu has $x$ Watermelons.
+    <br/>Since, Aarav has $2$ less Watermelons than Shantanu
+        <br/>Therefore, Aarav will have $x$-$2$ Watermelons.
+    <br/>Since, Shantanu and Aarav have a total of 48 Watermelons    
+        <br/>=> $x+(x-2)=48$  
+        <br/>=> $x+x-2=48$    
+        <br/>=> $2x-2=48$<br/>=> $2x=48+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{50}{2}$
+<br/>=> $x=25$
+<br/>=> $x-2=25-2=23$
+<br/>Hence, Shantanu has $25$ Watermelons and Aarav has $23$ Watermelons ",
+text,1,30203,3,"Mihir and Aboli have a total of 62 pens.If Mihir has 16pensless than Aboli, how many pens does each one have?
+",Aboli has 39 pens and Mihir has 23 pens,,,,Aboli has 35 pens and Mihir has 27 pens,Aboli has 40 pens and Mihir has 24 pens,Aboli has 23 pens and Mihir has 39 pens,60,3,,,"let Aboli has $x$ pens.
+    <br/>Since, Mihir has $16$ less pens than Aboli
+        <br/>Therefore, Mihir will have $x$-$16$ pens.
+    <br/>Since, Aboli and Mihir have a total of 62 pens    
+        <br/>=> $x+(x-16)=62$  
+        <br/>=> $x+x-16=62$    
+        <br/>=> $2x-16=62$<br/>=> $2x=62+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-16=39-16=23$
+<br/>Hence, Aboli has $39$ pens and Mihir has $23$ pens ",
+text,1,30203,3,"Saloni and Kajal have a total of 82 chocolates.If Kajal has 20chocolatesless than Saloni, how many chocolates does each one have?
+",Saloni has 51 chocolates and Kajal has 31 chocolates,,,,Saloni has 34 chocolates and Kajal has 48 chocolates,Saloni has 42 chocolates and Kajal has 22 chocolates,Saloni has 31 chocolates and Kajal has 51 chocolates,60,3,,,"let Saloni has $x$ chocolates.
+    <br/>Since, Kajal has $20$ less chocolates than Saloni
+        <br/>Therefore, Kajal will have $x$-$20$ chocolates.
+    <br/>Since, Saloni and Kajal have a total of 82 chocolates    
+        <br/>=> $x+(x-20)=82$  
+        <br/>=> $x+x-20=82$    
+        <br/>=> $2x-20=82$<br/>=> $2x=82+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-20=51-20=31$
+<br/>Hence, Saloni has $51$ chocolates and Kajal has $31$ chocolates ",
+text,1,30203,3,"Aabha and Sanket have a total of 64 pencils.If Sanket has 12pencilsless than Aabha, how many pencils does each one have?
+",Aabha has 38 pencils and Sanket has 26 pencils,,,,Aabha has 30 pencils and Sanket has 34 pencils,Aabha has 44 pencils and Sanket has 32 pencils,Aabha has 26 pencils and Sanket has 38 pencils,60,3,,,"let Aabha has $x$ pencils.
+    <br/>Since, Sanket has $12$ less pencils than Aabha
+        <br/>Therefore, Sanket will have $x$-$12$ pencils.
+    <br/>Since, Aabha and Sanket have a total of 64 pencils    
+        <br/>=> $x+(x-12)=64$  
+        <br/>=> $x+x-12=64$    
+        <br/>=> $2x-12=64$<br/>=> $2x=64+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-12=38-12=26$
+<br/>Hence, Aabha has $38$ pencils and Sanket has $26$ pencils ",
+text,1,30203,3,"Gopal and Abhijeet have a total of 92 Cookies.If Abhijeet has 16Cookiesless than Gopal, how many Cookies does each one have?
+",Gopal has 54 Cookies and Abhijeet has 38 Cookies,,,,Gopal has 33 Cookies and Abhijeet has 59 Cookies,Gopal has 49 Cookies and Abhijeet has 33 Cookies,Gopal has 38 Cookies and Abhijeet has 54 Cookies,60,3,,,"let Gopal has $x$ Cookies.
+    <br/>Since, Abhijeet has $16$ less Cookies than Gopal
+        <br/>Therefore, Abhijeet will have $x$-$16$ Cookies.
+    <br/>Since, Gopal and Abhijeet have a total of 92 Cookies    
+        <br/>=> $x+(x-16)=92$  
+        <br/>=> $x+x-16=92$    
+        <br/>=> $2x-16=92$<br/>=> $2x=92+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{108}{2}$
+<br/>=> $x=54$
+<br/>=> $x-16=54-16=38$
+<br/>Hence, Gopal has $54$ Cookies and Abhijeet has $38$ Cookies ",
+text,1,30203,3,"Divya and Devang have a total of 58 Cookies.If Divya has 8Cookiesless than Devang, how many Cookies does each one have?
+",Devang has 33 Cookies and Divya has 25 Cookies,,,,Devang has 37 Cookies and Divya has 21 Cookies,Devang has 49 Cookies and Divya has 41 Cookies,Devang has 25 Cookies and Divya has 33 Cookies,60,3,,,"let Devang has $x$ Cookies.
+    <br/>Since, Divya has $8$ less Cookies than Devang
+        <br/>Therefore, Divya will have $x$-$8$ Cookies.
+    <br/>Since, Devang and Divya have a total of 58 Cookies    
+        <br/>=> $x+(x-8)=58$  
+        <br/>=> $x+x-8=58$    
+        <br/>=> $2x-8=58$<br/>=> $2x=58+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-8=33-8=25$
+<br/>Hence, Devang has $33$ Cookies and Divya has $25$ Cookies ",
+text,1,30203,3,"Shivani and Pooja have a total of 96 sheets.If Pooja has 20sheetsless than Shivani, how many sheets does each one have?
+",Shivani has 58 sheets and Pooja has 38 sheets,,,,Shivani has 28 sheets and Pooja has 68 sheets,Shivani has 26 sheets and Pooja has 6 sheets,Shivani has 38 sheets and Pooja has 58 sheets,60,3,,,"let Shivani has $x$ sheets.
+    <br/>Since, Pooja has $20$ less sheets than Shivani
+        <br/>Therefore, Pooja will have $x$-$20$ sheets.
+    <br/>Since, Shivani and Pooja have a total of 96 sheets    
+        <br/>=> $x+(x-20)=96$  
+        <br/>=> $x+x-20=96$    
+        <br/>=> $2x-20=96$<br/>=> $2x=96+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{116}{2}$
+<br/>=> $x=58$
+<br/>=> $x-20=58-20=38$
+<br/>Hence, Shivani has $58$ sheets and Pooja has $38$ sheets ",
+text,1,30203,3,"Vedang and Aabha have a total of 70 Bananas.If Aabha has 2Bananasless than Vedang, how many Bananas does each one have?
+",Vedang has 36 Bananas and Aabha has 34 Bananas,,,,Vedang has 26 Bananas and Aabha has 44 Bananas,Vedang has 28 Bananas and Aabha has 26 Bananas,Vedang has 34 Bananas and Aabha has 36 Bananas,60,3,,,"let Vedang has $x$ Bananas.
+    <br/>Since, Aabha has $2$ less Bananas than Vedang
+        <br/>Therefore, Aabha will have $x$-$2$ Bananas.
+    <br/>Since, Vedang and Aabha have a total of 70 Bananas    
+        <br/>=> $x+(x-2)=70$  
+        <br/>=> $x+x-2=70$    
+        <br/>=> $2x-2=70$<br/>=> $2x=70+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{72}{2}$
+<br/>=> $x=36$
+<br/>=> $x-2=36-2=34$
+<br/>Hence, Vedang has $36$ Bananas and Aabha has $34$ Bananas ",
+text,1,30203,3,"Chaitanya and Gargi have a total of 92 Cookies.If Gargi has 16Cookiesless than Chaitanya, how many Cookies does each one have?
+",Chaitanya has 54 Cookies and Gargi has 38 Cookies,,,,Chaitanya has 35 Cookies and Gargi has 57 Cookies,Chaitanya has 25 Cookies and Gargi has 9 Cookies,Chaitanya has 38 Cookies and Gargi has 54 Cookies,60,3,,,"let Chaitanya has $x$ Cookies.
+    <br/>Since, Gargi has $16$ less Cookies than Chaitanya
+        <br/>Therefore, Gargi will have $x$-$16$ Cookies.
+    <br/>Since, Chaitanya and Gargi have a total of 92 Cookies    
+        <br/>=> $x+(x-16)=92$  
+        <br/>=> $x+x-16=92$    
+        <br/>=> $2x-16=92$<br/>=> $2x=92+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{108}{2}$
+<br/>=> $x=54$
+<br/>=> $x-16=54-16=38$
+<br/>Hence, Chaitanya has $54$ Cookies and Gargi has $38$ Cookies ",
+text,1,30203,3,"Shruti and Yuti have a total of 60 Cookies.If Shruti has 16Cookiesless than Yuti, how many Cookies does each one have?
+",Yuti has 38 Cookies and Shruti has 22 Cookies,,,,Yuti has 39 Cookies and Shruti has 21 Cookies,Yuti has 24 Cookies and Shruti has 8 Cookies,Yuti has 22 Cookies and Shruti has 38 Cookies,60,3,,,"let Yuti has $x$ Cookies.
+    <br/>Since, Shruti has $16$ less Cookies than Yuti
+        <br/>Therefore, Shruti will have $x$-$16$ Cookies.
+    <br/>Since, Yuti and Shruti have a total of 60 Cookies    
+        <br/>=> $x+(x-16)=60$  
+        <br/>=> $x+x-16=60$    
+        <br/>=> $2x-16=60$<br/>=> $2x=60+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-16=38-16=22$
+<br/>Hence, Yuti has $38$ Cookies and Shruti has $22$ Cookies ",
+text,1,30203,3,"Aabha and Neha have a total of 86 books.If Aabha has 2booksless than Neha, how many books does each one have?
+",Neha has 44 books and Aabha has 42 books,,,,Neha has 26 books and Aabha has 60 books,Neha has 33 books and Aabha has 31 books,Neha has 42 books and Aabha has 44 books,60,3,,,"let Neha has $x$ books.
+    <br/>Since, Aabha has $2$ less books than Neha
+        <br/>Therefore, Aabha will have $x$-$2$ books.
+    <br/>Since, Neha and Aabha have a total of 86 books    
+        <br/>=> $x+(x-2)=86$  
+        <br/>=> $x+x-2=86$    
+        <br/>=> $2x-2=86$<br/>=> $2x=86+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{88}{2}$
+<br/>=> $x=44$
+<br/>=> $x-2=44-2=42$
+<br/>Hence, Neha has $44$ books and Aabha has $42$ books ",
+text,1,30203,3,"Anmol and Chaitrali have a total of 80 sheets.If Chaitrali has 6sheetsless than Anmol, how many sheets does each one have?
+",Anmol has 43 sheets and Chaitrali has 37 sheets,,,,Anmol has 36 sheets and Chaitrali has 44 sheets,Anmol has 33 sheets and Chaitrali has 27 sheets,Anmol has 37 sheets and Chaitrali has 43 sheets,60,3,,,"let Anmol has $x$ sheets.
+    <br/>Since, Chaitrali has $6$ less sheets than Anmol
+        <br/>Therefore, Chaitrali will have $x$-$6$ sheets.
+    <br/>Since, Anmol and Chaitrali have a total of 80 sheets    
+        <br/>=> $x+(x-6)=80$  
+        <br/>=> $x+x-6=80$    
+        <br/>=> $2x-6=80$<br/>=> $2x=80+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{86}{2}$
+<br/>=> $x=43$
+<br/>=> $x-6=43-6=37$
+<br/>Hence, Anmol has $43$ sheets and Chaitrali has $37$ sheets ",
+text,1,30203,3,"Kajal and Ishan have a total of 96 Bananas.If Ishan has 16Bananasless than Kajal, how many Bananas does each one have?
+",Kajal has 56 Bananas and Ishan has 40 Bananas,,,,Kajal has 30 Bananas and Ishan has 66 Bananas,Kajal has 32 Bananas and Ishan has 16 Bananas,Kajal has 40 Bananas and Ishan has 56 Bananas,60,3,,,"let Kajal has $x$ Bananas.
+    <br/>Since, Ishan has $16$ less Bananas than Kajal
+        <br/>Therefore, Ishan will have $x$-$16$ Bananas.
+    <br/>Since, Kajal and Ishan have a total of 96 Bananas    
+        <br/>=> $x+(x-16)=96$  
+        <br/>=> $x+x-16=96$    
+        <br/>=> $2x-16=96$<br/>=> $2x=96+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{112}{2}$
+<br/>=> $x=56$
+<br/>=> $x-16=56-16=40$
+<br/>Hence, Kajal has $56$ Bananas and Ishan has $40$ Bananas ",
+text,1,30203,3,"Ishan and Aarav have a total of 80 pencils.If Aarav has 2pencilsless than Ishan, how many pencils does each one have?
+",Ishan has 41 pencils and Aarav has 39 pencils,,,,Ishan has 25 pencils and Aarav has 55 pencils,Ishan has 49 pencils and Aarav has 47 pencils,Ishan has 39 pencils and Aarav has 41 pencils,60,3,,,"let Ishan has $x$ pencils.
+    <br/>Since, Aarav has $2$ less pencils than Ishan
+        <br/>Therefore, Aarav will have $x$-$2$ pencils.
+    <br/>Since, Ishan and Aarav have a total of 80 pencils    
+        <br/>=> $x+(x-2)=80$  
+        <br/>=> $x+x-2=80$    
+        <br/>=> $2x-2=80$<br/>=> $2x=80+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-2=41-2=39$
+<br/>Hence, Ishan has $41$ pencils and Aarav has $39$ pencils ",
+text,1,30203,3,"Ishan and Shivani have a total of 74 toys.If Shivani has 18toysless than Ishan, how many toys does each one have?
+",Ishan has 46 toys and Shivani has 28 toys,,,,Ishan has 31 toys and Shivani has 43 toys,Ishan has 38 toys and Shivani has 20 toys,Ishan has 28 toys and Shivani has 46 toys,60,3,,,"let Ishan has $x$ toys.
+    <br/>Since, Shivani has $18$ less toys than Ishan
+        <br/>Therefore, Shivani will have $x$-$18$ toys.
+    <br/>Since, Ishan and Shivani have a total of 74 toys    
+        <br/>=> $x+(x-18)=74$  
+        <br/>=> $x+x-18=74$    
+        <br/>=> $2x-18=74$<br/>=> $2x=74+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{92}{2}$
+<br/>=> $x=46$
+<br/>=> $x-18=46-18=28$
+<br/>Hence, Ishan has $46$ toys and Shivani has $28$ toys ",
+text,1,30203,3,"Gayatri and Neha have a total of 62 Apples.If Gayatri has 10Applesless than Neha, how many Apples does each one have?
+",Neha has 36 Apples and Gayatri has 26 Apples,,,,Neha has 40 Apples and Gayatri has 22 Apples,Neha has 41 Apples and Gayatri has 31 Apples,Neha has 26 Apples and Gayatri has 36 Apples,60,3,,,"let Neha has $x$ Apples.
+    <br/>Since, Gayatri has $10$ less Apples than Neha
+        <br/>Therefore, Gayatri will have $x$-$10$ Apples.
+    <br/>Since, Neha and Gayatri have a total of 62 Apples    
+        <br/>=> $x+(x-10)=62$  
+        <br/>=> $x+x-10=62$    
+        <br/>=> $2x-10=62$<br/>=> $2x=62+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{72}{2}$
+<br/>=> $x=36$
+<br/>=> $x-10=36-10=26$
+<br/>Hence, Neha has $36$ Apples and Gayatri has $26$ Apples ",
+text,1,30203,3,"Nishi and Shruti have a total of 80 candies.If Shruti has 2candiesless than Nishi, how many candies does each one have?
+",Nishi has 41 candies and Shruti has 39 candies,,,,Nishi has 38 candies and Shruti has 42 candies,Nishi has 22 candies and Shruti has 20 candies,Nishi has 39 candies and Shruti has 41 candies,60,3,,,"let Nishi has $x$ candies.
+    <br/>Since, Shruti has $2$ less candies than Nishi
+        <br/>Therefore, Shruti will have $x$-$2$ candies.
+    <br/>Since, Nishi and Shruti have a total of 80 candies    
+        <br/>=> $x+(x-2)=80$  
+        <br/>=> $x+x-2=80$    
+        <br/>=> $2x-2=80$<br/>=> $2x=80+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-2=41-2=39$
+<br/>Hence, Nishi has $41$ candies and Shruti has $39$ candies ",
+text,1,30203,3,"Ganesh and Aabha have a total of 96 Apples.If Aabha has 10Applesless than Ganesh, how many Apples does each one have?
+",Ganesh has 53 Apples and Aabha has 43 Apples,,,,Ganesh has 27 Apples and Aabha has 69 Apples,Ganesh has 32 Apples and Aabha has 22 Apples,Ganesh has 43 Apples and Aabha has 53 Apples,60,3,,,"let Ganesh has $x$ Apples.
+    <br/>Since, Aabha has $10$ less Apples than Ganesh
+        <br/>Therefore, Aabha will have $x$-$10$ Apples.
+    <br/>Since, Ganesh and Aabha have a total of 96 Apples    
+        <br/>=> $x+(x-10)=96$  
+        <br/>=> $x+x-10=96$    
+        <br/>=> $2x-10=96$<br/>=> $2x=96+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{106}{2}$
+<br/>=> $x=53$
+<br/>=> $x-10=53-10=43$
+<br/>Hence, Ganesh has $53$ Apples and Aabha has $43$ Apples ",
+text,1,30203,3,"Aadesh and Smital have a total of 96 books.If Smital has 2booksless than Aadesh, how many books does each one have?
+",Aadesh has 49 books and Smital has 47 books,,,,Aadesh has 26 books and Smital has 70 books,Aadesh has 40 books and Smital has 38 books,Aadesh has 47 books and Smital has 49 books,60,3,,,"let Aadesh has $x$ books.
+    <br/>Since, Smital has $2$ less books than Aadesh
+        <br/>Therefore, Smital will have $x$-$2$ books.
+    <br/>Since, Aadesh and Smital have a total of 96 books    
+        <br/>=> $x+(x-2)=96$  
+        <br/>=> $x+x-2=96$    
+        <br/>=> $2x-2=96$<br/>=> $2x=96+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-2=49-2=47$
+<br/>Hence, Aadesh has $49$ books and Smital has $47$ books ",
+text,1,30203,3,"Pooja and Aarav have a total of 66 books.If Aarav has 2booksless than Pooja, how many books does each one have?
+",Pooja has 34 books and Aarav has 32 books,,,,Pooja has 29 books and Aarav has 37 books,Pooja has 42 books and Aarav has 40 books,Pooja has 32 books and Aarav has 34 books,60,3,,,"let Pooja has $x$ books.
+    <br/>Since, Aarav has $2$ less books than Pooja
+        <br/>Therefore, Aarav will have $x$-$2$ books.
+    <br/>Since, Pooja and Aarav have a total of 66 books    
+        <br/>=> $x+(x-2)=66$  
+        <br/>=> $x+x-2=66$    
+        <br/>=> $2x-2=66$<br/>=> $2x=66+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{68}{2}$
+<br/>=> $x=34$
+<br/>=> $x-2=34-2=32$
+<br/>Hence, Pooja has $34$ books and Aarav has $32$ books ",
+text,1,30203,3,"Aakriti and Mehul have a total of 76 Jackets.If Mehul has 10Jacketsless than Aakriti, how many Jackets does each one have?
+",Aakriti has 43 Jackets and Mehul has 33 Jackets,,,,Aakriti has 34 Jackets and Mehul has 42 Jackets,Aakriti has 37 Jackets and Mehul has 27 Jackets,Aakriti has 33 Jackets and Mehul has 43 Jackets,60,3,,,"let Aakriti has $x$ Jackets.
+    <br/>Since, Mehul has $10$ less Jackets than Aakriti
+        <br/>Therefore, Mehul will have $x$-$10$ Jackets.
+    <br/>Since, Aakriti and Mehul have a total of 76 Jackets    
+        <br/>=> $x+(x-10)=76$  
+        <br/>=> $x+x-10=76$    
+        <br/>=> $2x-10=76$<br/>=> $2x=76+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{86}{2}$
+<br/>=> $x=43$
+<br/>=> $x-10=43-10=33$
+<br/>Hence, Aakriti has $43$ Jackets and Mehul has $33$ Jackets ",
+text,1,30203,3,"Aboli and Om have a total of 100 T-shirts.If Om has 18T-shirtsless than Aboli, how many T-shirts does each one have?
+",Aboli has 59 T-shirts and Om has 41 T-shirts,,,,Aboli has 29 T-shirts and Om has 71 T-shirts,Aboli has 46 T-shirts and Om has 28 T-shirts,Aboli has 41 T-shirts and Om has 59 T-shirts,60,3,,,"let Aboli has $x$ T-shirts.
+    <br/>Since, Om has $18$ less T-shirts than Aboli
+        <br/>Therefore, Om will have $x$-$18$ T-shirts.
+    <br/>Since, Aboli and Om have a total of 100 T-shirts    
+        <br/>=> $x+(x-18)=100$  
+        <br/>=> $x+x-18=100$    
+        <br/>=> $2x-18=100$<br/>=> $2x=100+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{118}{2}$
+<br/>=> $x=59$
+<br/>=> $x-18=59-18=41$
+<br/>Hence, Aboli has $59$ T-shirts and Om has $41$ T-shirts ",
+text,1,30203,3,"Isha and Vinay have a total of 90 candies.If Isha has 16candiesless than Vinay, how many candies does each one have?
+",Vinay has 53 candies and Isha has 37 candies,,,,Vinay has 38 candies and Isha has 52 candies,Vinay has 45 candies and Isha has 29 candies,Vinay has 37 candies and Isha has 53 candies,60,3,,,"let Vinay has $x$ candies.
+    <br/>Since, Isha has $16$ less candies than Vinay
+        <br/>Therefore, Isha will have $x$-$16$ candies.
+    <br/>Since, Vinay and Isha have a total of 90 candies    
+        <br/>=> $x+(x-16)=90$  
+        <br/>=> $x+x-16=90$    
+        <br/>=> $2x-16=90$<br/>=> $2x=90+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{106}{2}$
+<br/>=> $x=53$
+<br/>=> $x-16=53-16=37$
+<br/>Hence, Vinay has $53$ candies and Isha has $37$ candies ",
+text,1,30203,3,"Tejas and Shantanu have a total of 58 chocolates.If Shantanu has 20chocolatesless than Tejas, how many chocolates does each one have?
+",Tejas has 39 chocolates and Shantanu has 19 chocolates,,,,Tejas has 26 chocolates and Shantanu has 32 chocolates,Tejas has 38 chocolates and Shantanu has 18 chocolates,Tejas has 19 chocolates and Shantanu has 39 chocolates,60,3,,,"let Tejas has $x$ chocolates.
+    <br/>Since, Shantanu has $20$ less chocolates than Tejas
+        <br/>Therefore, Shantanu will have $x$-$20$ chocolates.
+    <br/>Since, Tejas and Shantanu have a total of 58 chocolates    
+        <br/>=> $x+(x-20)=58$  
+        <br/>=> $x+x-20=58$    
+        <br/>=> $2x-20=58$<br/>=> $2x=58+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-20=39-20=19$
+<br/>Hence, Tejas has $39$ chocolates and Shantanu has $19$ chocolates ",
+text,1,30203,3,"Darshan and Vivek have a total of 70 sheets.If Darshan has 16sheetsless than Vivek, how many sheets does each one have?
+",Vivek has 43 sheets and Darshan has 27 sheets,,,,Vivek has 39 sheets and Darshan has 31 sheets,Vivek has 34 sheets and Darshan has 18 sheets,Vivek has 27 sheets and Darshan has 43 sheets,60,3,,,"let Vivek has $x$ sheets.
+    <br/>Since, Darshan has $16$ less sheets than Vivek
+        <br/>Therefore, Darshan will have $x$-$16$ sheets.
+    <br/>Since, Vivek and Darshan have a total of 70 sheets    
+        <br/>=> $x+(x-16)=70$  
+        <br/>=> $x+x-16=70$    
+        <br/>=> $2x-16=70$<br/>=> $2x=70+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{86}{2}$
+<br/>=> $x=43$
+<br/>=> $x-16=43-16=27$
+<br/>Hence, Vivek has $43$ sheets and Darshan has $27$ sheets ",
+text,1,30203,3,"Yogesh and Shivani have a total of 74 sheets.If Yogesh has 14sheetsless than Shivani, how many sheets does each one have?
+",Shivani has 44 sheets and Yogesh has 30 sheets,,,,Shivani has 39 sheets and Yogesh has 35 sheets,Shivani has 31 sheets and Yogesh has 17 sheets,Shivani has 30 sheets and Yogesh has 44 sheets,60,3,,,"let Shivani has $x$ sheets.
+    <br/>Since, Yogesh has $14$ less sheets than Shivani
+        <br/>Therefore, Yogesh will have $x$-$14$ sheets.
+    <br/>Since, Shivani and Yogesh have a total of 74 sheets    
+        <br/>=> $x+(x-14)=74$  
+        <br/>=> $x+x-14=74$    
+        <br/>=> $2x-14=74$<br/>=> $2x=74+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{88}{2}$
+<br/>=> $x=44$
+<br/>=> $x-14=44-14=30$
+<br/>Hence, Shivani has $44$ sheets and Yogesh has $30$ sheets ",
+text,1,30203,3,"Mihir and Pooja have a total of 66 pants.If Pooja has 4pantsless than Mihir, how many pants does each one have?
+",Mihir has 35 pants and Pooja has 31 pants,,,,Mihir has 27 pants and Pooja has 39 pants,Mihir has 33 pants and Pooja has 29 pants,Mihir has 31 pants and Pooja has 35 pants,60,3,,,"let Mihir has $x$ pants.
+    <br/>Since, Pooja has $4$ less pants than Mihir
+        <br/>Therefore, Pooja will have $x$-$4$ pants.
+    <br/>Since, Mihir and Pooja have a total of 66 pants    
+        <br/>=> $x+(x-4)=66$  
+        <br/>=> $x+x-4=66$    
+        <br/>=> $2x-4=66$<br/>=> $2x=66+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{70}{2}$
+<br/>=> $x=35$
+<br/>=> $x-4=35-4=31$
+<br/>Hence, Mihir has $35$ pants and Pooja has $31$ pants ",
+text,1,30203,3,"Kalyani and Aditi have a total of 76 Bananas.If Aditi has 6Bananasless than Kalyani, how many Bananas does each one have?
+",Kalyani has 41 Bananas and Aditi has 35 Bananas,,,,Kalyani has 28 Bananas and Aditi has 48 Bananas,Kalyani has 30 Bananas and Aditi has 24 Bananas,Kalyani has 35 Bananas and Aditi has 41 Bananas,60,3,,,"let Kalyani has $x$ Bananas.
+    <br/>Since, Aditi has $6$ less Bananas than Kalyani
+        <br/>Therefore, Aditi will have $x$-$6$ Bananas.
+    <br/>Since, Kalyani and Aditi have a total of 76 Bananas    
+        <br/>=> $x+(x-6)=76$  
+        <br/>=> $x+x-6=76$    
+        <br/>=> $2x-6=76$<br/>=> $2x=76+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-6=41-6=35$
+<br/>Hence, Kalyani has $41$ Bananas and Aditi has $35$ Bananas ",
+text,1,30203,3,"Smital and Aruni have a total of 84 T-shirts.If Smital has 8T-shirtsless than Aruni, how many T-shirts does each one have?
+",Aruni has 46 T-shirts and Smital has 38 T-shirts,,,,Aruni has 27 T-shirts and Smital has 57 T-shirts,Aruni has 42 T-shirts and Smital has 34 T-shirts,Aruni has 38 T-shirts and Smital has 46 T-shirts,60,3,,,"let Aruni has $x$ T-shirts.
+    <br/>Since, Smital has $8$ less T-shirts than Aruni
+        <br/>Therefore, Smital will have $x$-$8$ T-shirts.
+    <br/>Since, Aruni and Smital have a total of 84 T-shirts    
+        <br/>=> $x+(x-8)=84$  
+        <br/>=> $x+x-8=84$    
+        <br/>=> $2x-8=84$<br/>=> $2x=84+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{92}{2}$
+<br/>=> $x=46$
+<br/>=> $x-8=46-8=38$
+<br/>Hence, Aruni has $46$ T-shirts and Smital has $38$ T-shirts ",
+text,1,30203,3,"Saloni and Shantanu have a total of 90 Cookies.If Shantanu has 8Cookiesless than Saloni, how many Cookies does each one have?
+",Saloni has 49 Cookies and Shantanu has 41 Cookies,,,,Saloni has 35 Cookies and Shantanu has 55 Cookies,Saloni has 22 Cookies and Shantanu has 14 Cookies,Saloni has 41 Cookies and Shantanu has 49 Cookies,60,3,,,"let Saloni has $x$ Cookies.
+    <br/>Since, Shantanu has $8$ less Cookies than Saloni
+        <br/>Therefore, Shantanu will have $x$-$8$ Cookies.
+    <br/>Since, Saloni and Shantanu have a total of 90 Cookies    
+        <br/>=> $x+(x-8)=90$  
+        <br/>=> $x+x-8=90$    
+        <br/>=> $2x-8=90$<br/>=> $2x=90+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-8=49-8=41$
+<br/>Hence, Saloni has $49$ Cookies and Shantanu has $41$ Cookies ",
+text,1,30203,3,"Yash and Aakriti have a total of 100 Jackets.If Aakriti has 18Jacketsless than Yash, how many Jackets does each one have?
+",Yash has 59 Jackets and Aakriti has 41 Jackets,,,,Yash has 38 Jackets and Aakriti has 62 Jackets,Yash has 24 Jackets and Aakriti has 6 Jackets,Yash has 41 Jackets and Aakriti has 59 Jackets,60,3,,,"let Yash has $x$ Jackets.
+    <br/>Since, Aakriti has $18$ less Jackets than Yash
+        <br/>Therefore, Aakriti will have $x$-$18$ Jackets.
+    <br/>Since, Yash and Aakriti have a total of 100 Jackets    
+        <br/>=> $x+(x-18)=100$  
+        <br/>=> $x+x-18=100$    
+        <br/>=> $2x-18=100$<br/>=> $2x=100+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{118}{2}$
+<br/>=> $x=59$
+<br/>=> $x-18=59-18=41$
+<br/>Hence, Yash has $59$ Jackets and Aakriti has $41$ Jackets ",
+text,1,30203,3,"Aboli and Shivani have a total of 70 pencils.If Shivani has 6pencilsless than Aboli, how many pencils does each one have?
+",Aboli has 38 pencils and Shivani has 32 pencils,,,,Aboli has 26 pencils and Shivani has 44 pencils,Aboli has 41 pencils and Shivani has 35 pencils,Aboli has 32 pencils and Shivani has 38 pencils,60,3,,,"let Aboli has $x$ pencils.
+    <br/>Since, Shivani has $6$ less pencils than Aboli
+        <br/>Therefore, Shivani will have $x$-$6$ pencils.
+    <br/>Since, Aboli and Shivani have a total of 70 pencils    
+        <br/>=> $x+(x-6)=70$  
+        <br/>=> $x+x-6=70$    
+        <br/>=> $2x-6=70$<br/>=> $2x=70+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x-6=38-6=32$
+<br/>Hence, Aboli has $38$ pencils and Shivani has $32$ pencils ",
+text,1,30203,3,"Tushar and Anmol have a total of 100 Cookies.If Anmol has 2Cookiesless than Tushar, how many Cookies does each one have?
+",Tushar has 51 Cookies and Anmol has 49 Cookies,,,,Tushar has 31 Cookies and Anmol has 69 Cookies,Tushar has 43 Cookies and Anmol has 41 Cookies,Tushar has 49 Cookies and Anmol has 51 Cookies,60,3,,,"let Tushar has $x$ Cookies.
+    <br/>Since, Anmol has $2$ less Cookies than Tushar
+        <br/>Therefore, Anmol will have $x$-$2$ Cookies.
+    <br/>Since, Tushar and Anmol have a total of 100 Cookies    
+        <br/>=> $x+(x-2)=100$  
+        <br/>=> $x+x-2=100$    
+        <br/>=> $2x-2=100$<br/>=> $2x=100+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-2=51-2=49$
+<br/>Hence, Tushar has $51$ Cookies and Anmol has $49$ Cookies ",
+text,1,30203,3,"Yuti and Sachin have a total of 88 pants.If Sachin has 14pantsless than Yuti, how many pants does each one have?
+",Yuti has 51 pants and Sachin has 37 pants,,,,Yuti has 35 pants and Sachin has 53 pants,Yuti has 40 pants and Sachin has 26 pants,Yuti has 37 pants and Sachin has 51 pants,60,3,,,"let Yuti has $x$ pants.
+    <br/>Since, Sachin has $14$ less pants than Yuti
+        <br/>Therefore, Sachin will have $x$-$14$ pants.
+    <br/>Since, Yuti and Sachin have a total of 88 pants    
+        <br/>=> $x+(x-14)=88$  
+        <br/>=> $x+x-14=88$    
+        <br/>=> $2x-14=88$<br/>=> $2x=88+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-14=51-14=37$
+<br/>Hence, Yuti has $51$ pants and Sachin has $37$ pants ",
+text,1,30203,3,"Gautami and Aniket have a total of 50 Cookies.If Aniket has 2Cookiesless than Gautami, how many Cookies does each one have?
+",Gautami has 26 Cookies and Aniket has 24 Cookies,,,,Gautami has 33 Cookies and Aniket has 17 Cookies,Gautami has 28 Cookies and Aniket has 26 Cookies,Gautami has 24 Cookies and Aniket has 26 Cookies,60,3,,,"let Gautami has $x$ Cookies.
+    <br/>Since, Aniket has $2$ less Cookies than Gautami
+        <br/>Therefore, Aniket will have $x$-$2$ Cookies.
+    <br/>Since, Gautami and Aniket have a total of 50 Cookies    
+        <br/>=> $x+(x-2)=50$  
+        <br/>=> $x+x-2=50$    
+        <br/>=> $2x-2=50$<br/>=> $2x=50+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{52}{2}$
+<br/>=> $x=26$
+<br/>=> $x-2=26-2=24$
+<br/>Hence, Gautami has $26$ Cookies and Aniket has $24$ Cookies ",
+text,1,30203,3,"Sachin and Om have a total of 62 T-shirts.If Om has 12T-shirtsless than Sachin, how many T-shirts does each one have?
+",Sachin has 37 T-shirts and Om has 25 T-shirts,,,,Sachin has 27 T-shirts and Om has 35 T-shirts,Sachin has 42 T-shirts and Om has 30 T-shirts,Sachin has 25 T-shirts and Om has 37 T-shirts,60,3,,,"let Sachin has $x$ T-shirts.
+    <br/>Since, Om has $12$ less T-shirts than Sachin
+        <br/>Therefore, Om will have $x$-$12$ T-shirts.
+    <br/>Since, Sachin and Om have a total of 62 T-shirts    
+        <br/>=> $x+(x-12)=62$  
+        <br/>=> $x+x-12=62$    
+        <br/>=> $2x-12=62$<br/>=> $2x=62+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{74}{2}$
+<br/>=> $x=37$
+<br/>=> $x-12=37-12=25$
+<br/>Hence, Sachin has $37$ T-shirts and Om has $25$ T-shirts ",
+text,1,30203,3,"Kalyani and Gautami have a total of 64 books.If Gautami has 18booksless than Kalyani, how many books does each one have?
+",Kalyani has 41 books and Gautami has 23 books,,,,Kalyani has 25 books and Gautami has 39 books,Kalyani has 30 books and Gautami has 12 books,Kalyani has 23 books and Gautami has 41 books,60,3,,,"let Kalyani has $x$ books.
+    <br/>Since, Gautami has $18$ less books than Kalyani
+        <br/>Therefore, Gautami will have $x$-$18$ books.
+    <br/>Since, Kalyani and Gautami have a total of 64 books    
+        <br/>=> $x+(x-18)=64$  
+        <br/>=> $x+x-18=64$    
+        <br/>=> $2x-18=64$<br/>=> $2x=64+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-18=41-18=23$
+<br/>Hence, Kalyani has $41$ books and Gautami has $23$ books ",
+text,1,30203,3,"Akanksha and Mehul have a total of 52 chocolates.If Akanksha has 12chocolatesless than Mehul, how many chocolates does each one have?
+",Mehul has 32 chocolates and Akanksha has 20 chocolates,,,,Mehul has 38 chocolates and Akanksha has 14 chocolates,Mehul has 36 chocolates and Akanksha has 24 chocolates,Mehul has 20 chocolates and Akanksha has 32 chocolates,60,3,,,"let Mehul has $x$ chocolates.
+    <br/>Since, Akanksha has $12$ less chocolates than Mehul
+        <br/>Therefore, Akanksha will have $x$-$12$ chocolates.
+    <br/>Since, Mehul and Akanksha have a total of 52 chocolates    
+        <br/>=> $x+(x-12)=52$  
+        <br/>=> $x+x-12=52$    
+        <br/>=> $2x-12=52$<br/>=> $2x=52+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{64}{2}$
+<br/>=> $x=32$
+<br/>=> $x-12=32-12=20$
+<br/>Hence, Mehul has $32$ chocolates and Akanksha has $20$ chocolates ",
+text,1,30203,3,"Gayatri and Gautami have a total of 62 candies.If Gautami has 16candiesless than Gayatri, how many candies does each one have?
+",Gayatri has 39 candies and Gautami has 23 candies,,,,Gayatri has 40 candies and Gautami has 22 candies,Gayatri has 47 candies and Gautami has 31 candies,Gayatri has 23 candies and Gautami has 39 candies,60,3,,,"let Gayatri has $x$ candies.
+    <br/>Since, Gautami has $16$ less candies than Gayatri
+        <br/>Therefore, Gautami will have $x$-$16$ candies.
+    <br/>Since, Gayatri and Gautami have a total of 62 candies    
+        <br/>=> $x+(x-16)=62$  
+        <br/>=> $x+x-16=62$    
+        <br/>=> $2x-16=62$<br/>=> $2x=62+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-16=39-16=23$
+<br/>Hence, Gayatri has $39$ candies and Gautami has $23$ candies ",
+text,1,30203,3,"Manali and Isha have a total of 98 chocolates.If Manali has 4chocolatesless than Isha, how many chocolates does each one have?
+",Isha has 51 chocolates and Manali has 47 chocolates,,,,Isha has 27 chocolates and Manali has 71 chocolates,Isha has 26 chocolates and Manali has 22 chocolates,Isha has 47 chocolates and Manali has 51 chocolates,60,3,,,"let Isha has $x$ chocolates.
+    <br/>Since, Manali has $4$ less chocolates than Isha
+        <br/>Therefore, Manali will have $x$-$4$ chocolates.
+    <br/>Since, Isha and Manali have a total of 98 chocolates    
+        <br/>=> $x+(x-4)=98$  
+        <br/>=> $x+x-4=98$    
+        <br/>=> $2x-4=98$<br/>=> $2x=98+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-4=51-4=47$
+<br/>Hence, Isha has $51$ chocolates and Manali has $47$ chocolates ",
+text,1,30203,3,"Pranali and Manali have a total of 88 pencils.If Pranali has 10pencilsless than Manali, how many pencils does each one have?
+",Manali has 49 pencils and Pranali has 39 pencils,,,,Manali has 28 pencils and Pranali has 60 pencils,Manali has 24 pencils and Pranali has 14 pencils,Manali has 39 pencils and Pranali has 49 pencils,60,3,,,"let Manali has $x$ pencils.
+    <br/>Since, Pranali has $10$ less pencils than Manali
+        <br/>Therefore, Pranali will have $x$-$10$ pencils.
+    <br/>Since, Manali and Pranali have a total of 88 pencils    
+        <br/>=> $x+(x-10)=88$  
+        <br/>=> $x+x-10=88$    
+        <br/>=> $2x-10=88$<br/>=> $2x=88+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-10=49-10=39$
+<br/>Hence, Manali has $49$ pencils and Pranali has $39$ pencils ",
+text,1,30203,3,"Dharmesh and Aakriti have a total of 82 Bananas.If Aakriti has 20Bananasless than Dharmesh, how many Bananas does each one have?
+",Dharmesh has 51 Bananas and Aakriti has 31 Bananas,,,,Dharmesh has 25 Bananas and Aakriti has 57 Bananas,Dharmesh has 23 Bananas and Aakriti has 3 Bananas,Dharmesh has 31 Bananas and Aakriti has 51 Bananas,60,3,,,"let Dharmesh has $x$ Bananas.
+    <br/>Since, Aakriti has $20$ less Bananas than Dharmesh
+        <br/>Therefore, Aakriti will have $x$-$20$ Bananas.
+    <br/>Since, Dharmesh and Aakriti have a total of 82 Bananas    
+        <br/>=> $x+(x-20)=82$  
+        <br/>=> $x+x-20=82$    
+        <br/>=> $2x-20=82$<br/>=> $2x=82+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-20=51-20=31$
+<br/>Hence, Dharmesh has $51$ Bananas and Aakriti has $31$ Bananas ",
+text,1,30203,3,"Kalyani and Maithili have a total of 58 toys.If Maithili has 8toysless than Kalyani, how many toys does each one have?
+",Kalyani has 33 toys and Maithili has 25 toys,,,,Kalyani has 40 toys and Maithili has 18 toys,Kalyani has 30 toys and Maithili has 22 toys,Kalyani has 25 toys and Maithili has 33 toys,60,3,,,"let Kalyani has $x$ toys.
+    <br/>Since, Maithili has $8$ less toys than Kalyani
+        <br/>Therefore, Maithili will have $x$-$8$ toys.
+    <br/>Since, Kalyani and Maithili have a total of 58 toys    
+        <br/>=> $x+(x-8)=58$  
+        <br/>=> $x+x-8=58$    
+        <br/>=> $2x-8=58$<br/>=> $2x=58+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-8=33-8=25$
+<br/>Hence, Kalyani has $33$ toys and Maithili has $25$ toys ",
+text,1,30203,3,"Suyash and Mehul have a total of 86 candies.If Suyash has 20candiesless than Mehul, how many candies does each one have?
+",Mehul has 53 candies and Suyash has 33 candies,,,,Mehul has 39 candies and Suyash has 47 candies,Mehul has 44 candies and Suyash has 24 candies,Mehul has 33 candies and Suyash has 53 candies,60,3,,,"let Mehul has $x$ candies.
+    <br/>Since, Suyash has $20$ less candies than Mehul
+        <br/>Therefore, Suyash will have $x$-$20$ candies.
+    <br/>Since, Mehul and Suyash have a total of 86 candies    
+        <br/>=> $x+(x-20)=86$  
+        <br/>=> $x+x-20=86$    
+        <br/>=> $2x-20=86$<br/>=> $2x=86+20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{106}{2}$
+<br/>=> $x=53$
+<br/>=> $x-20=53-20=33$
+<br/>Hence, Mehul has $53$ candies and Suyash has $33$ candies ",
+text,1,30203,3,"Tushar and Darshan have a total of 80 sheets.If Darshan has 18sheetsless than Tushar, how many sheets does each one have?
+",Tushar has 49 sheets and Darshan has 31 sheets,,,,Tushar has 33 sheets and Darshan has 47 sheets,Tushar has 24 sheets and Darshan has 6 sheets,Tushar has 31 sheets and Darshan has 49 sheets,60,3,,,"let Tushar has $x$ sheets.
+    <br/>Since, Darshan has $18$ less sheets than Tushar
+        <br/>Therefore, Darshan will have $x$-$18$ sheets.
+    <br/>Since, Tushar and Darshan have a total of 80 sheets    
+        <br/>=> $x+(x-18)=80$  
+        <br/>=> $x+x-18=80$    
+        <br/>=> $2x-18=80$<br/>=> $2x=80+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{98}{2}$
+<br/>=> $x=49$
+<br/>=> $x-18=49-18=31$
+<br/>Hence, Tushar has $49$ sheets and Darshan has $31$ sheets ",
+text,1,30203,3,"Yogesh and Gauravi have a total of 94 shirts.If Gauravi has 16shirtsless than Yogesh, how many shirts does each one have?
+",Yogesh has 55 shirts and Gauravi has 39 shirts,,,,Yogesh has 25 shirts and Gauravi has 69 shirts,Yogesh has 24 shirts and Gauravi has 8 shirts,Yogesh has 39 shirts and Gauravi has 55 shirts,60,3,,,"let Yogesh has $x$ shirts.
+    <br/>Since, Gauravi has $16$ less shirts than Yogesh
+        <br/>Therefore, Gauravi will have $x$-$16$ shirts.
+    <br/>Since, Yogesh and Gauravi have a total of 94 shirts    
+        <br/>=> $x+(x-16)=94$  
+        <br/>=> $x+x-16=94$    
+        <br/>=> $2x-16=94$<br/>=> $2x=94+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{110}{2}$
+<br/>=> $x=55$
+<br/>=> $x-16=55-16=39$
+<br/>Hence, Yogesh has $55$ shirts and Gauravi has $39$ shirts ",
+text,1,30203,3,"Siddhesh and Vedang have a total of 56 pens.If Vedang has 14pensless than Siddhesh, how many pens does each one have?
+",Siddhesh has 35 pens and Vedang has 21 pens,,,,Siddhesh has 37 pens and Vedang has 19 pens,Siddhesh has 34 pens and Vedang has 20 pens,Siddhesh has 21 pens and Vedang has 35 pens,60,3,,,"let Siddhesh has $x$ pens.
+    <br/>Since, Vedang has $14$ less pens than Siddhesh
+        <br/>Therefore, Vedang will have $x$-$14$ pens.
+    <br/>Since, Siddhesh and Vedang have a total of 56 pens    
+        <br/>=> $x+(x-14)=56$  
+        <br/>=> $x+x-14=56$    
+        <br/>=> $2x-14=56$<br/>=> $2x=56+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{70}{2}$
+<br/>=> $x=35$
+<br/>=> $x-14=35-14=21$
+<br/>Hence, Siddhesh has $35$ pens and Vedang has $21$ pens ",
+text,1,30203,3,"Utkarsh and Devang have a total of 88 sheets.If Devang has 8sheetsless than Utkarsh, how many sheets does each one have?
+",Utkarsh has 48 sheets and Devang has 40 sheets,,,,Utkarsh has 35 sheets and Devang has 53 sheets,Utkarsh has 47 sheets and Devang has 39 sheets,Utkarsh has 40 sheets and Devang has 48 sheets,60,3,,,"let Utkarsh has $x$ sheets.
+    <br/>Since, Devang has $8$ less sheets than Utkarsh
+        <br/>Therefore, Devang will have $x$-$8$ sheets.
+    <br/>Since, Utkarsh and Devang have a total of 88 sheets    
+        <br/>=> $x+(x-8)=88$  
+        <br/>=> $x+x-8=88$    
+        <br/>=> $2x-8=88$<br/>=> $2x=88+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{96}{2}$
+<br/>=> $x=48$
+<br/>=> $x-8=48-8=40$
+<br/>Hence, Utkarsh has $48$ sheets and Devang has $40$ sheets ",
+text,1,30203,3,"Utkarsh and Yash have a total of 64 T-shirts.If Utkarsh has 14T-shirtsless than Yash, how many T-shirts does each one have?
+",Yash has 39 T-shirts and Utkarsh has 25 T-shirts,,,,Yash has 40 T-shirts and Utkarsh has 24 T-shirts,Yash has 50 T-shirts and Utkarsh has 36 T-shirts,Yash has 25 T-shirts and Utkarsh has 39 T-shirts,60,3,,,"let Yash has $x$ T-shirts.
+    <br/>Since, Utkarsh has $14$ less T-shirts than Yash
+        <br/>Therefore, Utkarsh will have $x$-$14$ T-shirts.
+    <br/>Since, Yash and Utkarsh have a total of 64 T-shirts    
+        <br/>=> $x+(x-14)=64$  
+        <br/>=> $x+x-14=64$    
+        <br/>=> $2x-14=64$<br/>=> $2x=64+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{78}{2}$
+<br/>=> $x=39$
+<br/>=> $x-14=39-14=25$
+<br/>Hence, Yash has $39$ T-shirts and Utkarsh has $25$ T-shirts ",
+text,1,30203,3,"Manali and Saloni have a total of 50 toys.If Manali has 18toysless than Saloni, how many toys does each one have?
+",Saloni has 34 toys and Manali has 16 toys,,,,Saloni has 31 toys and Manali has 19 toys,Saloni has 45 toys and Manali has 27 toys,Saloni has 16 toys and Manali has 34 toys,60,3,,,"let Saloni has $x$ toys.
+    <br/>Since, Manali has $18$ less toys than Saloni
+        <br/>Therefore, Manali will have $x$-$18$ toys.
+    <br/>Since, Saloni and Manali have a total of 50 toys    
+        <br/>=> $x+(x-18)=50$  
+        <br/>=> $x+x-18=50$    
+        <br/>=> $2x-18=50$<br/>=> $2x=50+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{68}{2}$
+<br/>=> $x=34$
+<br/>=> $x-18=34-18=16$
+<br/>Hence, Saloni has $34$ toys and Manali has $16$ toys ",
+text,1,30203,3,"Rahul and Vedang have a total of 70 chocolates.If Vedang has 14chocolatesless than Rahul, how many chocolates does each one have?
+",Rahul has 42 chocolates and Vedang has 28 chocolates,,,,Rahul has 32 chocolates and Vedang has 38 chocolates,Rahul has 45 chocolates and Vedang has 31 chocolates,Rahul has 28 chocolates and Vedang has 42 chocolates,60,3,,,"let Rahul has $x$ chocolates.
+    <br/>Since, Vedang has $14$ less chocolates than Rahul
+        <br/>Therefore, Vedang will have $x$-$14$ chocolates.
+    <br/>Since, Rahul and Vedang have a total of 70 chocolates    
+        <br/>=> $x+(x-14)=70$  
+        <br/>=> $x+x-14=70$    
+        <br/>=> $2x-14=70$<br/>=> $2x=70+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{84}{2}$
+<br/>=> $x=42$
+<br/>=> $x-14=42-14=28$
+<br/>Hence, Rahul has $42$ chocolates and Vedang has $28$ chocolates ",
+text,1,30203,3,"Tanmay and Gautami have a total of 46 pants.If Tanmay has 16pantsless than Gautami, how many pants does each one have?
+",Gautami has 31 pants and Tanmay has 15 pants,,,,Gautami has 38 pants and Tanmay has 8 pants,Gautami has 43 pants and Tanmay has 27 pants,Gautami has 15 pants and Tanmay has 31 pants,60,3,,,"let Gautami has $x$ pants.
+    <br/>Since, Tanmay has $16$ less pants than Gautami
+        <br/>Therefore, Tanmay will have $x$-$16$ pants.
+    <br/>Since, Gautami and Tanmay have a total of 46 pants    
+        <br/>=> $x+(x-16)=46$  
+        <br/>=> $x+x-16=46$    
+        <br/>=> $2x-16=46$<br/>=> $2x=46+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{62}{2}$
+<br/>=> $x=31$
+<br/>=> $x-16=31-16=15$
+<br/>Hence, Gautami has $31$ pants and Tanmay has $15$ pants ",
+text,1,30203,3,"Abhijeet and Aakriti have a total of 58 pens.If Abhijeet has 8pensless than Aakriti, how many pens does each one have?
+",Aakriti has 33 pens and Abhijeet has 25 pens,,,,Aakriti has 34 pens and Abhijeet has 24 pens,Aakriti has 50 pens and Abhijeet has 42 pens,Aakriti has 25 pens and Abhijeet has 33 pens,60,3,,,"let Aakriti has $x$ pens.
+    <br/>Since, Abhijeet has $8$ less pens than Aakriti
+        <br/>Therefore, Abhijeet will have $x$-$8$ pens.
+    <br/>Since, Aakriti and Abhijeet have a total of 58 pens    
+        <br/>=> $x+(x-8)=58$  
+        <br/>=> $x+x-8=58$    
+        <br/>=> $2x-8=58$<br/>=> $2x=58+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-8=33-8=25$
+<br/>Hence, Aakriti has $33$ pens and Abhijeet has $25$ pens ",
+text,1,30203,3,"Veerja and Soham have a total of 88 pencils.If Veerja has 8pencilsless than Soham, how many pencils does each one have?
+",Soham has 48 pencils and Veerja has 40 pencils,,,,Soham has 30 pencils and Veerja has 58 pencils,Soham has 29 pencils and Veerja has 21 pencils,Soham has 40 pencils and Veerja has 48 pencils,60,3,,,"let Soham has $x$ pencils.
+    <br/>Since, Veerja has $8$ less pencils than Soham
+        <br/>Therefore, Veerja will have $x$-$8$ pencils.
+    <br/>Since, Soham and Veerja have a total of 88 pencils    
+        <br/>=> $x+(x-8)=88$  
+        <br/>=> $x+x-8=88$    
+        <br/>=> $2x-8=88$<br/>=> $2x=88+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{96}{2}$
+<br/>=> $x=48$
+<br/>=> $x-8=48-8=40$
+<br/>Hence, Soham has $48$ pencils and Veerja has $40$ pencils ",
+text,1,30203,3,"Chaitrali and Divya have a total of 58 chocolates.If Divya has 12chocolatesless than Chaitrali, how many chocolates does each one have?
+",Chaitrali has 35 chocolates and Divya has 23 chocolates,,,,Chaitrali has 32 chocolates and Divya has 26 chocolates,Chaitrali has 28 chocolates and Divya has 16 chocolates,Chaitrali has 23 chocolates and Divya has 35 chocolates,60,3,,,"let Chaitrali has $x$ chocolates.
+    <br/>Since, Divya has $12$ less chocolates than Chaitrali
+        <br/>Therefore, Divya will have $x$-$12$ chocolates.
+    <br/>Since, Chaitrali and Divya have a total of 58 chocolates    
+        <br/>=> $x+(x-12)=58$  
+        <br/>=> $x+x-12=58$    
+        <br/>=> $2x-12=58$<br/>=> $2x=58+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{70}{2}$
+<br/>=> $x=35$
+<br/>=> $x-12=35-12=23$
+<br/>Hence, Chaitrali has $35$ chocolates and Divya has $23$ chocolates ",
+text,1,30203,3,"Kalyani and Aakriti have a total of 54 shirts.If Kalyani has 16shirtsless than Aakriti, how many shirts does each one have?
+",Aakriti has 35 shirts and Kalyani has 19 shirts,,,,Aakriti has 26 shirts and Kalyani has 28 shirts,Aakriti has 42 shirts and Kalyani has 26 shirts,Aakriti has 19 shirts and Kalyani has 35 shirts,60,3,,,"let Aakriti has $x$ shirts.
+    <br/>Since, Kalyani has $16$ less shirts than Aakriti
+        <br/>Therefore, Kalyani will have $x$-$16$ shirts.
+    <br/>Since, Aakriti and Kalyani have a total of 54 shirts    
+        <br/>=> $x+(x-16)=54$  
+        <br/>=> $x+x-16=54$    
+        <br/>=> $2x-16=54$<br/>=> $2x=54+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{70}{2}$
+<br/>=> $x=35$
+<br/>=> $x-16=35-16=19$
+<br/>Hence, Aakriti has $35$ shirts and Kalyani has $19$ shirts ",
+text,1,30203,3,"Aakriti and Sandesh have a total of 88 books.If Sandesh has 6booksless than Aakriti, how many books does each one have?
+",Aakriti has 47 books and Sandesh has 41 books,,,,Aakriti has 27 books and Sandesh has 61 books,Aakriti has 24 books and Sandesh has 18 books,Aakriti has 41 books and Sandesh has 47 books,60,3,,,"let Aakriti has $x$ books.
+    <br/>Since, Sandesh has $6$ less books than Aakriti
+        <br/>Therefore, Sandesh will have $x$-$6$ books.
+    <br/>Since, Aakriti and Sandesh have a total of 88 books    
+        <br/>=> $x+(x-6)=88$  
+        <br/>=> $x+x-6=88$    
+        <br/>=> $2x-6=88$<br/>=> $2x=88+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{94}{2}$
+<br/>=> $x=47$
+<br/>=> $x-6=47-6=41$
+<br/>Hence, Aakriti has $47$ books and Sandesh has $41$ books ",
+text,1,30203,3,"Utkarsh and Gopal have a total of 56 pencils.If Gopal has 10pencilsless than Utkarsh, how many pencils does each one have?
+",Utkarsh has 33 pencils and Gopal has 23 pencils,,,,Utkarsh has 29 pencils and Gopal has 27 pencils,Utkarsh has 49 pencils and Gopal has 39 pencils,Utkarsh has 23 pencils and Gopal has 33 pencils,60,3,,,"let Utkarsh has $x$ pencils.
+    <br/>Since, Gopal has $10$ less pencils than Utkarsh
+        <br/>Therefore, Gopal will have $x$-$10$ pencils.
+    <br/>Since, Utkarsh and Gopal have a total of 56 pencils    
+        <br/>=> $x+(x-10)=56$  
+        <br/>=> $x+x-10=56$    
+        <br/>=> $2x-10=56$<br/>=> $2x=56+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-10=33-10=23$
+<br/>Hence, Utkarsh has $33$ pencils and Gopal has $23$ pencils ",

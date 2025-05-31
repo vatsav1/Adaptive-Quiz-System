@@ -1,0 +1,401 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,2,"For the equation $7z = 20$, is the value of $z = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7z = 20$
+$\dfrac{7z}{7} = \dfrac{20}{7}$            (Dividing 7 on both sides)
+$z = \dfrac{20}{7}$
+$z = 2.857142857142857$",
+text,1,30203,2,"For the equation $9c = 28$, is the value of $c = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9c = 28$
+$\dfrac{9c}{9} = \dfrac{28}{9}$            (Dividing 9 on both sides)
+$c = \dfrac{28}{9}$
+$c = 3.111111111111111$",
+text,1,30203,2,"For the equation $10a = 30$, is the value of $a = 3$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$10a = 30$
+$\dfrac{10a}{10} = \dfrac{30}{10}$            (Dividing 10 on both sides)
+$a = \dfrac{30}{10}$
+$a = 3.0$",
+text,1,30203,2,"For the equation $8c = 23$, is the value of $c = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8c = 23$
+$\dfrac{8c}{8} = \dfrac{23}{8}$            (Dividing 8 on both sides)
+$c = \dfrac{23}{8}$
+$c = 2.875$",
+text,1,30203,2,"For the equation $4c = 23$, is the value of $c = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4c = 23$
+$\dfrac{4c}{4} = \dfrac{23}{4}$            (Dividing 4 on both sides)
+$c = \dfrac{23}{4}$
+$c = 5.75$",
+text,1,30203,2,"For the equation $6x = 26$, is the value of $x = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6x = 26$
+$\dfrac{6x}{6} = \dfrac{26}{6}$            (Dividing 6 on both sides)
+$x = \dfrac{26}{6}$
+$x = 4.333333333333333$",
+text,1,30203,2,"For the equation $2b = 20$, is the value of $b = 10$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$2b = 20$
+$\dfrac{2b}{2} = \dfrac{20}{2}$            (Dividing 2 on both sides)
+$b = \dfrac{20}{2}$
+$b = 10.0$",
+text,1,30203,2,"For the equation $3y = 29$, is the value of $y = 9$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3y = 29$
+$\dfrac{3y}{3} = \dfrac{29}{3}$            (Dividing 3 on both sides)
+$y = \dfrac{29}{3}$
+$y = 9.666666666666666$",
+text,1,30203,2,"For the equation $3y = 25$, is the value of $y = 8$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3y = 25$
+$\dfrac{3y}{3} = \dfrac{25}{3}$            (Dividing 3 on both sides)
+$y = \dfrac{25}{3}$
+$y = 8.333333333333334$",
+text,1,30203,2,"For the equation $10x = 21$, is the value of $x = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10x = 21$
+$\dfrac{10x}{10} = \dfrac{21}{10}$            (Dividing 10 on both sides)
+$x = \dfrac{21}{10}$
+$x = 2.1$",
+text,1,30203,2,"For the equation $9z = 24$, is the value of $z = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9z = 24$
+$\dfrac{9z}{9} = \dfrac{24}{9}$            (Dividing 9 on both sides)
+$z = \dfrac{24}{9}$
+$z = 2.6666666666666665$",
+text,1,30203,2,"For the equation $3x = 28$, is the value of $x = 9$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3x = 28$
+$\dfrac{3x}{3} = \dfrac{28}{3}$            (Dividing 3 on both sides)
+$x = \dfrac{28}{3}$
+$x = 9.333333333333334$",
+text,1,30203,2,"For the equation $4x = 25$, is the value of $x = 6$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4x = 25$
+$\dfrac{4x}{4} = \dfrac{25}{4}$            (Dividing 4 on both sides)
+$x = \dfrac{25}{4}$
+$x = 6.25$",
+text,1,30203,2,"For the equation $5y = 22$, is the value of $y = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5y = 22$
+$\dfrac{5y}{5} = \dfrac{22}{5}$            (Dividing 5 on both sides)
+$y = \dfrac{22}{5}$
+$y = 4.4$",
+text,1,30203,2,"For the equation $8b = 28$, is the value of $b = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8b = 28$
+$\dfrac{8b}{8} = \dfrac{28}{8}$            (Dividing 8 on both sides)
+$b = \dfrac{28}{8}$
+$b = 3.5$",
+text,1,30203,2,"For the equation $9y = 28$, is the value of $y = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9y = 28$
+$\dfrac{9y}{9} = \dfrac{28}{9}$            (Dividing 9 on both sides)
+$y = \dfrac{28}{9}$
+$y = 3.111111111111111$",
+text,1,30203,2,"For the equation $7b = 22$, is the value of $b = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7b = 22$
+$\dfrac{7b}{7} = \dfrac{22}{7}$            (Dividing 7 on both sides)
+$b = \dfrac{22}{7}$
+$b = 3.142857142857143$",
+text,1,30203,2,"For the equation $7b = 30$, is the value of $b = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7b = 30$
+$\dfrac{7b}{7} = \dfrac{30}{7}$            (Dividing 7 on both sides)
+$b = \dfrac{30}{7}$
+$b = 4.285714285714286$",
+text,1,30203,2,"For the equation $10x = 20$, is the value of $x = 2$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$10x = 20$
+$\dfrac{10x}{10} = \dfrac{20}{10}$            (Dividing 10 on both sides)
+$x = \dfrac{20}{10}$
+$x = 2.0$",
+text,1,30203,2,"For the equation $9z = 29$, is the value of $z = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9z = 29$
+$\dfrac{9z}{9} = \dfrac{29}{9}$            (Dividing 9 on both sides)
+$z = \dfrac{29}{9}$
+$z = 3.2222222222222223$",
+text,1,30203,2,"For the equation $8y = 29$, is the value of $y = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8y = 29$
+$\dfrac{8y}{8} = \dfrac{29}{8}$            (Dividing 8 on both sides)
+$y = \dfrac{29}{8}$
+$y = 3.625$",
+text,1,30203,2,"For the equation $2a = 24$, is the value of $a = 12$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$2a = 24$
+$\dfrac{2a}{2} = \dfrac{24}{2}$            (Dividing 2 on both sides)
+$a = \dfrac{24}{2}$
+$a = 12.0$",
+text,1,30203,2,"For the equation $4y = 26$, is the value of $y = 6$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4y = 26$
+$\dfrac{4y}{4} = \dfrac{26}{4}$            (Dividing 4 on both sides)
+$y = \dfrac{26}{4}$
+$y = 6.5$",
+text,1,30203,2,"For the equation $4b = 22$, is the value of $b = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4b = 22$
+$\dfrac{4b}{4} = \dfrac{22}{4}$            (Dividing 4 on both sides)
+$b = \dfrac{22}{4}$
+$b = 5.5$",
+text,1,30203,2,"For the equation $3c = 29$, is the value of $c = 9$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3c = 29$
+$\dfrac{3c}{3} = \dfrac{29}{3}$            (Dividing 3 on both sides)
+$c = \dfrac{29}{3}$
+$c = 9.666666666666666$",
+text,1,30203,2,"For the equation $9a = 22$, is the value of $a = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9a = 22$
+$\dfrac{9a}{9} = \dfrac{22}{9}$            (Dividing 9 on both sides)
+$a = \dfrac{22}{9}$
+$a = 2.4444444444444446$",
+text,1,30203,2,"For the equation $8a = 25$, is the value of $a = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8a = 25$
+$\dfrac{8a}{8} = \dfrac{25}{8}$            (Dividing 8 on both sides)
+$a = \dfrac{25}{8}$
+$a = 3.125$",
+text,1,30203,2,"For the equation $3x = 30$, is the value of $x = 10$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$3x = 30$
+$\dfrac{3x}{3} = \dfrac{30}{3}$            (Dividing 3 on both sides)
+$x = \dfrac{30}{3}$
+$x = 10.0$",
+text,1,30203,2,"For the equation $8b = 26$, is the value of $b = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8b = 26$
+$\dfrac{8b}{8} = \dfrac{26}{8}$            (Dividing 8 on both sides)
+$b = \dfrac{26}{8}$
+$b = 3.25$",
+text,1,30203,2,"For the equation $2y = 23$, is the value of $y = 11$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2y = 23$
+$\dfrac{2y}{2} = \dfrac{23}{2}$            (Dividing 2 on both sides)
+$y = \dfrac{23}{2}$
+$y = 11.5$",
+text,1,30203,2,"For the equation $8x = 23$, is the value of $x = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8x = 23$
+$\dfrac{8x}{8} = \dfrac{23}{8}$            (Dividing 8 on both sides)
+$x = \dfrac{23}{8}$
+$x = 2.875$",
+text,1,30203,2,"For the equation $10z = 29$, is the value of $z = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10z = 29$
+$\dfrac{10z}{10} = \dfrac{29}{10}$            (Dividing 10 on both sides)
+$z = \dfrac{29}{10}$
+$z = 2.9$",
+text,1,30203,2,"For the equation $7x = 28$, is the value of $x = 4$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$7x = 28$
+$\dfrac{7x}{7} = \dfrac{28}{7}$            (Dividing 7 on both sides)
+$x = \dfrac{28}{7}$
+$x = 4.0$",
+text,1,30203,2,"For the equation $10a = 25$, is the value of $a = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10a = 25$
+$\dfrac{10a}{10} = \dfrac{25}{10}$            (Dividing 10 on both sides)
+$a = \dfrac{25}{10}$
+$a = 2.5$",
+text,1,30203,2,"For the equation $6x = 24$, is the value of $x = 4$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$6x = 24$
+$\dfrac{6x}{6} = \dfrac{24}{6}$            (Dividing 6 on both sides)
+$x = \dfrac{24}{6}$
+$x = 4.0$",
+text,1,30203,2,"For the equation $2b = 29$, is the value of $b = 14$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2b = 29$
+$\dfrac{2b}{2} = \dfrac{29}{2}$            (Dividing 2 on both sides)
+$b = \dfrac{29}{2}$
+$b = 14.5$",
+text,1,30203,2,"For the equation $3a = 26$, is the value of $a = 8$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3a = 26$
+$\dfrac{3a}{3} = \dfrac{26}{3}$            (Dividing 3 on both sides)
+$a = \dfrac{26}{3}$
+$a = 8.666666666666666$",
+text,1,30203,2,"For the equation $7y = 21$, is the value of $y = 3$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$7y = 21$
+$\dfrac{7y}{7} = \dfrac{21}{7}$            (Dividing 7 on both sides)
+$y = \dfrac{21}{7}$
+$y = 3.0$",
+text,1,30203,2,"For the equation $9c = 25$, is the value of $c = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9c = 25$
+$\dfrac{9c}{9} = \dfrac{25}{9}$            (Dividing 9 on both sides)
+$c = \dfrac{25}{9}$
+$c = 2.7777777777777777$",
+text,1,30203,2,"For the equation $6y = 24$, is the value of $y = 4$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$6y = 24$
+$\dfrac{6y}{6} = \dfrac{24}{6}$            (Dividing 6 on both sides)
+$y = \dfrac{24}{6}$
+$y = 4.0$",
+text,1,30203,2,"For the equation $8a = 28$, is the value of $a = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8a = 28$
+$\dfrac{8a}{8} = \dfrac{28}{8}$            (Dividing 8 on both sides)
+$a = \dfrac{28}{8}$
+$a = 3.5$",
+text,1,30203,2,"For the equation $8x = 30$, is the value of $x = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8x = 30$
+$\dfrac{8x}{8} = \dfrac{30}{8}$            (Dividing 8 on both sides)
+$x = \dfrac{30}{8}$
+$x = 3.75$",
+text,1,30203,2,"For the equation $5b = 28$, is the value of $b = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5b = 28$
+$\dfrac{5b}{5} = \dfrac{28}{5}$            (Dividing 5 on both sides)
+$b = \dfrac{28}{5}$
+$b = 5.6$",
+text,1,30203,2,"For the equation $7a = 24$, is the value of $a = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7a = 24$
+$\dfrac{7a}{7} = \dfrac{24}{7}$            (Dividing 7 on both sides)
+$a = \dfrac{24}{7}$
+$a = 3.4285714285714284$",
+text,1,30203,2,"For the equation $6y = 28$, is the value of $y = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6y = 28$
+$\dfrac{6y}{6} = \dfrac{28}{6}$            (Dividing 6 on both sides)
+$y = \dfrac{28}{6}$
+$y = 4.666666666666667$",
+text,1,30203,2,"For the equation $3y = 24$, is the value of $y = 8$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$3y = 24$
+$\dfrac{3y}{3} = \dfrac{24}{3}$            (Dividing 3 on both sides)
+$y = \dfrac{24}{3}$
+$y = 8.0$",
+text,1,30203,2,"For the equation $5z = 21$, is the value of $z = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5z = 21$
+$\dfrac{5z}{5} = \dfrac{21}{5}$            (Dividing 5 on both sides)
+$z = \dfrac{21}{5}$
+$z = 4.2$",
+text,1,30203,2,"For the equation $9a = 24$, is the value of $a = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9a = 24$
+$\dfrac{9a}{9} = \dfrac{24}{9}$            (Dividing 9 on both sides)
+$a = \dfrac{24}{9}$
+$a = 2.6666666666666665$",
+text,1,30203,2,"For the equation $4z = 28$, is the value of $z = 7$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$4z = 28$
+$\dfrac{4z}{4} = \dfrac{28}{4}$            (Dividing 4 on both sides)
+$z = \dfrac{28}{4}$
+$z = 7.0$",
+text,1,30203,2,"For the equation $8y = 21$, is the value of $y = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8y = 21$
+$\dfrac{8y}{8} = \dfrac{21}{8}$            (Dividing 8 on both sides)
+$y = \dfrac{21}{8}$
+$y = 2.625$",
+text,1,30203,2,"For the equation $7x = 30$, is the value of $x = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7x = 30$
+$\dfrac{7x}{7} = \dfrac{30}{7}$            (Dividing 7 on both sides)
+$x = \dfrac{30}{7}$
+$x = 4.285714285714286$",
+text,1,30203,2,"For the equation $8c = 22$, is the value of $c = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8c = 22$
+$\dfrac{8c}{8} = \dfrac{22}{8}$            (Dividing 8 on both sides)
+$c = \dfrac{22}{8}$
+$c = 2.75$",
+text,1,30203,2,"For the equation $5c = 25$, is the value of $c = 5$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$5c = 25$
+$\dfrac{5c}{5} = \dfrac{25}{5}$            (Dividing 5 on both sides)
+$c = \dfrac{25}{5}$
+$c = 5.0$",
+text,1,30203,2,"For the equation $4x = 21$, is the value of $x = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4x = 21$
+$\dfrac{4x}{4} = \dfrac{21}{4}$            (Dividing 4 on both sides)
+$x = \dfrac{21}{4}$
+$x = 5.25$",
+text,1,30203,2,"For the equation $2y = 25$, is the value of $y = 12$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2y = 25$
+$\dfrac{2y}{2} = \dfrac{25}{2}$            (Dividing 2 on both sides)
+$y = \dfrac{25}{2}$
+$y = 12.5$",
+text,1,30203,2,"For the equation $7a = 28$, is the value of $a = 4$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$7a = 28$
+$\dfrac{7a}{7} = \dfrac{28}{7}$            (Dividing 7 on both sides)
+$a = \dfrac{28}{7}$
+$a = 4.0$",
+text,1,30203,2,"For the equation $2a = 21$, is the value of $a = 10$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2a = 21$
+$\dfrac{2a}{2} = \dfrac{21}{2}$            (Dividing 2 on both sides)
+$a = \dfrac{21}{2}$
+$a = 10.5$",
+text,1,30203,2,"For the equation $5y = 30$, is the value of $y = 6$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$5y = 30$
+$\dfrac{5y}{5} = \dfrac{30}{5}$            (Dividing 5 on both sides)
+$y = \dfrac{30}{5}$
+$y = 6.0$",
+text,1,30203,2,"For the equation $2a = 20$, is the value of $a = 10$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$2a = 20$
+$\dfrac{2a}{2} = \dfrac{20}{2}$            (Dividing 2 on both sides)
+$a = \dfrac{20}{2}$
+$a = 10.0$",
+text,1,30203,2,"For the equation $2c = 29$, is the value of $c = 14$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2c = 29$
+$\dfrac{2c}{2} = \dfrac{29}{2}$            (Dividing 2 on both sides)
+$c = \dfrac{29}{2}$
+$c = 14.5$",
+text,1,30203,2,"For the equation $5b = 22$, is the value of $b = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5b = 22$
+$\dfrac{5b}{5} = \dfrac{22}{5}$            (Dividing 5 on both sides)
+$b = \dfrac{22}{5}$
+$b = 4.4$",
+text,1,30203,2,"For the equation $6b = 23$, is the value of $b = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6b = 23$
+$\dfrac{6b}{6} = \dfrac{23}{6}$            (Dividing 6 on both sides)
+$b = \dfrac{23}{6}$
+$b = 3.8333333333333335$",
+text,1,30203,2,"For the equation $5a = 28$, is the value of $a = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5a = 28$
+$\dfrac{5a}{5} = \dfrac{28}{5}$            (Dividing 5 on both sides)
+$a = \dfrac{28}{5}$
+$a = 5.6$",
+text,1,30203,2,"For the equation $5c = 29$, is the value of $c = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5c = 29$
+$\dfrac{5c}{5} = \dfrac{29}{5}$            (Dividing 5 on both sides)
+$c = \dfrac{29}{5}$
+$c = 5.8$",
+text,1,30203,2,"For the equation $8x = 21$, is the value of $x = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$8x = 21$
+$\dfrac{8x}{8} = \dfrac{21}{8}$            (Dividing 8 on both sides)
+$x = \dfrac{21}{8}$
+$x = 2.625$",
+text,1,30203,2,"For the equation $6z = 28$, is the value of $z = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6z = 28$
+$\dfrac{6z}{6} = \dfrac{28}{6}$            (Dividing 6 on both sides)
+$z = \dfrac{28}{6}$
+$z = 4.666666666666667$",
+text,1,30203,2,"For the equation $7a = 21$, is the value of $a = 3$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$7a = 21$
+$\dfrac{7a}{7} = \dfrac{21}{7}$            (Dividing 7 on both sides)
+$a = \dfrac{21}{7}$
+$a = 3.0$",
+text,1,30203,2,"For the equation $2z = 23$, is the value of $z = 11$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2z = 23$
+$\dfrac{2z}{2} = \dfrac{23}{2}$            (Dividing 2 on both sides)
+$z = \dfrac{23}{2}$
+$z = 11.5$",
+text,1,30203,2,"For the equation $7a = 26$, is the value of $a = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7a = 26$
+$\dfrac{7a}{7} = \dfrac{26}{7}$            (Dividing 7 on both sides)
+$a = \dfrac{26}{7}$
+$a = 3.7142857142857144$",
+text,1,30203,2,"For the equation $3a = 23$, is the value of $a = 7$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3a = 23$
+$\dfrac{3a}{3} = \dfrac{23}{3}$            (Dividing 3 on both sides)
+$a = \dfrac{23}{3}$
+$a = 7.666666666666667$",
+text,1,30203,2,"For the equation $2a = 25$, is the value of $a = 12$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2a = 25$
+$\dfrac{2a}{2} = \dfrac{25}{2}$            (Dividing 2 on both sides)
+$a = \dfrac{25}{2}$
+$a = 12.5$",
+text,1,30203,2,"For the equation $6c = 20$, is the value of $c = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6c = 20$
+$\dfrac{6c}{6} = \dfrac{20}{6}$            (Dividing 6 on both sides)
+$c = \dfrac{20}{6}$
+$c = 3.3333333333333335$",
+text,1,30203,2,"For the equation $7x = 23$, is the value of $x = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7x = 23$
+$\dfrac{7x}{7} = \dfrac{23}{7}$            (Dividing 7 on both sides)
+$x = \dfrac{23}{7}$
+$x = 3.2857142857142856$",
+text,1,30203,2,"For the equation $10y = 23$, is the value of $y = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10y = 23$
+$\dfrac{10y}{10} = \dfrac{23}{10}$            (Dividing 10 on both sides)
+$y = \dfrac{23}{10}$
+$y = 2.3$",
+text,1,30203,2,"For the equation $10c = 28$, is the value of $c = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10c = 28$
+$\dfrac{10c}{10} = \dfrac{28}{10}$            (Dividing 10 on both sides)
+$c = \dfrac{28}{10}$
+$c = 2.8$",
+text,1,30203,2,"For the equation $3z = 20$, is the value of $z = 6$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3z = 20$
+$\dfrac{3z}{3} = \dfrac{20}{3}$            (Dividing 3 on both sides)
+$z = \dfrac{20}{3}$
+$z = 6.666666666666667$",
+text,1,30203,2,"For the equation $10z = 30$, is the value of $z = 3$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$10z = 30$
+$\dfrac{10z}{10} = \dfrac{30}{10}$            (Dividing 10 on both sides)
+$z = \dfrac{30}{10}$
+$z = 3.0$",
+text,1,30203,2,"For the equation $3x = 22$, is the value of $x = 7$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3x = 22$
+$\dfrac{3x}{3} = \dfrac{22}{3}$            (Dividing 3 on both sides)
+$x = \dfrac{22}{3}$
+$x = 7.333333333333333$",
+text,1,30203,2,"For the equation $10c = 22$, is the value of $c = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10c = 22$
+$\dfrac{10c}{10} = \dfrac{22}{10}$            (Dividing 10 on both sides)
+$c = \dfrac{22}{10}$
+$c = 2.2$",
+text,1,30203,2,"For the equation $5x = 22$, is the value of $x = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5x = 22$
+$\dfrac{5x}{5} = \dfrac{22}{5}$            (Dividing 5 on both sides)
+$x = \dfrac{22}{5}$
+$x = 4.4$",
+text,1,30203,2,"For the equation $10b = 28$, is the value of $b = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$10b = 28$
+$\dfrac{10b}{10} = \dfrac{28}{10}$            (Dividing 10 on both sides)
+$b = \dfrac{28}{10}$
+$b = 2.8$",
+text,1,30203,2,"For the equation $9x = 24$, is the value of $x = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9x = 24$
+$\dfrac{9x}{9} = \dfrac{24}{9}$            (Dividing 9 on both sides)
+$x = \dfrac{24}{9}$
+$x = 2.6666666666666665$",
+text,1,30203,2,"For the equation $3y = 26$, is the value of $y = 8$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3y = 26$
+$\dfrac{3y}{3} = \dfrac{26}{3}$            (Dividing 3 on both sides)
+$y = \dfrac{26}{3}$
+$y = 8.666666666666666$",
+text,1,30203,2,"For the equation $5b = 30$, is the value of $b = 6$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$5b = 30$
+$\dfrac{5b}{5} = \dfrac{30}{5}$            (Dividing 5 on both sides)
+$b = \dfrac{30}{5}$
+$b = 6.0$",
+text,1,30203,2,"For the equation $10z = 20$, is the value of $z = 2$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$10z = 20$
+$\dfrac{10z}{10} = \dfrac{20}{10}$            (Dividing 10 on both sides)
+$z = \dfrac{20}{10}$
+$z = 2.0$",
+text,1,30203,2,"For the equation $4y = 23$, is the value of $y = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4y = 23$
+$\dfrac{4y}{4} = \dfrac{23}{4}$            (Dividing 4 on both sides)
+$y = \dfrac{23}{4}$
+$y = 5.75$",
+text,1,30203,2,"For the equation $4a = 29$, is the value of $a = 7$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$4a = 29$
+$\dfrac{4a}{4} = \dfrac{29}{4}$            (Dividing 4 on both sides)
+$a = \dfrac{29}{4}$
+$a = 7.25$",
+text,1,30203,2,"For the equation $2y = 27$, is the value of $y = 13$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2y = 27$
+$\dfrac{2y}{2} = \dfrac{27}{2}$            (Dividing 2 on both sides)
+$y = \dfrac{27}{2}$
+$y = 13.5$",
+text,1,30203,2,"For the equation $3c = 24$, is the value of $c = 8$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$3c = 24$
+$\dfrac{3c}{3} = \dfrac{24}{3}$            (Dividing 3 on both sides)
+$c = \dfrac{24}{3}$
+$c = 8.0$",
+text,1,30203,2,"For the equation $9a = 21$, is the value of $a = 2$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$9a = 21$
+$\dfrac{9a}{9} = \dfrac{21}{9}$            (Dividing 9 on both sides)
+$a = \dfrac{21}{9}$
+$a = 2.3333333333333335$",
+text,1,30203,2,"For the equation $2b = 28$, is the value of $b = 14$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$2b = 28$
+$\dfrac{2b}{2} = \dfrac{28}{2}$            (Dividing 2 on both sides)
+$b = \dfrac{28}{2}$
+$b = 14.0$",
+text,1,30203,2,"For the equation $2b = 21$, is the value of $b = 10$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2b = 21$
+$\dfrac{2b}{2} = \dfrac{21}{2}$            (Dividing 2 on both sides)
+$b = \dfrac{21}{2}$
+$b = 10.5$",
+text,1,30203,2,"For the equation $2z = 21$, is the value of $z = 10$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$2z = 21$
+$\dfrac{2z}{2} = \dfrac{21}{2}$            (Dividing 2 on both sides)
+$z = \dfrac{21}{2}$
+$z = 10.5$",
+text,1,30203,2,"For the equation $5z = 23$, is the value of $z = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5z = 23$
+$\dfrac{5z}{5} = \dfrac{23}{5}$            (Dividing 5 on both sides)
+$z = \dfrac{23}{5}$
+$z = 4.6$",
+text,1,30203,2,"For the equation $6c = 27$, is the value of $c = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6c = 27$
+$\dfrac{6c}{6} = \dfrac{27}{6}$            (Dividing 6 on both sides)
+$c = \dfrac{27}{6}$
+$c = 4.5$",
+text,1,30203,2,"For the equation $6c = 28$, is the value of $c = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$6c = 28$
+$\dfrac{6c}{6} = \dfrac{28}{6}$            (Dividing 6 on both sides)
+$c = \dfrac{28}{6}$
+$c = 4.666666666666667$",
+text,1,30203,2,"For the equation $7b = 25$, is the value of $b = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$7b = 25$
+$\dfrac{7b}{7} = \dfrac{25}{7}$            (Dividing 7 on both sides)
+$b = \dfrac{25}{7}$
+$b = 3.5714285714285716$",
+text,1,30203,2,"For the equation $4b = 28$, is the value of $b = 7$ ? (Yes/No)",Yes,,,,No,,,60,3,,,"$4b = 28$
+$\dfrac{4b}{4} = \dfrac{28}{4}$            (Dividing 4 on both sides)
+$b = \dfrac{28}{4}$
+$b = 7.0$",
+text,1,30203,2,"For the equation $5x = 29$, is the value of $x = 5$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$5x = 29$
+$\dfrac{5x}{5} = \dfrac{29}{5}$            (Dividing 5 on both sides)
+$x = \dfrac{29}{5}$
+$x = 5.8$",
+text,1,30203,2,"For the equation $3y = 23$, is the value of $y = 7$ ? (Yes/No)",No,,,,Yes,,,60,3,,,"$3y = 23$
+$\dfrac{3y}{3} = \dfrac{23}{3}$            (Dividing 3 on both sides)
+$y = \dfrac{23}{3}$
+$y = 7.666666666666667$",

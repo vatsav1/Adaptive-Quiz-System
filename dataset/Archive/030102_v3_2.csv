@@ -1,0 +1,1301 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30102,3,"If Pooja has $26$  sheets, Aakash has $54$  sheets, Akanksha has $108$  sheets and Rohit has $52$  sheets.
+Which two pairs will form an equation?
+","(Pooja , Aakash) and (Akanksha , Rohit)",,,,"(Pooja , Akanksha) and (Aakash , Rohit)","(Pooja , Rohit) and (Aakash , Akanksha)","(Pooja , Rohit) and (Aakash , Gautami)",60,3,,,"Since, it is given that the weights of Pooja, Aakash, Akanksha and Rohit
+are $26$, $54$, $108$ and $52$ respectively
+Now, $\dfrac{26}{54} = 0.48$
+Also, $\dfrac{52}{108} = 0.48$
+=> $\dfrac{26}{54} = \dfrac{52}{108}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Pooja and Aakash , Akanksha and Rohit
+",
+text,1,30102,3,"If Gautami has $32$  Watermelons, Suyash has $52$  Watermelons, Aarav has $64$  Watermelons and Vedang has $104$  Watermelons.
+Which two pairs will form an equation?
+","(Gautami , Suyash) and (Aarav , Vedang)",,,,"(Gautami , Aarav) and (Suyash , Vedang)","(Gautami , Vedang) and (Suyash , Aarav)","(Gautami , Vedang) and (Suyash , Ankita)",60,3,,,"Since, it is given that the weights of Gautami, Suyash, Aarav and Vedang
+are $32$, $52$, $64$ and $104$ respectively
+Now, $\dfrac{32}{52} = 0.62$
+Also, $\dfrac{64}{104} = 0.62$
+=> $\dfrac{32}{52} = \dfrac{64}{104}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gautami and Suyash , Aarav and Vedang
+",
+text,1,30102,3,"If Ishika has $46$  chocolates, Devang has $52$  chocolates, Ninad has $104$  chocolates and Siddhesh has $92$  chocolates.
+Which two pairs will form an equation?
+","(Ishika , Devang) and (Ninad , Siddhesh)",,,,"(Ishika , Ninad) and (Devang , Siddhesh)","(Ishika , Siddhesh) and (Devang , Ninad)","(Ishika , Siddhesh) and (Devang , Kshitij)",60,3,,,"Since, it is given that the weights of Ishika, Devang, Ninad and Siddhesh
+are $46$, $52$, $104$ and $92$ respectively
+Now, $\dfrac{46}{52} = 0.88$
+Also, $\dfrac{92}{104} = 0.88$
+=> $\dfrac{46}{52} = \dfrac{92}{104}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishika and Devang , Ninad and Siddhesh
+",
+text,1,30102,3,"If Neha has $32$  toys, Manish has $42$  toys, Shivani has $64$  toys and Darshan has $84$  toys.
+Which two pairs will form an equation?
+","(Neha , Manish) and (Shivani , Darshan)",,,,"(Neha , Shivani) and (Manish , Darshan)","(Neha , Darshan) and (Manish , Shivani)","(Neha , Darshan) and (Manish , Shruti)",60,3,,,"Since, it is given that the weights of Neha, Manish, Shivani and Darshan
+are $32$, $42$, $64$ and $84$ respectively
+Now, $\dfrac{32}{42} = 0.76$
+Also, $\dfrac{64}{84} = 0.76$
+=> $\dfrac{32}{42} = \dfrac{64}{84}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Neha and Manish , Shivani and Darshan
+",
+text,1,30102,3,"If Yash weighs $52$ Kg and Sanket weighs $34$ Kg, Vedang weighs $68$ Kg and Chaitrali weighs $104$ Kg.
+Which two pairs will form an equation?
+","(Yash , Sanket) and (Vedang , Chaitrali)",,,,"(Yash , Vedang) and (Sanket , Chaitrali)","(Yash , Chaitrali) and (Sanket , Vedang)","(Yash , Chaitrali) and (Sanket , Aadesh)",60,3,,,"Since, it is given that the weights of Yash, Sanket, Vedang and Chaitrali
+are $52$, $34$, $68$ and $104$ respectively
+Now, $\dfrac{52}{34} = 1.53$
+Also, $\dfrac{104}{68} = 1.53$
+=> $\dfrac{52}{34} = \dfrac{104}{68}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yash and Sanket , Vedang and Chaitrali
+",
+text,1,30102,3,"If Tushar weighs $50$ Kg and Vinay weighs $44$ Kg, Aruni weighs $100$ Kg and Siddhesh weighs $88$ Kg.
+Which two pairs will form an equation?
+","(Tushar , Vinay) and (Aruni , Siddhesh)",,,,"(Tushar , Aruni) and (Vinay , Siddhesh)","(Tushar , Siddhesh) and (Vinay , Aruni)","(Tushar , Siddhesh) and (Vinay , Yash)",60,3,,,"Since, it is given that the weights of Tushar, Vinay, Aruni and Siddhesh
+are $50$, $44$, $100$ and $88$ respectively
+Now, $\dfrac{50}{44} = 1.14$
+Also, $\dfrac{100}{88} = 1.14$
+=> $\dfrac{50}{44} = \dfrac{100}{88}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tushar and Vinay , Aruni and Siddhesh
+",
+text,1,30102,3,"If Anmol weighs $40$ Kg and Kalyani weighs $50$ Kg, Manali weighs $80$ Kg and Tushar weighs $100$ Kg.
+Which two pairs will form an equation?
+","(Anmol , Kalyani) and (Manali , Tushar)",,,,"(Anmol , Manali) and (Kalyani , Tushar)","(Anmol , Tushar) and (Kalyani , Manali)","(Anmol , Tushar) and (Kalyani , Isha)",60,3,,,"Since, it is given that the weights of Anmol, Kalyani, Manali and Tushar
+are $40$, $50$, $80$ and $100$ respectively
+Now, $\dfrac{40}{50} = 0.80$
+Also, $\dfrac{80}{100} = 0.80$
+=> $\dfrac{40}{50} = \dfrac{80}{100}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Anmol and Kalyani , Manali and Tushar
+",
+text,1,30102,3,"If Prathamesh weighs $72$ Kg and Ankita weighs $36$ Kg, Manali weighs $64$ Kg and Rahul weighs $32$ Kg.
+Which two pairs will form an equation?
+","(Prathamesh , Ankita) and (Manali , Rahul)",,,,"(Prathamesh , Manali) and (Ankita , Rahul)","(Prathamesh , Rahul) and (Ankita , Manali)","(Prathamesh , Rahul) and (Ankita , Akanksha)",60,3,,,"Since, it is given that the weights of Prathamesh, Ankita, Manali and Rahul
+are $72$, $36$, $64$ and $32$ respectively
+Now, $\dfrac{72}{36} = 2.00$
+Also, $\dfrac{64}{32} = 2.00$
+=> $\dfrac{72}{36} = \dfrac{64}{32}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Prathamesh and Ankita , Manali and Rahul
+",
+text,1,30102,3,"If Gautami weighs $44$ Kg and Aditi weighs $26$ Kg, Vedang weighs $88$ Kg and Sandesh weighs $52$ Kg.
+Which two pairs will form an equation?
+","(Gautami , Aditi) and (Vedang , Sandesh)",,,,"(Gautami , Vedang) and (Aditi , Sandesh)","(Gautami , Sandesh) and (Aditi , Vedang)","(Gautami , Sandesh) and (Aditi , Tushar)",60,3,,,"Since, it is given that the weights of Gautami, Aditi, Vedang and Sandesh
+are $44$, $26$, $88$ and $52$ respectively
+Now, $\dfrac{44}{26} = 1.69$
+Also, $\dfrac{88}{52} = 1.69$
+=> $\dfrac{44}{26} = \dfrac{88}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gautami and Aditi , Vedang and Sandesh
+",
+text,1,30102,3,"If Aadesh weighs $72$ Kg and Siddhesh weighs $36$ Kg, Vedang weighs $92$ Kg and Ankita weighs $46$ Kg.
+Which two pairs will form an equation?
+","(Aadesh , Siddhesh) and (Vedang , Ankita)",,,,"(Aadesh , Vedang) and (Siddhesh , Ankita)","(Aadesh , Ankita) and (Siddhesh , Vedang)","(Aadesh , Ankita) and (Siddhesh , Aditi)",60,3,,,"Since, it is given that the weights of Aadesh, Siddhesh, Vedang and Ankita
+are $72$, $36$, $92$ and $46$ respectively
+Now, $\dfrac{72}{36} = 2.00$
+Also, $\dfrac{92}{46} = 2.00$
+=> $\dfrac{72}{36} = \dfrac{92}{46}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aadesh and Siddhesh , Vedang and Ankita
+",
+text,1,30102,3,"If Devang has $32$  Apples, Aboli has $36$  Apples, Siddhesh has $64$  Apples and Vaishnavi has $72$  Apples.
+Which two pairs will form an equation?
+","(Devang , Aboli) and (Siddhesh , Vaishnavi)",,,,"(Devang , Siddhesh) and (Aboli , Vaishnavi)","(Devang , Vaishnavi) and (Aboli , Siddhesh)","(Devang , Vaishnavi) and (Aboli , Neha)",60,3,,,"Since, it is given that the weights of Devang, Aboli, Siddhesh and Vaishnavi
+are $32$, $36$, $64$ and $72$ respectively
+Now, $\dfrac{32}{36} = 0.89$
+Also, $\dfrac{64}{72} = 0.89$
+=> $\dfrac{32}{36} = \dfrac{64}{72}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Devang and Aboli , Siddhesh and Vaishnavi
+",
+text,1,30102,3,"If Neha has $54$  T-shirts, Gargi has $38$  T-shirts, Shivani has $108$  T-shirts and Ishika has $76$  T-shirts.
+Which two pairs will form an equation?
+","(Neha , Gargi) and (Shivani , Ishika)",,,,"(Neha , Shivani) and (Gargi , Ishika)","(Neha , Ishika) and (Gargi , Shivani)","(Neha , Ishika) and (Gargi , Gautami)",60,3,,,"Since, it is given that the weights of Neha, Gargi, Shivani and Ishika
+are $54$, $38$, $108$ and $76$ respectively
+Now, $\dfrac{54}{38} = 1.42$
+Also, $\dfrac{108}{76} = 1.42$
+=> $\dfrac{54}{38} = \dfrac{108}{76}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Neha and Gargi , Shivani and Ishika
+",
+text,1,30102,3,"If Shantanu has $64$  books, Pranali has $32$  books, Chaitrali has $72$  books and Dharmesh has $36$  books.
+Which two pairs will form an equation?
+","(Shantanu , Pranali) and (Chaitrali , Dharmesh)",,,,"(Shantanu , Chaitrali) and (Pranali , Dharmesh)","(Shantanu , Dharmesh) and (Pranali , Chaitrali)","(Shantanu , Dharmesh) and (Pranali , Tanvi)",60,3,,,"Since, it is given that the weights of Shantanu, Pranali, Chaitrali and Dharmesh
+are $64$, $32$, $72$ and $36$ respectively
+Now, $\dfrac{64}{32} = 2.00$
+Also, $\dfrac{72}{36} = 2.00$
+=> $\dfrac{64}{32} = \dfrac{72}{36}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Shantanu and Pranali , Chaitrali and Dharmesh
+",
+text,1,30102,3,"If Ankita weighs $50$ Kg and Abhijeet weighs $54$ Kg, Kshitij weighs $108$ Kg and Aditi weighs $100$ Kg.
+Which two pairs will form an equation?
+","(Ankita , Abhijeet) and (Kshitij , Aditi)",,,,"(Ankita , Kshitij) and (Abhijeet , Aditi)","(Ankita , Aditi) and (Abhijeet , Kshitij)","(Ankita , Aditi) and (Abhijeet , Gagan)",60,3,,,"Since, it is given that the weights of Ankita, Abhijeet, Kshitij and Aditi
+are $50$, $54$, $108$ and $100$ respectively
+Now, $\dfrac{50}{54} = 0.93$
+Also, $\dfrac{100}{108} = 0.93$
+=> $\dfrac{50}{54} = \dfrac{100}{108}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ankita and Abhijeet , Kshitij and Aditi
+",
+text,1,30102,3,"If Kshitij weighs $44$ Kg and Veerja weighs $36$ Kg, Shivani weighs $72$ Kg and Akshata weighs $88$ Kg.
+Which two pairs will form an equation?
+","(Kshitij , Veerja) and (Shivani , Akshata)",,,,"(Kshitij , Shivani) and (Veerja , Akshata)","(Kshitij , Akshata) and (Veerja , Shivani)","(Kshitij , Akshata) and (Veerja , Varun)",60,3,,,"Since, it is given that the weights of Kshitij, Veerja, Shivani and Akshata
+are $44$, $36$, $72$ and $88$ respectively
+Now, $\dfrac{44}{36} = 1.22$
+Also, $\dfrac{88}{72} = 1.22$
+=> $\dfrac{44}{36} = \dfrac{88}{72}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Kshitij and Veerja , Shivani and Akshata
+",
+text,1,30102,3,"If Mihir has $54$  sheets, Gargi has $56$  sheets, Manali has $108$  sheets and Soham has $112$  sheets.
+Which two pairs will form an equation?
+","(Mihir , Gargi) and (Manali , Soham)",,,,"(Mihir , Manali) and (Gargi , Soham)","(Mihir , Soham) and (Gargi , Manali)","(Mihir , Soham) and (Gargi , Vaishnavi)",60,3,,,"Since, it is given that the weights of Mihir, Gargi, Manali and Soham
+are $54$, $56$, $108$ and $112$ respectively
+Now, $\dfrac{54}{56} = 0.96$
+Also, $\dfrac{108}{112} = 0.96$
+=> $\dfrac{54}{56} = \dfrac{108}{112}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Mihir and Gargi , Manali and Soham
+",
+text,1,30102,3,"If Manali weighs $36$ Kg and Utkarsh weighs $28$ Kg, Gayatri weighs $72$ Kg and Ankita weighs $56$ Kg.
+Which two pairs will form an equation?
+","(Manali , Utkarsh) and (Gayatri , Ankita)",,,,"(Manali , Gayatri) and (Utkarsh , Ankita)","(Manali , Ankita) and (Utkarsh , Gayatri)","(Manali , Ankita) and (Utkarsh , Ishika)",60,3,,,"Since, it is given that the weights of Manali, Utkarsh, Gayatri and Ankita
+are $36$, $28$, $72$ and $56$ respectively
+Now, $\dfrac{36}{28} = 1.29$
+Also, $\dfrac{72}{56} = 1.29$
+=> $\dfrac{36}{28} = \dfrac{72}{56}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Manali and Utkarsh , Gayatri and Ankita
+",
+text,1,30102,3,"If Pranali weighs $46$ Kg and Manish weighs $38$ Kg, Ganesh weighs $76$ Kg and Om weighs $92$ Kg.
+Which two pairs will form an equation?
+","(Pranali , Manish) and (Ganesh , Om)",,,,"(Pranali , Ganesh) and (Manish , Om)","(Pranali , Om) and (Manish , Ganesh)","(Pranali , Om) and (Manish , Vedang)",60,3,,,"Since, it is given that the weights of Pranali, Manish, Ganesh and Om
+are $46$, $38$, $76$ and $92$ respectively
+Now, $\dfrac{46}{38} = 1.21$
+Also, $\dfrac{92}{76} = 1.21$
+=> $\dfrac{46}{38} = \dfrac{92}{76}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Pranali and Manish , Ganesh and Om
+",
+text,1,30102,3,"If Vedang has $34$  pencils, Aakriti has $46$  pencils, Sanket has $92$  pencils and Akshata has $68$  pencils.
+Which two pairs will form an equation?
+","(Vedang , Aakriti) and (Sanket , Akshata)",,,,"(Vedang , Sanket) and (Aakriti , Akshata)","(Vedang , Akshata) and (Aakriti , Sanket)","(Vedang , Akshata) and (Aakriti , Ganesh)",60,3,,,"Since, it is given that the weights of Vedang, Aakriti, Sanket and Akshata
+are $34$, $46$, $92$ and $68$ respectively
+Now, $\dfrac{34}{46} = 0.74$
+Also, $\dfrac{68}{92} = 0.74$
+=> $\dfrac{34}{46} = \dfrac{68}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Vedang and Aakriti , Sanket and Akshata
+",
+text,1,30102,3,"If Onkar weighs $28$ Kg and Vinay weighs $34$ Kg, Aniket weighs $56$ Kg and Suyash weighs $68$ Kg.
+Which two pairs will form an equation?
+","(Onkar , Vinay) and (Aniket , Suyash)",,,,"(Onkar , Aniket) and (Vinay , Suyash)","(Onkar , Suyash) and (Vinay , Aniket)","(Onkar , Suyash) and (Vinay , Gaurav)",60,3,,,"Since, it is given that the weights of Onkar, Vinay, Aniket and Suyash
+are $28$, $34$, $56$ and $68$ respectively
+Now, $\dfrac{28}{34} = 0.82$
+Also, $\dfrac{56}{68} = 0.82$
+=> $\dfrac{28}{34} = \dfrac{56}{68}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Onkar and Vinay , Aniket and Suyash
+",
+text,1,30102,3,"If Tanmay has $34$  T-shirts, Aniket has $26$  T-shirts, Vedang has $68$  T-shirts and Yash has $52$  T-shirts.
+Which two pairs will form an equation?
+","(Tanmay , Aniket) and (Vedang , Yash)",,,,"(Tanmay , Vedang) and (Aniket , Yash)","(Tanmay , Yash) and (Aniket , Vedang)","(Tanmay , Yash) and (Aniket , Tejas)",60,3,,,"Since, it is given that the weights of Tanmay, Aniket, Vedang and Yash
+are $34$, $26$, $68$ and $52$ respectively
+Now, $\dfrac{34}{26} = 1.31$
+Also, $\dfrac{68}{52} = 1.31$
+=> $\dfrac{34}{26} = \dfrac{68}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tanmay and Aniket , Vedang and Yash
+",
+text,1,30102,3,"If Aakash has $50$  pens, Neha has $28$  pens, Atharva has $56$  pens and Chaitanya has $100$  pens.
+Which two pairs will form an equation?
+","(Aakash , Neha) and (Atharva , Chaitanya)",,,,"(Aakash , Atharva) and (Neha , Chaitanya)","(Aakash , Chaitanya) and (Neha , Atharva)","(Aakash , Chaitanya) and (Neha , Tushar)",60,3,,,"Since, it is given that the weights of Aakash, Neha, Atharva and Chaitanya
+are $50$, $28$, $56$ and $100$ respectively
+Now, $\dfrac{50}{28} = 1.79$
+Also, $\dfrac{100}{56} = 1.79$
+=> $\dfrac{50}{28} = \dfrac{100}{56}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aakash and Neha , Atharva and Chaitanya
+",
+text,1,30102,3,"If Yogesh has $88$  Cookies, Kajal has $44$  Cookies, Neha has $104$  Cookies and Onkar has $52$  Cookies.
+Which two pairs will form an equation?
+","(Yogesh , Kajal) and (Neha , Onkar)",,,,"(Yogesh , Neha) and (Kajal , Onkar)","(Yogesh , Onkar) and (Kajal , Neha)","(Yogesh , Onkar) and (Kajal , Aboli)",60,3,,,"Since, it is given that the weights of Yogesh, Kajal, Neha and Onkar
+are $88$, $44$, $104$ and $52$ respectively
+Now, $\dfrac{88}{44} = 2.00$
+Also, $\dfrac{104}{52} = 2.00$
+=> $\dfrac{88}{44} = \dfrac{104}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yogesh and Kajal , Neha and Onkar
+",
+text,1,30102,3,"If Siddhesh weighs $42$ Kg and Chaitanya weighs $32$ Kg, Vinay weighs $84$ Kg and Pooja weighs $64$ Kg.
+Which two pairs will form an equation?
+","(Siddhesh , Chaitanya) and (Vinay , Pooja)",,,,"(Siddhesh , Vinay) and (Chaitanya , Pooja)","(Siddhesh , Pooja) and (Chaitanya , Vinay)","(Siddhesh , Pooja) and (Chaitanya , Pranali)",60,3,,,"Since, it is given that the weights of Siddhesh, Chaitanya, Vinay and Pooja
+are $42$, $32$, $84$ and $64$ respectively
+Now, $\dfrac{42}{32} = 1.31$
+Also, $\dfrac{84}{64} = 1.31$
+=> $\dfrac{42}{32} = \dfrac{84}{64}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Siddhesh and Chaitanya , Vinay and Pooja
+",
+text,1,30102,3,"If Nishi has $28$  toys, Aruni has $30$  toys, Sanket has $56$  toys and Manish has $60$  toys.
+Which two pairs will form an equation?
+","(Nishi , Aruni) and (Sanket , Manish)",,,,"(Nishi , Sanket) and (Aruni , Manish)","(Nishi , Manish) and (Aruni , Sanket)","(Nishi , Manish) and (Aruni , Aruni)",60,3,,,"Since, it is given that the weights of Nishi, Aruni, Sanket and Manish
+are $28$, $30$, $56$ and $60$ respectively
+Now, $\dfrac{28}{30} = 0.93$
+Also, $\dfrac{56}{60} = 0.93$
+=> $\dfrac{28}{30} = \dfrac{56}{60}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Nishi and Aruni , Sanket and Manish
+",
+text,1,30102,3,"If Vinay weighs $112$ Kg and Devang weighs $56$ Kg, Chaitrali weighs $108$ Kg and Dhriti weighs $54$ Kg.
+Which two pairs will form an equation?
+","(Vinay , Devang) and (Chaitrali , Dhriti)",,,,"(Vinay , Chaitrali) and (Devang , Dhriti)","(Vinay , Dhriti) and (Devang , Chaitrali)","(Vinay , Dhriti) and (Devang , Sachin)",60,3,,,"Since, it is given that the weights of Vinay, Devang, Chaitrali and Dhriti
+are $112$, $56$, $108$ and $54$ respectively
+Now, $\dfrac{112}{56} = 2.00$
+Also, $\dfrac{108}{54} = 2.00$
+=> $\dfrac{112}{56} = \dfrac{108}{54}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Vinay and Devang , Chaitrali and Dhriti
+",
+text,1,30102,3,"If Gopal weighs $36$ Kg and Ninad weighs $60$ Kg, Pranali weighs $72$ Kg and Manali weighs $30$ Kg.
+Which two pairs will form an equation?
+","(Gopal , Pranali) and (Ninad , Manali)",,,,"(Gopal , Ninad) and (Pranali , Manali)","(Gopal , Manali) and (Ninad , Pranali)","(Gopal , Tanmay) and (Ninad , Pranali)",60,3,,,"Since, it is given that the weights of Gopal, Ninad, Pranali and Manali
+are $36$, $60$, $72$ and $30$ respectively
+Now, $\dfrac{36}{72} = 0.50$
+Also, $\dfrac{30}{60} = 0.50$
+=> $\dfrac{36}{72} = \dfrac{30}{60}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gopal and Pranali , Ninad and Manali
+",
+text,1,30102,3,"If Siddhesh weighs $72$ Kg and Anuja weighs $36$ Kg, Nishi weighs $60$ Kg and Shivani weighs $30$ Kg.
+Which two pairs will form an equation?
+","(Siddhesh , Anuja) and (Nishi , Shivani)",,,,"(Siddhesh , Nishi) and (Anuja , Shivani)","(Siddhesh , Shivani) and (Anuja , Nishi)","(Siddhesh , Shivani) and (Anuja , Pooja)",60,3,,,"Since, it is given that the weights of Siddhesh, Anuja, Nishi and Shivani
+are $72$, $36$, $60$ and $30$ respectively
+Now, $\dfrac{72}{36} = 2.00$
+Also, $\dfrac{60}{30} = 2.00$
+=> $\dfrac{72}{36} = \dfrac{60}{30}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Siddhesh and Anuja , Nishi and Shivani
+",
+text,1,30102,3,"If Vaishnavi has $54$  Bananas, Yuti has $46$  Bananas, Gaurav has $108$  Bananas and Prathamesh has $92$  Bananas.
+Which two pairs will form an equation?
+","(Vaishnavi , Yuti) and (Gaurav , Prathamesh)",,,,"(Vaishnavi , Gaurav) and (Yuti , Prathamesh)","(Vaishnavi , Prathamesh) and (Yuti , Gaurav)","(Vaishnavi , Prathamesh) and (Yuti , Aakriti)",60,3,,,"Since, it is given that the weights of Vaishnavi, Yuti, Gaurav and Prathamesh
+are $54$, $46$, $108$ and $92$ respectively
+Now, $\dfrac{54}{46} = 1.17$
+Also, $\dfrac{108}{92} = 1.17$
+=> $\dfrac{54}{46} = \dfrac{108}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Vaishnavi and Yuti , Gaurav and Prathamesh
+",
+text,1,30102,3,"If Yuti weighs $34$ Kg and Aakash weighs $36$ Kg, Isha weighs $68$ Kg and Siddhesh weighs $72$ Kg.
+Which two pairs will form an equation?
+","(Yuti , Aakash) and (Isha , Siddhesh)",,,,"(Yuti , Isha) and (Aakash , Siddhesh)","(Yuti , Siddhesh) and (Aakash , Isha)","(Yuti , Siddhesh) and (Aakash , Tejas)",60,3,,,"Since, it is given that the weights of Yuti, Aakash, Isha and Siddhesh
+are $34$, $36$, $68$ and $72$ respectively
+Now, $\dfrac{34}{36} = 0.94$
+Also, $\dfrac{68}{72} = 0.94$
+=> $\dfrac{34}{36} = \dfrac{68}{72}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yuti and Aakash , Isha and Siddhesh
+",
+text,1,30102,3,"If Rahul weighs $36$ Kg and Chaitanya weighs $34$ Kg, Suyash weighs $72$ Kg and Neha weighs $68$ Kg.
+Which two pairs will form an equation?
+","(Rahul , Chaitanya) and (Suyash , Neha)",,,,"(Rahul , Suyash) and (Chaitanya , Neha)","(Rahul , Neha) and (Chaitanya , Suyash)","(Rahul , Neha) and (Chaitanya , Utkarsh)",60,3,,,"Since, it is given that the weights of Rahul, Chaitanya, Suyash and Neha
+are $36$, $34$, $72$ and $68$ respectively
+Now, $\dfrac{36}{34} = 1.06$
+Also, $\dfrac{72}{68} = 1.06$
+=> $\dfrac{36}{34} = \dfrac{72}{68}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Rahul and Chaitanya , Suyash and Neha
+",
+text,1,30102,3,"If Soham weighs $80$ Kg and Shivani weighs $40$ Kg, Anmol weighs $84$ Kg and Varun weighs $42$ Kg.
+Which two pairs will form an equation?
+","(Soham , Shivani) and (Anmol , Varun)",,,,"(Soham , Anmol) and (Shivani , Varun)","(Soham , Varun) and (Shivani , Anmol)","(Soham , Varun) and (Shivani , Aniket)",60,3,,,"Since, it is given that the weights of Soham, Shivani, Anmol and Varun
+are $80$, $40$, $84$ and $42$ respectively
+Now, $\dfrac{80}{40} = 2.00$
+Also, $\dfrac{84}{42} = 2.00$
+=> $\dfrac{80}{40} = \dfrac{84}{42}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Soham and Shivani , Anmol and Varun
+",
+text,1,30102,3,"If Vivek has $40$  pencils, Chaitrali has $108$  pencils, Vaishnavi has $80$  pencils and Sanket has $54$  pencils.
+Which two pairs will form an equation?
+","(Vivek , Vaishnavi) and (Chaitrali , Sanket)",,,,"(Vivek , Chaitrali) and (Vaishnavi , Sanket)","(Vivek , Sanket) and (Chaitrali , Vaishnavi)","(Vivek , Ishan) and (Chaitrali , Vaishnavi)",60,3,,,"Since, it is given that the weights of Vivek, Chaitrali, Vaishnavi and Sanket
+are $40$, $108$, $80$ and $54$ respectively
+Now, $\dfrac{40}{80} = 0.50$
+Also, $\dfrac{54}{108} = 0.50$
+=> $\dfrac{40}{80} = \dfrac{54}{108}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Vivek and Vaishnavi , Chaitrali and Sanket
+",
+text,1,30102,3,"If Darshan weighs $46$ Kg and Vedang weighs $42$ Kg, Sachin weighs $92$ Kg and Soham weighs $84$ Kg.
+Which two pairs will form an equation?
+","(Darshan , Vedang) and (Sachin , Soham)",,,,"(Darshan , Sachin) and (Vedang , Soham)","(Darshan , Soham) and (Vedang , Sachin)","(Darshan , Soham) and (Vedang , Aakash)",60,3,,,"Since, it is given that the weights of Darshan, Vedang, Sachin and Soham
+are $46$, $42$, $92$ and $84$ respectively
+Now, $\dfrac{46}{42} = 1.10$
+Also, $\dfrac{92}{84} = 1.10$
+=> $\dfrac{46}{42} = \dfrac{92}{84}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Darshan and Vedang , Sachin and Soham
+",
+text,1,30102,3,"If Yogesh has $100$  Jackets, Kshitij has $50$  Jackets, Gauravi has $64$  Jackets and Ganesh has $32$  Jackets.
+Which two pairs will form an equation?
+","(Yogesh , Kshitij) and (Gauravi , Ganesh)",,,,"(Yogesh , Gauravi) and (Kshitij , Ganesh)","(Yogesh , Ganesh) and (Kshitij , Gauravi)","(Yogesh , Ganesh) and (Kshitij , Shivani)",60,3,,,"Since, it is given that the weights of Yogesh, Kshitij, Gauravi and Ganesh
+are $100$, $50$, $64$ and $32$ respectively
+Now, $\dfrac{100}{50} = 2.00$
+Also, $\dfrac{64}{32} = 2.00$
+=> $\dfrac{100}{50} = \dfrac{64}{32}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yogesh and Kshitij , Gauravi and Ganesh
+",
+text,1,30102,3,"If Onkar weighs $38$ Kg and Aditi weighs $88$ Kg, Gagan weighs $76$ Kg and Kalyani weighs $44$ Kg.
+Which two pairs will form an equation?
+","(Onkar , Gagan) and (Aditi , Kalyani)",,,,"(Onkar , Aditi) and (Gagan , Kalyani)","(Onkar , Kalyani) and (Aditi , Gagan)","(Onkar , Kshitij) and (Aditi , Gagan)",60,3,,,"Since, it is given that the weights of Onkar, Aditi, Gagan and Kalyani
+are $38$, $88$, $76$ and $44$ respectively
+Now, $\dfrac{38}{76} = 0.50$
+Also, $\dfrac{44}{88} = 0.50$
+=> $\dfrac{38}{76} = \dfrac{44}{88}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Onkar and Gagan , Aditi and Kalyani
+",
+text,1,30102,3,"If Shivani has $116$  toys, Aakash has $58$  toys, Aboli has $80$  toys and Aakash has $40$  toys.
+Which two pairs will form an equation?
+","(Shivani , Aakash) and (Aboli , Aakash)",,,,"(Shivani , Aboli) and (Aakash , Aakash)","(Shivani , Aakash) and (Aakash , Aboli)","(Shivani , Aakash) and (Aakash , Shantanu)",60,3,,,"Since, it is given that the weights of Shivani, Aakash, Aboli and Aakash
+are $116$, $58$, $80$ and $40$ respectively
+Now, $\dfrac{116}{58} = 2.00$
+Also, $\dfrac{80}{40} = 2.00$
+=> $\dfrac{116}{58} = \dfrac{80}{40}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Shivani and Aakash , Aboli and Aakash
+",
+text,1,30102,3,"If Onkar weighs $57$ Kg and Shruti weighs $60$ Kg, Aakash weighs $171$ Kg and Manish weighs $180$ Kg.
+Which two pairs will form an equation?
+","(Onkar , Shruti) and (Aakash , Manish)",,,,"(Onkar , Aakash) and (Shruti , Manish)","(Onkar , Manish) and (Shruti , Aakash)","(Onkar , Manish) and (Shruti , Dhriti)",60,3,,,"Since, it is given that the weights of Onkar, Shruti, Aakash and Manish
+are $57$, $60$, $171$ and $180$ respectively
+Now, $\dfrac{57}{60} = 0.95$
+Also, $\dfrac{171}{180} = 0.95$
+=> $\dfrac{57}{60} = \dfrac{171}{180}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Onkar and Shruti , Aakash and Manish
+",
+text,1,30102,3,"If Ishika has $30$  Watermelons, Anmol has $58$  Watermelons, Devang has $116$  Watermelons and Vaibhav has $60$  Watermelons.
+Which two pairs will form an equation?
+","(Ishika , Anmol) and (Devang , Vaibhav)",,,,"(Ishika , Devang) and (Anmol , Vaibhav)","(Ishika , Vaibhav) and (Anmol , Devang)","(Ishika , Vaibhav) and (Anmol , Shantanu)",60,3,,,"Since, it is given that the weights of Ishika, Anmol, Devang and Vaibhav
+are $30$, $58$, $116$ and $60$ respectively
+Now, $\dfrac{30}{58} = 0.52$
+Also, $\dfrac{60}{116} = 0.52$
+=> $\dfrac{30}{58} = \dfrac{60}{116}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishika and Anmol , Devang and Vaibhav
+",
+text,1,30102,3,"If Tejas weighs $46$ Kg and Om weighs $44$ Kg, Devang weighs $92$ Kg and Chaitanya weighs $88$ Kg.
+Which two pairs will form an equation?
+","(Tejas , Om) and (Devang , Chaitanya)",,,,"(Tejas , Devang) and (Om , Chaitanya)","(Tejas , Chaitanya) and (Om , Devang)","(Tejas , Chaitanya) and (Om , Atharva)",60,3,,,"Since, it is given that the weights of Tejas, Om, Devang and Chaitanya
+are $46$, $44$, $92$ and $88$ respectively
+Now, $\dfrac{46}{44} = 1.05$
+Also, $\dfrac{92}{88} = 1.05$
+=> $\dfrac{46}{44} = \dfrac{92}{88}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tejas and Om , Devang and Chaitanya
+",
+text,1,30102,3,"If Atharva has $42$  books, Neha has $34$  books, Aarav has $68$  books and Gaurav has $84$  books.
+Which two pairs will form an equation?
+","(Atharva , Neha) and (Aarav , Gaurav)",,,,"(Atharva , Aarav) and (Neha , Gaurav)","(Atharva , Gaurav) and (Neha , Aarav)","(Atharva , Gaurav) and (Neha , Yogesh)",60,3,,,"Since, it is given that the weights of Atharva, Neha, Aarav and Gaurav
+are $42$, $34$, $68$ and $84$ respectively
+Now, $\dfrac{42}{34} = 1.24$
+Also, $\dfrac{84}{68} = 1.24$
+=> $\dfrac{42}{34} = \dfrac{84}{68}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Atharva and Neha , Aarav and Gaurav
+",
+text,1,30102,3,"If Dharmesh has $44$  Jackets, Tanmay has $92$  Jackets, Chaitanya has $88$  Jackets and Sandesh has $46$  Jackets.
+Which two pairs will form an equation?
+","(Dharmesh , Chaitanya) and (Tanmay , Sandesh)",,,,"(Dharmesh , Tanmay) and (Chaitanya , Sandesh)","(Dharmesh , Sandesh) and (Tanmay , Chaitanya)","(Dharmesh , Aakash) and (Tanmay , Chaitanya)",60,3,,,"Since, it is given that the weights of Dharmesh, Tanmay, Chaitanya and Sandesh
+are $44$, $92$, $88$ and $46$ respectively
+Now, $\dfrac{44}{88} = 0.50$
+Also, $\dfrac{46}{92} = 0.50$
+=> $\dfrac{44}{88} = \dfrac{46}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Dharmesh and Chaitanya , Tanmay and Sandesh
+",
+text,1,30102,3,"If Dhriti has $40$  shirts, Tejas has $46$  shirts, Kshitij has $80$  shirts and Shantanu has $92$  shirts.
+Which two pairs will form an equation?
+","(Dhriti , Tejas) and (Kshitij , Shantanu)",,,,"(Dhriti , Kshitij) and (Tejas , Shantanu)","(Dhriti , Shantanu) and (Tejas , Kshitij)","(Dhriti , Shantanu) and (Tejas , Vaibhav)",60,3,,,"Since, it is given that the weights of Dhriti, Tejas, Kshitij and Shantanu
+are $40$, $46$, $80$ and $92$ respectively
+Now, $\dfrac{40}{46} = 0.87$
+Also, $\dfrac{80}{92} = 0.87$
+=> $\dfrac{40}{46} = \dfrac{80}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Dhriti and Tejas , Kshitij and Shantanu
+",
+text,1,30102,3,"If Aakash has $42$  Jackets, Prajwal has $30$  Jackets, Pooja has $84$  Jackets and Isha has $60$  Jackets.
+Which two pairs will form an equation?
+","(Aakash , Prajwal) and (Pooja , Isha)",,,,"(Aakash , Pooja) and (Prajwal , Isha)","(Aakash , Isha) and (Prajwal , Pooja)","(Aakash , Isha) and (Prajwal , Manali)",60,3,,,"Since, it is given that the weights of Aakash, Prajwal, Pooja and Isha
+are $42$, $30$, $84$ and $60$ respectively
+Now, $\dfrac{42}{30} = 1.40$
+Also, $\dfrac{84}{60} = 1.40$
+=> $\dfrac{42}{30} = \dfrac{84}{60}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aakash and Prajwal , Pooja and Isha
+",
+text,1,30102,3,"If Aboli weighs $104$ Kg and Ankita weighs $52$ Kg, Shruti weighs $60$ Kg and Divya weighs $30$ Kg.
+Which two pairs will form an equation?
+","(Aboli , Ankita) and (Shruti , Divya)",,,,"(Aboli , Shruti) and (Ankita , Divya)","(Aboli , Divya) and (Ankita , Shruti)","(Aboli , Divya) and (Ankita , Yogesh)",60,3,,,"Since, it is given that the weights of Aboli, Ankita, Shruti and Divya
+are $104$, $52$, $60$ and $30$ respectively
+Now, $\dfrac{104}{52} = 2.00$
+Also, $\dfrac{60}{30} = 2.00$
+=> $\dfrac{104}{52} = \dfrac{60}{30}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aboli and Ankita , Shruti and Divya
+",
+text,1,30102,3,"If Aabha weighs $36$ Kg and Darshan weighs $84$ Kg, Aadesh weighs $72$ Kg and Shruti weighs $42$ Kg.
+Which two pairs will form an equation?
+","(Aabha , Aadesh) and (Darshan , Shruti)",,,,"(Aabha , Darshan) and (Aadesh , Shruti)","(Aabha , Shruti) and (Darshan , Aadesh)","(Aabha , Kshitij) and (Darshan , Aadesh)",60,3,,,"Since, it is given that the weights of Aabha, Darshan, Aadesh and Shruti
+are $36$, $84$, $72$ and $42$ respectively
+Now, $\dfrac{36}{72} = 0.50$
+Also, $\dfrac{42}{84} = 0.50$
+=> $\dfrac{36}{72} = \dfrac{42}{84}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aabha and Aadesh , Darshan and Shruti
+",
+text,1,30102,3,"If Ishan has $50$  pants, Vedang has $26$  pants, Rahul has $100$  pants and Gargi has $52$  pants.
+Which two pairs will form an equation?
+","(Ishan , Vedang) and (Rahul , Gargi)",,,,"(Ishan , Rahul) and (Vedang , Gargi)","(Ishan , Gargi) and (Vedang , Rahul)","(Ishan , Gargi) and (Vedang , Dharmesh)",60,3,,,"Since, it is given that the weights of Ishan, Vedang, Rahul and Gargi
+are $50$, $26$, $100$ and $52$ respectively
+Now, $\dfrac{50}{26} = 1.92$
+Also, $\dfrac{100}{52} = 1.92$
+=> $\dfrac{50}{26} = \dfrac{100}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishan and Vedang , Rahul and Gargi
+",
+text,1,30102,3,"If Ishan has $52$  sheets, Gagan has $26$  sheets, Akshata has $52$  sheets and Tanvi has $104$  sheets.
+Which two pairs will form an equation?
+","(Ishan , Gagan) and (Akshata , Tanvi)",,,,"(Ishan , Akshata) and (Gagan , Tanvi)","(Ishan , Tanvi) and (Gagan , Akshata)","(Ishan , Tanvi) and (Gagan , Tejas)",60,3,,,"Since, it is given that the weights of Ishan, Gagan, Akshata and Tanvi
+are $52$, $26$, $52$ and $104$ respectively
+Now, $\dfrac{52}{26} = 2.00$
+Also, $\dfrac{104}{52} = 2.00$
+=> $\dfrac{52}{26} = \dfrac{104}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishan and Gagan , Akshata and Tanvi
+",
+text,1,30102,3,"If Aabha has $50$  sheets, Aboli has $44$  sheets, Pranali has $88$  sheets and Sanket has $100$  sheets.
+Which two pairs will form an equation?
+","(Aabha , Aboli) and (Pranali , Sanket)",,,,"(Aabha , Pranali) and (Aboli , Sanket)","(Aabha , Sanket) and (Aboli , Pranali)","(Aabha , Sanket) and (Aboli , Rohit)",60,3,,,"Since, it is given that the weights of Aabha, Aboli, Pranali and Sanket
+are $50$, $44$, $88$ and $100$ respectively
+Now, $\dfrac{50}{44} = 1.14$
+Also, $\dfrac{100}{88} = 1.14$
+=> $\dfrac{50}{44} = \dfrac{100}{88}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aabha and Aboli , Pranali and Sanket
+",
+text,1,30102,3,"If Aakash weighs $116$ Kg and Vinay weighs $58$ Kg, Yuti weighs $100$ Kg and Mihir weighs $50$ Kg.
+Which two pairs will form an equation?
+","(Aakash , Vinay) and (Yuti , Mihir)",,,,"(Aakash , Yuti) and (Vinay , Mihir)","(Aakash , Mihir) and (Vinay , Yuti)","(Aakash , Mihir) and (Vinay , Gayatri)",60,3,,,"Since, it is given that the weights of Aakash, Vinay, Yuti and Mihir
+are $116$, $58$, $100$ and $50$ respectively
+Now, $\dfrac{116}{58} = 2.00$
+Also, $\dfrac{100}{50} = 2.00$
+=> $\dfrac{116}{58} = \dfrac{100}{50}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aakash and Vinay , Yuti and Mihir
+",
+text,1,30102,3,"If Anmol has $39$  shirts, Om has $42$  shirts, Gayatri has $117$  shirts and Akanksha has $126$  shirts.
+Which two pairs will form an equation?
+","(Anmol , Om) and (Gayatri , Akanksha)",,,,"(Anmol , Gayatri) and (Om , Akanksha)","(Anmol , Akanksha) and (Om , Gayatri)","(Anmol , Akanksha) and (Om , Aadesh)",60,3,,,"Since, it is given that the weights of Anmol, Om, Gayatri and Akanksha
+are $39$, $42$, $117$ and $126$ respectively
+Now, $\dfrac{39}{42} = 0.93$
+Also, $\dfrac{117}{126} = 0.93$
+=> $\dfrac{39}{42} = \dfrac{117}{126}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Anmol and Om , Gayatri and Akanksha
+",
+text,1,30102,3,"If Onkar weighs $36$ Kg and Kajal weighs $40$ Kg, Ninad weighs $80$ Kg and Shivani weighs $72$ Kg.
+Which two pairs will form an equation?
+","(Onkar , Kajal) and (Ninad , Shivani)",,,,"(Onkar , Ninad) and (Kajal , Shivani)","(Onkar , Shivani) and (Kajal , Ninad)","(Onkar , Shivani) and (Kajal , Tanmay)",60,3,,,"Since, it is given that the weights of Onkar, Kajal, Ninad and Shivani
+are $36$, $40$, $80$ and $72$ respectively
+Now, $\dfrac{36}{40} = 0.90$
+Also, $\dfrac{72}{80} = 0.90$
+=> $\dfrac{36}{40} = \dfrac{72}{80}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Onkar and Kajal , Ninad and Shivani
+",
+text,1,30102,3,"If Gagan weighs $32$ Kg and Dharmesh weighs $26$ Kg, Yash weighs $52$ Kg and Ankita weighs $64$ Kg.
+Which two pairs will form an equation?
+","(Gagan , Dharmesh) and (Yash , Ankita)",,,,"(Gagan , Yash) and (Dharmesh , Ankita)","(Gagan , Ankita) and (Dharmesh , Yash)","(Gagan , Ankita) and (Dharmesh , Sachin)",60,3,,,"Since, it is given that the weights of Gagan, Dharmesh, Yash and Ankita
+are $32$, $26$, $52$ and $64$ respectively
+Now, $\dfrac{32}{26} = 1.23$
+Also, $\dfrac{64}{52} = 1.23$
+=> $\dfrac{32}{26} = \dfrac{64}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gagan and Dharmesh , Yash and Ankita
+",
+text,1,30102,3,"If Ganesh has $30$  Bananas, Gaurav has $46$  Bananas, Kajal has $60$  Bananas and Suyash has $92$  Bananas.
+Which two pairs will form an equation?
+","(Ganesh , Gaurav) and (Kajal , Suyash)",,,,"(Ganesh , Kajal) and (Gaurav , Suyash)","(Ganesh , Suyash) and (Gaurav , Kajal)","(Ganesh , Suyash) and (Gaurav , Tejas)",60,3,,,"Since, it is given that the weights of Ganesh, Gaurav, Kajal and Suyash
+are $30$, $46$, $60$ and $92$ respectively
+Now, $\dfrac{30}{46} = 0.65$
+Also, $\dfrac{60}{92} = 0.65$
+=> $\dfrac{30}{46} = \dfrac{60}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ganesh and Gaurav , Kajal and Suyash
+",
+text,1,30102,3,"If Yogesh has $36$  Watermelons, Gargi has $40$  Watermelons, Chaitrali has $80$  Watermelons and Vinay has $72$  Watermelons.
+Which two pairs will form an equation?
+","(Yogesh , Gargi) and (Chaitrali , Vinay)",,,,"(Yogesh , Chaitrali) and (Gargi , Vinay)","(Yogesh , Vinay) and (Gargi , Chaitrali)","(Yogesh , Vinay) and (Gargi , Anmol)",60,3,,,"Since, it is given that the weights of Yogesh, Gargi, Chaitrali and Vinay
+are $36$, $40$, $80$ and $72$ respectively
+Now, $\dfrac{36}{40} = 0.90$
+Also, $\dfrac{72}{80} = 0.90$
+=> $\dfrac{36}{40} = \dfrac{72}{80}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yogesh and Gargi , Chaitrali and Vinay
+",
+text,1,30102,3,"If Darshan has $100$  pants, Kshitij has $50$  pants, Soham has $56$  pants and Rahul has $28$  pants.
+Which two pairs will form an equation?
+","(Darshan , Kshitij) and (Soham , Rahul)",,,,"(Darshan , Soham) and (Kshitij , Rahul)","(Darshan , Rahul) and (Kshitij , Soham)","(Darshan , Rahul) and (Kshitij , Prathamesh)",60,3,,,"Since, it is given that the weights of Darshan, Kshitij, Soham and Rahul
+are $100$, $50$, $56$ and $28$ respectively
+Now, $\dfrac{100}{50} = 2.00$
+Also, $\dfrac{56}{28} = 2.00$
+=> $\dfrac{100}{50} = \dfrac{56}{28}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Darshan and Kshitij , Soham and Rahul
+",
+text,1,30102,3,"If Gauravi weighs $42$ Kg and Vivek weighs $46$ Kg, Yogesh weighs $84$ Kg and Kshitij weighs $92$ Kg.
+Which two pairs will form an equation?
+","(Gauravi , Vivek) and (Yogesh , Kshitij)",,,,"(Gauravi , Yogesh) and (Vivek , Kshitij)","(Gauravi , Kshitij) and (Vivek , Yogesh)","(Gauravi , Kshitij) and (Vivek , Aadesh)",60,3,,,"Since, it is given that the weights of Gauravi, Vivek, Yogesh and Kshitij
+are $42$, $46$, $84$ and $92$ respectively
+Now, $\dfrac{42}{46} = 0.91$
+Also, $\dfrac{84}{92} = 0.91$
+=> $\dfrac{42}{46} = \dfrac{84}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gauravi and Vivek , Yogesh and Kshitij
+",
+text,1,30102,3,"If Devang has $44$  toys, Utkarsh has $100$  toys, Maithili has $88$  toys and Gautami has $50$  toys.
+Which two pairs will form an equation?
+","(Devang , Maithili) and (Utkarsh , Gautami)",,,,"(Devang , Utkarsh) and (Maithili , Gautami)","(Devang , Gautami) and (Utkarsh , Maithili)","(Devang , Vedang) and (Utkarsh , Maithili)",60,3,,,"Since, it is given that the weights of Devang, Utkarsh, Maithili and Gautami
+are $44$, $100$, $88$ and $50$ respectively
+Now, $\dfrac{44}{88} = 0.50$
+Also, $\dfrac{50}{100} = 0.50$
+=> $\dfrac{44}{88} = \dfrac{50}{100}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Devang and Maithili , Utkarsh and Gautami
+",
+text,1,30102,3,"If Manali has $36$  T-shirts, Aniket has $32$  T-shirts, Kajal has $64$  T-shirts and Dhriti has $72$  T-shirts.
+Which two pairs will form an equation?
+","(Manali , Aniket) and (Kajal , Dhriti)",,,,"(Manali , Kajal) and (Aniket , Dhriti)","(Manali , Dhriti) and (Aniket , Kajal)","(Manali , Dhriti) and (Aniket , Aakriti)",60,3,,,"Since, it is given that the weights of Manali, Aniket, Kajal and Dhriti
+are $36$, $32$, $64$ and $72$ respectively
+Now, $\dfrac{36}{32} = 1.12$
+Also, $\dfrac{72}{64} = 1.12$
+=> $\dfrac{36}{32} = \dfrac{72}{64}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Manali and Aniket , Kajal and Dhriti
+",
+text,1,30102,3,"If Rahul has $42$  pencils, Divya has $54$  pencils, Vinay has $84$  pencils and Isha has $108$  pencils.
+Which two pairs will form an equation?
+","(Rahul , Divya) and (Vinay , Isha)",,,,"(Rahul , Vinay) and (Divya , Isha)","(Rahul , Isha) and (Divya , Vinay)","(Rahul , Isha) and (Divya , Shantanu)",60,3,,,"Since, it is given that the weights of Rahul, Divya, Vinay and Isha
+are $42$, $54$, $84$ and $108$ respectively
+Now, $\dfrac{42}{54} = 0.78$
+Also, $\dfrac{84}{108} = 0.78$
+=> $\dfrac{42}{54} = \dfrac{84}{108}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Rahul and Divya , Vinay and Isha
+",
+text,1,30102,3,"If Tanvi has $52$  Bananas, Onkar has $42$  Bananas, Isha has $104$  Bananas and Aruni has $84$  Bananas.
+Which two pairs will form an equation?
+","(Tanvi , Onkar) and (Isha , Aruni)",,,,"(Tanvi , Isha) and (Onkar , Aruni)","(Tanvi , Aruni) and (Onkar , Isha)","(Tanvi , Aruni) and (Onkar , Veerja)",60,3,,,"Since, it is given that the weights of Tanvi, Onkar, Isha and Aruni
+are $52$, $42$, $104$ and $84$ respectively
+Now, $\dfrac{52}{42} = 1.24$
+Also, $\dfrac{104}{84} = 1.24$
+=> $\dfrac{52}{42} = \dfrac{104}{84}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tanvi and Onkar , Isha and Aruni
+",
+text,1,30102,3,"If Tanvi has $32$  Bananas, Divya has $52$  Bananas, Vinay has $104$  Bananas and Isha has $64$  Bananas.
+Which two pairs will form an equation?
+","(Tanvi , Divya) and (Vinay , Isha)",,,,"(Tanvi , Vinay) and (Divya , Isha)","(Tanvi , Isha) and (Divya , Vinay)","(Tanvi , Isha) and (Divya , Kalyani)",60,3,,,"Since, it is given that the weights of Tanvi, Divya, Vinay and Isha
+are $32$, $52$, $104$ and $64$ respectively
+Now, $\dfrac{32}{52} = 0.62$
+Also, $\dfrac{64}{104} = 0.62$
+=> $\dfrac{32}{52} = \dfrac{64}{104}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tanvi and Divya , Vinay and Isha
+",
+text,1,30102,3,"If Aakriti has $116$  T-shirts, Akshata has $58$  T-shirts, Onkar has $84$  T-shirts and Rohit has $42$  T-shirts.
+Which two pairs will form an equation?
+","(Aakriti , Akshata) and (Onkar , Rohit)",,,,"(Aakriti , Onkar) and (Akshata , Rohit)","(Aakriti , Rohit) and (Akshata , Onkar)","(Aakriti , Rohit) and (Akshata , Atharva)",60,3,,,"Since, it is given that the weights of Aakriti, Akshata, Onkar and Rohit
+are $116$, $58$, $84$ and $42$ respectively
+Now, $\dfrac{116}{58} = 2.00$
+Also, $\dfrac{84}{42} = 2.00$
+=> $\dfrac{116}{58} = \dfrac{84}{42}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aakriti and Akshata , Onkar and Rohit
+",
+text,1,30102,3,"If Divya weighs $68$ Kg and Tejas weighs $34$ Kg, Pranali weighs $64$ Kg and Sanket weighs $32$ Kg.
+Which two pairs will form an equation?
+","(Divya , Tejas) and (Pranali , Sanket)",,,,"(Divya , Pranali) and (Tejas , Sanket)","(Divya , Sanket) and (Tejas , Pranali)","(Divya , Sanket) and (Tejas , Anmol)",60,3,,,"Since, it is given that the weights of Divya, Tejas, Pranali and Sanket
+are $68$, $34$, $64$ and $32$ respectively
+Now, $\dfrac{68}{34} = 2.00$
+Also, $\dfrac{64}{32} = 2.00$
+=> $\dfrac{68}{34} = \dfrac{64}{32}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Divya and Tejas , Pranali and Sanket
+",
+text,1,30102,3,"If Saloni weighs $48$ Kg and Kalyani weighs $26$ Kg, Chaitanya weighs $52$ Kg and Gautami weighs $96$ Kg.
+Which two pairs will form an equation?
+","(Saloni , Kalyani) and (Chaitanya , Gautami)",,,,"(Saloni , Chaitanya) and (Kalyani , Gautami)","(Saloni , Gautami) and (Kalyani , Chaitanya)","(Saloni , Gautami) and (Kalyani , Ninad)",60,3,,,"Since, it is given that the weights of Saloni, Kalyani, Chaitanya and Gautami
+are $48$, $26$, $52$ and $96$ respectively
+Now, $\dfrac{48}{26} = 1.85$
+Also, $\dfrac{96}{52} = 1.85$
+=> $\dfrac{48}{26} = \dfrac{96}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Saloni and Kalyani , Chaitanya and Gautami
+",
+text,1,30102,3,"If Neha weighs $50$ Kg and Siddhesh weighs $60$ Kg, Prathamesh weighs $100$ Kg and Ishan weighs $30$ Kg.
+Which two pairs will form an equation?
+","(Neha , Prathamesh) and (Siddhesh , Ishan)",,,,"(Neha , Siddhesh) and (Prathamesh , Ishan)","(Neha , Ishan) and (Siddhesh , Prathamesh)","(Neha , Yash) and (Siddhesh , Prathamesh)",60,3,,,"Since, it is given that the weights of Neha, Siddhesh, Prathamesh and Ishan
+are $50$, $60$, $100$ and $30$ respectively
+Now, $\dfrac{50}{100} = 0.50$
+Also, $\dfrac{30}{60} = 0.50$
+=> $\dfrac{50}{100} = \dfrac{30}{60}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Neha and Prathamesh , Siddhesh and Ishan
+",
+text,1,30102,3,"If Akshata weighs $28$ Kg and Vivek weighs $64$ Kg, Vedang weighs $56$ Kg and Soham weighs $32$ Kg.
+Which two pairs will form an equation?
+","(Akshata , Vedang) and (Vivek , Soham)",,,,"(Akshata , Vivek) and (Vedang , Soham)","(Akshata , Soham) and (Vivek , Vedang)","(Akshata , Neha) and (Vivek , Vedang)",60,3,,,"Since, it is given that the weights of Akshata, Vivek, Vedang and Soham
+are $28$, $64$, $56$ and $32$ respectively
+Now, $\dfrac{28}{56} = 0.50$
+Also, $\dfrac{32}{64} = 0.50$
+=> $\dfrac{28}{56} = \dfrac{32}{64}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Akshata and Vedang , Vivek and Soham
+",
+text,1,30102,3,"If Tejas has $46$  Apples, Manish has $30$  Apples, Ganesh has $60$  Apples and Ankita has $92$  Apples.
+Which two pairs will form an equation?
+","(Tejas , Manish) and (Ganesh , Ankita)",,,,"(Tejas , Ganesh) and (Manish , Ankita)","(Tejas , Ankita) and (Manish , Ganesh)","(Tejas , Ankita) and (Manish , Aditi)",60,3,,,"Since, it is given that the weights of Tejas, Manish, Ganesh and Ankita
+are $46$, $30$, $60$ and $92$ respectively
+Now, $\dfrac{46}{30} = 1.53$
+Also, $\dfrac{92}{60} = 1.53$
+=> $\dfrac{46}{30} = \dfrac{92}{60}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tejas and Manish , Ganesh and Ankita
+",
+text,1,30102,3,"If Devang has $32$  books, Pranali has $56$  books, Nishi has $64$  books and Aakash has $112$  books.
+Which two pairs will form an equation?
+","(Devang , Pranali) and (Nishi , Aakash)",,,,"(Devang , Nishi) and (Pranali , Aakash)","(Devang , Aakash) and (Pranali , Nishi)","(Devang , Aakash) and (Pranali , Varun)",60,3,,,"Since, it is given that the weights of Devang, Pranali, Nishi and Aakash
+are $32$, $56$, $64$ and $112$ respectively
+Now, $\dfrac{32}{56} = 0.57$
+Also, $\dfrac{64}{112} = 0.57$
+=> $\dfrac{32}{56} = \dfrac{64}{112}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Devang and Pranali , Nishi and Aakash
+",
+text,1,30102,3,"If Prathamesh has $42$  books, Tejas has $50$  books, Abhijeet has $84$  books and Aditi has $100$  books.
+Which two pairs will form an equation?
+","(Prathamesh , Tejas) and (Abhijeet , Aditi)",,,,"(Prathamesh , Abhijeet) and (Tejas , Aditi)","(Prathamesh , Aditi) and (Tejas , Abhijeet)","(Prathamesh , Aditi) and (Tejas , Kajal)",60,3,,,"Since, it is given that the weights of Prathamesh, Tejas, Abhijeet and Aditi
+are $42$, $50$, $84$ and $100$ respectively
+Now, $\dfrac{42}{50} = 0.84$
+Also, $\dfrac{84}{100} = 0.84$
+=> $\dfrac{42}{50} = \dfrac{84}{100}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Prathamesh and Tejas , Abhijeet and Aditi
+",
+text,1,30102,3,"If Aniket has $28$  Jackets, Tanvi has $60$  Jackets, Gargi has $56$  Jackets and Manali has $30$  Jackets.
+Which two pairs will form an equation?
+","(Aniket , Gargi) and (Tanvi , Manali)",,,,"(Aniket , Tanvi) and (Gargi , Manali)","(Aniket , Manali) and (Tanvi , Gargi)","(Aniket , Vaibhav) and (Tanvi , Gargi)",60,3,,,"Since, it is given that the weights of Aniket, Tanvi, Gargi and Manali
+are $28$, $60$, $56$ and $30$ respectively
+Now, $\dfrac{28}{56} = 0.50$
+Also, $\dfrac{30}{60} = 0.50$
+=> $\dfrac{28}{56} = \dfrac{30}{60}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aniket and Gargi , Tanvi and Manali
+",
+text,1,30102,3,"If Shantanu weighs $96$ Kg and Aruni weighs $48$ Kg, Onkar weighs $68$ Kg and Varun weighs $34$ Kg.
+Which two pairs will form an equation?
+","(Shantanu , Aruni) and (Onkar , Varun)",,,,"(Shantanu , Onkar) and (Aruni , Varun)","(Shantanu , Varun) and (Aruni , Onkar)","(Shantanu , Varun) and (Aruni , Aakash)",60,3,,,"Since, it is given that the weights of Shantanu, Aruni, Onkar and Varun
+are $96$, $48$, $68$ and $34$ respectively
+Now, $\dfrac{96}{48} = 2.00$
+Also, $\dfrac{68}{34} = 2.00$
+=> $\dfrac{96}{48} = \dfrac{68}{34}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Shantanu and Aruni , Onkar and Varun
+",
+text,1,30102,3,"If Chaitrali weighs $34$ Kg and Dhriti weighs $52$ Kg, Gayatri weighs $104$ Kg and Vinay weighs $68$ Kg.
+Which two pairs will form an equation?
+","(Chaitrali , Dhriti) and (Gayatri , Vinay)",,,,"(Chaitrali , Gayatri) and (Dhriti , Vinay)","(Chaitrali , Vinay) and (Dhriti , Gayatri)","(Chaitrali , Vinay) and (Dhriti , Yash)",60,3,,,"Since, it is given that the weights of Chaitrali, Dhriti, Gayatri and Vinay
+are $34$, $52$, $104$ and $68$ respectively
+Now, $\dfrac{34}{52} = 0.65$
+Also, $\dfrac{68}{104} = 0.65$
+=> $\dfrac{34}{52} = \dfrac{68}{104}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Chaitrali and Dhriti , Gayatri and Vinay
+",
+text,1,30102,3,"If Neha weighs $112$ Kg and Chaitrali weighs $56$ Kg, Mehul weighs $76$ Kg and Manali weighs $38$ Kg.
+Which two pairs will form an equation?
+","(Neha , Chaitrali) and (Mehul , Manali)",,,,"(Neha , Mehul) and (Chaitrali , Manali)","(Neha , Manali) and (Chaitrali , Mehul)","(Neha , Manali) and (Chaitrali , Aniket)",60,3,,,"Since, it is given that the weights of Neha, Chaitrali, Mehul and Manali
+are $112$, $56$, $76$ and $38$ respectively
+Now, $\dfrac{112}{56} = 2.00$
+Also, $\dfrac{76}{38} = 2.00$
+=> $\dfrac{112}{56} = \dfrac{76}{38}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Neha and Chaitrali , Mehul and Manali
+",
+text,1,30102,3,"If Chaitanya has $28$  Cookies, Shruti has $50$  Cookies, Neha has $56$  Cookies and Ganesh has $100$  Cookies.
+Which two pairs will form an equation?
+","(Chaitanya , Shruti) and (Neha , Ganesh)",,,,"(Chaitanya , Neha) and (Shruti , Ganesh)","(Chaitanya , Ganesh) and (Shruti , Neha)","(Chaitanya , Ganesh) and (Shruti , Aakriti)",60,3,,,"Since, it is given that the weights of Chaitanya, Shruti, Neha and Ganesh
+are $28$, $50$, $56$ and $100$ respectively
+Now, $\dfrac{28}{50} = 0.56$
+Also, $\dfrac{56}{100} = 0.56$
+=> $\dfrac{28}{50} = \dfrac{56}{100}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Chaitanya and Shruti , Neha and Ganesh
+",
+text,1,30102,3,"If Gargi weighs $28$ Kg and Gaurav weighs $92$ Kg, Darshan weighs $56$ Kg and Anuja weighs $46$ Kg.
+Which two pairs will form an equation?
+","(Gargi , Darshan) and (Gaurav , Anuja)",,,,"(Gargi , Gaurav) and (Darshan , Anuja)","(Gargi , Anuja) and (Gaurav , Darshan)","(Gargi , Ankita) and (Gaurav , Darshan)",60,3,,,"Since, it is given that the weights of Gargi, Gaurav, Darshan and Anuja
+are $28$, $92$, $56$ and $46$ respectively
+Now, $\dfrac{28}{56} = 0.50$
+Also, $\dfrac{46}{92} = 0.50$
+=> $\dfrac{28}{56} = \dfrac{46}{92}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gargi and Darshan , Gaurav and Anuja
+",
+text,1,30102,3,"If Yuti has $112$  Cookies, Aboli has $56$  Cookies, Sachin has $88$  Cookies and Tanvi has $44$  Cookies.
+Which two pairs will form an equation?
+","(Yuti , Aboli) and (Sachin , Tanvi)",,,,"(Yuti , Sachin) and (Aboli , Tanvi)","(Yuti , Tanvi) and (Aboli , Sachin)","(Yuti , Tanvi) and (Aboli , Pranali)",60,3,,,"Since, it is given that the weights of Yuti, Aboli, Sachin and Tanvi
+are $112$, $56$, $88$ and $44$ respectively
+Now, $\dfrac{112}{56} = 2.00$
+Also, $\dfrac{88}{44} = 2.00$
+=> $\dfrac{112}{56} = \dfrac{88}{44}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yuti and Aboli , Sachin and Tanvi
+",
+text,1,30102,3,"If Nishi weighs $44$ Kg and Maithili weighs $52$ Kg, Darshan weighs $88$ Kg and Siddhesh weighs $104$ Kg.
+Which two pairs will form an equation?
+","(Nishi , Maithili) and (Darshan , Siddhesh)",,,,"(Nishi , Darshan) and (Maithili , Siddhesh)","(Nishi , Siddhesh) and (Maithili , Darshan)","(Nishi , Siddhesh) and (Maithili , Maithili)",60,3,,,"Since, it is given that the weights of Nishi, Maithili, Darshan and Siddhesh
+are $44$, $52$, $88$ and $104$ respectively
+Now, $\dfrac{44}{52} = 0.85$
+Also, $\dfrac{88}{104} = 0.85$
+=> $\dfrac{44}{52} = \dfrac{88}{104}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Nishi and Maithili , Darshan and Siddhesh
+",
+text,1,30102,3,"If Tanvi weighs $52$ Kg and Aabha weighs $26$ Kg, Devang weighs $80$ Kg and Manish weighs $40$ Kg.
+Which two pairs will form an equation?
+","(Tanvi , Aabha) and (Devang , Manish)",,,,"(Tanvi , Devang) and (Aabha , Manish)","(Tanvi , Manish) and (Aabha , Devang)","(Tanvi , Manish) and (Aabha , Aruni)",60,3,,,"Since, it is given that the weights of Tanvi, Aabha, Devang and Manish
+are $52$, $26$, $80$ and $40$ respectively
+Now, $\dfrac{52}{26} = 2.00$
+Also, $\dfrac{80}{40} = 2.00$
+=> $\dfrac{52}{26} = \dfrac{80}{40}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tanvi and Aabha , Devang and Manish
+",
+text,1,30102,3,"If Soham weighs $44$ Kg and Gaurav weighs $48$ Kg, Utkarsh weighs $96$ Kg and Onkar weighs $88$ Kg.
+Which two pairs will form an equation?
+","(Soham , Gaurav) and (Utkarsh , Onkar)",,,,"(Soham , Utkarsh) and (Gaurav , Onkar)","(Soham , Onkar) and (Gaurav , Utkarsh)","(Soham , Onkar) and (Gaurav , Veerja)",60,3,,,"Since, it is given that the weights of Soham, Gaurav, Utkarsh and Onkar
+are $44$, $48$, $96$ and $88$ respectively
+Now, $\dfrac{44}{48} = 0.92$
+Also, $\dfrac{88}{96} = 0.92$
+=> $\dfrac{44}{48} = \dfrac{88}{96}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Soham and Gaurav , Utkarsh and Onkar
+",
+text,1,30102,3,"If Abhijeet weighs $46$ Kg and Manish weighs $42$ Kg, Om weighs $84$ Kg and Saloni weighs $92$ Kg.
+Which two pairs will form an equation?
+","(Abhijeet , Manish) and (Om , Saloni)",,,,"(Abhijeet , Om) and (Manish , Saloni)","(Abhijeet , Saloni) and (Manish , Om)","(Abhijeet , Saloni) and (Manish , Nishi)",60,3,,,"Since, it is given that the weights of Abhijeet, Manish, Om and Saloni
+are $46$, $42$, $84$ and $92$ respectively
+Now, $\dfrac{46}{42} = 1.10$
+Also, $\dfrac{92}{84} = 1.10$
+=> $\dfrac{46}{42} = \dfrac{92}{84}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Abhijeet and Manish , Om and Saloni
+",
+text,1,30102,3,"If Soham weighs $46$ Kg and Anmol weighs $80$ Kg, Nishi weighs $92$ Kg and Aditi weighs $40$ Kg.
+Which two pairs will form an equation?
+","(Soham , Nishi) and (Anmol , Aditi)",,,,"(Soham , Anmol) and (Nishi , Aditi)","(Soham , Aditi) and (Anmol , Nishi)","(Soham , Maithili) and (Anmol , Nishi)",60,3,,,"Since, it is given that the weights of Soham, Anmol, Nishi and Aditi
+are $46$, $80$, $92$ and $40$ respectively
+Now, $\dfrac{46}{92} = 0.50$
+Also, $\dfrac{40}{80} = 0.50$
+=> $\dfrac{46}{92} = \dfrac{40}{80}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Soham and Nishi , Anmol and Aditi
+",
+text,1,30102,3,"If Gaurav has $48$  Bananas, Anmol has $52$  Bananas, Saloni has $96$  Bananas and Ishan has $26$  Bananas.
+Which two pairs will form an equation?
+","(Gaurav , Saloni) and (Anmol , Ishan)",,,,"(Gaurav , Anmol) and (Saloni , Ishan)","(Gaurav , Ishan) and (Anmol , Saloni)","(Gaurav , Anuja) and (Anmol , Saloni)",60,3,,,"Since, it is given that the weights of Gaurav, Anmol, Saloni and Ishan
+are $48$, $52$, $96$ and $26$ respectively
+Now, $\dfrac{48}{96} = 0.50$
+Also, $\dfrac{26}{52} = 0.50$
+=> $\dfrac{48}{96} = \dfrac{26}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gaurav and Saloni , Anmol and Ishan
+",
+text,1,30102,3,"If Aabha weighs $112$ Kg and Vinay weighs $56$ Kg, Aboli weighs $64$ Kg and Gagan weighs $32$ Kg.
+Which two pairs will form an equation?
+","(Aabha , Vinay) and (Aboli , Gagan)",,,,"(Aabha , Aboli) and (Vinay , Gagan)","(Aabha , Gagan) and (Vinay , Aboli)","(Aabha , Gagan) and (Vinay , Sanket)",60,3,,,"Since, it is given that the weights of Aabha, Vinay, Aboli and Gagan
+are $112$, $56$, $64$ and $32$ respectively
+Now, $\dfrac{112}{56} = 2.00$
+Also, $\dfrac{64}{32} = 2.00$
+=> $\dfrac{112}{56} = \dfrac{64}{32}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aabha and Vinay , Aboli and Gagan
+",
+text,1,30102,3,"If Abhijeet weighs $42$ Kg and Varun weighs $44$ Kg, Kajal weighs $84$ Kg and Chaitrali weighs $88$ Kg.
+Which two pairs will form an equation?
+","(Abhijeet , Varun) and (Kajal , Chaitrali)",,,,"(Abhijeet , Kajal) and (Varun , Chaitrali)","(Abhijeet , Chaitrali) and (Varun , Kajal)","(Abhijeet , Chaitrali) and (Varun , Gayatri)",60,3,,,"Since, it is given that the weights of Abhijeet, Varun, Kajal and Chaitrali
+are $42$, $44$, $84$ and $88$ respectively
+Now, $\dfrac{42}{44} = 0.95$
+Also, $\dfrac{84}{88} = 0.95$
+=> $\dfrac{42}{44} = \dfrac{84}{88}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Abhijeet and Varun , Kajal and Chaitrali
+",
+text,1,30102,3,"If Pranali weighs $46$ Kg and Aditi weighs $88$ Kg, Kajal weighs $92$ Kg and Aakriti weighs $44$ Kg.
+Which two pairs will form an equation?
+","(Pranali , Kajal) and (Aditi , Aakriti)",,,,"(Pranali , Aditi) and (Kajal , Aakriti)","(Pranali , Aakriti) and (Aditi , Kajal)","(Pranali , Manish) and (Aditi , Kajal)",60,3,,,"Since, it is given that the weights of Pranali, Aditi, Kajal and Aakriti
+are $46$, $88$, $92$ and $44$ respectively
+Now, $\dfrac{46}{92} = 0.50$
+Also, $\dfrac{44}{88} = 0.50$
+=> $\dfrac{46}{92} = \dfrac{44}{88}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Pranali and Kajal , Aditi and Aakriti
+",
+text,1,30102,3,"If Dhriti has $64$  Apples, Gautami has $32$  Apples, Shivani has $72$  Apples and Gargi has $36$  Apples.
+Which two pairs will form an equation?
+","(Dhriti , Gautami) and (Shivani , Gargi)",,,,"(Dhriti , Shivani) and (Gautami , Gargi)","(Dhriti , Gargi) and (Gautami , Shivani)","(Dhriti , Gargi) and (Gautami , Veerja)",60,3,,,"Since, it is given that the weights of Dhriti, Gautami, Shivani and Gargi
+are $64$, $32$, $72$ and $36$ respectively
+Now, $\dfrac{64}{32} = 2.00$
+Also, $\dfrac{72}{36} = 2.00$
+=> $\dfrac{64}{32} = \dfrac{72}{36}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Dhriti and Gautami , Shivani and Gargi
+",
+text,1,30102,3,"If Om weighs $42$ Kg and Shantanu weighs $48$ Kg, Dharmesh weighs $96$ Kg and Tanmay weighs $84$ Kg.
+Which two pairs will form an equation?
+","(Om , Shantanu) and (Dharmesh , Tanmay)",,,,"(Om , Dharmesh) and (Shantanu , Tanmay)","(Om , Tanmay) and (Shantanu , Dharmesh)","(Om , Tanmay) and (Shantanu , Aakriti)",60,3,,,"Since, it is given that the weights of Om, Shantanu, Dharmesh and Tanmay
+are $42$, $48$, $96$ and $84$ respectively
+Now, $\dfrac{42}{48} = 0.88$
+Also, $\dfrac{84}{96} = 0.88$
+=> $\dfrac{42}{48} = \dfrac{84}{96}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Om and Shantanu , Dharmesh and Tanmay
+",
+text,1,30102,3,"If Saloni weighs $59$ Kg and Gargi weighs $62$ Kg, Rahul weighs $186$ Kg and Siddhesh weighs $177$ Kg.
+Which two pairs will form an equation?
+","(Saloni , Gargi) and (Rahul , Siddhesh)",,,,"(Saloni , Rahul) and (Gargi , Siddhesh)","(Saloni , Siddhesh) and (Gargi , Rahul)","(Saloni , Siddhesh) and (Gargi , Ishika)",60,3,,,"Since, it is given that the weights of Saloni, Gargi, Rahul and Siddhesh
+are $59$, $62$, $186$ and $177$ respectively
+Now, $\dfrac{59}{62} = 0.95$
+Also, $\dfrac{177}{186} = 0.95$
+=> $\dfrac{59}{62} = \dfrac{177}{186}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Saloni and Gargi , Rahul and Siddhesh
+",
+text,1,30102,3,"If Kshitij weighs $48$ Kg and Sachin weighs $56$ Kg, Soham weighs $112$ Kg and Rohit weighs $96$ Kg.
+Which two pairs will form an equation?
+","(Kshitij , Sachin) and (Soham , Rohit)",,,,"(Kshitij , Soham) and (Sachin , Rohit)","(Kshitij , Rohit) and (Sachin , Soham)","(Kshitij , Rohit) and (Sachin , Divya)",60,3,,,"Since, it is given that the weights of Kshitij, Sachin, Soham and Rohit
+are $48$, $56$, $112$ and $96$ respectively
+Now, $\dfrac{48}{56} = 0.86$
+Also, $\dfrac{96}{112} = 0.86$
+=> $\dfrac{48}{56} = \dfrac{96}{112}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Kshitij and Sachin , Soham and Rohit
+",
+text,1,30102,3,"If Aarav has $48$  pants, Vaibhav has $26$  pants, Ishan has $96$  pants and Dhriti has $52$  pants.
+Which two pairs will form an equation?
+","(Aarav , Vaibhav) and (Ishan , Dhriti)",,,,"(Aarav , Ishan) and (Vaibhav , Dhriti)","(Aarav , Dhriti) and (Vaibhav , Ishan)","(Aarav , Dhriti) and (Vaibhav , Devang)",60,3,,,"Since, it is given that the weights of Aarav, Vaibhav, Ishan and Dhriti
+are $48$, $26$, $96$ and $52$ respectively
+Now, $\dfrac{48}{26} = 1.85$
+Also, $\dfrac{96}{52} = 1.85$
+=> $\dfrac{48}{26} = \dfrac{96}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aarav and Vaibhav , Ishan and Dhriti
+",
+text,1,30102,3,"If Divya has $38$  pencils, Nishi has $26$  pencils, Anmol has $76$  pencils and Gauravi has $52$  pencils.
+Which two pairs will form an equation?
+","(Divya , Nishi) and (Anmol , Gauravi)",,,,"(Divya , Anmol) and (Nishi , Gauravi)","(Divya , Gauravi) and (Nishi , Anmol)","(Divya , Gauravi) and (Nishi , Pranali)",60,3,,,"Since, it is given that the weights of Divya, Nishi, Anmol and Gauravi
+are $38$, $26$, $76$ and $52$ respectively
+Now, $\dfrac{38}{26} = 1.46$
+Also, $\dfrac{76}{52} = 1.46$
+=> $\dfrac{38}{26} = \dfrac{76}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Divya and Nishi , Anmol and Gauravi
+",
+text,1,30102,3,"If Utkarsh has $26$  pens, Onkar has $50$  pens, Aniket has $52$  pens and Smital has $100$  pens.
+Which two pairs will form an equation?
+","(Utkarsh , Onkar) and (Aniket , Smital)",,,,"(Utkarsh , Aniket) and (Onkar , Smital)","(Utkarsh , Smital) and (Onkar , Aniket)","(Utkarsh , Smital) and (Onkar , Veerja)",60,3,,,"Since, it is given that the weights of Utkarsh, Onkar, Aniket and Smital
+are $26$, $50$, $52$ and $100$ respectively
+Now, $\dfrac{26}{50} = 0.52$
+Also, $\dfrac{52}{100} = 0.52$
+=> $\dfrac{26}{50} = \dfrac{52}{100}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Utkarsh and Onkar , Aniket and Smital
+",
+text,1,30102,3,"If Ishika has $30$  Apples, Atharva has $26$  Apples, Shruti has $60$  Apples and Onkar has $52$  Apples.
+Which two pairs will form an equation?
+","(Ishika , Atharva) and (Shruti , Onkar)",,,,"(Ishika , Shruti) and (Atharva , Onkar)","(Ishika , Onkar) and (Atharva , Shruti)","(Ishika , Onkar) and (Atharva , Aditi)",60,3,,,"Since, it is given that the weights of Ishika, Atharva, Shruti and Onkar
+are $30$, $26$, $60$ and $52$ respectively
+Now, $\dfrac{30}{26} = 1.15$
+Also, $\dfrac{60}{52} = 1.15$
+=> $\dfrac{30}{26} = \dfrac{60}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishika and Atharva , Shruti and Onkar
+",
+text,1,30102,3,"If Divya weighs $52$ Kg and Varun weighs $38$ Kg, Rohit weighs $104$ Kg and Tanvi weighs $76$ Kg.
+Which two pairs will form an equation?
+","(Divya , Varun) and (Rohit , Tanvi)",,,,"(Divya , Rohit) and (Varun , Tanvi)","(Divya , Tanvi) and (Varun , Rohit)","(Divya , Tanvi) and (Varun , Aadesh)",60,3,,,"Since, it is given that the weights of Divya, Varun, Rohit and Tanvi
+are $52$, $38$, $104$ and $76$ respectively
+Now, $\dfrac{52}{38} = 1.37$
+Also, $\dfrac{104}{76} = 1.37$
+=> $\dfrac{52}{38} = \dfrac{104}{76}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Divya and Varun , Rohit and Tanvi
+",
+text,1,30102,3,"If Gautami has $54$  pants, Aabha has $34$  pants, Divya has $108$  pants and Vedang has $68$  pants.
+Which two pairs will form an equation?
+","(Gautami , Aabha) and (Divya , Vedang)",,,,"(Gautami , Divya) and (Aabha , Vedang)","(Gautami , Vedang) and (Aabha , Divya)","(Gautami , Vedang) and (Aabha , Pranali)",60,3,,,"Since, it is given that the weights of Gautami, Aabha, Divya and Vedang
+are $54$, $34$, $108$ and $68$ respectively
+Now, $\dfrac{54}{34} = 1.59$
+Also, $\dfrac{108}{68} = 1.59$
+=> $\dfrac{54}{34} = \dfrac{108}{68}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Gautami and Aabha , Divya and Vedang
+",
+text,1,30102,3,"If Ganesh weighs $42$ Kg and Manali weighs $56$ Kg, Utkarsh weighs $84$ Kg and Isha weighs $112$ Kg.
+Which two pairs will form an equation?
+","(Ganesh , Manali) and (Utkarsh , Isha)",,,,"(Ganesh , Utkarsh) and (Manali , Isha)","(Ganesh , Isha) and (Manali , Utkarsh)","(Ganesh , Isha) and (Manali , Gagan)",60,3,,,"Since, it is given that the weights of Ganesh, Manali, Utkarsh and Isha
+are $42$, $56$, $84$ and $112$ respectively
+Now, $\dfrac{42}{56} = 0.75$
+Also, $\dfrac{84}{112} = 0.75$
+=> $\dfrac{42}{56} = \dfrac{84}{112}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ganesh and Manali , Utkarsh and Isha
+",
+text,1,30102,3,"If Vedang weighs $96$ Kg and Neha weighs $48$ Kg, Aakriti weighs $104$ Kg and Utkarsh weighs $52$ Kg.
+Which two pairs will form an equation?
+","(Vedang , Neha) and (Aakriti , Utkarsh)",,,,"(Vedang , Aakriti) and (Neha , Utkarsh)","(Vedang , Utkarsh) and (Neha , Aakriti)","(Vedang , Utkarsh) and (Neha , Aruni)",60,3,,,"Since, it is given that the weights of Vedang, Neha, Aakriti and Utkarsh
+are $96$, $48$, $104$ and $52$ respectively
+Now, $\dfrac{96}{48} = 2.00$
+Also, $\dfrac{104}{52} = 2.00$
+=> $\dfrac{96}{48} = \dfrac{104}{52}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Vedang and Neha , Aakriti and Utkarsh
+",
+text,1,30102,3,"If Ishika has $36$  pens, Gopal has $34$  pens, Aakriti has $68$  pens and Aruni has $72$  pens.
+Which two pairs will form an equation?
+","(Ishika , Gopal) and (Aakriti , Aruni)",,,,"(Ishika , Aakriti) and (Gopal , Aruni)","(Ishika , Aruni) and (Gopal , Aakriti)","(Ishika , Aruni) and (Gopal , Shivani)",60,3,,,"Since, it is given that the weights of Ishika, Gopal, Aakriti and Aruni
+are $36$, $34$, $68$ and $72$ respectively
+Now, $\dfrac{36}{34} = 1.06$
+Also, $\dfrac{72}{68} = 1.06$
+=> $\dfrac{36}{34} = \dfrac{72}{68}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishika and Gopal , Aakriti and Aruni
+",
+text,1,30102,3,"If Yogesh weighs $42$ Kg and Neha weighs $64$ Kg, Gauravi weighs $84$ Kg and Manali weighs $32$ Kg.
+Which two pairs will form an equation?
+","(Yogesh , Gauravi) and (Neha , Manali)",,,,"(Yogesh , Neha) and (Gauravi , Manali)","(Yogesh , Manali) and (Neha , Gauravi)","(Yogesh , Akshata) and (Neha , Gauravi)",60,3,,,"Since, it is given that the weights of Yogesh, Neha, Gauravi and Manali
+are $42$, $64$, $84$ and $32$ respectively
+Now, $\dfrac{42}{84} = 0.50$
+Also, $\dfrac{32}{64} = 0.50$
+=> $\dfrac{42}{84} = \dfrac{32}{64}$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Yogesh and Gauravi , Neha and Manali
+",

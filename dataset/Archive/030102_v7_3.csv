@@ -1,0 +1,849 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30102,7,Stationary is $350$ metres from Restaurant. Supermarket is $100$ metres from Stationary. Assuming Stationary and Supermarket are in the same direction from Restaurant which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Stationary is at same distance from Restaurant and Supermarket,Restaurant is at same distance from Stationary and Supermarket,Supermarket is at same distance from Restaurant and Stationary,60,3,,,"Let the distance between Restaurant and Stationary be $x$, and the distance between Stationary and Supermarket be $y$.
+Here $x=$$350$$m$ and $y=$$100$$m$.
+There are two possible ways in which Restaurant, Stationary, Supermarket can be arranged.
+Arrangement 1:-
+Restaurant---$350$$m$--->Stationary---$100$$m$--->Supermarket
+Arrangement 2:-
+Restaurant-----$350$$m$----->Stationary
+Supermarket<---$100$$m$---Stationary
+Distance between Restaurant and Supermarket $= $$350$$-$$100$$ = $$250$$m$    ...([distance between Restaurant & Stationary] $-$ [distance between Stationary & Supermarket])
+Restaurant----$250$$m$---->Supermarket----$100$$m$---->Stationary
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Coffee Shop is $300$ metres from Tuition. Medicine Shop is $650$ metres from Coffee Shop. Assuming Coffee Shop and Medicine Shop are in the same direction from Tuition which of the following statement is correct?,Tuition is nearer to Coffee Shop than Medicine Shop,,,,Medicine Shop is nearer to Coffee Shop than Tuition,Medicine Shop is at same distance from Tuition and Coffee Shop,Coffee Shop is at same distance from Tuition and Medicine Shop,60,3,,,"Let the distance between Tuition and Coffee Shop be $x$, and the distance between Coffee Shop and Medicine Shop be $y$.
+Here $x=$$300$$m$ and $y=$$650$$m$.
+Tuition---$300$$m$--->Coffee Shop---$650$$m$--->Medicine Shop
+As we can see that the distance between Tuition and Coffee Shop is $300$$m$, and the distance between Coffee Shop and Medicine Shop is $650$$m$.
+Since the distance between Tuition and Coffee Shop $<$ distance between Coffee Shop and Medicine Shop
+Tuition is nearer to Coffee Shop than Medicine Shop",
+text,text,30102,7,Coffee Shop is $200$ metres from Restaurant. School is $800$ metres from Coffee Shop. Assuming Coffee Shop and School are in the same direction from Restaurant which of the following statement is correct?,Restaurant is nearer to Coffee Shop than School,,,,School is at same distance from Restaurant and Coffee Shop,Coffee Shop is at same distance from Restaurant and School,School is nearer to Coffee Shop than Restaurant,60,3,,,"Let the distance between Restaurant and Coffee Shop be $x$, and the distance between Coffee Shop and School be $y$.
+Here $x=$$200$$m$ and $y=$$800$$m$.
+Restaurant---$200$$m$--->Coffee Shop---$800$$m$--->School
+As we can see that the distance between Restaurant and Coffee Shop is $200$$m$, and the distance between Coffee Shop and School is $800$$m$.
+Since the distance between Restaurant and Coffee Shop $<$ distance between Coffee Shop and School
+Restaurant is nearer to Coffee Shop than School",
+text,text,30102,7,Home is $950$ metres from Petrol Pump. Supermarket is $500$ metres from Home. Assuming Home and Supermarket are in the same direction from Petrol Pump which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Home is at same distance from Petrol Pump and Supermarket,Supermarket is at same distance from Petrol Pump and Home,Petrol Pump is at same distance from Home and Supermarket,60,3,,,"Let the distance between Petrol Pump and Home be $x$, and the distance between Home and Supermarket be $y$.
+Here $x=$$950$$m$ and $y=$$500$$m$.
+There are two possible ways in which Petrol Pump, Home, Supermarket can be arranged.
+Arrangement 1:-
+Petrol Pump---$950$$m$--->Home---$500$$m$--->Supermarket
+Arrangement 2:-
+Petrol Pump-----$950$$m$----->Home
+Supermarket<---$500$$m$---Home
+Distance between Petrol Pump and Supermarket $= $$950$$-$$500$$ = $$450$$m$    ...([distance between Petrol Pump & Home] $-$ [distance between Home & Supermarket])
+Petrol Pump----$450$$m$---->Supermarket----$500$$m$---->Home
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Salon is $600$ metres from Coffee Shop. Bus Stop is $500$ metres from Salon. Assuming Salon and Bus Stop are in the same direction from Coffee Shop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Coffee Shop is at same distance from Salon and Bus Stop,Bus Stop is at same distance from Coffee Shop and Salon,Salon is at same distance from Coffee Shop and Bus Stop,60,3,,,"Let the distance between Coffee Shop and Salon be $x$, and the distance between Salon and Bus Stop be $y$.
+Here $x=$$600$$m$ and $y=$$500$$m$.
+There are two possible ways in which Coffee Shop, Salon, Bus Stop can be arranged.
+Arrangement 1:-
+Coffee Shop---$600$$m$--->Salon---$500$$m$--->Bus Stop
+Arrangement 2:-
+Coffee Shop-----$600$$m$----->Salon
+Bus Stop<---$500$$m$---Salon
+Distance between Coffee Shop and Bus Stop $= $$600$$-$$500$$ = $$100$$m$    ...([distance between Coffee Shop & Salon] $-$ [distance between Salon & Bus Stop])
+Coffee Shop----$100$$m$---->Bus Stop----$500$$m$---->Salon
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Tuition is $800$ metres from Bus Stop. Petrol Pump is $350$ metres from Tuition. Assuming Tuition and Petrol Pump are in the same direction from Bus Stop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Tuition is at same distance from Bus Stop and Petrol Pump,Petrol Pump is at same distance from Bus Stop and Tuition,Bus Stop is at same distance from Tuition and Petrol Pump,60,3,,,"Let the distance between Bus Stop and Tuition be $x$, and the distance between Tuition and Petrol Pump be $y$.
+Here $x=$$800$$m$ and $y=$$350$$m$.
+There are two possible ways in which Bus Stop, Tuition, Petrol Pump can be arranged.
+Arrangement 1:-
+Bus Stop---$800$$m$--->Tuition---$350$$m$--->Petrol Pump
+Arrangement 2:-
+Bus Stop-----$800$$m$----->Tuition
+Petrol Pump<---$350$$m$---Tuition
+Distance between Bus Stop and Petrol Pump $= $$800$$-$$350$$ = $$450$$m$    ...([distance between Bus Stop & Tuition] $-$ [distance between Tuition & Petrol Pump])
+Bus Stop----$450$$m$---->Petrol Pump----$350$$m$---->Tuition
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Salon is $600$ metres from Tuition. Home is $700$ metres from Salon. Assuming Salon and Home are in the same direction from Tuition which of the following statement is correct?,Tuition is nearer to Salon than Home,,,,Home is nearer to Salon than Tuition,Salon is at same distance from Tuition and Home,Home is at same distance from Tuition and Salon,60,3,,,"Let the distance between Tuition and Salon be $x$, and the distance between Salon and Home be $y$.
+Here $x=$$600$$m$ and $y=$$700$$m$.
+Tuition---$600$$m$--->Salon---$700$$m$--->Home
+As we can see that the distance between Tuition and Salon is $600$$m$, and the distance between Salon and Home is $700$$m$.
+Since the distance between Tuition and Salon $<$ distance between Salon and Home
+Tuition is nearer to Salon than Home",
+text,text,30102,7,Restaurant is $450$ metres from Police Station. Library is $150$ metres from Restaurant. Assuming Restaurant and Library are in the same direction from Police Station which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Restaurant is at same distance from Police Station and Library,Police Station is at same distance from Restaurant and Library,Library is at same distance from Police Station and Restaurant,60,3,,,"Let the distance between Police Station and Restaurant be $x$, and the distance between Restaurant and Library be $y$.
+Here $x=$$450$$m$ and $y=$$150$$m$.
+There are two possible ways in which Police Station, Restaurant, Library can be arranged.
+Arrangement 1:-
+Police Station---$450$$m$--->Restaurant---$150$$m$--->Library
+Arrangement 2:-
+Police Station-----$450$$m$----->Restaurant
+Library<---$150$$m$---Restaurant
+Distance between Police Station and Library $= $$450$$-$$150$$ = $$300$$m$    ...([distance between Police Station & Restaurant] $-$ [distance between Restaurant & Library])
+Police Station----$300$$m$---->Library----$150$$m$---->Restaurant
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Hospital is $50$ metres from Factory. Mall is $100$ metres from Hospital. Assuming Hospital and Mall are in the same direction from Factory which of the following statement is correct?,Factory is nearer to Hospital than Mall,,,,Mall is at same distance from Factory and Hospital,Hospital is at same distance from Factory and Mall,Mall is nearer to Hospital than Factory,60,3,,,"Let the distance between Factory and Hospital be $x$, and the distance between Hospital and Mall be $y$.
+Here $x=$$50$$m$ and $y=$$100$$m$.
+Factory---$50$$m$--->Hospital---$100$$m$--->Mall
+As we can see that the distance between Factory and Hospital is $50$$m$, and the distance between Hospital and Mall is $100$$m$.
+Since the distance between Factory and Hospital $<$ distance between Hospital and Mall
+Factory is nearer to Hospital than Mall",
+text,text,30102,7,Petrol Pump is $850$ metres from Playground. Home is $700$ metres from Petrol Pump. Assuming Petrol Pump and Home are in the same direction from Playground which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Home is at same distance from Playground and Petrol Pump,Playground is at same distance from Petrol Pump and Home,Petrol Pump is at same distance from Playground and Home,60,3,,,"Let the distance between Playground and Petrol Pump be $x$, and the distance between Petrol Pump and Home be $y$.
+Here $x=$$850$$m$ and $y=$$700$$m$.
+There are two possible ways in which Playground, Petrol Pump, Home can be arranged.
+Arrangement 1:-
+Playground---$850$$m$--->Petrol Pump---$700$$m$--->Home
+Arrangement 2:-
+Playground-----$850$$m$----->Petrol Pump
+Home<---$700$$m$---Petrol Pump
+Distance between Playground and Home $= $$850$$-$$700$$ = $$150$$m$    ...([distance between Playground & Petrol Pump] $-$ [distance between Petrol Pump & Home])
+Playground----$150$$m$---->Home----$700$$m$---->Petrol Pump
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Theatre is $100$ metres from Factory. Library is $950$ metres from Theatre. Assuming Theatre and Library are in the same direction from Factory which of the following statement is correct?,Factory is nearer to Theatre than Library,,,,Library is nearer to Theatre than Factory,Theatre is at same distance from Factory and Library,Library is at same distance from Factory and Theatre,60,3,,,"Let the distance between Factory and Theatre be $x$, and the distance between Theatre and Library be $y$.
+Here $x=$$100$$m$ and $y=$$950$$m$.
+Factory---$100$$m$--->Theatre---$950$$m$--->Library
+As we can see that the distance between Factory and Theatre is $100$$m$, and the distance between Theatre and Library is $950$$m$.
+Since the distance between Factory and Theatre $<$ distance between Theatre and Library
+Factory is nearer to Theatre than Library",
+text,text,30102,7,Library is $200$ metres from Home. Petrol Pump is $50$ metres from Library. Assuming Library and Petrol Pump are in the same direction from Home which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Library is at same distance from Home and Petrol Pump,Home is at same distance from Library and Petrol Pump,Petrol Pump is at same distance from Home and Library,60,3,,,"Let the distance between Home and Library be $x$, and the distance between Library and Petrol Pump be $y$.
+Here $x=$$200$$m$ and $y=$$50$$m$.
+There are two possible ways in which Home, Library, Petrol Pump can be arranged.
+Arrangement 1:-
+Home---$200$$m$--->Library---$50$$m$--->Petrol Pump
+Arrangement 2:-
+Home-----$200$$m$----->Library
+Petrol Pump<---$50$$m$---Library
+Distance between Home and Petrol Pump $= $$200$$-$$50$$ = $$150$$m$    ...([distance between Home & Library] $-$ [distance between Library & Petrol Pump])
+Home----$150$$m$---->Petrol Pump----$50$$m$---->Library
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Home is $150$ metres from Factory. Restaurant is $850$ metres from Home. Assuming Home and Restaurant are in the same direction from Factory which of the following statement is correct?,Factory is nearer to Home than Restaurant,,,,Restaurant is nearer to Home than Factory,Restaurant is at same distance from Factory and Home,Home is at same distance from Factory and Restaurant,60,3,,,"Let the distance between Factory and Home be $x$, and the distance between Home and Restaurant be $y$.
+Here $x=$$150$$m$ and $y=$$850$$m$.
+Factory---$150$$m$--->Home---$850$$m$--->Restaurant
+As we can see that the distance between Factory and Home is $150$$m$, and the distance between Home and Restaurant is $850$$m$.
+Since the distance between Factory and Home $<$ distance between Home and Restaurant
+Factory is nearer to Home than Restaurant",
+text,text,30102,7,Stationary is $200$ metres from School. Restaurant is $950$ metres from Stationary. Assuming Stationary and Restaurant are in the same direction from School which of the following statement is correct?,School is nearer to Stationary than Restaurant,,,,Restaurant is nearer to Stationary than School,Stationary is at same distance from School and Restaurant,Restaurant is at same distance from School and Stationary,60,3,,,"Let the distance between School and Stationary be $x$, and the distance between Stationary and Restaurant be $y$.
+Here $x=$$200$$m$ and $y=$$950$$m$.
+School---$200$$m$--->Stationary---$950$$m$--->Restaurant
+As we can see that the distance between School and Stationary is $200$$m$, and the distance between Stationary and Restaurant is $950$$m$.
+Since the distance between School and Stationary $<$ distance between Stationary and Restaurant
+School is nearer to Stationary than Restaurant",
+text,text,30102,7,Home is $50$ metres from School. Office is $400$ metres from Home. Assuming Home and Office are in the same direction from School which of the following statement is correct?,School is nearer to Home than Office,,,,Office is nearer to Home than School,Home is at same distance from School and Office,Office is at same distance from School and Home,60,3,,,"Let the distance between School and Home be $x$, and the distance between Home and Office be $y$.
+Here $x=$$50$$m$ and $y=$$400$$m$.
+School---$50$$m$--->Home---$400$$m$--->Office
+As we can see that the distance between School and Home is $50$$m$, and the distance between Home and Office is $400$$m$.
+Since the distance between School and Home $<$ distance between Home and Office
+School is nearer to Home than Office",
+text,text,30102,7,Home is $850$ metres from Restaurant. Library is $50$ metres from Home. Assuming Home and Library are in the same direction from Restaurant which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Restaurant is at same distance from Home and Library,Home is at same distance from Restaurant and Library,Library is at same distance from Restaurant and Home,60,3,,,"Let the distance between Restaurant and Home be $x$, and the distance between Home and Library be $y$.
+Here $x=$$850$$m$ and $y=$$50$$m$.
+There are two possible ways in which Restaurant, Home, Library can be arranged.
+Arrangement 1:-
+Restaurant---$850$$m$--->Home---$50$$m$--->Library
+Arrangement 2:-
+Restaurant-----$850$$m$----->Home
+Library<---$50$$m$---Home
+Distance between Restaurant and Library $= $$850$$-$$50$$ = $$800$$m$    ...([distance between Restaurant & Home] $-$ [distance between Home & Library])
+Restaurant----$800$$m$---->Library----$50$$m$---->Home
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Playground is $600$ metres from Factory. Restaurant is $550$ metres from Playground. Assuming Playground and Restaurant are in the same direction from Factory which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Playground is at same distance from Factory and Restaurant,Factory is at same distance from Playground and Restaurant,Restaurant is at same distance from Factory and Playground,60,3,,,"Let the distance between Factory and Playground be $x$, and the distance between Playground and Restaurant be $y$.
+Here $x=$$600$$m$ and $y=$$550$$m$.
+There are two possible ways in which Factory, Playground, Restaurant can be arranged.
+Arrangement 1:-
+Factory---$600$$m$--->Playground---$550$$m$--->Restaurant
+Arrangement 2:-
+Factory-----$600$$m$----->Playground
+Restaurant<---$550$$m$---Playground
+Distance between Factory and Restaurant $= $$600$$-$$550$$ = $$50$$m$    ...([distance between Factory & Playground] $-$ [distance between Playground & Restaurant])
+Factory----$50$$m$---->Restaurant----$550$$m$---->Playground
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Supermarket is $550$ metres from Hospital. Library is $550$ metres from Supermarket. Assuming Supermarket and Library are in the same direction from Hospital which of the following statement is correct?,Supermarket is at same distance from Hospital and Library,,,,Library is nearer to Supermarket than Hospital,Hospital is nearer to Supermarket than Library,Library is at same distance from Hospital and Supermarket,60,3,,,"Let the distance between Hospital and Supermarket be $x$, and the distance between Supermarket and Library be $y$.
+Here $x=$$550$$m$ and $y=$$550$$m$.
+Hospital---$550$$m$--->Supermarket---$550$$m$--->Library
+As we can see that the distance between Hospital and Supermarket is $550$$m$, and the distance between Supermarket and Library is also $550$$m$.
+Supermarket is at same distance from Hospital and Library",
+text,text,30102,7,Mall is $150$ metres from Police Station. Coffee Shop is $600$ metres from Mall. Assuming Mall and Coffee Shop are in the same direction from Police Station which of the following statement is correct?,Police Station is nearer to Mall than Coffee Shop,,,,Coffee Shop is at same distance from Police Station and Mall,Mall is at same distance from Police Station and Coffee Shop,Coffee Shop is nearer to Mall than Police Station,60,3,,,"Let the distance between Police Station and Mall be $x$, and the distance between Mall and Coffee Shop be $y$.
+Here $x=$$150$$m$ and $y=$$600$$m$.
+Police Station---$150$$m$--->Mall---$600$$m$--->Coffee Shop
+As we can see that the distance between Police Station and Mall is $150$$m$, and the distance between Mall and Coffee Shop is $600$$m$.
+Since the distance between Police Station and Mall $<$ distance between Mall and Coffee Shop
+Police Station is nearer to Mall than Coffee Shop",
+text,text,30102,7,Salon is $150$ metres from Library. Mall is $450$ metres from Salon. Assuming Salon and Mall are in the same direction from Library which of the following statement is correct?,Library is nearer to Salon than Mall,,,,Mall is at same distance from Library and Salon,Mall is nearer to Salon than Library,Salon is at same distance from Library and Mall,60,3,,,"Let the distance between Library and Salon be $x$, and the distance between Salon and Mall be $y$.
+Here $x=$$150$$m$ and $y=$$450$$m$.
+Library---$150$$m$--->Salon---$450$$m$--->Mall
+As we can see that the distance between Library and Salon is $150$$m$, and the distance between Salon and Mall is $450$$m$.
+Since the distance between Library and Salon $<$ distance between Salon and Mall
+Library is nearer to Salon than Mall",
+text,text,30102,7,Playground is $600$ metres from Police Station. Salon is $600$ metres from Playground. Assuming Playground and Salon are in the same direction from Police Station which of the following statement is correct?,Playground is at same distance from Police Station and Salon,,,,Salon is at same distance from Police Station and Playground,Police Station is nearer to Playground than Salon,Salon is nearer to Playground than Police Station,60,3,,,"Let the distance between Police Station and Playground be $x$, and the distance between Playground and Salon be $y$.
+Here $x=$$600$$m$ and $y=$$600$$m$.
+Police Station---$600$$m$--->Playground---$600$$m$--->Salon
+As we can see that the distance between Police Station and Playground is $600$$m$, and the distance between Playground and Salon is also $600$$m$.
+Playground is at same distance from Police Station and Salon",
+text,text,30102,7,Stationary is $900$ metres from Tuition. Mall is $50$ metres from Stationary. Assuming Stationary and Mall are in the same direction from Tuition which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Tuition is at same distance from Stationary and Mall,Mall is at same distance from Tuition and Stationary,Stationary is at same distance from Tuition and Mall,60,3,,,"Let the distance between Tuition and Stationary be $x$, and the distance between Stationary and Mall be $y$.
+Here $x=$$900$$m$ and $y=$$50$$m$.
+There are two possible ways in which Tuition, Stationary, Mall can be arranged.
+Arrangement 1:-
+Tuition---$900$$m$--->Stationary---$50$$m$--->Mall
+Arrangement 2:-
+Tuition-----$900$$m$----->Stationary
+Mall<---$50$$m$---Stationary
+Distance between Tuition and Mall $= $$900$$-$$50$$ = $$850$$m$    ...([distance between Tuition & Stationary] $-$ [distance between Stationary & Mall])
+Tuition----$850$$m$---->Mall----$50$$m$---->Stationary
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Stationary is $100$ metres from School. Home is $300$ metres from Stationary. Assuming Stationary and Home are in the same direction from School which of the following statement is correct?,School is nearer to Stationary than Home,,,,Stationary is at same distance from School and Home,Home is at same distance from School and Stationary,Home is nearer to Stationary than School,60,3,,,"Let the distance between School and Stationary be $x$, and the distance between Stationary and Home be $y$.
+Here $x=$$100$$m$ and $y=$$300$$m$.
+School---$100$$m$--->Stationary---$300$$m$--->Home
+As we can see that the distance between School and Stationary is $100$$m$, and the distance between Stationary and Home is $300$$m$.
+Since the distance between School and Stationary $<$ distance between Stationary and Home
+School is nearer to Stationary than Home",
+text,text,30102,7,Coffee Shop is $750$ metres from Mall. Playground is $600$ metres from Coffee Shop. Assuming Coffee Shop and Playground are in the same direction from Mall which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Playground is at same distance from Mall and Coffee Shop,Coffee Shop is at same distance from Mall and Playground,Mall is at same distance from Coffee Shop and Playground,60,3,,,"Let the distance between Mall and Coffee Shop be $x$, and the distance between Coffee Shop and Playground be $y$.
+Here $x=$$750$$m$ and $y=$$600$$m$.
+There are two possible ways in which Mall, Coffee Shop, Playground can be arranged.
+Arrangement 1:-
+Mall---$750$$m$--->Coffee Shop---$600$$m$--->Playground
+Arrangement 2:-
+Mall-----$750$$m$----->Coffee Shop
+Playground<---$600$$m$---Coffee Shop
+Distance between Mall and Playground $= $$750$$-$$600$$ = $$150$$m$    ...([distance between Mall & Coffee Shop] $-$ [distance between Coffee Shop & Playground])
+Mall----$150$$m$---->Playground----$600$$m$---->Coffee Shop
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Home is $200$ metres from Stationary. Playground is $700$ metres from Home. Assuming Home and Playground are in the same direction from Stationary which of the following statement is correct?,Stationary is nearer to Home than Playground,,,,Playground is at same distance from Stationary and Home,Playground is nearer to Home than Stationary,Home is at same distance from Stationary and Playground,60,3,,,"Let the distance between Stationary and Home be $x$, and the distance between Home and Playground be $y$.
+Here $x=$$200$$m$ and $y=$$700$$m$.
+Stationary---$200$$m$--->Home---$700$$m$--->Playground
+As we can see that the distance between Stationary and Home is $200$$m$, and the distance between Home and Playground is $700$$m$.
+Since the distance between Stationary and Home $<$ distance between Home and Playground
+Stationary is nearer to Home than Playground",
+text,text,30102,7,Stationary is $350$ metres from Salon. Supermarket is $50$ metres from Stationary. Assuming Stationary and Supermarket are in the same direction from Salon which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Supermarket is at same distance from Salon and Stationary,Salon is at same distance from Stationary and Supermarket,Stationary is at same distance from Salon and Supermarket,60,3,,,"Let the distance between Salon and Stationary be $x$, and the distance between Stationary and Supermarket be $y$.
+Here $x=$$350$$m$ and $y=$$50$$m$.
+There are two possible ways in which Salon, Stationary, Supermarket can be arranged.
+Arrangement 1:-
+Salon---$350$$m$--->Stationary---$50$$m$--->Supermarket
+Arrangement 2:-
+Salon-----$350$$m$----->Stationary
+Supermarket<---$50$$m$---Stationary
+Distance between Salon and Supermarket $= $$350$$-$$50$$ = $$300$$m$    ...([distance between Salon & Stationary] $-$ [distance between Stationary & Supermarket])
+Salon----$300$$m$---->Supermarket----$50$$m$---->Stationary
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Bus Stop is $150$ metres from Office. Restaurant is $950$ metres from Bus Stop. Assuming Bus Stop and Restaurant are in the same direction from Office which of the following statement is correct?,Office is nearer to Bus Stop than Restaurant,,,,Restaurant is at same distance from Office and Bus Stop,Bus Stop is at same distance from Office and Restaurant,Restaurant is nearer to Bus Stop than Office,60,3,,,"Let the distance between Office and Bus Stop be $x$, and the distance between Bus Stop and Restaurant be $y$.
+Here $x=$$150$$m$ and $y=$$950$$m$.
+Office---$150$$m$--->Bus Stop---$950$$m$--->Restaurant
+As we can see that the distance between Office and Bus Stop is $150$$m$, and the distance between Bus Stop and Restaurant is $950$$m$.
+Since the distance between Office and Bus Stop $<$ distance between Bus Stop and Restaurant
+Office is nearer to Bus Stop than Restaurant",
+text,text,30102,7,Library is $450$ metres from Bus Stop. Office is $50$ metres from Library. Assuming Library and Office are in the same direction from Bus Stop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Library is at same distance from Bus Stop and Office,Bus Stop is at same distance from Library and Office,Office is at same distance from Bus Stop and Library,60,3,,,"Let the distance between Bus Stop and Library be $x$, and the distance between Library and Office be $y$.
+Here $x=$$450$$m$ and $y=$$50$$m$.
+There are two possible ways in which Bus Stop, Library, Office can be arranged.
+Arrangement 1:-
+Bus Stop---$450$$m$--->Library---$50$$m$--->Office
+Arrangement 2:-
+Bus Stop-----$450$$m$----->Library
+Office<---$50$$m$---Library
+Distance between Bus Stop and Office $= $$450$$-$$50$$ = $$400$$m$    ...([distance between Bus Stop & Library] $-$ [distance between Library & Office])
+Bus Stop----$400$$m$---->Office----$50$$m$---->Library
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Factory is $500$ metres from Playground. Home is $150$ metres from Factory. Assuming Factory and Home are in the same direction from Playground which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Playground is at same distance from Factory and Home,Home is at same distance from Playground and Factory,Factory is at same distance from Playground and Home,60,3,,,"Let the distance between Playground and Factory be $x$, and the distance between Factory and Home be $y$.
+Here $x=$$500$$m$ and $y=$$150$$m$.
+There are two possible ways in which Playground, Factory, Home can be arranged.
+Arrangement 1:-
+Playground---$500$$m$--->Factory---$150$$m$--->Home
+Arrangement 2:-
+Playground-----$500$$m$----->Factory
+Home<---$150$$m$---Factory
+Distance between Playground and Home $= $$500$$-$$150$$ = $$350$$m$    ...([distance between Playground & Factory] $-$ [distance between Factory & Home])
+Playground----$350$$m$---->Home----$150$$m$---->Factory
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Salon is $850$ metres from Office. Tuition is $700$ metres from Salon. Assuming Salon and Tuition are in the same direction from Office which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Salon is at same distance from Office and Tuition,Tuition is at same distance from Office and Salon,Office is at same distance from Salon and Tuition,60,3,,,"Let the distance between Office and Salon be $x$, and the distance between Salon and Tuition be $y$.
+Here $x=$$850$$m$ and $y=$$700$$m$.
+There are two possible ways in which Office, Salon, Tuition can be arranged.
+Arrangement 1:-
+Office---$850$$m$--->Salon---$700$$m$--->Tuition
+Arrangement 2:-
+Office-----$850$$m$----->Salon
+Tuition<---$700$$m$---Salon
+Distance between Office and Tuition $= $$850$$-$$700$$ = $$150$$m$    ...([distance between Office & Salon] $-$ [distance between Salon & Tuition])
+Office----$150$$m$---->Tuition----$700$$m$---->Salon
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Salon is $300$ metres from Factory. Theatre is $800$ metres from Salon. Assuming Salon and Theatre are in the same direction from Factory which of the following statement is correct?,Factory is nearer to Salon than Theatre,,,,Salon is at same distance from Factory and Theatre,Theatre is nearer to Salon than Factory,Theatre is at same distance from Factory and Salon,60,3,,,"Let the distance between Factory and Salon be $x$, and the distance between Salon and Theatre be $y$.
+Here $x=$$300$$m$ and $y=$$800$$m$.
+Factory---$300$$m$--->Salon---$800$$m$--->Theatre
+As we can see that the distance between Factory and Salon is $300$$m$, and the distance between Salon and Theatre is $800$$m$.
+Since the distance between Factory and Salon $<$ distance between Salon and Theatre
+Factory is nearer to Salon than Theatre",
+text,text,30102,7,Theatre is $800$ metres from Petrol Pump. Playground is $750$ metres from Theatre. Assuming Theatre and Playground are in the same direction from Petrol Pump which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Playground is at same distance from Petrol Pump and Theatre,Theatre is at same distance from Petrol Pump and Playground,Petrol Pump is at same distance from Theatre and Playground,60,3,,,"Let the distance between Petrol Pump and Theatre be $x$, and the distance between Theatre and Playground be $y$.
+Here $x=$$800$$m$ and $y=$$750$$m$.
+There are two possible ways in which Petrol Pump, Theatre, Playground can be arranged.
+Arrangement 1:-
+Petrol Pump---$800$$m$--->Theatre---$750$$m$--->Playground
+Arrangement 2:-
+Petrol Pump-----$800$$m$----->Theatre
+Playground<---$750$$m$---Theatre
+Distance between Petrol Pump and Playground $= $$800$$-$$750$$ = $$50$$m$    ...([distance between Petrol Pump & Theatre] $-$ [distance between Theatre & Playground])
+Petrol Pump----$50$$m$---->Playground----$750$$m$---->Theatre
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Mall is $200$ metres from Coffee Shop. School is $900$ metres from Mall. Assuming Mall and School are in the same direction from Coffee Shop which of the following statement is correct?,Coffee Shop is nearer to Mall than School,,,,Mall is at same distance from Coffee Shop and School,School is at same distance from Coffee Shop and Mall,School is nearer to Mall than Coffee Shop,60,3,,,"Let the distance between Coffee Shop and Mall be $x$, and the distance between Mall and School be $y$.
+Here $x=$$200$$m$ and $y=$$900$$m$.
+Coffee Shop---$200$$m$--->Mall---$900$$m$--->School
+As we can see that the distance between Coffee Shop and Mall is $200$$m$, and the distance between Mall and School is $900$$m$.
+Since the distance between Coffee Shop and Mall $<$ distance between Mall and School
+Coffee Shop is nearer to Mall than School",
+text,text,30102,7,Office is $550$ metres from Hospital. School is $200$ metres from Office. Assuming Office and School are in the same direction from Hospital which of the following statement is correct?,None of the point is equidistant from the other two points,,,,School is at same distance from Hospital and Office,Hospital is at same distance from Office and School,Office is at same distance from Hospital and School,60,3,,,"Let the distance between Hospital and Office be $x$, and the distance between Office and School be $y$.
+Here $x=$$550$$m$ and $y=$$200$$m$.
+There are two possible ways in which Hospital, Office, School can be arranged.
+Arrangement 1:-
+Hospital---$550$$m$--->Office---$200$$m$--->School
+Arrangement 2:-
+Hospital-----$550$$m$----->Office
+School<---$200$$m$---Office
+Distance between Hospital and School $= $$550$$-$$200$$ = $$350$$m$    ...([distance between Hospital & Office] $-$ [distance between Office & School])
+Hospital----$350$$m$---->School----$200$$m$---->Office
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Playground is $250$ metres from Tuition. Home is $200$ metres from Playground. Assuming Playground and Home are in the same direction from Tuition which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Tuition is at same distance from Playground and Home,Playground is at same distance from Tuition and Home,Home is at same distance from Tuition and Playground,60,3,,,"Let the distance between Tuition and Playground be $x$, and the distance between Playground and Home be $y$.
+Here $x=$$250$$m$ and $y=$$200$$m$.
+There are two possible ways in which Tuition, Playground, Home can be arranged.
+Arrangement 1:-
+Tuition---$250$$m$--->Playground---$200$$m$--->Home
+Arrangement 2:-
+Tuition-----$250$$m$----->Playground
+Home<---$200$$m$---Playground
+Distance between Tuition and Home $= $$250$$-$$200$$ = $$50$$m$    ...([distance between Tuition & Playground] $-$ [distance between Playground & Home])
+Tuition----$50$$m$---->Home----$200$$m$---->Playground
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Bus Stop is $550$ metres from Police Station. Mall is $850$ metres from Bus Stop. Assuming Bus Stop and Mall are in the same direction from Police Station which of the following statement is correct?,Police Station is nearer to Bus Stop than Mall,,,,Mall is at same distance from Police Station and Bus Stop,Bus Stop is at same distance from Police Station and Mall,Mall is nearer to Bus Stop than Police Station,60,3,,,"Let the distance between Police Station and Bus Stop be $x$, and the distance between Bus Stop and Mall be $y$.
+Here $x=$$550$$m$ and $y=$$850$$m$.
+Police Station---$550$$m$--->Bus Stop---$850$$m$--->Mall
+As we can see that the distance between Police Station and Bus Stop is $550$$m$, and the distance between Bus Stop and Mall is $850$$m$.
+Since the distance between Police Station and Bus Stop $<$ distance between Bus Stop and Mall
+Police Station is nearer to Bus Stop than Mall",
+text,text,30102,7,Home is $300$ metres from School. Supermarket is $700$ metres from Home. Assuming Home and Supermarket are in the same direction from School which of the following statement is correct?,School is nearer to Home than Supermarket,,,,Supermarket is at same distance from School and Home,Supermarket is nearer to Home than School,Home is at same distance from School and Supermarket,60,3,,,"Let the distance between School and Home be $x$, and the distance between Home and Supermarket be $y$.
+Here $x=$$300$$m$ and $y=$$700$$m$.
+School---$300$$m$--->Home---$700$$m$--->Supermarket
+As we can see that the distance between School and Home is $300$$m$, and the distance between Home and Supermarket is $700$$m$.
+Since the distance between School and Home $<$ distance between Home and Supermarket
+School is nearer to Home than Supermarket",
+text,text,30102,7,Supermarket is $250$ metres from Hospital. Restaurant is $350$ metres from Supermarket. Assuming Supermarket and Restaurant are in the same direction from Hospital which of the following statement is correct?,Hospital is nearer to Supermarket than Restaurant,,,,Supermarket is at same distance from Hospital and Restaurant,Restaurant is nearer to Supermarket than Hospital,Restaurant is at same distance from Hospital and Supermarket,60,3,,,"Let the distance between Hospital and Supermarket be $x$, and the distance between Supermarket and Restaurant be $y$.
+Here $x=$$250$$m$ and $y=$$350$$m$.
+Hospital---$250$$m$--->Supermarket---$350$$m$--->Restaurant
+As we can see that the distance between Hospital and Supermarket is $250$$m$, and the distance between Supermarket and Restaurant is $350$$m$.
+Since the distance between Hospital and Supermarket $<$ distance between Supermarket and Restaurant
+Hospital is nearer to Supermarket than Restaurant",
+text,text,30102,7,Playground is $600$ metres from School. Restaurant is $800$ metres from Playground. Assuming Playground and Restaurant are in the same direction from School which of the following statement is correct?,School is nearer to Playground than Restaurant,,,,Playground is at same distance from School and Restaurant,Restaurant is nearer to Playground than School,Restaurant is at same distance from School and Playground,60,3,,,"Let the distance between School and Playground be $x$, and the distance between Playground and Restaurant be $y$.
+Here $x=$$600$$m$ and $y=$$800$$m$.
+School---$600$$m$--->Playground---$800$$m$--->Restaurant
+As we can see that the distance between School and Playground is $600$$m$, and the distance between Playground and Restaurant is $800$$m$.
+Since the distance between School and Playground $<$ distance between Playground and Restaurant
+School is nearer to Playground than Restaurant",
+text,text,30102,7,Stationary is $600$ metres from Home. Salon is $700$ metres from Stationary. Assuming Stationary and Salon are in the same direction from Home which of the following statement is correct?,Home is nearer to Stationary than Salon,,,,Salon is nearer to Stationary than Home,Stationary is at same distance from Home and Salon,Salon is at same distance from Home and Stationary,60,3,,,"Let the distance between Home and Stationary be $x$, and the distance between Stationary and Salon be $y$.
+Here $x=$$600$$m$ and $y=$$700$$m$.
+Home---$600$$m$--->Stationary---$700$$m$--->Salon
+As we can see that the distance between Home and Stationary is $600$$m$, and the distance between Stationary and Salon is $700$$m$.
+Since the distance between Home and Stationary $<$ distance between Stationary and Salon
+Home is nearer to Stationary than Salon",
+text,text,30102,7,Petrol Pump is $550$ metres from Mall. Supermarket is $300$ metres from Petrol Pump. Assuming Petrol Pump and Supermarket are in the same direction from Mall which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Petrol Pump is at same distance from Mall and Supermarket,Mall is at same distance from Petrol Pump and Supermarket,Supermarket is at same distance from Mall and Petrol Pump,60,3,,,"Let the distance between Mall and Petrol Pump be $x$, and the distance between Petrol Pump and Supermarket be $y$.
+Here $x=$$550$$m$ and $y=$$300$$m$.
+There are two possible ways in which Mall, Petrol Pump, Supermarket can be arranged.
+Arrangement 1:-
+Mall---$550$$m$--->Petrol Pump---$300$$m$--->Supermarket
+Arrangement 2:-
+Mall-----$550$$m$----->Petrol Pump
+Supermarket<---$300$$m$---Petrol Pump
+Distance between Mall and Supermarket $= $$550$$-$$300$$ = $$250$$m$    ...([distance between Mall & Petrol Pump] $-$ [distance between Petrol Pump & Supermarket])
+Mall----$250$$m$---->Supermarket----$300$$m$---->Petrol Pump
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Police Station is $450$ metres from Factory. Mall is $600$ metres from Police Station. Assuming Police Station and Mall are in the same direction from Factory which of the following statement is correct?,Factory is nearer to Police Station than Mall,,,,Police Station is at same distance from Factory and Mall,Mall is nearer to Police Station than Factory,Mall is at same distance from Factory and Police Station,60,3,,,"Let the distance between Factory and Police Station be $x$, and the distance between Police Station and Mall be $y$.
+Here $x=$$450$$m$ and $y=$$600$$m$.
+Factory---$450$$m$--->Police Station---$600$$m$--->Mall
+As we can see that the distance between Factory and Police Station is $450$$m$, and the distance between Police Station and Mall is $600$$m$.
+Since the distance between Factory and Police Station $<$ distance between Police Station and Mall
+Factory is nearer to Police Station than Mall",
+text,text,30102,7,Library is $600$ metres from Restaurant. Coffee Shop is $800$ metres from Library. Assuming Library and Coffee Shop are in the same direction from Restaurant which of the following statement is correct?,Restaurant is nearer to Library than Coffee Shop,,,,Coffee Shop is nearer to Library than Restaurant,Library is at same distance from Restaurant and Coffee Shop,Coffee Shop is at same distance from Restaurant and Library,60,3,,,"Let the distance between Restaurant and Library be $x$, and the distance between Library and Coffee Shop be $y$.
+Here $x=$$600$$m$ and $y=$$800$$m$.
+Restaurant---$600$$m$--->Library---$800$$m$--->Coffee Shop
+As we can see that the distance between Restaurant and Library is $600$$m$, and the distance between Library and Coffee Shop is $800$$m$.
+Since the distance between Restaurant and Library $<$ distance between Library and Coffee Shop
+Restaurant is nearer to Library than Coffee Shop",
+text,text,30102,7,Supermarket is $100$ metres from Home. Tuition is $900$ metres from Supermarket. Assuming Supermarket and Tuition are in the same direction from Home which of the following statement is correct?,Home is nearer to Supermarket than Tuition,,,,Tuition is nearer to Supermarket than Home,Tuition is at same distance from Home and Supermarket,Supermarket is at same distance from Home and Tuition,60,3,,,"Let the distance between Home and Supermarket be $x$, and the distance between Supermarket and Tuition be $y$.
+Here $x=$$100$$m$ and $y=$$900$$m$.
+Home---$100$$m$--->Supermarket---$900$$m$--->Tuition
+As we can see that the distance between Home and Supermarket is $100$$m$, and the distance between Supermarket and Tuition is $900$$m$.
+Since the distance between Home and Supermarket $<$ distance between Supermarket and Tuition
+Home is nearer to Supermarket than Tuition",
+text,text,30102,7,Mall is $800$ metres from Salon. Tuition is $450$ metres from Mall. Assuming Mall and Tuition are in the same direction from Salon which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Salon is at same distance from Mall and Tuition,Tuition is at same distance from Salon and Mall,Mall is at same distance from Salon and Tuition,60,3,,,"Let the distance between Salon and Mall be $x$, and the distance between Mall and Tuition be $y$.
+Here $x=$$800$$m$ and $y=$$450$$m$.
+There are two possible ways in which Salon, Mall, Tuition can be arranged.
+Arrangement 1:-
+Salon---$800$$m$--->Mall---$450$$m$--->Tuition
+Arrangement 2:-
+Salon-----$800$$m$----->Mall
+Tuition<---$450$$m$---Mall
+Distance between Salon and Tuition $= $$800$$-$$450$$ = $$350$$m$    ...([distance between Salon & Mall] $-$ [distance between Mall & Tuition])
+Salon----$350$$m$---->Tuition----$450$$m$---->Mall
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,School is $300$ metres from Bus Stop. Office is $200$ metres from School. Assuming School and Office are in the same direction from Bus Stop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Bus Stop is at same distance from School and Office,Office is at same distance from Bus Stop and School,School is at same distance from Bus Stop and Office,60,3,,,"Let the distance between Bus Stop and School be $x$, and the distance between School and Office be $y$.
+Here $x=$$300$$m$ and $y=$$200$$m$.
+There are two possible ways in which Bus Stop, School, Office can be arranged.
+Arrangement 1:-
+Bus Stop---$300$$m$--->School---$200$$m$--->Office
+Arrangement 2:-
+Bus Stop-----$300$$m$----->School
+Office<---$200$$m$---School
+Distance between Bus Stop and Office $= $$300$$-$$200$$ = $$100$$m$    ...([distance between Bus Stop & School] $-$ [distance between School & Office])
+Bus Stop----$100$$m$---->Office----$200$$m$---->School
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Supermarket is $750$ metres from Petrol Pump. Salon is $400$ metres from Supermarket. Assuming Supermarket and Salon are in the same direction from Petrol Pump which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Salon is at same distance from Petrol Pump and Supermarket,Petrol Pump is at same distance from Supermarket and Salon,Supermarket is at same distance from Petrol Pump and Salon,60,3,,,"Let the distance between Petrol Pump and Supermarket be $x$, and the distance between Supermarket and Salon be $y$.
+Here $x=$$750$$m$ and $y=$$400$$m$.
+There are two possible ways in which Petrol Pump, Supermarket, Salon can be arranged.
+Arrangement 1:-
+Petrol Pump---$750$$m$--->Supermarket---$400$$m$--->Salon
+Arrangement 2:-
+Petrol Pump-----$750$$m$----->Supermarket
+Salon<---$400$$m$---Supermarket
+Distance between Petrol Pump and Salon $= $$750$$-$$400$$ = $$350$$m$    ...([distance between Petrol Pump & Supermarket] $-$ [distance between Supermarket & Salon])
+Petrol Pump----$350$$m$---->Salon----$400$$m$---->Supermarket
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Playground is $750$ metres from Library. Medicine Shop is $450$ metres from Playground. Assuming Playground and Medicine Shop are in the same direction from Library which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Library is at same distance from Playground and Medicine Shop,Playground is at same distance from Library and Medicine Shop,Medicine Shop is at same distance from Library and Playground,60,3,,,"Let the distance between Library and Playground be $x$, and the distance between Playground and Medicine Shop be $y$.
+Here $x=$$750$$m$ and $y=$$450$$m$.
+There are two possible ways in which Library, Playground, Medicine Shop can be arranged.
+Arrangement 1:-
+Library---$750$$m$--->Playground---$450$$m$--->Medicine Shop
+Arrangement 2:-
+Library-----$750$$m$----->Playground
+Medicine Shop<---$450$$m$---Playground
+Distance between Library and Medicine Shop $= $$750$$-$$450$$ = $$300$$m$    ...([distance between Library & Playground] $-$ [distance between Playground & Medicine Shop])
+Library----$300$$m$---->Medicine Shop----$450$$m$---->Playground
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Coffee Shop is $500$ metres from Theatre. Supermarket is $600$ metres from Coffee Shop. Assuming Coffee Shop and Supermarket are in the same direction from Theatre which of the following statement is correct?,Theatre is nearer to Coffee Shop than Supermarket,,,,Supermarket is nearer to Coffee Shop than Theatre,Coffee Shop is at same distance from Theatre and Supermarket,Supermarket is at same distance from Theatre and Coffee Shop,60,3,,,"Let the distance between Theatre and Coffee Shop be $x$, and the distance between Coffee Shop and Supermarket be $y$.
+Here $x=$$500$$m$ and $y=$$600$$m$.
+Theatre---$500$$m$--->Coffee Shop---$600$$m$--->Supermarket
+As we can see that the distance between Theatre and Coffee Shop is $500$$m$, and the distance between Coffee Shop and Supermarket is $600$$m$.
+Since the distance between Theatre and Coffee Shop $<$ distance between Coffee Shop and Supermarket
+Theatre is nearer to Coffee Shop than Supermarket",
+text,text,30102,7,Home is $750$ metres from Tuition. Stationary is $400$ metres from Home. Assuming Home and Stationary are in the same direction from Tuition which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Tuition is at same distance from Home and Stationary,Stationary is at same distance from Tuition and Home,Home is at same distance from Tuition and Stationary,60,3,,,"Let the distance between Tuition and Home be $x$, and the distance between Home and Stationary be $y$.
+Here $x=$$750$$m$ and $y=$$400$$m$.
+There are two possible ways in which Tuition, Home, Stationary can be arranged.
+Arrangement 1:-
+Tuition---$750$$m$--->Home---$400$$m$--->Stationary
+Arrangement 2:-
+Tuition-----$750$$m$----->Home
+Stationary<---$400$$m$---Home
+Distance between Tuition and Stationary $= $$750$$-$$400$$ = $$350$$m$    ...([distance between Tuition & Home] $-$ [distance between Home & Stationary])
+Tuition----$350$$m$---->Stationary----$400$$m$---->Home
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Medicine Shop is $850$ metres from Stationary. Coffee Shop is $800$ metres from Medicine Shop. Assuming Medicine Shop and Coffee Shop are in the same direction from Stationary which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Medicine Shop is at same distance from Stationary and Coffee Shop,Stationary is at same distance from Medicine Shop and Coffee Shop,Coffee Shop is at same distance from Stationary and Medicine Shop,60,3,,,"Let the distance between Stationary and Medicine Shop be $x$, and the distance between Medicine Shop and Coffee Shop be $y$.
+Here $x=$$850$$m$ and $y=$$800$$m$.
+There are two possible ways in which Stationary, Medicine Shop, Coffee Shop can be arranged.
+Arrangement 1:-
+Stationary---$850$$m$--->Medicine Shop---$800$$m$--->Coffee Shop
+Arrangement 2:-
+Stationary-----$850$$m$----->Medicine Shop
+Coffee Shop<---$800$$m$---Medicine Shop
+Distance between Stationary and Coffee Shop $= $$850$$-$$800$$ = $$50$$m$    ...([distance between Stationary & Medicine Shop] $-$ [distance between Medicine Shop & Coffee Shop])
+Stationary----$50$$m$---->Coffee Shop----$800$$m$---->Medicine Shop
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Factory is $600$ metres from Police Station. Medicine Shop is $100$ metres from Factory. Assuming Factory and Medicine Shop are in the same direction from Police Station which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Police Station is at same distance from Factory and Medicine Shop,Medicine Shop is at same distance from Police Station and Factory,Factory is at same distance from Police Station and Medicine Shop,60,3,,,"Let the distance between Police Station and Factory be $x$, and the distance between Factory and Medicine Shop be $y$.
+Here $x=$$600$$m$ and $y=$$100$$m$.
+There are two possible ways in which Police Station, Factory, Medicine Shop can be arranged.
+Arrangement 1:-
+Police Station---$600$$m$--->Factory---$100$$m$--->Medicine Shop
+Arrangement 2:-
+Police Station-----$600$$m$----->Factory
+Medicine Shop<---$100$$m$---Factory
+Distance between Police Station and Medicine Shop $= $$600$$-$$100$$ = $$500$$m$    ...([distance between Police Station & Factory] $-$ [distance between Factory & Medicine Shop])
+Police Station----$500$$m$---->Medicine Shop----$100$$m$---->Factory
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Tuition is $400$ metres from Library. Mall is $650$ metres from Tuition. Assuming Tuition and Mall are in the same direction from Library which of the following statement is correct?,Library is nearer to Tuition than Mall,,,,Mall is nearer to Tuition than Library,Mall is at same distance from Library and Tuition,Tuition is at same distance from Library and Mall,60,3,,,"Let the distance between Library and Tuition be $x$, and the distance between Tuition and Mall be $y$.
+Here $x=$$400$$m$ and $y=$$650$$m$.
+Library---$400$$m$--->Tuition---$650$$m$--->Mall
+As we can see that the distance between Library and Tuition is $400$$m$, and the distance between Tuition and Mall is $650$$m$.
+Since the distance between Library and Tuition $<$ distance between Tuition and Mall
+Library is nearer to Tuition than Mall",
+text,text,30102,7,Theatre is $400$ metres from Coffee Shop. Factory is $550$ metres from Theatre. Assuming Theatre and Factory are in the same direction from Coffee Shop which of the following statement is correct?,Coffee Shop is nearer to Theatre than Factory,,,,Theatre is at same distance from Coffee Shop and Factory,Factory is nearer to Theatre than Coffee Shop,Factory is at same distance from Coffee Shop and Theatre,60,3,,,"Let the distance between Coffee Shop and Theatre be $x$, and the distance between Theatre and Factory be $y$.
+Here $x=$$400$$m$ and $y=$$550$$m$.
+Coffee Shop---$400$$m$--->Theatre---$550$$m$--->Factory
+As we can see that the distance between Coffee Shop and Theatre is $400$$m$, and the distance between Theatre and Factory is $550$$m$.
+Since the distance between Coffee Shop and Theatre $<$ distance between Theatre and Factory
+Coffee Shop is nearer to Theatre than Factory",
+text,text,30102,7,Library is $100$ metres from Salon. Medicine Shop is $350$ metres from Library. Assuming Library and Medicine Shop are in the same direction from Salon which of the following statement is correct?,Salon is nearer to Library than Medicine Shop,,,,Medicine Shop is at same distance from Salon and Library,Library is at same distance from Salon and Medicine Shop,Medicine Shop is nearer to Library than Salon,60,3,,,"Let the distance between Salon and Library be $x$, and the distance between Library and Medicine Shop be $y$.
+Here $x=$$100$$m$ and $y=$$350$$m$.
+Salon---$100$$m$--->Library---$350$$m$--->Medicine Shop
+As we can see that the distance between Salon and Library is $100$$m$, and the distance between Library and Medicine Shop is $350$$m$.
+Since the distance between Salon and Library $<$ distance between Library and Medicine Shop
+Salon is nearer to Library than Medicine Shop",
+text,text,30102,7,Stationary is $150$ metres from Police Station. Home is $900$ metres from Stationary. Assuming Stationary and Home are in the same direction from Police Station which of the following statement is correct?,Police Station is nearer to Stationary than Home,,,,Stationary is at same distance from Police Station and Home,Home is at same distance from Police Station and Stationary,Home is nearer to Stationary than Police Station,60,3,,,"Let the distance between Police Station and Stationary be $x$, and the distance between Stationary and Home be $y$.
+Here $x=$$150$$m$ and $y=$$900$$m$.
+Police Station---$150$$m$--->Stationary---$900$$m$--->Home
+As we can see that the distance between Police Station and Stationary is $150$$m$, and the distance between Stationary and Home is $900$$m$.
+Since the distance between Police Station and Stationary $<$ distance between Stationary and Home
+Police Station is nearer to Stationary than Home",
+text,text,30102,7,Factory is $600$ metres from Police Station. Petrol Pump is $300$ metres from Factory. Assuming Factory and Petrol Pump are in the same direction from Police Station which of the following statement is correct?,Petrol Pump is at same distance from Police Station and Factory,,,,Factory is at same distance from Police Station and Petrol Pump,Police Station is at same distance from Factory and Petrol Pump,None of the point is equidistant from the other two points,60,3,,,"Let the distance between Police Station and Factory be $x$, and the distance between Factory and Petrol Pump be $y$.
+Here $x=$$600$$m$ and $y=$$300$$m$.
+There are two possible ways in which Police Station, Factory, Petrol Pump can be arranged.
+Arrangement 1:-
+Police Station---$600$$m$--->Factory---$300$$m$--->Petrol Pump
+Arrangement 2:-
+Police Station-----$600$$m$----->Factory
+Petrol Pump<---$300$$m$---Factory
+Distance between Police Station and Petrol Pump $= $$600$$-$$300$$ = $$300$$m$    ...([distance between Police Station & Factory] $-$ [distance between Factory & Petrol Pump])
+Police Station----$300$$m$---->Petrol Pump----$300$$m$---->Factory
+According to Arrangement-2 the distance between Police Station and Petrol Pump can be found out by subtracting the distance between Factory and Petrol Pump from the distance between Police Station and Factory.
+Therefore, distance between Police Station and Petrol Pump $= $$600$$-$$300$$ = $$300$$m$As we can see that the distance between Police Station and Petrol Pump is $300$$m$, and the distance between Factory and Petrol Pump is also $300$$m$.
+Petrol Pump is at same distance from Police Station and Factory",
+text,text,30102,7,Mall is $600$ metres from School. Office is $300$ metres from Mall. Assuming Mall and Office are in the same direction from School which of the following statement is correct?,Office is at same distance from School and Mall,,,,Mall is at same distance from School and Office,None of the point is equidistant from the other two points,School is at same distance from Mall and Office,60,3,,,"Let the distance between School and Mall be $x$, and the distance between Mall and Office be $y$.
+Here $x=$$600$$m$ and $y=$$300$$m$.
+There are two possible ways in which School, Mall, Office can be arranged.
+Arrangement 1:-
+School---$600$$m$--->Mall---$300$$m$--->Office
+Arrangement 2:-
+School-----$600$$m$----->Mall
+Office<---$300$$m$---Mall
+Distance between School and Office $= $$600$$-$$300$$ = $$300$$m$    ...([distance between School & Mall] $-$ [distance between Mall & Office])
+School----$300$$m$---->Office----$300$$m$---->Mall
+According to Arrangement-2 the distance between School and Office can be found out by subtracting the distance between Mall and Office from the distance between School and Mall.
+Therefore, distance between School and Office $= $$600$$-$$300$$ = $$300$$m$As we can see that the distance between School and Office is $300$$m$, and the distance between Mall and Office is also $300$$m$.
+Office is at same distance from School and Mall",
+text,text,30102,7,School is $50$ metres from Office. Coffee Shop is $750$ metres from School. Assuming School and Coffee Shop are in the same direction from Office which of the following statement is correct?,Office is nearer to School than Coffee Shop,,,,School is at same distance from Office and Coffee Shop,Coffee Shop is at same distance from Office and School,Coffee Shop is nearer to School than Office,60,3,,,"Let the distance between Office and School be $x$, and the distance between School and Coffee Shop be $y$.
+Here $x=$$50$$m$ and $y=$$750$$m$.
+Office---$50$$m$--->School---$750$$m$--->Coffee Shop
+As we can see that the distance between Office and School is $50$$m$, and the distance between School and Coffee Shop is $750$$m$.
+Since the distance between Office and School $<$ distance between School and Coffee Shop
+Office is nearer to School than Coffee Shop",
+text,text,30102,7,Hospital is $700$ metres from Police Station. Stationary is $400$ metres from Hospital. Assuming Hospital and Stationary are in the same direction from Police Station which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Hospital is at same distance from Police Station and Stationary,Stationary is at same distance from Police Station and Hospital,Police Station is at same distance from Hospital and Stationary,60,3,,,"Let the distance between Police Station and Hospital be $x$, and the distance between Hospital and Stationary be $y$.
+Here $x=$$700$$m$ and $y=$$400$$m$.
+There are two possible ways in which Police Station, Hospital, Stationary can be arranged.
+Arrangement 1:-
+Police Station---$700$$m$--->Hospital---$400$$m$--->Stationary
+Arrangement 2:-
+Police Station-----$700$$m$----->Hospital
+Stationary<---$400$$m$---Hospital
+Distance between Police Station and Stationary $= $$700$$-$$400$$ = $$300$$m$    ...([distance between Police Station & Hospital] $-$ [distance between Hospital & Stationary])
+Police Station----$300$$m$---->Stationary----$400$$m$---->Hospital
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Petrol Pump is $150$ metres from Theatre. Hospital is $700$ metres from Petrol Pump. Assuming Petrol Pump and Hospital are in the same direction from Theatre which of the following statement is correct?,Theatre is nearer to Petrol Pump than Hospital,,,,Hospital is at same distance from Theatre and Petrol Pump,Hospital is nearer to Petrol Pump than Theatre,Petrol Pump is at same distance from Theatre and Hospital,60,3,,,"Let the distance between Theatre and Petrol Pump be $x$, and the distance between Petrol Pump and Hospital be $y$.
+Here $x=$$150$$m$ and $y=$$700$$m$.
+Theatre---$150$$m$--->Petrol Pump---$700$$m$--->Hospital
+As we can see that the distance between Theatre and Petrol Pump is $150$$m$, and the distance between Petrol Pump and Hospital is $700$$m$.
+Since the distance between Theatre and Petrol Pump $<$ distance between Petrol Pump and Hospital
+Theatre is nearer to Petrol Pump than Hospital",
+text,text,30102,7,Playground is $550$ metres from Mall. Bus Stop is $750$ metres from Playground. Assuming Playground and Bus Stop are in the same direction from Mall which of the following statement is correct?,Mall is nearer to Playground than Bus Stop,,,,Bus Stop is nearer to Playground than Mall,Bus Stop is at same distance from Mall and Playground,Playground is at same distance from Mall and Bus Stop,60,3,,,"Let the distance between Mall and Playground be $x$, and the distance between Playground and Bus Stop be $y$.
+Here $x=$$550$$m$ and $y=$$750$$m$.
+Mall---$550$$m$--->Playground---$750$$m$--->Bus Stop
+As we can see that the distance between Mall and Playground is $550$$m$, and the distance between Playground and Bus Stop is $750$$m$.
+Since the distance between Mall and Playground $<$ distance between Playground and Bus Stop
+Mall is nearer to Playground than Bus Stop",
+text,text,30102,7,Playground is $350$ metres from Office. Police Station is $900$ metres from Playground. Assuming Playground and Police Station are in the same direction from Office which of the following statement is correct?,Office is nearer to Playground than Police Station,,,,Police Station is nearer to Playground than Office,Police Station is at same distance from Office and Playground,Playground is at same distance from Office and Police Station,60,3,,,"Let the distance between Office and Playground be $x$, and the distance between Playground and Police Station be $y$.
+Here $x=$$350$$m$ and $y=$$900$$m$.
+Office---$350$$m$--->Playground---$900$$m$--->Police Station
+As we can see that the distance between Office and Playground is $350$$m$, and the distance between Playground and Police Station is $900$$m$.
+Since the distance between Office and Playground $<$ distance between Playground and Police Station
+Office is nearer to Playground than Police Station",
+text,text,30102,7,Police Station is $850$ metres from Coffee Shop. Medicine Shop is $300$ metres from Police Station. Assuming Police Station and Medicine Shop are in the same direction from Coffee Shop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Coffee Shop is at same distance from Police Station and Medicine Shop,Medicine Shop is at same distance from Coffee Shop and Police Station,Police Station is at same distance from Coffee Shop and Medicine Shop,60,3,,,"Let the distance between Coffee Shop and Police Station be $x$, and the distance between Police Station and Medicine Shop be $y$.
+Here $x=$$850$$m$ and $y=$$300$$m$.
+There are two possible ways in which Coffee Shop, Police Station, Medicine Shop can be arranged.
+Arrangement 1:-
+Coffee Shop---$850$$m$--->Police Station---$300$$m$--->Medicine Shop
+Arrangement 2:-
+Coffee Shop-----$850$$m$----->Police Station
+Medicine Shop<---$300$$m$---Police Station
+Distance between Coffee Shop and Medicine Shop $= $$850$$-$$300$$ = $$550$$m$    ...([distance between Coffee Shop & Police Station] $-$ [distance between Police Station & Medicine Shop])
+Coffee Shop----$550$$m$---->Medicine Shop----$300$$m$---->Police Station
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Playground is $100$ metres from Coffee Shop. School is $550$ metres from Playground. Assuming Playground and School are in the same direction from Coffee Shop which of the following statement is correct?,Coffee Shop is nearer to Playground than School,,,,Playground is at same distance from Coffee Shop and School,School is nearer to Playground than Coffee Shop,School is at same distance from Coffee Shop and Playground,60,3,,,"Let the distance between Coffee Shop and Playground be $x$, and the distance between Playground and School be $y$.
+Here $x=$$100$$m$ and $y=$$550$$m$.
+Coffee Shop---$100$$m$--->Playground---$550$$m$--->School
+As we can see that the distance between Coffee Shop and Playground is $100$$m$, and the distance between Playground and School is $550$$m$.
+Since the distance between Coffee Shop and Playground $<$ distance between Playground and School
+Coffee Shop is nearer to Playground than School",
+text,text,30102,7,Petrol Pump is $200$ metres from Salon. Medicine Shop is $250$ metres from Petrol Pump. Assuming Petrol Pump and Medicine Shop are in the same direction from Salon which of the following statement is correct?,Salon is nearer to Petrol Pump than Medicine Shop,,,,Medicine Shop is at same distance from Salon and Petrol Pump,Medicine Shop is nearer to Petrol Pump than Salon,Petrol Pump is at same distance from Salon and Medicine Shop,60,3,,,"Let the distance between Salon and Petrol Pump be $x$, and the distance between Petrol Pump and Medicine Shop be $y$.
+Here $x=$$200$$m$ and $y=$$250$$m$.
+Salon---$200$$m$--->Petrol Pump---$250$$m$--->Medicine Shop
+As we can see that the distance between Salon and Petrol Pump is $200$$m$, and the distance between Petrol Pump and Medicine Shop is $250$$m$.
+Since the distance between Salon and Petrol Pump $<$ distance between Petrol Pump and Medicine Shop
+Salon is nearer to Petrol Pump than Medicine Shop",
+text,text,30102,7,Tuition is $150$ metres from Coffee Shop. Medicine Shop is $200$ metres from Tuition. Assuming Tuition and Medicine Shop are in the same direction from Coffee Shop which of the following statement is correct?,Coffee Shop is nearer to Tuition than Medicine Shop,,,,Medicine Shop is nearer to Tuition than Coffee Shop,Medicine Shop is at same distance from Coffee Shop and Tuition,Tuition is at same distance from Coffee Shop and Medicine Shop,60,3,,,"Let the distance between Coffee Shop and Tuition be $x$, and the distance between Tuition and Medicine Shop be $y$.
+Here $x=$$150$$m$ and $y=$$200$$m$.
+Coffee Shop---$150$$m$--->Tuition---$200$$m$--->Medicine Shop
+As we can see that the distance between Coffee Shop and Tuition is $150$$m$, and the distance between Tuition and Medicine Shop is $200$$m$.
+Since the distance between Coffee Shop and Tuition $<$ distance between Tuition and Medicine Shop
+Coffee Shop is nearer to Tuition than Medicine Shop",
+text,text,30102,7,Salon is $300$ metres from Supermarket. Office is $200$ metres from Salon. Assuming Salon and Office are in the same direction from Supermarket which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Salon is at same distance from Supermarket and Office,Supermarket is at same distance from Salon and Office,Office is at same distance from Supermarket and Salon,60,3,,,"Let the distance between Supermarket and Salon be $x$, and the distance between Salon and Office be $y$.
+Here $x=$$300$$m$ and $y=$$200$$m$.
+There are two possible ways in which Supermarket, Salon, Office can be arranged.
+Arrangement 1:-
+Supermarket---$300$$m$--->Salon---$200$$m$--->Office
+Arrangement 2:-
+Supermarket-----$300$$m$----->Salon
+Office<---$200$$m$---Salon
+Distance between Supermarket and Office $= $$300$$-$$200$$ = $$100$$m$    ...([distance between Supermarket & Salon] $-$ [distance between Salon & Office])
+Supermarket----$100$$m$---->Office----$200$$m$---->Salon
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Theatre is $150$ metres from Salon. Petrol Pump is $650$ metres from Theatre. Assuming Theatre and Petrol Pump are in the same direction from Salon which of the following statement is correct?,Salon is nearer to Theatre than Petrol Pump,,,,Theatre is at same distance from Salon and Petrol Pump,Petrol Pump is nearer to Theatre than Salon,Petrol Pump is at same distance from Salon and Theatre,60,3,,,"Let the distance between Salon and Theatre be $x$, and the distance between Theatre and Petrol Pump be $y$.
+Here $x=$$150$$m$ and $y=$$650$$m$.
+Salon---$150$$m$--->Theatre---$650$$m$--->Petrol Pump
+As we can see that the distance between Salon and Theatre is $150$$m$, and the distance between Theatre and Petrol Pump is $650$$m$.
+Since the distance between Salon and Theatre $<$ distance between Theatre and Petrol Pump
+Salon is nearer to Theatre than Petrol Pump",
+text,text,30102,7,Tuition is $150$ metres from Police Station. Medicine Shop is $500$ metres from Tuition. Assuming Tuition and Medicine Shop are in the same direction from Police Station which of the following statement is correct?,Police Station is nearer to Tuition than Medicine Shop,,,,Medicine Shop is at same distance from Police Station and Tuition,Medicine Shop is nearer to Tuition than Police Station,Tuition is at same distance from Police Station and Medicine Shop,60,3,,,"Let the distance between Police Station and Tuition be $x$, and the distance between Tuition and Medicine Shop be $y$.
+Here $x=$$150$$m$ and $y=$$500$$m$.
+Police Station---$150$$m$--->Tuition---$500$$m$--->Medicine Shop
+As we can see that the distance between Police Station and Tuition is $150$$m$, and the distance between Tuition and Medicine Shop is $500$$m$.
+Since the distance between Police Station and Tuition $<$ distance between Tuition and Medicine Shop
+Police Station is nearer to Tuition than Medicine Shop",
+text,text,30102,7,Hospital is $200$ metres from Theatre. Supermarket is $500$ metres from Hospital. Assuming Hospital and Supermarket are in the same direction from Theatre which of the following statement is correct?,Theatre is nearer to Hospital than Supermarket,,,,Supermarket is at same distance from Theatre and Hospital,Supermarket is nearer to Hospital than Theatre,Hospital is at same distance from Theatre and Supermarket,60,3,,,"Let the distance between Theatre and Hospital be $x$, and the distance between Hospital and Supermarket be $y$.
+Here $x=$$200$$m$ and $y=$$500$$m$.
+Theatre---$200$$m$--->Hospital---$500$$m$--->Supermarket
+As we can see that the distance between Theatre and Hospital is $200$$m$, and the distance between Hospital and Supermarket is $500$$m$.
+Since the distance between Theatre and Hospital $<$ distance between Hospital and Supermarket
+Theatre is nearer to Hospital than Supermarket",
+text,text,30102,7,Medicine Shop is $750$ metres from Mall. Restaurant is $300$ metres from Medicine Shop. Assuming Medicine Shop and Restaurant are in the same direction from Mall which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Medicine Shop is at same distance from Mall and Restaurant,Restaurant is at same distance from Mall and Medicine Shop,Mall is at same distance from Medicine Shop and Restaurant,60,3,,,"Let the distance between Mall and Medicine Shop be $x$, and the distance between Medicine Shop and Restaurant be $y$.
+Here $x=$$750$$m$ and $y=$$300$$m$.
+There are two possible ways in which Mall, Medicine Shop, Restaurant can be arranged.
+Arrangement 1:-
+Mall---$750$$m$--->Medicine Shop---$300$$m$--->Restaurant
+Arrangement 2:-
+Mall-----$750$$m$----->Medicine Shop
+Restaurant<---$300$$m$---Medicine Shop
+Distance between Mall and Restaurant $= $$750$$-$$300$$ = $$450$$m$    ...([distance between Mall & Medicine Shop] $-$ [distance between Medicine Shop & Restaurant])
+Mall----$450$$m$---->Restaurant----$300$$m$---->Medicine Shop
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Medicine Shop is $700$ metres from Restaurant. Supermarket is $800$ metres from Medicine Shop. Assuming Medicine Shop and Supermarket are in the same direction from Restaurant which of the following statement is correct?,Restaurant is nearer to Medicine Shop than Supermarket,,,,Medicine Shop is at same distance from Restaurant and Supermarket,Supermarket is nearer to Medicine Shop than Restaurant,Supermarket is at same distance from Restaurant and Medicine Shop,60,3,,,"Let the distance between Restaurant and Medicine Shop be $x$, and the distance between Medicine Shop and Supermarket be $y$.
+Here $x=$$700$$m$ and $y=$$800$$m$.
+Restaurant---$700$$m$--->Medicine Shop---$800$$m$--->Supermarket
+As we can see that the distance between Restaurant and Medicine Shop is $700$$m$, and the distance between Medicine Shop and Supermarket is $800$$m$.
+Since the distance between Restaurant and Medicine Shop $<$ distance between Medicine Shop and Supermarket
+Restaurant is nearer to Medicine Shop than Supermarket",
+text,text,30102,7,Factory is $50$ metres from Petrol Pump. Library is $300$ metres from Factory. Assuming Factory and Library are in the same direction from Petrol Pump which of the following statement is correct?,Petrol Pump is nearer to Factory than Library,,,,Library is nearer to Factory than Petrol Pump,Library is at same distance from Petrol Pump and Factory,Factory is at same distance from Petrol Pump and Library,60,3,,,"Let the distance between Petrol Pump and Factory be $x$, and the distance between Factory and Library be $y$.
+Here $x=$$50$$m$ and $y=$$300$$m$.
+Petrol Pump---$50$$m$--->Factory---$300$$m$--->Library
+As we can see that the distance between Petrol Pump and Factory is $50$$m$, and the distance between Factory and Library is $300$$m$.
+Since the distance between Petrol Pump and Factory $<$ distance between Factory and Library
+Petrol Pump is nearer to Factory than Library",
+text,text,30102,7,Playground is $850$ metres from Hospital. Supermarket is $250$ metres from Playground. Assuming Playground and Supermarket are in the same direction from Hospital which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Playground is at same distance from Hospital and Supermarket,Hospital is at same distance from Playground and Supermarket,Supermarket is at same distance from Hospital and Playground,60,3,,,"Let the distance between Hospital and Playground be $x$, and the distance between Playground and Supermarket be $y$.
+Here $x=$$850$$m$ and $y=$$250$$m$.
+There are two possible ways in which Hospital, Playground, Supermarket can be arranged.
+Arrangement 1:-
+Hospital---$850$$m$--->Playground---$250$$m$--->Supermarket
+Arrangement 2:-
+Hospital-----$850$$m$----->Playground
+Supermarket<---$250$$m$---Playground
+Distance between Hospital and Supermarket $= $$850$$-$$250$$ = $$600$$m$    ...([distance between Hospital & Playground] $-$ [distance between Playground & Supermarket])
+Hospital----$600$$m$---->Supermarket----$250$$m$---->Playground
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Library is $350$ metres from Theatre. Salon is $300$ metres from Library. Assuming Library and Salon are in the same direction from Theatre which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Theatre is at same distance from Library and Salon,Salon is at same distance from Theatre and Library,Library is at same distance from Theatre and Salon,60,3,,,"Let the distance between Theatre and Library be $x$, and the distance between Library and Salon be $y$.
+Here $x=$$350$$m$ and $y=$$300$$m$.
+There are two possible ways in which Theatre, Library, Salon can be arranged.
+Arrangement 1:-
+Theatre---$350$$m$--->Library---$300$$m$--->Salon
+Arrangement 2:-
+Theatre-----$350$$m$----->Library
+Salon<---$300$$m$---Library
+Distance between Theatre and Salon $= $$350$$-$$300$$ = $$50$$m$    ...([distance between Theatre & Library] $-$ [distance between Library & Salon])
+Theatre----$50$$m$---->Salon----$300$$m$---->Library
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Office is $950$ metres from Petrol Pump. Stationary is $150$ metres from Office. Assuming Office and Stationary are in the same direction from Petrol Pump which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Office is at same distance from Petrol Pump and Stationary,Stationary is at same distance from Petrol Pump and Office,Petrol Pump is at same distance from Office and Stationary,60,3,,,"Let the distance between Petrol Pump and Office be $x$, and the distance between Office and Stationary be $y$.
+Here $x=$$950$$m$ and $y=$$150$$m$.
+There are two possible ways in which Petrol Pump, Office, Stationary can be arranged.
+Arrangement 1:-
+Petrol Pump---$950$$m$--->Office---$150$$m$--->Stationary
+Arrangement 2:-
+Petrol Pump-----$950$$m$----->Office
+Stationary<---$150$$m$---Office
+Distance between Petrol Pump and Stationary $= $$950$$-$$150$$ = $$800$$m$    ...([distance between Petrol Pump & Office] $-$ [distance between Office & Stationary])
+Petrol Pump----$800$$m$---->Stationary----$150$$m$---->Office
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Mall is $950$ metres from Tuition. Petrol Pump is $450$ metres from Mall. Assuming Mall and Petrol Pump are in the same direction from Tuition which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Mall is at same distance from Tuition and Petrol Pump,Petrol Pump is at same distance from Tuition and Mall,Tuition is at same distance from Mall and Petrol Pump,60,3,,,"Let the distance between Tuition and Mall be $x$, and the distance between Mall and Petrol Pump be $y$.
+Here $x=$$950$$m$ and $y=$$450$$m$.
+There are two possible ways in which Tuition, Mall, Petrol Pump can be arranged.
+Arrangement 1:-
+Tuition---$950$$m$--->Mall---$450$$m$--->Petrol Pump
+Arrangement 2:-
+Tuition-----$950$$m$----->Mall
+Petrol Pump<---$450$$m$---Mall
+Distance between Tuition and Petrol Pump $= $$950$$-$$450$$ = $$500$$m$    ...([distance between Tuition & Mall] $-$ [distance between Mall & Petrol Pump])
+Tuition----$500$$m$---->Petrol Pump----$450$$m$---->Mall
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Medicine Shop is $650$ metres from Police Station. Office is $650$ metres from Medicine Shop. Assuming Medicine Shop and Office are in the same direction from Police Station which of the following statement is correct?,Medicine Shop is at same distance from Police Station and Office,,,,Office is nearer to Medicine Shop than Police Station,Office is at same distance from Police Station and Medicine Shop,Police Station is nearer to Medicine Shop than Office,60,3,,,"Let the distance between Police Station and Medicine Shop be $x$, and the distance between Medicine Shop and Office be $y$.
+Here $x=$$650$$m$ and $y=$$650$$m$.
+Police Station---$650$$m$--->Medicine Shop---$650$$m$--->Office
+As we can see that the distance between Police Station and Medicine Shop is $650$$m$, and the distance between Medicine Shop and Office is also $650$$m$.
+Medicine Shop is at same distance from Police Station and Office",
+text,text,30102,7,School is $100$ metres from Coffee Shop. Stationary is $800$ metres from School. Assuming School and Stationary are in the same direction from Coffee Shop which of the following statement is correct?,Coffee Shop is nearer to School than Stationary,,,,Stationary is nearer to School than Coffee Shop,Stationary is at same distance from Coffee Shop and School,School is at same distance from Coffee Shop and Stationary,60,3,,,"Let the distance between Coffee Shop and School be $x$, and the distance between School and Stationary be $y$.
+Here $x=$$100$$m$ and $y=$$800$$m$.
+Coffee Shop---$100$$m$--->School---$800$$m$--->Stationary
+As we can see that the distance between Coffee Shop and School is $100$$m$, and the distance between School and Stationary is $800$$m$.
+Since the distance between Coffee Shop and School $<$ distance between School and Stationary
+Coffee Shop is nearer to School than Stationary",
+text,text,30102,7,Office is $100$ metres from Home. Salon is $700$ metres from Office. Assuming Office and Salon are in the same direction from Home which of the following statement is correct?,Home is nearer to Office than Salon,,,,Office is at same distance from Home and Salon,Salon is at same distance from Home and Office,Salon is nearer to Office than Home,60,3,,,"Let the distance between Home and Office be $x$, and the distance between Office and Salon be $y$.
+Here $x=$$100$$m$ and $y=$$700$$m$.
+Home---$100$$m$--->Office---$700$$m$--->Salon
+As we can see that the distance between Home and Office is $100$$m$, and the distance between Office and Salon is $700$$m$.
+Since the distance between Home and Office $<$ distance between Office and Salon
+Home is nearer to Office than Salon",
+text,text,30102,7,Supermarket is $700$ metres from Playground. Restaurant is $400$ metres from Supermarket. Assuming Supermarket and Restaurant are in the same direction from Playground which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Playground is at same distance from Supermarket and Restaurant,Restaurant is at same distance from Playground and Supermarket,Supermarket is at same distance from Playground and Restaurant,60,3,,,"Let the distance between Playground and Supermarket be $x$, and the distance between Supermarket and Restaurant be $y$.
+Here $x=$$700$$m$ and $y=$$400$$m$.
+There are two possible ways in which Playground, Supermarket, Restaurant can be arranged.
+Arrangement 1:-
+Playground---$700$$m$--->Supermarket---$400$$m$--->Restaurant
+Arrangement 2:-
+Playground-----$700$$m$----->Supermarket
+Restaurant<---$400$$m$---Supermarket
+Distance between Playground and Restaurant $= $$700$$-$$400$$ = $$300$$m$    ...([distance between Playground & Supermarket] $-$ [distance between Supermarket & Restaurant])
+Playground----$300$$m$---->Restaurant----$400$$m$---->Supermarket
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Coffee Shop is $750$ metres from Office. Library is $550$ metres from Coffee Shop. Assuming Coffee Shop and Library are in the same direction from Office which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Coffee Shop is at same distance from Office and Library,Library is at same distance from Office and Coffee Shop,Office is at same distance from Coffee Shop and Library,60,3,,,"Let the distance between Office and Coffee Shop be $x$, and the distance between Coffee Shop and Library be $y$.
+Here $x=$$750$$m$ and $y=$$550$$m$.
+There are two possible ways in which Office, Coffee Shop, Library can be arranged.
+Arrangement 1:-
+Office---$750$$m$--->Coffee Shop---$550$$m$--->Library
+Arrangement 2:-
+Office-----$750$$m$----->Coffee Shop
+Library<---$550$$m$---Coffee Shop
+Distance between Office and Library $= $$750$$-$$550$$ = $$200$$m$    ...([distance between Office & Coffee Shop] $-$ [distance between Coffee Shop & Library])
+Office----$200$$m$---->Library----$550$$m$---->Coffee Shop
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Coffee Shop is $600$ metres from Supermarket. Petrol Pump is $300$ metres from Coffee Shop. Assuming Coffee Shop and Petrol Pump are in the same direction from Supermarket which of the following statement is correct?,Petrol Pump is at same distance from Supermarket and Coffee Shop,,,,None of the point is equidistant from the other two points,Supermarket is at same distance from Coffee Shop and Petrol Pump,Coffee Shop is at same distance from Supermarket and Petrol Pump,60,3,,,"Let the distance between Supermarket and Coffee Shop be $x$, and the distance between Coffee Shop and Petrol Pump be $y$.
+Here $x=$$600$$m$ and $y=$$300$$m$.
+There are two possible ways in which Supermarket, Coffee Shop, Petrol Pump can be arranged.
+Arrangement 1:-
+Supermarket---$600$$m$--->Coffee Shop---$300$$m$--->Petrol Pump
+Arrangement 2:-
+Supermarket-----$600$$m$----->Coffee Shop
+Petrol Pump<---$300$$m$---Coffee Shop
+Distance between Supermarket and Petrol Pump $= $$600$$-$$300$$ = $$300$$m$    ...([distance between Supermarket & Coffee Shop] $-$ [distance between Coffee Shop & Petrol Pump])
+Supermarket----$300$$m$---->Petrol Pump----$300$$m$---->Coffee Shop
+According to Arrangement-2 the distance between Supermarket and Petrol Pump can be found out by subtracting the distance between Coffee Shop and Petrol Pump from the distance between Supermarket and Coffee Shop.
+Therefore, distance between Supermarket and Petrol Pump $= $$600$$-$$300$$ = $$300$$m$As we can see that the distance between Supermarket and Petrol Pump is $300$$m$, and the distance between Coffee Shop and Petrol Pump is also $300$$m$.
+Petrol Pump is at same distance from Supermarket and Coffee Shop",
+text,text,30102,7,Stationary is $950$ metres from Supermarket. Factory is $600$ metres from Stationary. Assuming Stationary and Factory are in the same direction from Supermarket which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Factory is at same distance from Supermarket and Stationary,Supermarket is at same distance from Stationary and Factory,Stationary is at same distance from Supermarket and Factory,60,3,,,"Let the distance between Supermarket and Stationary be $x$, and the distance between Stationary and Factory be $y$.
+Here $x=$$950$$m$ and $y=$$600$$m$.
+There are two possible ways in which Supermarket, Stationary, Factory can be arranged.
+Arrangement 1:-
+Supermarket---$950$$m$--->Stationary---$600$$m$--->Factory
+Arrangement 2:-
+Supermarket-----$950$$m$----->Stationary
+Factory<---$600$$m$---Stationary
+Distance between Supermarket and Factory $= $$950$$-$$600$$ = $$350$$m$    ...([distance between Supermarket & Stationary] $-$ [distance between Stationary & Factory])
+Supermarket----$350$$m$---->Factory----$600$$m$---->Stationary
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Library is $900$ metres from Tuition. Factory is $800$ metres from Library. Assuming Library and Factory are in the same direction from Tuition which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Factory is at same distance from Tuition and Library,Tuition is at same distance from Library and Factory,Library is at same distance from Tuition and Factory,60,3,,,"Let the distance between Tuition and Library be $x$, and the distance between Library and Factory be $y$.
+Here $x=$$900$$m$ and $y=$$800$$m$.
+There are two possible ways in which Tuition, Library, Factory can be arranged.
+Arrangement 1:-
+Tuition---$900$$m$--->Library---$800$$m$--->Factory
+Arrangement 2:-
+Tuition-----$900$$m$----->Library
+Factory<---$800$$m$---Library
+Distance between Tuition and Factory $= $$900$$-$$800$$ = $$100$$m$    ...([distance between Tuition & Library] $-$ [distance between Library & Factory])
+Tuition----$100$$m$---->Factory----$800$$m$---->Library
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Mall is $550$ metres from Petrol Pump. Tuition is $250$ metres from Mall. Assuming Mall and Tuition are in the same direction from Petrol Pump which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Tuition is at same distance from Petrol Pump and Mall,Mall is at same distance from Petrol Pump and Tuition,Petrol Pump is at same distance from Mall and Tuition,60,3,,,"Let the distance between Petrol Pump and Mall be $x$, and the distance between Mall and Tuition be $y$.
+Here $x=$$550$$m$ and $y=$$250$$m$.
+There are two possible ways in which Petrol Pump, Mall, Tuition can be arranged.
+Arrangement 1:-
+Petrol Pump---$550$$m$--->Mall---$250$$m$--->Tuition
+Arrangement 2:-
+Petrol Pump-----$550$$m$----->Mall
+Tuition<---$250$$m$---Mall
+Distance between Petrol Pump and Tuition $= $$550$$-$$250$$ = $$300$$m$    ...([distance between Petrol Pump & Mall] $-$ [distance between Mall & Tuition])
+Petrol Pump----$300$$m$---->Tuition----$250$$m$---->Mall
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Medicine Shop is $750$ metres from Coffee Shop. Petrol Pump is $850$ metres from Medicine Shop. Assuming Medicine Shop and Petrol Pump are in the same direction from Coffee Shop which of the following statement is correct?,Coffee Shop is nearer to Medicine Shop than Petrol Pump,,,,Medicine Shop is at same distance from Coffee Shop and Petrol Pump,Petrol Pump is nearer to Medicine Shop than Coffee Shop,Petrol Pump is at same distance from Coffee Shop and Medicine Shop,60,3,,,"Let the distance between Coffee Shop and Medicine Shop be $x$, and the distance between Medicine Shop and Petrol Pump be $y$.
+Here $x=$$750$$m$ and $y=$$850$$m$.
+Coffee Shop---$750$$m$--->Medicine Shop---$850$$m$--->Petrol Pump
+As we can see that the distance between Coffee Shop and Medicine Shop is $750$$m$, and the distance between Medicine Shop and Petrol Pump is $850$$m$.
+Since the distance between Coffee Shop and Medicine Shop $<$ distance between Medicine Shop and Petrol Pump
+Coffee Shop is nearer to Medicine Shop than Petrol Pump",
+text,text,30102,7,Factory is $400$ metres from Petrol Pump. Salon is $100$ metres from Factory. Assuming Factory and Salon are in the same direction from Petrol Pump which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Factory is at same distance from Petrol Pump and Salon,Petrol Pump is at same distance from Factory and Salon,Salon is at same distance from Petrol Pump and Factory,60,3,,,"Let the distance between Petrol Pump and Factory be $x$, and the distance between Factory and Salon be $y$.
+Here $x=$$400$$m$ and $y=$$100$$m$.
+There are two possible ways in which Petrol Pump, Factory, Salon can be arranged.
+Arrangement 1:-
+Petrol Pump---$400$$m$--->Factory---$100$$m$--->Salon
+Arrangement 2:-
+Petrol Pump-----$400$$m$----->Factory
+Salon<---$100$$m$---Factory
+Distance between Petrol Pump and Salon $= $$400$$-$$100$$ = $$300$$m$    ...([distance between Petrol Pump & Factory] $-$ [distance between Factory & Salon])
+Petrol Pump----$300$$m$---->Salon----$100$$m$---->Factory
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Police Station is $750$ metres from Bus Stop. Petrol Pump is $850$ metres from Police Station. Assuming Police Station and Petrol Pump are in the same direction from Bus Stop which of the following statement is correct?,Bus Stop is nearer to Police Station than Petrol Pump,,,,Petrol Pump is nearer to Police Station than Bus Stop,Police Station is at same distance from Bus Stop and Petrol Pump,Petrol Pump is at same distance from Bus Stop and Police Station,60,3,,,"Let the distance between Bus Stop and Police Station be $x$, and the distance between Police Station and Petrol Pump be $y$.
+Here $x=$$750$$m$ and $y=$$850$$m$.
+Bus Stop---$750$$m$--->Police Station---$850$$m$--->Petrol Pump
+As we can see that the distance between Bus Stop and Police Station is $750$$m$, and the distance between Police Station and Petrol Pump is $850$$m$.
+Since the distance between Bus Stop and Police Station $<$ distance between Police Station and Petrol Pump
+Bus Stop is nearer to Police Station than Petrol Pump",
+text,text,30102,7,Playground is $900$ metres from Hospital. Office is $300$ metres from Playground. Assuming Playground and Office are in the same direction from Hospital which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Hospital is at same distance from Playground and Office,Office is at same distance from Hospital and Playground,Playground is at same distance from Hospital and Office,60,3,,,"Let the distance between Hospital and Playground be $x$, and the distance between Playground and Office be $y$.
+Here $x=$$900$$m$ and $y=$$300$$m$.
+There are two possible ways in which Hospital, Playground, Office can be arranged.
+Arrangement 1:-
+Hospital---$900$$m$--->Playground---$300$$m$--->Office
+Arrangement 2:-
+Hospital-----$900$$m$----->Playground
+Office<---$300$$m$---Playground
+Distance between Hospital and Office $= $$900$$-$$300$$ = $$600$$m$    ...([distance between Hospital & Playground] $-$ [distance between Playground & Office])
+Hospital----$600$$m$---->Office----$300$$m$---->Playground
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Mall is $850$ metres from Medicine Shop. Supermarket is $50$ metres from Mall. Assuming Mall and Supermarket are in the same direction from Medicine Shop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Mall is at same distance from Medicine Shop and Supermarket,Supermarket is at same distance from Medicine Shop and Mall,Medicine Shop is at same distance from Mall and Supermarket,60,3,,,"Let the distance between Medicine Shop and Mall be $x$, and the distance between Mall and Supermarket be $y$.
+Here $x=$$850$$m$ and $y=$$50$$m$.
+There are two possible ways in which Medicine Shop, Mall, Supermarket can be arranged.
+Arrangement 1:-
+Medicine Shop---$850$$m$--->Mall---$50$$m$--->Supermarket
+Arrangement 2:-
+Medicine Shop-----$850$$m$----->Mall
+Supermarket<---$50$$m$---Mall
+Distance between Medicine Shop and Supermarket $= $$850$$-$$50$$ = $$800$$m$    ...([distance between Medicine Shop & Mall] $-$ [distance between Mall & Supermarket])
+Medicine Shop----$800$$m$---->Supermarket----$50$$m$---->Mall
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Office is $550$ metres from Restaurant. Hospital is $250$ metres from Office. Assuming Office and Hospital are in the same direction from Restaurant which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Office is at same distance from Restaurant and Hospital,Restaurant is at same distance from Office and Hospital,Hospital is at same distance from Restaurant and Office,60,3,,,"Let the distance between Restaurant and Office be $x$, and the distance between Office and Hospital be $y$.
+Here $x=$$550$$m$ and $y=$$250$$m$.
+There are two possible ways in which Restaurant, Office, Hospital can be arranged.
+Arrangement 1:-
+Restaurant---$550$$m$--->Office---$250$$m$--->Hospital
+Arrangement 2:-
+Restaurant-----$550$$m$----->Office
+Hospital<---$250$$m$---Office
+Distance between Restaurant and Hospital $= $$550$$-$$250$$ = $$300$$m$    ...([distance between Restaurant & Office] $-$ [distance between Office & Hospital])
+Restaurant----$300$$m$---->Hospital----$250$$m$---->Office
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,School is $900$ metres from Hospital. Police Station is $950$ metres from School. Assuming School and Police Station are in the same direction from Hospital which of the following statement is correct?,Hospital is nearer to School than Police Station,,,,Police Station is at same distance from Hospital and School,Police Station is nearer to School than Hospital,School is at same distance from Hospital and Police Station,60,3,,,"Let the distance between Hospital and School be $x$, and the distance between School and Police Station be $y$.
+Here $x=$$900$$m$ and $y=$$950$$m$.
+Hospital---$900$$m$--->School---$950$$m$--->Police Station
+As we can see that the distance between Hospital and School is $900$$m$, and the distance between School and Police Station is $950$$m$.
+Since the distance between Hospital and School $<$ distance between School and Police Station
+Hospital is nearer to School than Police Station",
+text,text,30102,7,Playground is $900$ metres from Mall. Theatre is $300$ metres from Playground. Assuming Playground and Theatre are in the same direction from Mall which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Mall is at same distance from Playground and Theatre,Playground is at same distance from Mall and Theatre,Theatre is at same distance from Mall and Playground,60,3,,,"Let the distance between Mall and Playground be $x$, and the distance between Playground and Theatre be $y$.
+Here $x=$$900$$m$ and $y=$$300$$m$.
+There are two possible ways in which Mall, Playground, Theatre can be arranged.
+Arrangement 1:-
+Mall---$900$$m$--->Playground---$300$$m$--->Theatre
+Arrangement 2:-
+Mall-----$900$$m$----->Playground
+Theatre<---$300$$m$---Playground
+Distance between Mall and Theatre $= $$900$$-$$300$$ = $$600$$m$    ...([distance between Mall & Playground] $-$ [distance between Playground & Theatre])
+Mall----$600$$m$---->Theatre----$300$$m$---->Playground
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Home is $400$ metres from Petrol Pump. School is $550$ metres from Home. Assuming Home and School are in the same direction from Petrol Pump which of the following statement is correct?,Petrol Pump is nearer to Home than School,,,,School is nearer to Home than Petrol Pump,Home is at same distance from Petrol Pump and School,School is at same distance from Petrol Pump and Home,60,3,,,"Let the distance between Petrol Pump and Home be $x$, and the distance between Home and School be $y$.
+Here $x=$$400$$m$ and $y=$$550$$m$.
+Petrol Pump---$400$$m$--->Home---$550$$m$--->School
+As we can see that the distance between Petrol Pump and Home is $400$$m$, and the distance between Home and School is $550$$m$.
+Since the distance between Petrol Pump and Home $<$ distance between Home and School
+Petrol Pump is nearer to Home than School",
+text,text,30102,7,Petrol Pump is $50$ metres from Factory. Hospital is $600$ metres from Petrol Pump. Assuming Petrol Pump and Hospital are in the same direction from Factory which of the following statement is correct?,Factory is nearer to Petrol Pump than Hospital,,,,Hospital is at same distance from Factory and Petrol Pump,Hospital is nearer to Petrol Pump than Factory,Petrol Pump is at same distance from Factory and Hospital,60,3,,,"Let the distance between Factory and Petrol Pump be $x$, and the distance between Petrol Pump and Hospital be $y$.
+Here $x=$$50$$m$ and $y=$$600$$m$.
+Factory---$50$$m$--->Petrol Pump---$600$$m$--->Hospital
+As we can see that the distance between Factory and Petrol Pump is $50$$m$, and the distance between Petrol Pump and Hospital is $600$$m$.
+Since the distance between Factory and Petrol Pump $<$ distance between Petrol Pump and Hospital
+Factory is nearer to Petrol Pump than Hospital",
+text,text,30102,7,Salon is $900$ metres from Library. School is $150$ metres from Salon. Assuming Salon and School are in the same direction from Library which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Salon is at same distance from Library and School,School is at same distance from Library and Salon,Library is at same distance from Salon and School,60,3,,,"Let the distance between Library and Salon be $x$, and the distance between Salon and School be $y$.
+Here $x=$$900$$m$ and $y=$$150$$m$.
+There are two possible ways in which Library, Salon, School can be arranged.
+Arrangement 1:-
+Library---$900$$m$--->Salon---$150$$m$--->School
+Arrangement 2:-
+Library-----$900$$m$----->Salon
+School<---$150$$m$---Salon
+Distance between Library and School $= $$900$$-$$150$$ = $$750$$m$    ...([distance between Library & Salon] $-$ [distance between Salon & School])
+Library----$750$$m$---->School----$150$$m$---->Salon
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Police Station is $650$ metres from Medicine Shop. Bus Stop is $250$ metres from Police Station. Assuming Police Station and Bus Stop are in the same direction from Medicine Shop which of the following statement is correct?,None of the point is equidistant from the other two points,,,,Police Station is at same distance from Medicine Shop and Bus Stop,Bus Stop is at same distance from Medicine Shop and Police Station,Medicine Shop is at same distance from Police Station and Bus Stop,60,3,,,"Let the distance between Medicine Shop and Police Station be $x$, and the distance between Police Station and Bus Stop be $y$.
+Here $x=$$650$$m$ and $y=$$250$$m$.
+There are two possible ways in which Medicine Shop, Police Station, Bus Stop can be arranged.
+Arrangement 1:-
+Medicine Shop---$650$$m$--->Police Station---$250$$m$--->Bus Stop
+Arrangement 2:-
+Medicine Shop-----$650$$m$----->Police Station
+Bus Stop<---$250$$m$---Police Station
+Distance between Medicine Shop and Bus Stop $= $$650$$-$$250$$ = $$400$$m$    ...([distance between Medicine Shop & Police Station] $-$ [distance between Police Station & Bus Stop])
+Medicine Shop----$400$$m$---->Bus Stop----$250$$m$---->Police Station
+It is evident from both the Arrangements that no point is at the same distance from the other two points.",
+text,text,30102,7,Home is $50$ metres from Mall. Office is $300$ metres from Home. Assuming Home and Office are in the same direction from Mall which of the following statement is correct?,Mall is nearer to Home than Office,,,,Home is at same distance from Mall and Office,Office is at same distance from Mall and Home,Office is nearer to Home than Mall,60,3,,,"Let the distance between Mall and Home be $x$, and the distance between Home and Office be $y$.
+Here $x=$$50$$m$ and $y=$$300$$m$.
+Mall---$50$$m$--->Home---$300$$m$--->Office
+As we can see that the distance between Mall and Home is $50$$m$, and the distance between Home and Office is $300$$m$.
+Since the distance between Mall and Home $<$ distance between Home and Office
+Mall is nearer to Home than Office",

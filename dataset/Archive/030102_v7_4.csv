@@ -1,0 +1,235 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30102,7,Coffee Shop is $250$ metres from Theatre. Mall is $400$ metres from Coffee Shop. Assuming Coffee Shop and Mall are in the opposite direction from Theatre which of the following statement is correct?,Mall is nearer to Theatre than Coffee Shop,,,,Coffee Shop is nearer to Theatre than Mall,Coffee Shop is nearer to Mall than Theatre,Theatre is at same distance from Coffee Shop and Mall,60,3,,,"Let the distance between Theatre and Coffee Shop be $x$, and the distance between Coffee Shop and Mall be $y$.
+Here $x=$$250$$m$ and $y=$$400$$m$.
+Coffee Shop---$250$$m$--->Theatre
+Coffee Shop-----$400$$m$----->Mall
+Distance between Theatre and Mall $= $$400$$-$$250$$ = $$150$$m$    ...([distance between Coffee Shop & Mall] $-$ [distance between Theatre & Coffee Shop])
+Coffee Shop---$250$$m$--->Theatre---$150$$m$--->Mall
+As we can see that the distance between Theatre and Coffee Shop is $250$$m$, and the distance between Theatre and Mall is $150$$m$.
+Since the distance between Theatre and Mall $<$ distance between Theatre and Coffee Shop
+Mall is nearer to Theatre than Coffee Shop",
+text,text,30102,7,Hospital is $500$ metres from Police Station. Stationary is $650$ metres from Hospital. Assuming Hospital and Stationary are in the opposite direction from Police Station which of the following statement is correct?,Stationary is nearer to Police Station than Hospital,,,,Hospital is nearer to Police Station than Stationary,Hospital is nearer to Stationary than Police Station,Police Station is at same distance from Hospital and Stationary,60,3,,,"Let the distance between Police Station and Hospital be $x$, and the distance between Hospital and Stationary be $y$.
+Here $x=$$500$$m$ and $y=$$650$$m$.
+Hospital---$500$$m$--->Police Station
+Hospital-----$650$$m$----->Stationary
+Distance between Police Station and Stationary $= $$650$$-$$500$$ = $$150$$m$    ...([distance between Hospital & Stationary] $-$ [distance between Police Station & Hospital])
+Hospital---$500$$m$--->Police Station---$150$$m$--->Stationary
+As we can see that the distance between Police Station and Hospital is $500$$m$, and the distance between Police Station and Stationary is $150$$m$.
+Since the distance between Police Station and Stationary $<$ distance between Police Station and Hospital
+Stationary is nearer to Police Station than Hospital",
+text,text,30102,7,Office is $50$ metres from Mall. Supermarket is $750$ metres from Office. Assuming Office and Supermarket are in the opposite direction from Mall which of the following statement is correct?,Office is nearer to Mall than Supermarket,,,,Office is nearer to Supermarket than Mall,Mall is at same distance from Office and Supermarket,Supermarket is nearer to Mall than Office,60,3,,,"Let the distance between Mall and Office be $x$, and the distance between Office and Supermarket be $y$.
+Here $x=$$50$$m$ and $y=$$750$$m$.
+Office---$50$$m$--->Mall
+Office-----$750$$m$----->Supermarket
+Distance between Mall and Supermarket $= $$750$$-$$50$$ = $$700$$m$    ...([distance between Office & Supermarket] $-$ [distance between Mall & Office])
+Office---$50$$m$--->Mall---$700$$m$--->Supermarket
+As we can see that the distance between Mall and Office is $50$$m$, and the distance between Mall and Supermarket is $700$$m$.
+Since the distance between Mall and Office $<$ distance between Mall and Supermarket
+Office is nearer to Mall than Supermarket",
+text,text,30102,7,Office is $800$ metres from Home. Restaurant is $850$ metres from Office. Assuming Office and Restaurant are in the opposite direction from Home which of the following statement is correct?,Restaurant is nearer to Home than Office,,,,Office is nearer to Home than Restaurant,Home is at same distance from Office and Restaurant,Office is nearer to Restaurant than Home,60,3,,,"Let the distance between Home and Office be $x$, and the distance between Office and Restaurant be $y$.
+Here $x=$$800$$m$ and $y=$$850$$m$.
+Office---$800$$m$--->Home
+Office-----$850$$m$----->Restaurant
+Distance between Home and Restaurant $= $$850$$-$$800$$ = $$50$$m$    ...([distance between Office & Restaurant] $-$ [distance between Home & Office])
+Office---$800$$m$--->Home---$50$$m$--->Restaurant
+As we can see that the distance between Home and Office is $800$$m$, and the distance between Home and Restaurant is $50$$m$.
+Since the distance between Home and Restaurant $<$ distance between Home and Office
+Restaurant is nearer to Home than Office",
+text,text,30102,7,Library is $800$ metres from Playground. Coffee Shop is $950$ metres from Library. Assuming Library and Coffee Shop are in the opposite direction from Playground which of the following statement is correct?,Coffee Shop is nearer to Playground than Library,,,,Playground is at same distance from Library and Coffee Shop,Library is nearer to Playground than Coffee Shop,Library is nearer to Coffee Shop than Playground,60,3,,,"Let the distance between Playground and Library be $x$, and the distance between Library and Coffee Shop be $y$.
+Here $x=$$800$$m$ and $y=$$950$$m$.
+Library---$800$$m$--->Playground
+Library-----$950$$m$----->Coffee Shop
+Distance between Playground and Coffee Shop $= $$950$$-$$800$$ = $$150$$m$    ...([distance between Library & Coffee Shop] $-$ [distance between Playground & Library])
+Library---$800$$m$--->Playground---$150$$m$--->Coffee Shop
+As we can see that the distance between Playground and Library is $800$$m$, and the distance between Playground and Coffee Shop is $150$$m$.
+Since the distance between Playground and Coffee Shop $<$ distance between Playground and Library
+Coffee Shop is nearer to Playground than Library",
+text,text,30102,7,School is $450$ metres from Factory. Bus Stop is $950$ metres from School. Assuming School and Bus Stop are in the opposite direction from Factory which of the following statement is correct?,School is nearer to Factory than Bus Stop,,,,School is nearer to Bus Stop than Factory,Bus Stop is nearer to Factory than School,Factory is at same distance from School and Bus Stop,60,3,,,"Let the distance between Factory and School be $x$, and the distance between School and Bus Stop be $y$.
+Here $x=$$450$$m$ and $y=$$950$$m$.
+School---$450$$m$--->Factory
+School-----$950$$m$----->Bus Stop
+Distance between Factory and Bus Stop $= $$950$$-$$450$$ = $$500$$m$    ...([distance between School & Bus Stop] $-$ [distance between Factory & School])
+School---$450$$m$--->Factory---$500$$m$--->Bus Stop
+As we can see that the distance between Factory and School is $450$$m$, and the distance between Factory and Bus Stop is $500$$m$.
+Since the distance between Factory and School $<$ distance between Factory and Bus Stop
+School is nearer to Factory than Bus Stop",
+text,text,30102,7,Theatre is $800$ metres from School. Supermarket is $900$ metres from Theatre. Assuming Theatre and Supermarket are in the opposite direction from School which of the following statement is correct?,Supermarket is nearer to School than Theatre,,,,Theatre is nearer to Supermarket than School,School is at same distance from Theatre and Supermarket,Theatre is nearer to School than Supermarket,60,3,,,"Let the distance between School and Theatre be $x$, and the distance between Theatre and Supermarket be $y$.
+Here $x=$$800$$m$ and $y=$$900$$m$.
+Theatre---$800$$m$--->School
+Theatre-----$900$$m$----->Supermarket
+Distance between School and Supermarket $= $$900$$-$$800$$ = $$100$$m$    ...([distance between Theatre & Supermarket] $-$ [distance between School & Theatre])
+Theatre---$800$$m$--->School---$100$$m$--->Supermarket
+As we can see that the distance between School and Theatre is $800$$m$, and the distance between School and Supermarket is $100$$m$.
+Since the distance between School and Supermarket $<$ distance between School and Theatre
+Supermarket is nearer to School than Theatre",
+text,text,30102,7,Library is $200$ metres from Mall. Police Station is $450$ metres from Library. Assuming Library and Police Station are in the opposite direction from Mall which of the following statement is correct?,Library is nearer to Mall than Police Station,,,,Police Station is nearer to Mall than Library,Library is nearer to Police Station than Mall,Mall is at same distance from Library and Police Station,60,3,,,"Let the distance between Mall and Library be $x$, and the distance between Library and Police Station be $y$.
+Here $x=$$200$$m$ and $y=$$450$$m$.
+Library---$200$$m$--->Mall
+Library-----$450$$m$----->Police Station
+Distance between Mall and Police Station $= $$450$$-$$200$$ = $$250$$m$    ...([distance between Library & Police Station] $-$ [distance between Mall & Library])
+Library---$200$$m$--->Mall---$250$$m$--->Police Station
+As we can see that the distance between Mall and Library is $200$$m$, and the distance between Mall and Police Station is $250$$m$.
+Since the distance between Mall and Library $<$ distance between Mall and Police Station
+Library is nearer to Mall than Police Station",
+text,text,30102,7,Police Station is $800$ metres from Bus Stop. Salon is $950$ metres from Police Station. Assuming Police Station and Salon are in the opposite direction from Bus Stop which of the following statement is correct?,Salon is nearer to Bus Stop than Police Station,,,,Police Station is nearer to Salon than Bus Stop,Bus Stop is at same distance from Police Station and Salon,Police Station is nearer to Bus Stop than Salon,60,3,,,"Let the distance between Bus Stop and Police Station be $x$, and the distance between Police Station and Salon be $y$.
+Here $x=$$800$$m$ and $y=$$950$$m$.
+Police Station---$800$$m$--->Bus Stop
+Police Station-----$950$$m$----->Salon
+Distance between Bus Stop and Salon $= $$950$$-$$800$$ = $$150$$m$    ...([distance between Police Station & Salon] $-$ [distance between Bus Stop & Police Station])
+Police Station---$800$$m$--->Bus Stop---$150$$m$--->Salon
+As we can see that the distance between Bus Stop and Police Station is $800$$m$, and the distance between Bus Stop and Salon is $150$$m$.
+Since the distance between Bus Stop and Salon $<$ distance between Bus Stop and Police Station
+Salon is nearer to Bus Stop than Police Station",
+text,text,30102,7,Playground is $900$ metres from Petrol Pump. Office is $950$ metres from Playground. Assuming Playground and Office are in the opposite direction from Petrol Pump which of the following statement is correct?,Office is nearer to Petrol Pump than Playground,,,,Petrol Pump is at same distance from Playground and Office,Playground is nearer to Office than Petrol Pump,Playground is nearer to Petrol Pump than Office,60,3,,,"Let the distance between Petrol Pump and Playground be $x$, and the distance between Playground and Office be $y$.
+Here $x=$$900$$m$ and $y=$$950$$m$.
+Playground---$900$$m$--->Petrol Pump
+Playground-----$950$$m$----->Office
+Distance between Petrol Pump and Office $= $$950$$-$$900$$ = $$50$$m$    ...([distance between Playground & Office] $-$ [distance between Petrol Pump & Playground])
+Playground---$900$$m$--->Petrol Pump---$50$$m$--->Office
+As we can see that the distance between Petrol Pump and Playground is $900$$m$, and the distance between Petrol Pump and Office is $50$$m$.
+Since the distance between Petrol Pump and Office $<$ distance between Petrol Pump and Playground
+Office is nearer to Petrol Pump than Playground",
+text,text,30102,7,Coffee Shop is $450$ metres from Factory. Bus Stop is $850$ metres from Coffee Shop. Assuming Coffee Shop and Bus Stop are in the opposite direction from Factory which of the following statement is correct?,Bus Stop is nearer to Factory than Coffee Shop,,,,Coffee Shop is nearer to Bus Stop than Factory,Factory is at same distance from Coffee Shop and Bus Stop,Coffee Shop is nearer to Factory than Bus Stop,60,3,,,"Let the distance between Factory and Coffee Shop be $x$, and the distance between Coffee Shop and Bus Stop be $y$.
+Here $x=$$450$$m$ and $y=$$850$$m$.
+Coffee Shop---$450$$m$--->Factory
+Coffee Shop-----$850$$m$----->Bus Stop
+Distance between Factory and Bus Stop $= $$850$$-$$450$$ = $$400$$m$    ...([distance between Coffee Shop & Bus Stop] $-$ [distance between Factory & Coffee Shop])
+Coffee Shop---$450$$m$--->Factory---$400$$m$--->Bus Stop
+As we can see that the distance between Factory and Coffee Shop is $450$$m$, and the distance between Factory and Bus Stop is $400$$m$.
+Since the distance between Factory and Bus Stop $<$ distance between Factory and Coffee Shop
+Bus Stop is nearer to Factory than Coffee Shop",
+text,text,30102,7,Stationary is $750$ metres from Medicine Shop. Supermarket is $900$ metres from Stationary. Assuming Stationary and Supermarket are in the opposite direction from Medicine Shop which of the following statement is correct?,Supermarket is nearer to Medicine Shop than Stationary,,,,Stationary is nearer to Medicine Shop than Supermarket,Stationary is nearer to Supermarket than Medicine Shop,Medicine Shop is at same distance from Stationary and Supermarket,60,3,,,"Let the distance between Medicine Shop and Stationary be $x$, and the distance between Stationary and Supermarket be $y$.
+Here $x=$$750$$m$ and $y=$$900$$m$.
+Stationary---$750$$m$--->Medicine Shop
+Stationary-----$900$$m$----->Supermarket
+Distance between Medicine Shop and Supermarket $= $$900$$-$$750$$ = $$150$$m$    ...([distance between Stationary & Supermarket] $-$ [distance between Medicine Shop & Stationary])
+Stationary---$750$$m$--->Medicine Shop---$150$$m$--->Supermarket
+As we can see that the distance between Medicine Shop and Stationary is $750$$m$, and the distance between Medicine Shop and Supermarket is $150$$m$.
+Since the distance between Medicine Shop and Supermarket $<$ distance between Medicine Shop and Stationary
+Supermarket is nearer to Medicine Shop than Stationary",
+text,text,30102,7,Bus Stop is $450$ metres from Restaurant. Factory is $950$ metres from Bus Stop. Assuming Bus Stop and Factory are in the opposite direction from Restaurant which of the following statement is correct?,Bus Stop is nearer to Restaurant than Factory,,,,Restaurant is at same distance from Bus Stop and Factory,Bus Stop is nearer to Factory than Restaurant,Factory is nearer to Restaurant than Bus Stop,60,3,,,"Let the distance between Restaurant and Bus Stop be $x$, and the distance between Bus Stop and Factory be $y$.
+Here $x=$$450$$m$ and $y=$$950$$m$.
+Bus Stop---$450$$m$--->Restaurant
+Bus Stop-----$950$$m$----->Factory
+Distance between Restaurant and Factory $= $$950$$-$$450$$ = $$500$$m$    ...([distance between Bus Stop & Factory] $-$ [distance between Restaurant & Bus Stop])
+Bus Stop---$450$$m$--->Restaurant---$500$$m$--->Factory
+As we can see that the distance between Restaurant and Bus Stop is $450$$m$, and the distance between Restaurant and Factory is $500$$m$.
+Since the distance between Restaurant and Bus Stop $<$ distance between Restaurant and Factory
+Bus Stop is nearer to Restaurant than Factory",
+text,text,30102,7,Supermarket is $650$ metres from Factory. Home is $700$ metres from Supermarket. Assuming Supermarket and Home are in the opposite direction from Factory which of the following statement is correct?,Home is nearer to Factory than Supermarket,,,,Supermarket is nearer to Home than Factory,Supermarket is nearer to Factory than Home,Factory is at same distance from Supermarket and Home,60,3,,,"Let the distance between Factory and Supermarket be $x$, and the distance between Supermarket and Home be $y$.
+Here $x=$$650$$m$ and $y=$$700$$m$.
+Supermarket---$650$$m$--->Factory
+Supermarket-----$700$$m$----->Home
+Distance between Factory and Home $= $$700$$-$$650$$ = $$50$$m$    ...([distance between Supermarket & Home] $-$ [distance between Factory & Supermarket])
+Supermarket---$650$$m$--->Factory---$50$$m$--->Home
+As we can see that the distance between Factory and Supermarket is $650$$m$, and the distance between Factory and Home is $50$$m$.
+Since the distance between Factory and Home $<$ distance between Factory and Supermarket
+Home is nearer to Factory than Supermarket",
+text,text,30102,7,Office is $900$ metres from Restaurant. Stationary is $950$ metres from Office. Assuming Office and Stationary are in the opposite direction from Restaurant which of the following statement is correct?,Stationary is nearer to Restaurant than Office,,,,Office is nearer to Restaurant than Stationary,Office is nearer to Stationary than Restaurant,Restaurant is at same distance from Office and Stationary,60,3,,,"Let the distance between Restaurant and Office be $x$, and the distance between Office and Stationary be $y$.
+Here $x=$$900$$m$ and $y=$$950$$m$.
+Office---$900$$m$--->Restaurant
+Office-----$950$$m$----->Stationary
+Distance between Restaurant and Stationary $= $$950$$-$$900$$ = $$50$$m$    ...([distance between Office & Stationary] $-$ [distance between Restaurant & Office])
+Office---$900$$m$--->Restaurant---$50$$m$--->Stationary
+As we can see that the distance between Restaurant and Office is $900$$m$, and the distance between Restaurant and Stationary is $50$$m$.
+Since the distance between Restaurant and Stationary $<$ distance between Restaurant and Office
+Stationary is nearer to Restaurant than Office",
+text,text,30102,7,Coffee Shop is $850$ metres from Restaurant. Police Station is $900$ metres from Coffee Shop. Assuming Coffee Shop and Police Station are in the opposite direction from Restaurant which of the following statement is correct?,Police Station is nearer to Restaurant than Coffee Shop,,,,Coffee Shop is nearer to Restaurant than Police Station,Restaurant is at same distance from Coffee Shop and Police Station,Coffee Shop is nearer to Police Station than Restaurant,60,3,,,"Let the distance between Restaurant and Coffee Shop be $x$, and the distance between Coffee Shop and Police Station be $y$.
+Here $x=$$850$$m$ and $y=$$900$$m$.
+Coffee Shop---$850$$m$--->Restaurant
+Coffee Shop-----$900$$m$----->Police Station
+Distance between Restaurant and Police Station $= $$900$$-$$850$$ = $$50$$m$    ...([distance between Coffee Shop & Police Station] $-$ [distance between Restaurant & Coffee Shop])
+Coffee Shop---$850$$m$--->Restaurant---$50$$m$--->Police Station
+As we can see that the distance between Restaurant and Coffee Shop is $850$$m$, and the distance between Restaurant and Police Station is $50$$m$.
+Since the distance between Restaurant and Police Station $<$ distance between Restaurant and Coffee Shop
+Police Station is nearer to Restaurant than Coffee Shop",
+text,text,30102,7,Restaurant is $800$ metres from Mall. Bus Stop is $850$ metres from Restaurant. Assuming Restaurant and Bus Stop are in the opposite direction from Mall which of the following statement is correct?,Bus Stop is nearer to Mall than Restaurant,,,,Restaurant is nearer to Mall than Bus Stop,Mall is at same distance from Restaurant and Bus Stop,Restaurant is nearer to Bus Stop than Mall,60,3,,,"Let the distance between Mall and Restaurant be $x$, and the distance between Restaurant and Bus Stop be $y$.
+Here $x=$$800$$m$ and $y=$$850$$m$.
+Restaurant---$800$$m$--->Mall
+Restaurant-----$850$$m$----->Bus Stop
+Distance between Mall and Bus Stop $= $$850$$-$$800$$ = $$50$$m$    ...([distance between Restaurant & Bus Stop] $-$ [distance between Mall & Restaurant])
+Restaurant---$800$$m$--->Mall---$50$$m$--->Bus Stop
+As we can see that the distance between Mall and Restaurant is $800$$m$, and the distance between Mall and Bus Stop is $50$$m$.
+Since the distance between Mall and Bus Stop $<$ distance between Mall and Restaurant
+Bus Stop is nearer to Mall than Restaurant",
+text,text,30102,7,Police Station is $550$ metres from Coffee Shop. Office is $850$ metres from Police Station. Assuming Police Station and Office are in the opposite direction from Coffee Shop which of the following statement is correct?,Office is nearer to Coffee Shop than Police Station,,,,Coffee Shop is at same distance from Police Station and Office,Police Station is nearer to Office than Coffee Shop,Police Station is nearer to Coffee Shop than Office,60,3,,,"Let the distance between Coffee Shop and Police Station be $x$, and the distance between Police Station and Office be $y$.
+Here $x=$$550$$m$ and $y=$$850$$m$.
+Police Station---$550$$m$--->Coffee Shop
+Police Station-----$850$$m$----->Office
+Distance between Coffee Shop and Office $= $$850$$-$$550$$ = $$300$$m$    ...([distance between Police Station & Office] $-$ [distance between Coffee Shop & Police Station])
+Police Station---$550$$m$--->Coffee Shop---$300$$m$--->Office
+As we can see that the distance between Coffee Shop and Police Station is $550$$m$, and the distance between Coffee Shop and Office is $300$$m$.
+Since the distance between Coffee Shop and Office $<$ distance between Coffee Shop and Police Station
+Office is nearer to Coffee Shop than Police Station",
+text,text,30102,7,Factory is $750$ metres from Mall. Police Station is $800$ metres from Factory. Assuming Factory and Police Station are in the opposite direction from Mall which of the following statement is correct?,Police Station is nearer to Mall than Factory,,,,Factory is nearer to Police Station than Mall,Factory is nearer to Mall than Police Station,Mall is at same distance from Factory and Police Station,60,3,,,"Let the distance between Mall and Factory be $x$, and the distance between Factory and Police Station be $y$.
+Here $x=$$750$$m$ and $y=$$800$$m$.
+Factory---$750$$m$--->Mall
+Factory-----$800$$m$----->Police Station
+Distance between Mall and Police Station $= $$800$$-$$750$$ = $$50$$m$    ...([distance between Factory & Police Station] $-$ [distance between Mall & Factory])
+Factory---$750$$m$--->Mall---$50$$m$--->Police Station
+As we can see that the distance between Mall and Factory is $750$$m$, and the distance between Mall and Police Station is $50$$m$.
+Since the distance between Mall and Police Station $<$ distance between Mall and Factory
+Police Station is nearer to Mall than Factory",
+text,text,30102,7,Library is $200$ metres from Office. Petrol Pump is $450$ metres from Library. Assuming Library and Petrol Pump are in the opposite direction from Office which of the following statement is correct?,Library is nearer to Office than Petrol Pump,,,,Office is at same distance from Library and Petrol Pump,Petrol Pump is nearer to Office than Library,Library is nearer to Petrol Pump than Office,60,3,,,"Let the distance between Office and Library be $x$, and the distance between Library and Petrol Pump be $y$.
+Here $x=$$200$$m$ and $y=$$450$$m$.
+Library---$200$$m$--->Office
+Library-----$450$$m$----->Petrol Pump
+Distance between Office and Petrol Pump $= $$450$$-$$200$$ = $$250$$m$    ...([distance between Library & Petrol Pump] $-$ [distance between Office & Library])
+Library---$200$$m$--->Office---$250$$m$--->Petrol Pump
+As we can see that the distance between Office and Library is $200$$m$, and the distance between Office and Petrol Pump is $250$$m$.
+Since the distance between Office and Library $<$ distance between Office and Petrol Pump
+Library is nearer to Office than Petrol Pump",
+text,text,30102,7,Supermarket is $900$ metres from Factory. Police Station is $950$ metres from Supermarket. Assuming Supermarket and Police Station are in the opposite direction from Factory which of the following statement is correct?,Police Station is nearer to Factory than Supermarket,,,,Factory is at same distance from Supermarket and Police Station,Supermarket is nearer to Factory than Police Station,Supermarket is nearer to Police Station than Factory,60,3,,,"Let the distance between Factory and Supermarket be $x$, and the distance between Supermarket and Police Station be $y$.
+Here $x=$$900$$m$ and $y=$$950$$m$.
+Supermarket---$900$$m$--->Factory
+Supermarket-----$950$$m$----->Police Station
+Distance between Factory and Police Station $= $$950$$-$$900$$ = $$50$$m$    ...([distance between Supermarket & Police Station] $-$ [distance between Factory & Supermarket])
+Supermarket---$900$$m$--->Factory---$50$$m$--->Police Station
+As we can see that the distance between Factory and Supermarket is $900$$m$, and the distance between Factory and Police Station is $50$$m$.
+Since the distance between Factory and Police Station $<$ distance between Factory and Supermarket
+Police Station is nearer to Factory than Supermarket",
+text,text,30102,7,Library is $850$ metres from Salon. Home is $950$ metres from Library. Assuming Library and Home are in the opposite direction from Salon which of the following statement is correct?,Home is nearer to Salon than Library,,,,Salon is at same distance from Library and Home,Library is nearer to Home than Salon,Library is nearer to Salon than Home,60,3,,,"Let the distance between Salon and Library be $x$, and the distance between Library and Home be $y$.
+Here $x=$$850$$m$ and $y=$$950$$m$.
+Library---$850$$m$--->Salon
+Library-----$950$$m$----->Home
+Distance between Salon and Home $= $$950$$-$$850$$ = $$100$$m$    ...([distance between Library & Home] $-$ [distance between Salon & Library])
+Library---$850$$m$--->Salon---$100$$m$--->Home
+As we can see that the distance between Salon and Library is $850$$m$, and the distance between Salon and Home is $100$$m$.
+Since the distance between Salon and Home $<$ distance between Salon and Library
+Home is nearer to Salon than Library",
+text,text,30102,7,Supermarket is $900$ metres from Mall. Tuition is $950$ metres from Supermarket. Assuming Supermarket and Tuition are in the opposite direction from Mall which of the following statement is correct?,Tuition is nearer to Mall than Supermarket,,,,Supermarket is nearer to Mall than Tuition,Supermarket is nearer to Tuition than Mall,Mall is at same distance from Supermarket and Tuition,60,3,,,"Let the distance between Mall and Supermarket be $x$, and the distance between Supermarket and Tuition be $y$.
+Here $x=$$900$$m$ and $y=$$950$$m$.
+Supermarket---$900$$m$--->Mall
+Supermarket-----$950$$m$----->Tuition
+Distance between Mall and Tuition $= $$950$$-$$900$$ = $$50$$m$    ...([distance between Supermarket & Tuition] $-$ [distance between Mall & Supermarket])
+Supermarket---$900$$m$--->Mall---$50$$m$--->Tuition
+As we can see that the distance between Mall and Supermarket is $900$$m$, and the distance between Mall and Tuition is $50$$m$.
+Since the distance between Mall and Tuition $<$ distance between Mall and Supermarket
+Tuition is nearer to Mall than Supermarket",
+text,text,30102,7,Mall is $700$ metres from Police Station. Coffee Shop is $750$ metres from Mall. Assuming Mall and Coffee Shop are in the opposite direction from Police Station which of the following statement is correct?,Coffee Shop is nearer to Police Station than Mall,,,,Police Station is at same distance from Mall and Coffee Shop,Mall is nearer to Police Station than Coffee Shop,Mall is nearer to Coffee Shop than Police Station,60,3,,,"Let the distance between Police Station and Mall be $x$, and the distance between Mall and Coffee Shop be $y$.
+Here $x=$$700$$m$ and $y=$$750$$m$.
+Mall---$700$$m$--->Police Station
+Mall-----$750$$m$----->Coffee Shop
+Distance between Police Station and Coffee Shop $= $$750$$-$$700$$ = $$50$$m$    ...([distance between Mall & Coffee Shop] $-$ [distance between Police Station & Mall])
+Mall---$700$$m$--->Police Station---$50$$m$--->Coffee Shop
+As we can see that the distance between Police Station and Mall is $700$$m$, and the distance between Police Station and Coffee Shop is $50$$m$.
+Since the distance between Police Station and Coffee Shop $<$ distance between Police Station and Mall
+Coffee Shop is nearer to Police Station than Mall",
+text,text,30102,7,Petrol Pump is $300$ metres from Stationary. Mall is $700$ metres from Petrol Pump. Assuming Petrol Pump and Mall are in the opposite direction from Stationary which of the following statement is correct?,Petrol Pump is nearer to Stationary than Mall,,,,Stationary is at same distance from Petrol Pump and Mall,Petrol Pump is nearer to Mall than Stationary,Mall is nearer to Stationary than Petrol Pump,60,3,,,"Let the distance between Stationary and Petrol Pump be $x$, and the distance between Petrol Pump and Mall be $y$.
+Here $x=$$300$$m$ and $y=$$700$$m$.
+Petrol Pump---$300$$m$--->Stationary
+Petrol Pump-----$700$$m$----->Mall
+Distance between Stationary and Mall $= $$700$$-$$300$$ = $$400$$m$    ...([distance between Petrol Pump & Mall] $-$ [distance between Stationary & Petrol Pump])
+Petrol Pump---$300$$m$--->Stationary---$400$$m$--->Mall
+As we can see that the distance between Stationary and Petrol Pump is $300$$m$, and the distance between Stationary and Mall is $400$$m$.
+Since the distance between Stationary and Petrol Pump $<$ distance between Stationary and Mall
+Petrol Pump is nearer to Stationary than Mall",
+text,text,30102,7,Home is $750$ metres from Salon. Factory is $850$ metres from Home. Assuming Home and Factory are in the opposite direction from Salon which of the following statement is correct?,Factory is nearer to Salon than Home,,,,Salon is at same distance from Home and Factory,Home is nearer to Factory than Salon,Home is nearer to Salon than Factory,60,3,,,"Let the distance between Salon and Home be $x$, and the distance between Home and Factory be $y$.
+Here $x=$$750$$m$ and $y=$$850$$m$.
+Home---$750$$m$--->Salon
+Home-----$850$$m$----->Factory
+Distance between Salon and Factory $= $$850$$-$$750$$ = $$100$$m$    ...([distance between Home & Factory] $-$ [distance between Salon & Home])
+Home---$750$$m$--->Salon---$100$$m$--->Factory
+As we can see that the distance between Salon and Home is $750$$m$, and the distance between Salon and Factory is $100$$m$.
+Since the distance between Salon and Factory $<$ distance between Salon and Home
+Factory is nearer to Salon than Home",

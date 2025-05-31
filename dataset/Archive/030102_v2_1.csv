@@ -1,0 +1,901 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $4 * 4$ and $19 - 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 4 = 16$
+ <br>Second expression $19 - 3 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 10$ and $12 + 8$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 10 = 20$
+ <br>Second expression $12 + 8 = 20$
+<br>Since both expression give same values i.e. $20$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $22 + 24$ and $8 * 1$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 + 24 = 46$
+ <br>Second expression $8 * 1 = 8$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $3 - 13$ and $6 * 4$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 - 13 = -10$
+ <br>Second expression $6 * 4 = 24$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $11 - 17$ and $5 * 1$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 - 17 = -6$
+ <br>Second expression $5 * 1 = 5$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $10 * 8$ and $7 - 13$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 8 = 80$
+ <br>Second expression $7 - 13 = -6$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $24 - 12$ and $2 + 10$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $24 - 12 = 12$
+ <br>Second expression $2 + 10 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 6$ and $14 - 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 6 = 12$
+ <br>Second expression $14 - 2 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 + 6$ and $1 * 7$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 6 = 7$
+ <br>Second expression $1 * 7 = 7$
+<br>Since both expression give same values i.e. $7$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $15 + 8$ and $10 * 5$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $15 + 8 = 23$
+ <br>Second expression $10 * 5 = 50$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $17 - 5$ and $2 + 10$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $17 - 5 = 12$
+ <br>Second expression $2 + 10 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $13 - 1$ and $8 + 4$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 - 1 = 12$
+ <br>Second expression $8 + 4 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $14 - 10$ and $4 + 0$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $14 - 10 = 4$
+ <br>Second expression $4 + 0 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $19 + 14$ and $11 - 15$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $19 + 14 = 33$
+ <br>Second expression $11 - 15 = -4$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $17 + 8$ and $21 - 22$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $17 + 8 = 25$
+ <br>Second expression $21 - 22 = -1$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 + 6$ and $4 * 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 6 = 8$
+ <br>Second expression $4 * 2 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $4 * 4$ and $20 - 4$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 4 = 16$
+ <br>Second expression $20 - 4 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $9 - 1$ and $18 + 24$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 1 = 8$
+ <br>Second expression $18 + 24 = 42$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $18 - 4$ and $7 + 20$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 - 4 = 14$
+ <br>Second expression $7 + 20 = 27$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 4$ and $16 - 0$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 4 = 8$
+ <br>Second expression $16 - 0 = 16$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $16 - 3$ and $9 + 16$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 - 3 = 13$
+ <br>Second expression $9 + 16 = 25$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $23 - 15$ and $8 * 1$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 - 15 = 8$
+ <br>Second expression $8 * 1 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $9 * 2$ and $17 + 21$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 * 2 = 18$
+ <br>Second expression $17 + 21 = 38$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $22 - 20$ and $2 * 1$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 20 = 2$
+ <br>Second expression $2 * 1 = 2$
+<br>Since both expression give same values i.e. $2$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 + 20$ and $25 - 15$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 20 = 28$
+ <br>Second expression $25 - 15 = 10$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 - 17$ and $22 + 6$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 - 17 = -9$
+ <br>Second expression $22 + 6 = 28$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 * 9$ and $4 + 9$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 9 = 72$
+ <br>Second expression $4 + 9 = 13$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $3 * 6$ and $24 - 6$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 6 = 18$
+ <br>Second expression $24 - 6 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $22 - 10$ and $10 + 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 10 = 12$
+ <br>Second expression $10 + 2 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 * 6$ and $0 + 2$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 6 = 48$
+ <br>Second expression $0 + 2 = 2$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 * 9$ and $22 + 3$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 9 = 9$
+ <br>Second expression $22 + 3 = 25$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $9 - 10$ and $13 + 17$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 10 = -1$
+ <br>Second expression $13 + 17 = 30$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $15 - 3$ and $7 + 5$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $15 - 3 = 12$
+ <br>Second expression $7 + 5 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $9 - 1$ and $2 + 6$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 1 = 8$
+ <br>Second expression $2 + 6 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 + 9$ and $16 - 9$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 9 = 11$
+ <br>Second expression $16 - 9 = 7$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 3$ and $6 + 0$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 3 = 6$
+ <br>Second expression $6 + 0 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $18 - 3$ and $5 * 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 - 3 = 15$
+ <br>Second expression $5 * 3 = 15$
+<br>Since both expression give same values i.e. $15$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 + 5$ and $19 - 12$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 5 = 7$
+ <br>Second expression $19 - 12 = 7$
+<br>Since both expression give same values i.e. $7$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 + 13$ and $3 * 5$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 13 = 15$
+ <br>Second expression $3 * 5 = 15$
+<br>Since both expression give same values i.e. $15$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 - 5$ and $1 + 11$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 - 5 = -3$
+ <br>Second expression $1 + 11 = 12$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 * 1$ and $20 + 11$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 1 = 7$
+ <br>Second expression $20 + 11 = 31$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $4 * 3$ and $15 - 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 3 = 12$
+ <br>Second expression $15 - 3 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $19 + 14$ and $1 * 4$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $19 + 14 = 33$
+ <br>Second expression $1 * 4 = 4$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $5 + 5$ and $13 - 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 + 5 = 10$
+ <br>Second expression $13 - 3 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $20 - 11$ and $5 + 4$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 11 = 9$
+ <br>Second expression $5 + 4 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 * 3$ and $0 + 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 3 = 3$
+ <br>Second expression $0 + 3 = 3$
+<br>Since both expression give same values i.e. $3$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $0 + 18$ and $19 - 1$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 18 = 18$
+ <br>Second expression $19 - 1 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $15 + 1$ and $16 - 0$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $15 + 1 = 16$
+ <br>Second expression $16 - 0 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $4 + 22$ and $22 - 14$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 + 22 = 26$
+ <br>Second expression $22 - 14 = 8$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $13 + 21$ and $24 - 23$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 + 21 = 34$
+ <br>Second expression $24 - 23 = 1$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 * 2$ and $1 + 13$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 2 = 14$
+ <br>Second expression $1 + 13 = 14$
+<br>Since both expression give same values i.e. $14$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 10$ and $2 + 18$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 10 = 20$
+ <br>Second expression $2 + 18 = 20$
+<br>Since both expression give same values i.e. $20$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $5 - 15$ and $6 + 7$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 - 15 = -10$
+ <br>Second expression $6 + 7 = 13$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $25 - 13$ and $3 * 7$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $25 - 13 = 12$
+ <br>Second expression $3 * 7 = 21$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 + 0$ and $16 - 8$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 0 = 8$
+ <br>Second expression $16 - 8 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $10 * 2$ and $20 - 0$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 2 = 20$
+ <br>Second expression $20 - 0 = 20$
+<br>Since both expression give same values i.e. $20$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 + 21$ and $12 - 22$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 21 = 22$
+ <br>Second expression $12 - 22 = -10$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 + 23$ and $8 - 22$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 23 = 25$
+ <br>Second expression $8 - 22 = -14$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $5 + 5$ and $19 - 9$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 + 5 = 10$
+ <br>Second expression $19 - 9 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 + 0$ and $8 * 1$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 0 = 8$
+ <br>Second expression $8 * 1 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $15 - 0$ and $3 * 5$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $15 - 0 = 15$
+ <br>Second expression $3 * 5 = 15$
+<br>Since both expression give same values i.e. $15$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 + 8$ and $4 * 10$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 + 8 = 15$
+ <br>Second expression $4 * 10 = 40$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $12 + 6$ and $18 - 0$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 + 6 = 18$
+ <br>Second expression $18 - 0 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 * 1$ and $1 + 7$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 1 = 8$
+ <br>Second expression $1 + 7 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $20 + 2$ and $2 * 7$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 + 2 = 22$
+ <br>Second expression $2 * 7 = 14$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 * 10$ and $19 - 6$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 10 = 70$
+ <br>Second expression $19 - 6 = 13$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $3 + 2$ and $25 - 20$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 2 = 5$
+ <br>Second expression $25 - 20 = 5$
+<br>Since both expression give same values i.e. $5$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $11 + 3$ and $7 * 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 + 3 = 14$
+ <br>Second expression $7 * 2 = 14$
+<br>Since both expression give same values i.e. $14$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $10 + 16$ and $15 - 5$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 + 16 = 26$
+ <br>Second expression $15 - 5 = 10$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $22 - 7$ and $5 * 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 7 = 15$
+ <br>Second expression $5 * 3 = 15$
+<br>Since both expression give same values i.e. $15$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 6$ and $17 - 5$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 6 = 12$
+ <br>Second expression $17 - 5 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 * 7$ and $7 - 16$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 7 = 56$
+ <br>Second expression $7 - 16 = -9$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $10 + 16$ and $8 * 1$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 + 16 = 26$
+ <br>Second expression $8 * 1 = 8$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $11 - 5$ and $20 + 1$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 - 5 = 6$
+ <br>Second expression $20 + 1 = 21$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 + 6$ and $7 * 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 6 = 14$
+ <br>Second expression $7 * 2 = 14$
+<br>Since both expression give same values i.e. $14$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $4 * 1$ and $1 + 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 1 = 4$
+ <br>Second expression $1 + 3 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 * 7$ and $22 + 14$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 7 = 7$
+ <br>Second expression $22 + 14 = 36$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $18 + 7$ and $22 - 6$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 + 7 = 25$
+ <br>Second expression $22 - 6 = 16$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 * 10$ and $21 - 1$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 10 = 20$
+ <br>Second expression $21 - 1 = 20$
+<br>Since both expression give same values i.e. $20$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $2 + 13$ and $5 * 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 13 = 15$
+ <br>Second expression $5 * 3 = 15$
+<br>Since both expression give same values i.e. $15$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 - 6$ and $6 * 7$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 - 6 = -5$
+ <br>Second expression $6 * 7 = 42$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 + 5$ and $6 * 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 + 5 = 12$
+ <br>Second expression $6 * 2 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $6 - 1$ and $1 * 5$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 - 1 = 5$
+ <br>Second expression $1 * 5 = 5$
+<br>Since both expression give same values i.e. $5$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 + 5$ and $3 * 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 5 = 6$
+ <br>Second expression $3 * 2 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $10 * 8$ and $15 - 24$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 8 = 80$
+ <br>Second expression $15 - 24 = -9$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $21 - 15$ and $0 + 6$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $21 - 15 = 6$
+ <br>Second expression $0 + 6 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 * 1$ and $15 + 1$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 1 = 7$
+ <br>Second expression $15 + 1 = 16$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 * 8$ and $12 - 23$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 8 = 64$
+ <br>Second expression $12 - 23 = -11$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $0 + 19$ and $3 * 7$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 19 = 19$
+ <br>Second expression $3 * 7 = 21$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $12 + 6$ and $7 - 13$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 + 6 = 18$
+ <br>Second expression $7 - 13 = -6$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $3 * 1$ and $0 + 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 1 = 3$
+ <br>Second expression $0 + 3 = 3$
+<br>Since both expression give same values i.e. $3$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 * 4$ and $4 + 18$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 4 = 4$
+ <br>Second expression $4 + 18 = 22$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $1 + 3$ and $16 - 12$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 3 = 4$
+ <br>Second expression $16 - 12 = 4$
+<br>Since both expression give same values i.e. $4$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $21 - 11$ and $0 + 10$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $21 - 11 = 10$
+ <br>Second expression $0 + 10 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $20 - 3$ and $6 + 8$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 3 = 17$
+ <br>Second expression $6 + 8 = 14$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $4 + 8$ and $25 - 13$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 + 8 = 12$
+ <br>Second expression $25 - 13 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $0 + 6$ and $2 * 3$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 6 = 6$
+ <br>Second expression $2 * 3 = 6$
+<br>Since both expression give same values i.e. $6$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $7 * 3$ and $12 + 9$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 3 = 21$
+ <br>Second expression $12 + 9 = 21$
+<br>Since both expression give same values i.e. $21$, answer is True",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $6 * 3$ and $21 + 23$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 3 = 18$
+ <br>Second expression $21 + 23 = 44$
+<br>Since both expressions give different values, the answer is False",
+text,1,30102,2,"
+====================Question====================
+ <br> If two expressions are $8 * 1$ and $15 - 7$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 1 = 8$
+ <br>Second expression $15 - 7 = 8$
+<br>Since both expression give same values i.e. $8$, answer is True",

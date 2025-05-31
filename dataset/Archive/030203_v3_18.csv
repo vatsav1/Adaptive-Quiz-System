@@ -1,0 +1,401 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30203,18,"After $4$ years, Ninad  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",17,,,,19,7,22,60,3,,,"Let Ninad's current age be $x$.<br>Hence, $x$+$4$ = $3$*$(x-10)
+$<br>$x$+$4$ = $3$$x$-$30$.<br>$2$$x$ = $34$
+<br>$x$ = $17.0$
+<br>Hence, Ninad is $17$ years old presently.",
+text,text,30203,18,"After $3$ years, Utkarsh  shall be $2$  times as old as he was $2$ years ago. Find her present age. ",3,,,,5,-2,-4,60,3,,,"Let Utkarsh's current age be $x$.<br>Hence, $x$+$3$ = $6$*$(x-2)
+$<br>$x$+$3$ = $6$$x$-$12$.<br>$5$$x$ = $15$
+<br>$x$ = $3.0$
+<br>Hence, Utkarsh is $3$ years old presently.",
+text,text,30203,18,"After $1$ years, Yash  shall be $19$  times as old as he was $19$ years ago. Find her present age. ",24,,,,7,2,4,60,3,,,"Let Yash's current age be $x$.<br>Hence, $x$+$1$ = $5$*$(x-19)
+$<br>$x$+$1$ = $5$$x$-$95$.<br>$4$$x$ = $96$
+<br>$x$ = $24.0$
+<br>Hence, Yash is $24$ years old presently.",
+text,text,30203,18,"After $9$ years, Vinay  shall be $7$  times as old as he was $7$ years ago. Find her present age. ",23,,,,16,11,17,60,3,,,"Let Vinay's current age be $x$.<br>Hence, $x$+$9$ = $2$*$(x-7)
+$<br>$x$+$9$ = $2$$x$-$14$.<br>$1$$x$ = $23$
+<br>$x$ = $23.0$
+<br>Hence, Vinay is $23$ years old presently.",
+text,text,30203,18,"After $18$ years, Abhijeet  shall be $19$  times as old as he was $19$ years ago. Find his present age. ",56,,,,14,12,37,60,3,,,"Let Abhijeet's current age be $x$.<br>Hence, $x$+$18$ = $2$*$(x-19)
+$<br>$x$+$18$ = $2$$x$-$38$.<br>$1$$x$ = $56$
+<br>$x$ = $56.0$
+<br>Hence, Abhijeet is $56$ years old presently.",
+text,text,30203,18,"After $9$ years, Tejas  shall be $9$  times as old as he was $9$ years ago. Find his present age. ",18,,,,15,13,26,60,3,,,"Let Tejas's current age be $x$.<br>Hence, $x$+$9$ = $3$*$(x-9)
+$<br>$x$+$9$ = $3$$x$-$27$.<br>$2$$x$ = $36$
+<br>$x$ = $18.0$
+<br>Hence, Tejas is $18$ years old presently.",
+text,text,30203,18,"After $20$ years, Rahul  shall be $7$  times as old as he was $7$ years ago. Find his present age. ",34,,,,18,8,23,60,3,,,"Let Rahul's current age be $x$.<br>Hence, $x$+$20$ = $2$*$(x-7)
+$<br>$x$+$20$ = $2$$x$-$14$.<br>$1$$x$ = $34$
+<br>$x$ = $34.0$
+<br>Hence, Rahul is $34$ years old presently.",
+text,text,30203,18,"After $7$ years, Dharmesh  shall be $5$  times as old as he was $5$ years ago. Find her present age. ",17,,,,17,13,22,60,3,,,"Let Dharmesh's current age be $x$.<br>Hence, $x$+$7$ = $2$*$(x-5)
+$<br>$x$+$7$ = $2$$x$-$10$.<br>$1$$x$ = $17$
+<br>$x$ = $17.0$
+<br>Hence, Dharmesh is $17$ years old presently.",
+text,text,30203,18,"After $20$ years, Devang  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",20,,,,4,2,2,60,3,,,"Let Devang's current age be $x$.<br>Hence, $x$+$20$ = $4$*$(x-10)
+$<br>$x$+$20$ = $4$$x$-$40$.<br>$3$$x$ = $60$
+<br>$x$ = $20.0$
+<br>Hence, Devang is $20$ years old presently.",
+text,text,30203,18,"After $5$ years, Vaibhav  shall be $18$  times as old as he was $18$ years ago. Find her present age. ",41,,,,9,5,10,60,3,,,"Let Vaibhav's current age be $x$.<br>Hence, $x$+$5$ = $2$*$(x-18)
+$<br>$x$+$5$ = $2$$x$-$36$.<br>$1$$x$ = $41$
+<br>$x$ = $41.0$
+<br>Hence, Vaibhav is $41$ years old presently.",
+text,text,30203,18,"After $20$ years, Anmol  shall be $5$  times as old as he was $5$ years ago. Find her present age. ",10,,,,16,8,14,60,3,,,"Let Anmol's current age be $x$.<br>Hence, $x$+$20$ = $6$*$(x-5)
+$<br>$x$+$20$ = $6$$x$-$30$.<br>$5$$x$ = $50$
+<br>$x$ = $10.0$
+<br>Hence, Anmol is $10$ years old presently.",
+text,text,30203,18,"After $9$ years, Varun  shall be $1$  times as old as he was $1$ years ago. Find her present age. ",11,,,,8,7,14,60,3,,,"Let Varun's current age be $x$.<br>Hence, $x$+$9$ = $2$*$(x-1)
+$<br>$x$+$9$ = $2$$x$-$2$.<br>$1$$x$ = $11$
+<br>$x$ = $11.0$
+<br>Hence, Varun is $11$ years old presently.",
+text,text,30203,18,"After $2$ years, Devang  shall be $20$  times as old as he was $20$ years ago. Find his present age. ",42,,,,6,2,3,60,3,,,"Let Devang's current age be $x$.<br>Hence, $x$+$2$ = $2$*$(x-20)
+$<br>$x$+$2$ = $2$$x$-$40$.<br>$1$$x$ = $42$
+<br>$x$ = $42.0$
+<br>Hence, Devang is $42$ years old presently.",
+text,text,30203,18,"After $1$ years, Shantanu  shall be $1$  times as old as he was $1$ years ago. Find her present age. ",3,,,,7,3,4,60,3,,,"Let Shantanu's current age be $x$.<br>Hence, $x$+$1$ = $2$*$(x-1)
+$<br>$x$+$1$ = $2$$x$-$2$.<br>$1$$x$ = $3$
+<br>$x$ = $3.0$
+<br>Hence, Shantanu is $3$ years old presently.",
+text,text,30203,18,"After $6$ years, Aarav  shall be $18$  times as old as he was $18$ years ago. Find his present age. ",42,,,,12,11,16,60,3,,,"Let Aarav's current age be $x$.<br>Hence, $x$+$6$ = $2$*$(x-18)
+$<br>$x$+$6$ = $2$$x$-$36$.<br>$1$$x$ = $42$
+<br>$x$ = $42.0$
+<br>Hence, Aarav is $42$ years old presently.",
+text,text,30203,18,"After $15$ years, Mihir  shall be $10$  times as old as he was $10$ years ago. Find his present age. ",35,,,,11,7,10,60,3,,,"Let Mihir's current age be $x$.<br>Hence, $x$+$15$ = $2$*$(x-10)
+$<br>$x$+$15$ = $2$$x$-$20$.<br>$1$$x$ = $35$
+<br>$x$ = $35.0$
+<br>Hence, Mihir is $35$ years old presently.",
+text,text,30203,18,"After $16$ years, Rohit  shall be $20$  times as old as he was $20$ years ago. Find his present age. ",56,,,,7,6,18,60,3,,,"Let Rohit's current age be $x$.<br>Hence, $x$+$16$ = $2$*$(x-20)
+$<br>$x$+$16$ = $2$$x$-$40$.<br>$1$$x$ = $56$
+<br>$x$ = $56.0$
+<br>Hence, Rohit is $56$ years old presently.",
+text,text,30203,18,"After $13$ years, Devang  shall be $5$  times as old as he was $5$ years ago. Find his present age. ",23,,,,14,10,16,60,3,,,"Let Devang's current age be $x$.<br>Hence, $x$+$13$ = $2$*$(x-5)
+$<br>$x$+$13$ = $2$$x$-$10$.<br>$1$$x$ = $23$
+<br>$x$ = $23.0$
+<br>Hence, Devang is $23$ years old presently.",
+text,text,30203,18,"After $20$ years, Aadesh  shall be $8$  times as old as he was $8$ years ago. Find her present age. ",36,,,,14,11,17,60,3,,,"Let Aadesh's current age be $x$.<br>Hence, $x$+$20$ = $2$*$(x-8)
+$<br>$x$+$20$ = $2$$x$-$16$.<br>$1$$x$ = $36$
+<br>$x$ = $36.0$
+<br>Hence, Aadesh is $36$ years old presently.",
+text,text,30203,18,"After $10$ years, Sachin  shall be $4$  times as old as he was $4$ years ago. Find her present age. ",6,,,,11,9,13,60,3,,,"Let Sachin's current age be $x$.<br>Hence, $x$+$10$ = $8$*$(x-4)
+$<br>$x$+$10$ = $8$$x$-$32$.<br>$7$$x$ = $42$
+<br>$x$ = $6.0$
+<br>Hence, Sachin is $6$ years old presently.",
+text,text,30203,18,"After $18$ years, Gagan  shall be $3$  times as old as he was $3$ years ago. Find his present age. ",6,,,,8,1,3,60,3,,,"Let Gagan's current age be $x$.<br>Hence, $x$+$18$ = $8$*$(x-3)
+$<br>$x$+$18$ = $8$$x$-$24$.<br>$7$$x$ = $42$
+<br>$x$ = $6.0$
+<br>Hence, Gagan is $6$ years old presently.",
+text,text,30203,18,"After $13$ years, Chaitanya  shall be $15$  times as old as he was $15$ years ago. Find his present age. ",22,,,,10,-3,-10,60,3,,,"Let Chaitanya's current age be $x$.<br>Hence, $x$+$13$ = $5$*$(x-15)
+$<br>$x$+$13$ = $5$$x$-$75$.<br>$4$$x$ = $88$
+<br>$x$ = $22.0$
+<br>Hence, Chaitanya is $22$ years old presently.",
+text,text,30203,18,"After $20$ years, Rohit  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",16,,,,8,1,4,60,3,,,"Let Rohit's current age be $x$.<br>Hence, $x$+$20$ = $6$*$(x-10)
+$<br>$x$+$20$ = $6$$x$-$60$.<br>$5$$x$ = $80$
+<br>$x$ = $16.0$
+<br>Hence, Rohit is $16$ years old presently.",
+text,text,30203,18,"After $15$ years, Mehul  shall be $9$  times as old as he was $9$ years ago. Find her present age. ",13,,,,8,7,21,60,3,,,"Let Mehul's current age be $x$.<br>Hence, $x$+$15$ = $7$*$(x-9)
+$<br>$x$+$15$ = $7$$x$-$63$.<br>$6$$x$ = $78$
+<br>$x$ = $13.0$
+<br>Hence, Mehul is $13$ years old presently.",
+text,text,30203,18,"After $9$ years, Ninad  shall be $8$  times as old as he was $8$ years ago. Find her present age. ",25,,,,4,3,4,60,3,,,"Let Ninad's current age be $x$.<br>Hence, $x$+$9$ = $2$*$(x-8)
+$<br>$x$+$9$ = $2$$x$-$16$.<br>$1$$x$ = $25$
+<br>$x$ = $25.0$
+<br>Hence, Ninad is $25$ years old presently.",
+text,text,30203,18,"After $19$ years, Utkarsh  shall be $17$  times as old as he was $17$ years ago. Find his present age. ",53,,,,12,10,15,60,3,,,"Let Utkarsh's current age be $x$.<br>Hence, $x$+$19$ = $2$*$(x-17)
+$<br>$x$+$19$ = $2$$x$-$34$.<br>$1$$x$ = $53$
+<br>$x$ = $53.0$
+<br>Hence, Utkarsh is $53$ years old presently.",
+text,text,30203,18,"After $7$ years, Yash  shall be $17$  times as old as he was $17$ years ago. Find his present age. ",41,,,,12,10,15,60,3,,,"Let Yash's current age be $x$.<br>Hence, $x$+$7$ = $2$*$(x-17)
+$<br>$x$+$7$ = $2$$x$-$34$.<br>$1$$x$ = $41$
+<br>$x$ = $41.0$
+<br>Hence, Yash is $41$ years old presently.",
+text,text,30203,18,"After $13$ years, Vedang  shall be $8$  times as old as he was $8$ years ago. Find her present age. ",11,,,,14,9,13,60,3,,,"Let Vedang's current age be $x$.<br>Hence, $x$+$13$ = $8$*$(x-8)
+$<br>$x$+$13$ = $8$$x$-$64$.<br>$7$$x$ = $77$
+<br>$x$ = $11.0$
+<br>Hence, Vedang is $11$ years old presently.",
+text,text,30203,18,"After $20$ years, Ishan  shall be $8$  times as old as he was $8$ years ago. Find his present age. ",15,,,,5,-2,-2,60,3,,,"Let Ishan's current age be $x$.<br>Hence, $x$+$20$ = $5$*$(x-8)
+$<br>$x$+$20$ = $5$$x$-$40$.<br>$4$$x$ = $60$
+<br>$x$ = $15.0$
+<br>Hence, Ishan is $15$ years old presently.",
+text,text,30203,18,"After $19$ years, Suyash  shall be $9$  times as old as he was $9$ years ago. Find his present age. ",16,,,,11,8,12,60,3,,,"Let Suyash's current age be $x$.<br>Hence, $x$+$19$ = $5$*$(x-9)
+$<br>$x$+$19$ = $5$$x$-$45$.<br>$4$$x$ = $64$
+<br>$x$ = $16.0$
+<br>Hence, Suyash is $16$ years old presently.",
+text,text,30203,18,"After $18$ years, Siddhesh  shall be $4$  times as old as he was $4$ years ago. Find her present age. ",26,,,,17,12,20,60,3,,,"Let Siddhesh's current age be $x$.<br>Hence, $x$+$18$ = $2$*$(x-4)
+$<br>$x$+$18$ = $2$$x$-$8$.<br>$1$$x$ = $26$
+<br>$x$ = $26.0$
+<br>Hence, Siddhesh is $26$ years old presently.",
+text,text,30203,18,"After $8$ years, Ninad  shall be $16$  times as old as he was $16$ years ago. Find his present age. ",40,,,,6,3,4,60,3,,,"Let Ninad's current age be $x$.<br>Hence, $x$+$8$ = $2$*$(x-16)
+$<br>$x$+$8$ = $2$$x$-$32$.<br>$1$$x$ = $40$
+<br>$x$ = $40.0$
+<br>Hence, Ninad is $40$ years old presently.",
+text,text,30203,18,"After $13$ years, Gagan  shall be $14$  times as old as he was $14$ years ago. Find his present age. ",41,,,,6,2,5,60,3,,,"Let Gagan's current age be $x$.<br>Hence, $x$+$13$ = $2$*$(x-14)
+$<br>$x$+$13$ = $2$$x$-$28$.<br>$1$$x$ = $41$
+<br>$x$ = $41.0$
+<br>Hence, Gagan is $41$ years old presently.",
+text,text,30203,18,"After $14$ years, Mehul  shall be $20$  times as old as he was $20$ years ago. Find his present age. ",54,,,,6,-3,-6,60,3,,,"Let Mehul's current age be $x$.<br>Hence, $x$+$14$ = $2$*$(x-20)
+$<br>$x$+$14$ = $2$$x$-$40$.<br>$1$$x$ = $54$
+<br>$x$ = $54.0$
+<br>Hence, Mehul is $54$ years old presently.",
+text,text,30203,18,"After $3$ years, Sanket  shall be $9$  times as old as he was $9$ years ago. Find his present age. ",15,,,,4,4,7,60,3,,,"Let Sanket's current age be $x$.<br>Hence, $x$+$3$ = $3$*$(x-9)
+$<br>$x$+$3$ = $3$$x$-$27$.<br>$2$$x$ = $30$
+<br>$x$ = $15.0$
+<br>Hence, Sanket is $15$ years old presently.",
+text,text,30203,18,"After $12$ years, Vivek  shall be $10$  times as old as he was $10$ years ago. Find his present age. ",32,,,,11,1,3,60,3,,,"Let Vivek's current age be $x$.<br>Hence, $x$+$12$ = $2$*$(x-10)
+$<br>$x$+$12$ = $2$$x$-$20$.<br>$1$$x$ = $32$
+<br>$x$ = $32.0$
+<br>Hence, Vivek is $32$ years old presently.",
+text,text,30203,18,"After $6$ years, Chaitanya  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",18,,,,13,8,25,60,3,,,"Let Chaitanya's current age be $x$.<br>Hence, $x$+$6$ = $3$*$(x-10)
+$<br>$x$+$6$ = $3$$x$-$30$.<br>$2$$x$ = $36$
+<br>$x$ = $18.0$
+<br>Hence, Chaitanya is $18$ years old presently.",
+text,text,30203,18,"After $6$ years, Chaitanya  shall be $5$  times as old as he was $5$ years ago. Find her present age. ",16,,,,3,-1,-2,60,3,,,"Let Chaitanya's current age be $x$.<br>Hence, $x$+$6$ = $2$*$(x-5)
+$<br>$x$+$6$ = $2$$x$-$10$.<br>$1$$x$ = $16$
+<br>$x$ = $16.0$
+<br>Hence, Chaitanya is $16$ years old presently.",
+text,text,30203,18,"After $14$ years, Mihir  shall be $8$  times as old as he was $8$ years ago. Find his present age. ",30,,,,1,0,0,60,3,,,"Let Mihir's current age be $x$.<br>Hence, $x$+$14$ = $2$*$(x-8)
+$<br>$x$+$14$ = $2$$x$-$16$.<br>$1$$x$ = $30$
+<br>$x$ = $30.0$
+<br>Hence, Mihir is $30$ years old presently.",
+text,text,30203,18,"After $19$ years, Sandesh  shall be $17$  times as old as he was $17$ years ago. Find his present age. ",53,,,,13,8,14,60,3,,,"Let Sandesh's current age be $x$.<br>Hence, $x$+$19$ = $2$*$(x-17)
+$<br>$x$+$19$ = $2$$x$-$34$.<br>$1$$x$ = $53$
+<br>$x$ = $53.0$
+<br>Hence, Sandesh is $53$ years old presently.",
+text,text,30203,18,"After $5$ years, Tejas  shall be $17$  times as old as he was $17$ years ago. Find her present age. ",39,,,,8,4,7,60,3,,,"Let Tejas's current age be $x$.<br>Hence, $x$+$5$ = $2$*$(x-17)
+$<br>$x$+$5$ = $2$$x$-$34$.<br>$1$$x$ = $39$
+<br>$x$ = $39.0$
+<br>Hence, Tejas is $39$ years old presently.",
+text,text,30203,18,"After $13$ years, Prajwal  shall be $7$  times as old as he was $7$ years ago. Find her present age. ",17,,,,6,5,9,60,3,,,"Let Prajwal's current age be $x$.<br>Hence, $x$+$13$ = $3$*$(x-7)
+$<br>$x$+$13$ = $3$$x$-$21$.<br>$2$$x$ = $34$
+<br>$x$ = $17.0$
+<br>Hence, Prajwal is $17$ years old presently.",
+text,text,30203,18,"After $15$ years, Om  shall be $9$  times as old as he was $9$ years ago. Find her present age. ",21,,,,18,13,20,60,3,,,"Let Om's current age be $x$.<br>Hence, $x$+$15$ = $3$*$(x-9)
+$<br>$x$+$15$ = $3$$x$-$27$.<br>$2$$x$ = $42$
+<br>$x$ = $21.0$
+<br>Hence, Om is $21$ years old presently.",
+text,text,30203,18,"After $11$ years, Rohit  shall be $5$  times as old as he was $5$ years ago. Find his present age. ",21,,,,6,-1,-2,60,3,,,"Let Rohit's current age be $x$.<br>Hence, $x$+$11$ = $2$*$(x-5)
+$<br>$x$+$11$ = $2$$x$-$10$.<br>$1$$x$ = $21$
+<br>$x$ = $21.0$
+<br>Hence, Rohit is $21$ years old presently.",
+text,text,30203,18,"After $7$ years, Ganesh  shall be $9$  times as old as he was $9$ years ago. Find his present age. ",25,,,,13,10,16,60,3,,,"Let Ganesh's current age be $x$.<br>Hence, $x$+$7$ = $2$*$(x-9)
+$<br>$x$+$7$ = $2$$x$-$18$.<br>$1$$x$ = $25$
+<br>$x$ = $25.0$
+<br>Hence, Ganesh is $25$ years old presently.",
+text,text,30203,18,"After $6$ years, Kshitij  shall be $8$  times as old as he was $8$ years ago. Find his present age. ",15,,,,3,0,0,60,3,,,"Let Kshitij's current age be $x$.<br>Hence, $x$+$6$ = $3$*$(x-8)
+$<br>$x$+$6$ = $3$$x$-$24$.<br>$2$$x$ = $30$
+<br>$x$ = $15.0$
+<br>Hence, Kshitij is $15$ years old presently.",
+text,text,30203,18,"After $9$ years, Rahul  shall be $20$  times as old as he was $20$ years ago. Find her present age. ",49,,,,13,10,16,60,3,,,"Let Rahul's current age be $x$.<br>Hence, $x$+$9$ = $2$*$(x-20)
+$<br>$x$+$9$ = $2$$x$-$40$.<br>$1$$x$ = $49$
+<br>$x$ = $49.0$
+<br>Hence, Rahul is $49$ years old presently.",
+text,text,30203,18,"After $15$ years, Aadesh  shall be $15$  times as old as he was $15$ years ago. Find his present age. ",45,,,,6,1,2,60,3,,,"Let Aadesh's current age be $x$.<br>Hence, $x$+$15$ = $2$*$(x-15)
+$<br>$x$+$15$ = $2$$x$-$30$.<br>$1$$x$ = $45$
+<br>$x$ = $45.0$
+<br>Hence, Aadesh is $45$ years old presently.",
+text,text,30203,18,"After $6$ years, Utkarsh  shall be $14$  times as old as he was $14$ years ago. Find his present age. ",24,,,,9,6,10,60,3,,,"Let Utkarsh's current age be $x$.<br>Hence, $x$+$6$ = $3$*$(x-14)
+$<br>$x$+$6$ = $3$$x$-$42$.<br>$2$$x$ = $48$
+<br>$x$ = $24.0$
+<br>Hence, Utkarsh is $24$ years old presently.",
+text,text,30203,18,"After $12$ years, Utkarsh  shall be $10$  times as old as he was $10$ years ago. Find his present age. ",21,,,,5,-3,-5,60,3,,,"Let Utkarsh's current age be $x$.<br>Hence, $x$+$12$ = $3$*$(x-10)
+$<br>$x$+$12$ = $3$$x$-$30$.<br>$2$$x$ = $42$
+<br>$x$ = $21.0$
+<br>Hence, Utkarsh is $21$ years old presently.",
+text,text,30203,18,"After $7$ years, Dharmesh  shall be $8$  times as old as he was $8$ years ago. Find his present age. ",13,,,,14,10,14,60,3,,,"Let Dharmesh's current age be $x$.<br>Hence, $x$+$7$ = $4$*$(x-8)
+$<br>$x$+$7$ = $4$$x$-$32$.<br>$3$$x$ = $39$
+<br>$x$ = $13.0$
+<br>Hence, Dharmesh is $13$ years old presently.",
+text,text,30203,18,"After $10$ years, Sandesh  shall be $11$  times as old as he was $11$ years ago. Find his present age. ",18,,,,3,-2,-2,60,3,,,"Let Sandesh's current age be $x$.<br>Hence, $x$+$10$ = $4$*$(x-11)
+$<br>$x$+$10$ = $4$$x$-$44$.<br>$3$$x$ = $54$
+<br>$x$ = $18.0$
+<br>Hence, Sandesh is $18$ years old presently.",
+text,text,30203,18,"After $15$ years, Rahul  shall be $13$  times as old as he was $13$ years ago. Find her present age. ",41,,,,4,2,5,60,3,,,"Let Rahul's current age be $x$.<br>Hence, $x$+$15$ = $2$*$(x-13)
+$<br>$x$+$15$ = $2$$x$-$26$.<br>$1$$x$ = $41$
+<br>$x$ = $41.0$
+<br>Hence, Rahul is $41$ years old presently.",
+text,text,30203,18,"After $18$ years, Aniket  shall be $17$  times as old as he was $17$ years ago. Find her present age. ",52,,,,10,0,-1,60,3,,,"Let Aniket's current age be $x$.<br>Hence, $x$+$18$ = $2$*$(x-17)
+$<br>$x$+$18$ = $2$$x$-$34$.<br>$1$$x$ = $52$
+<br>$x$ = $52.0$
+<br>Hence, Aniket is $52$ years old presently.",
+text,text,30203,18,"After $1$ years, Gaurav  shall be $15$  times as old as he was $15$ years ago. Find his present age. ",31,,,,10,6,12,60,3,,,"Let Gaurav's current age be $x$.<br>Hence, $x$+$1$ = $2$*$(x-15)
+$<br>$x$+$1$ = $2$$x$-$30$.<br>$1$$x$ = $31$
+<br>$x$ = $31.0$
+<br>Hence, Gaurav is $31$ years old presently.",
+text,text,30203,18,"After $14$ years, Devang  shall be $7$  times as old as he was $7$ years ago. Find his present age. ",14,,,,6,4,13,60,3,,,"Let Devang's current age be $x$.<br>Hence, $x$+$14$ = $4$*$(x-7)
+$<br>$x$+$14$ = $4$$x$-$28$.<br>$3$$x$ = $42$
+<br>$x$ = $14.0$
+<br>Hence, Devang is $14$ years old presently.",
+text,text,30203,18,"After $19$ years, Vaibhav  shall be $14$  times as old as he was $14$ years ago. Find his present age. ",25,,,,10,7,21,60,3,,,"Let Vaibhav's current age be $x$.<br>Hence, $x$+$19$ = $4$*$(x-14)
+$<br>$x$+$19$ = $4$$x$-$56$.<br>$3$$x$ = $75$
+<br>$x$ = $25.0$
+<br>Hence, Vaibhav is $25$ years old presently.",
+text,text,30203,18,"After $4$ years, Darshan  shall be $18$  times as old as he was $18$ years ago. Find her present age. ",40,,,,18,14,24,60,3,,,"Let Darshan's current age be $x$.<br>Hence, $x$+$4$ = $2$*$(x-18)
+$<br>$x$+$4$ = $2$$x$-$36$.<br>$1$$x$ = $40$
+<br>$x$ = $40.0$
+<br>Hence, Darshan is $40$ years old presently.",
+text,text,30203,18,"After $5$ years, Soham  shall be $1$  times as old as he was $1$ years ago. Find her present age. ",7,,,,17,6,17,60,3,,,"Let Soham's current age be $x$.<br>Hence, $x$+$5$ = $2$*$(x-1)
+$<br>$x$+$5$ = $2$$x$-$2$.<br>$1$$x$ = $7$
+<br>$x$ = $7.0$
+<br>Hence, Soham is $7$ years old presently.",
+text,text,30203,18,"After $14$ years, Aadesh  shall be $20$  times as old as he was $20$ years ago. Find her present age. ",54,,,,13,10,15,60,3,,,"Let Aadesh's current age be $x$.<br>Hence, $x$+$14$ = $2$*$(x-20)
+$<br>$x$+$14$ = $2$$x$-$40$.<br>$1$$x$ = $54$
+<br>$x$ = $54.0$
+<br>Hence, Aadesh is $54$ years old presently.",
+text,text,30203,18,"After $6$ years, Ishan  shall be $1$  times as old as he was $1$ years ago. Find her present age. ",8,,,,13,8,14,60,3,,,"Let Ishan's current age be $x$.<br>Hence, $x$+$6$ = $2$*$(x-1)
+$<br>$x$+$6$ = $2$$x$-$2$.<br>$1$$x$ = $8$
+<br>$x$ = $8.0$
+<br>Hence, Ishan is $8$ years old presently.",
+text,text,30203,18,"After $18$ years, Mehul  shall be $20$  times as old as he was $20$ years ago. Find her present age. ",58,,,,14,4,8,60,3,,,"Let Mehul's current age be $x$.<br>Hence, $x$+$18$ = $2$*$(x-20)
+$<br>$x$+$18$ = $2$$x$-$40$.<br>$1$$x$ = $58$
+<br>$x$ = $58.0$
+<br>Hence, Mehul is $58$ years old presently.",
+text,text,30203,18,"After $17$ years, Varun  shall be $12$  times as old as he was $12$ years ago. Find her present age. ",41,,,,5,-2,-3,60,3,,,"Let Varun's current age be $x$.<br>Hence, $x$+$17$ = $2$*$(x-12)
+$<br>$x$+$17$ = $2$$x$-$24$.<br>$1$$x$ = $41$
+<br>$x$ = $41.0$
+<br>Hence, Varun is $41$ years old presently.",
+text,text,30203,18,"After $3$ years, Aniket  shall be $3$  times as old as he was $3$ years ago. Find her present age. ",5,,,,20,12,20,60,3,,,"Let Aniket's current age be $x$.<br>Hence, $x$+$3$ = $4$*$(x-3)
+$<br>$x$+$3$ = $4$$x$-$12$.<br>$3$$x$ = $15$
+<br>$x$ = $5.0$
+<br>Hence, Aniket is $5$ years old presently.",
+text,text,30203,18,"After $14$ years, Manish  shall be $14$  times as old as he was $14$ years ago. Find her present age. ",21,,,,13,12,37,60,3,,,"Let Manish's current age be $x$.<br>Hence, $x$+$14$ = $5$*$(x-14)
+$<br>$x$+$14$ = $5$$x$-$70$.<br>$4$$x$ = $84$
+<br>$x$ = $21.0$
+<br>Hence, Manish is $21$ years old presently.",
+text,text,30203,18,"After $1$ years, Tanmay  shall be $15$  times as old as he was $15$ years ago. Find his present age. ",23,,,,12,7,21,60,3,,,"Let Tanmay's current age be $x$.<br>Hence, $x$+$1$ = $3$*$(x-15)
+$<br>$x$+$1$ = $3$$x$-$45$.<br>$2$$x$ = $46$
+<br>$x$ = $23.0$
+<br>Hence, Tanmay is $23$ years old presently.",
+text,text,30203,18,"After $6$ years, Rahul  shall be $4$  times as old as he was $4$ years ago. Find her present age. ",9,,,,8,4,6,60,3,,,"Let Rahul's current age be $x$.<br>Hence, $x$+$6$ = $3$*$(x-4)
+$<br>$x$+$6$ = $3$$x$-$12$.<br>$2$$x$ = $18$
+<br>$x$ = $9.0$
+<br>Hence, Rahul is $9$ years old presently.",
+text,text,30203,18,"After $13$ years, Manish  shall be $7$  times as old as he was $7$ years ago. Find his present age. ",11,,,,14,9,14,60,3,,,"Let Manish's current age be $x$.<br>Hence, $x$+$13$ = $6$*$(x-7)
+$<br>$x$+$13$ = $6$$x$-$42$.<br>$5$$x$ = $55$
+<br>$x$ = $11.0$
+<br>Hence, Manish is $11$ years old presently.",
+text,text,30203,18,"After $16$ years, Atharva  shall be $14$  times as old as he was $14$ years ago. Find his present age. ",19,,,,6,4,7,60,3,,,"Let Atharva's current age be $x$.<br>Hence, $x$+$16$ = $7$*$(x-14)
+$<br>$x$+$16$ = $7$$x$-$98$.<br>$6$$x$ = $114$
+<br>$x$ = $19.0$
+<br>Hence, Atharva is $19$ years old presently.",
+text,text,30203,18,"After $20$ years, Prajwal  shall be $3$  times as old as he was $3$ years ago. Find her present age. ",26,,,,7,5,8,60,3,,,"Let Prajwal's current age be $x$.<br>Hence, $x$+$20$ = $2$*$(x-3)
+$<br>$x$+$20$ = $2$$x$-$6$.<br>$1$$x$ = $26$
+<br>$x$ = $26.0$
+<br>Hence, Prajwal is $26$ years old presently.",
+text,text,30203,18,"After $8$ years, Vaibhav  shall be $19$  times as old as he was $19$ years ago. Find her present age. ",28,,,,10,5,7,60,3,,,"Let Vaibhav's current age be $x$.<br>Hence, $x$+$8$ = $4$*$(x-19)
+$<br>$x$+$8$ = $4$$x$-$76$.<br>$3$$x$ = $84$
+<br>$x$ = $28.0$
+<br>Hence, Vaibhav is $28$ years old presently.",
+text,text,30203,18,"After $2$ years, Darshan  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",13,,,,9,7,14,60,3,,,"Let Darshan's current age be $x$.<br>Hence, $x$+$2$ = $5$*$(x-10)
+$<br>$x$+$2$ = $5$$x$-$50$.<br>$4$$x$ = $52$
+<br>$x$ = $13.0$
+<br>Hence, Darshan is $13$ years old presently.",
+text,text,30203,18,"After $10$ years, Vivek  shall be $14$  times as old as he was $14$ years ago. Find her present age. ",26,,,,8,2,3,60,3,,,"Let Vivek's current age be $x$.<br>Hence, $x$+$10$ = $3$*$(x-14)
+$<br>$x$+$10$ = $3$$x$-$42$.<br>$2$$x$ = $52$
+<br>$x$ = $26.0$
+<br>Hence, Vivek is $26$ years old presently.",
+text,text,30203,18,"After $12$ years, Suyash  shall be $6$  times as old as he was $6$ years ago. Find her present age. ",9,,,,14,10,17,60,3,,,"Let Suyash's current age be $x$.<br>Hence, $x$+$12$ = $7$*$(x-6)
+$<br>$x$+$12$ = $7$$x$-$42$.<br>$6$$x$ = $54$
+<br>$x$ = $9.0$
+<br>Hence, Suyash is $9$ years old presently.",
+text,text,30203,18,"After $5$ years, Ninad  shall be $16$  times as old as he was $16$ years ago. Find his present age. ",23,,,,15,5,15,60,3,,,"Let Ninad's current age be $x$.<br>Hence, $x$+$5$ = $4$*$(x-16)
+$<br>$x$+$5$ = $4$$x$-$64$.<br>$3$$x$ = $69$
+<br>$x$ = $23.0$
+<br>Hence, Ninad is $23$ years old presently.",
+text,text,30203,18,"After $19$ years, Suyash  shall be $12$  times as old as he was $12$ years ago. Find her present age. ",43,,,,18,16,24,60,3,,,"Let Suyash's current age be $x$.<br>Hence, $x$+$19$ = $2$*$(x-12)
+$<br>$x$+$19$ = $2$$x$-$24$.<br>$1$$x$ = $43$
+<br>$x$ = $43.0$
+<br>Hence, Suyash is $43$ years old presently.",
+text,text,30203,18,"After $1$ years, Yash  shall be $8$  times as old as he was $8$ years ago. Find his present age. ",11,,,,16,5,16,60,3,,,"Let Yash's current age be $x$.<br>Hence, $x$+$1$ = $4$*$(x-8)
+$<br>$x$+$1$ = $4$$x$-$32$.<br>$3$$x$ = $33$
+<br>$x$ = $11.0$
+<br>Hence, Yash is $11$ years old presently.",
+text,text,30203,18,"After $16$ years, Aakash  shall be $17$  times as old as he was $17$ years ago. Find her present age. ",28,,,,9,2,3,60,3,,,"Let Aakash's current age be $x$.<br>Hence, $x$+$16$ = $4$*$(x-17)
+$<br>$x$+$16$ = $4$$x$-$68$.<br>$3$$x$ = $84$
+<br>$x$ = $28.0$
+<br>Hence, Aakash is $28$ years old presently.",
+text,text,30203,18,"After $20$ years, Vinay  shall be $6$  times as old as he was $6$ years ago. Find his present age. ",32,,,,15,14,27,60,3,,,"Let Vinay's current age be $x$.<br>Hence, $x$+$20$ = $2$*$(x-6)
+$<br>$x$+$20$ = $2$$x$-$12$.<br>$1$$x$ = $32$
+<br>$x$ = $32.0$
+<br>Hence, Vinay is $32$ years old presently.",
+text,text,30203,18,"After $16$ years, Chaitanya  shall be $14$  times as old as he was $14$ years ago. Find his present age. ",20,,,,9,2,5,60,3,,,"Let Chaitanya's current age be $x$.<br>Hence, $x$+$16$ = $6$*$(x-14)
+$<br>$x$+$16$ = $6$$x$-$84$.<br>$5$$x$ = $100$
+<br>$x$ = $20.0$
+<br>Hence, Chaitanya is $20$ years old presently.",
+text,text,30203,18,"After $16$ years, Aadesh  shall be $20$  times as old as he was $20$ years ago. Find his present age. ",29,,,,5,2,4,60,3,,,"Let Aadesh's current age be $x$.<br>Hence, $x$+$16$ = $5$*$(x-20)
+$<br>$x$+$16$ = $5$$x$-$100$.<br>$4$$x$ = $116$
+<br>$x$ = $29.0$
+<br>Hence, Aadesh is $29$ years old presently.",
+text,text,30203,18,"After $3$ years, Prathamesh  shall be $9$  times as old as he was $9$ years ago. Find her present age. ",12,,,,6,2,4,60,3,,,"Let Prathamesh's current age be $x$.<br>Hence, $x$+$3$ = $5$*$(x-9)
+$<br>$x$+$3$ = $5$$x$-$45$.<br>$4$$x$ = $48$
+<br>$x$ = $12.0$
+<br>Hence, Prathamesh is $12$ years old presently.",
+text,text,30203,18,"After $10$ years, Aniket  shall be $12$  times as old as he was $12$ years ago. Find his present age. ",23,,,,13,12,18,60,3,,,"Let Aniket's current age be $x$.<br>Hence, $x$+$10$ = $3$*$(x-12)
+$<br>$x$+$10$ = $3$$x$-$36$.<br>$2$$x$ = $46$
+<br>$x$ = $23.0$
+<br>Hence, Aniket is $23$ years old presently.",
+text,text,30203,18,"After $17$ years, Ishan  shall be $2$  times as old as he was $2$ years ago. Find his present age. ",21,,,,14,7,11,60,3,,,"Let Ishan's current age be $x$.<br>Hence, $x$+$17$ = $2$*$(x-2)
+$<br>$x$+$17$ = $2$$x$-$4$.<br>$1$$x$ = $21$
+<br>$x$ = $21.0$
+<br>Hence, Ishan is $21$ years old presently.",
+text,text,30203,18,"After $14$ years, Suyash  shall be $11$  times as old as he was $11$ years ago. Find her present age. ",16,,,,12,4,13,60,3,,,"Let Suyash's current age be $x$.<br>Hence, $x$+$14$ = $6$*$(x-11)
+$<br>$x$+$14$ = $6$$x$-$66$.<br>$5$$x$ = $80$
+<br>$x$ = $16.0$
+<br>Hence, Suyash is $16$ years old presently.",
+text,text,30203,18,"After $19$ years, Ninad  shall be $12$  times as old as he was $12$ years ago. Find her present age. ",43,,,,7,6,9,60,3,,,"Let Ninad's current age be $x$.<br>Hence, $x$+$19$ = $2$*$(x-12)
+$<br>$x$+$19$ = $2$$x$-$24$.<br>$1$$x$ = $43$
+<br>$x$ = $43.0$
+<br>Hence, Ninad is $43$ years old presently.",
+text,text,30203,18,"After $14$ years, Ninad  shall be $16$  times as old as he was $16$ years ago. Find his present age. ",46,,,,4,-2,-4,60,3,,,"Let Ninad's current age be $x$.<br>Hence, $x$+$14$ = $2$*$(x-16)
+$<br>$x$+$14$ = $2$$x$-$32$.<br>$1$$x$ = $46$
+<br>$x$ = $46.0$
+<br>Hence, Ninad is $46$ years old presently.",
+text,text,30203,18,"After $9$ years, Vaibhav  shall be $18$  times as old as he was $18$ years ago. Find her present age. ",27,,,,10,8,16,60,3,,,"Let Vaibhav's current age be $x$.<br>Hence, $x$+$9$ = $4$*$(x-18)
+$<br>$x$+$9$ = $4$$x$-$72$.<br>$3$$x$ = $81$
+<br>$x$ = $27.0$
+<br>Hence, Vaibhav is $27$ years old presently.",
+text,text,30203,18,"After $10$ years, Gaurav  shall be $1$  times as old as he was $1$ years ago. Find her present age. ",12,,,,13,8,16,60,3,,,"Let Gaurav's current age be $x$.<br>Hence, $x$+$10$ = $2$*$(x-1)
+$<br>$x$+$10$ = $2$$x$-$2$.<br>$1$$x$ = $12$
+<br>$x$ = $12.0$
+<br>Hence, Gaurav is $12$ years old presently.",
+text,text,30203,18,"After $3$ years, Shantanu  shall be $9$  times as old as he was $9$ years ago. Find his present age. ",21,,,,4,2,5,60,3,,,"Let Shantanu's current age be $x$.<br>Hence, $x$+$3$ = $2$*$(x-9)
+$<br>$x$+$3$ = $2$$x$-$18$.<br>$1$$x$ = $21$
+<br>$x$ = $21.0$
+<br>Hence, Shantanu is $21$ years old presently.",
+text,text,30203,18,"After $11$ years, Darshan  shall be $18$  times as old as he was $18$ years ago. Find his present age. ",47,,,,12,11,18,60,3,,,"Let Darshan's current age be $x$.<br>Hence, $x$+$11$ = $2$*$(x-18)
+$<br>$x$+$11$ = $2$$x$-$36$.<br>$1$$x$ = $47$
+<br>$x$ = $47.0$
+<br>Hence, Darshan is $47$ years old presently.",
+text,text,30203,18,"After $16$ years, Kshitij  shall be $8$  times as old as he was $8$ years ago. Find her present age. ",14,,,,2,-1,-1,60,3,,,"Let Kshitij's current age be $x$.<br>Hence, $x$+$16$ = $5$*$(x-8)
+$<br>$x$+$16$ = $5$$x$-$40$.<br>$4$$x$ = $56$
+<br>$x$ = $14.0$
+<br>Hence, Kshitij is $14$ years old presently.",
+text,text,30203,18,"After $6$ years, Siddhesh  shall be $6$  times as old as he was $6$ years ago. Find his present age. ",9,,,,13,6,12,60,3,,,"Let Siddhesh's current age be $x$.<br>Hence, $x$+$6$ = $5$*$(x-6)
+$<br>$x$+$6$ = $5$$x$-$30$.<br>$4$$x$ = $36$
+<br>$x$ = $9.0$
+<br>Hence, Siddhesh is $9$ years old presently.",
+text,text,30203,18,"After $9$ years, Abhijeet  shall be $7$  times as old as he was $7$ years ago. Find her present age. ",9,,,,9,2,6,60,3,,,"Let Abhijeet's current age be $x$.<br>Hence, $x$+$9$ = $9$*$(x-7)
+$<br>$x$+$9$ = $9$$x$-$63$.<br>$8$$x$ = $72$
+<br>$x$ = $9.0$
+<br>Hence, Abhijeet is $9$ years old presently.",
+text,text,30203,18,"After $20$ years, Prathamesh  shall be $8$  times as old as he was $8$ years ago. Find her present age. ",12,,,,19,13,21,60,3,,,"Let Prathamesh's current age be $x$.<br>Hence, $x$+$20$ = $8$*$(x-8)
+$<br>$x$+$20$ = $8$$x$-$64$.<br>$7$$x$ = $84$
+<br>$x$ = $12.0$
+<br>Hence, Prathamesh is $12$ years old presently.",
+text,text,30203,18,"After $7$ years, Vinay  shall be $7$  times as old as he was $7$ years ago. Find her present age. ",14,,,,9,-1,-4,60,3,,,"Let Vinay's current age be $x$.<br>Hence, $x$+$7$ = $3$*$(x-7)
+$<br>$x$+$7$ = $3$$x$-$21$.<br>$2$$x$ = $28$
+<br>$x$ = $14.0$
+<br>Hence, Vinay is $14$ years old presently.",
+text,text,30203,18,"After $5$ years, Aadesh  shall be $4$  times as old as he was $4$ years ago. Find her present age. ",5,,,,8,1,2,60,3,,,"Let Aadesh's current age be $x$.<br>Hence, $x$+$5$ = $10$*$(x-4)
+$<br>$x$+$5$ = $10$$x$-$40$.<br>$9$$x$ = $45$
+<br>$x$ = $5.0$
+<br>Hence, Aadesh is $5$ years old presently.",
+text,text,30203,18,"After $7$ years, Manish  shall be $20$  times as old as he was $20$ years ago. Find his present age. ",47,,,,8,6,10,60,3,,,"Let Manish's current age be $x$.<br>Hence, $x$+$7$ = $2$*$(x-20)
+$<br>$x$+$7$ = $2$$x$-$40$.<br>$1$$x$ = $47$
+<br>$x$ = $47.0$
+<br>Hence, Manish is $47$ years old presently.",
+text,text,30203,18,"After $20$ years, Abhijeet  shall be $20$  times as old as he was $20$ years ago. Find his present age. ",30,,,,10,3,9,60,3,,,"Let Abhijeet's current age be $x$.<br>Hence, $x$+$20$ = $5$*$(x-20)
+$<br>$x$+$20$ = $5$$x$-$100$.<br>$4$$x$ = $120$
+<br>$x$ = $30.0$
+<br>Hence, Abhijeet is $30$ years old presently.",
+text,text,30203,18,"After $17$ years, Gopal  shall be $13$  times as old as he was $13$ years ago. Find his present age. ",28,,,,17,8,16,60,3,,,"Let Gopal's current age be $x$.<br>Hence, $x$+$17$ = $3$*$(x-13)
+$<br>$x$+$17$ = $3$$x$-$39$.<br>$2$$x$ = $56$
+<br>$x$ = $28.0$
+<br>Hence, Gopal is $28$ years old presently.",

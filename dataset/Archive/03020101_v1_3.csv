@@ -1,0 +1,701 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,3020101,3,"Ques. The product of a certain number and five is twenty-nine, represent in equation",$5a=29$,,,,$29*(a+5)=29$,$29*(5a)=29$,$5a+a=29$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $5$
+Solution would be: $$5a=29$$
+Coefficient of $a$ is: $5$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eight is twenty-seven, represent in equation",$8x=27$,,,,$27*(x+8)=27$,$27*(8x)=27$,$8x+x=27$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $8$
+Solution would be: $$8x=27$$
+Coefficient of $x$ is: $8$
+Constant term is: $27$
+",
+text,1,3020101,3,"Ques. The product of a certain number and thirteen is ten, represent in equation",$13b=10$,,,,$10*(b+13)=10$,$10*(13b)=10$,$13b+b=10$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $13$
+Solution would be: $$13b=10$$
+Coefficient of $b$ is: $13$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nineteen is seven, represent in equation",$19y=7$,,,,$7*(y+19)=7$,$7*(19y)=7$,$19y+y=7$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $19$
+Solution would be: $$19y=7$$
+Coefficient of $y$ is: $19$
+Constant term is: $7$
+",
+text,1,3020101,3,"Ques. The product of a certain number and four is five, represent in equation",$4y=5$,,,,$5*(y+4)=5$,$5*(4y)=5$,$4y+y=5$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $4$
+Solution would be: $$4y=5$$
+Coefficient of $y$ is: $4$
+Constant term is: $5$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fourteen is eighteen, represent in equation",$14c=18$,,,,$18*(c+14)=18$,$18*(14c)=18$,$14c+c=18$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $14$
+Solution would be: $$14c=18$$
+Coefficient of $c$ is: $14$
+Constant term is: $18$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is two, represent in equation",$7y=2$,,,,$2*(y+7)=2$,$2*(7y)=2$,$7y+y=2$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $7$
+Solution would be: $$7y=2$$
+Coefficient of $y$ is: $7$
+Constant term is: $2$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eight is twenty-five, represent in equation",$8x=25$,,,,$25*(x+8)=25$,$25*(8x)=25$,$8x+x=25$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $8$
+Solution would be: $$8x=25$$
+Coefficient of $x$ is: $8$
+Constant term is: $25$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is twenty-six, represent in equation",$6x=26$,,,,$26*(x+6)=26$,$26*(6x)=26$,$6x+x=26$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $6$
+Solution would be: $$6x=26$$
+Coefficient of $x$ is: $6$
+Constant term is: $26$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is ten, represent in equation",$20c=10$,,,,$10*(c+20)=10$,$10*(20c)=10$,$20c+c=10$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $20$
+Solution would be: $$20c=10$$
+Coefficient of $c$ is: $20$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is three, represent in equation",$7c=3$,,,,$3*(c+7)=3$,$3*(7c)=3$,$7c+c=3$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $7$
+Solution would be: $$7c=3$$
+Coefficient of $c$ is: $7$
+Constant term is: $3$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eight is ten, represent in equation",$8c=10$,,,,$10*(c+8)=10$,$10*(8c)=10$,$8c+c=10$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $8$
+Solution would be: $$8c=10$$
+Coefficient of $c$ is: $8$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is twenty-nine, represent in equation",$16c=29$,,,,$29*(c+16)=29$,$29*(16c)=29$,$16c+c=29$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $16$
+Solution would be: $$16c=29$$
+Coefficient of $c$ is: $16$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is twenty-five, represent in equation",$20x=25$,,,,$25*(x+20)=25$,$25*(20x)=25$,$20x+x=25$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $20$
+Solution would be: $$20x=25$$
+Coefficient of $x$ is: $20$
+Constant term is: $25$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is two, represent in equation",$16a=2$,,,,$2*(a+16)=2$,$2*(16a)=2$,$16a+a=2$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $16$
+Solution would be: $$16a=2$$
+Coefficient of $a$ is: $16$
+Constant term is: $2$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eleven is twenty-nine, represent in equation",$11b=29$,,,,$29*(b+11)=29$,$29*(11b)=29$,$11b+b=29$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $11$
+Solution would be: $$11b=29$$
+Coefficient of $b$ is: $11$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seventeen is thirteen, represent in equation",$17x=13$,,,,$13*(x+17)=13$,$13*(17x)=13$,$17x+x=13$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $17$
+Solution would be: $$17x=13$$
+Coefficient of $x$ is: $17$
+Constant term is: $13$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is ten, represent in equation",$2b=10$,,,,$10*(b+2)=10$,$10*(2b)=10$,$2b+b=10$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $2$
+Solution would be: $$2b=10$$
+Coefficient of $b$ is: $2$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and four is six, represent in equation",$4x=6$,,,,$6*(x+4)=6$,$6*(4x)=6$,$4x+x=6$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $4$
+Solution would be: $$4x=6$$
+Coefficient of $x$ is: $4$
+Constant term is: $6$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eighteen is seven, represent in equation",$18y=7$,,,,$7*(y+18)=7$,$7*(18y)=7$,$18y+y=7$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $18$
+Solution would be: $$18y=7$$
+Coefficient of $y$ is: $18$
+Constant term is: $7$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is thirty, represent in equation",$6b=30$,,,,$30*(b+6)=30$,$30*(6b)=30$,$6b+b=30$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $6$
+Solution would be: $$6b=30$$
+Coefficient of $b$ is: $6$
+Constant term is: $30$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is eight, represent in equation",$2a=8$,,,,$8*(a+2)=8$,$8*(2a)=8$,$2a+a=8$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $2$
+Solution would be: $$2a=8$$
+Coefficient of $a$ is: $2$
+Constant term is: $8$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is fifteen, represent in equation",$2a=15$,,,,$15*(a+2)=15$,$15*(2a)=15$,$2a+a=15$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $2$
+Solution would be: $$2a=15$$
+Coefficient of $a$ is: $2$
+Constant term is: $15$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is twelve, represent in equation",$6x=12$,,,,$12*(x+6)=12$,$12*(6x)=12$,$6x+x=12$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $6$
+Solution would be: $$6x=12$$
+Coefficient of $x$ is: $6$
+Constant term is: $12$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nine is thirteen, represent in equation",$9y=13$,,,,$13*(y+9)=13$,$13*(9y)=13$,$9y+y=13$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $9$
+Solution would be: $$9y=13$$
+Coefficient of $y$ is: $9$
+Constant term is: $13$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nineteen is ten, represent in equation",$19a=10$,,,,$10*(a+19)=10$,$10*(19a)=10$,$19a+a=10$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $19$
+Solution would be: $$19a=10$$
+Coefficient of $a$ is: $19$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and thirteen is twenty-two, represent in equation",$13y=22$,,,,$22*(y+13)=22$,$22*(13y)=22$,$13y+y=22$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $13$
+Solution would be: $$13y=22$$
+Coefficient of $y$ is: $13$
+Constant term is: $22$
+",
+text,1,3020101,3,"Ques. The product of a certain number and ten is thirty, represent in equation",$10a=30$,,,,$30*(a+10)=30$,$30*(10a)=30$,$10a+a=30$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $10$
+Solution would be: $$10a=30$$
+Coefficient of $a$ is: $10$
+Constant term is: $30$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nine is twenty-eight, represent in equation",$9x=28$,,,,$28*(x+9)=28$,$28*(9x)=28$,$9x+x=28$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $9$
+Solution would be: $$9x=28$$
+Coefficient of $x$ is: $9$
+Constant term is: $28$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is twenty-five, represent in equation",$2b=25$,,,,$25*(b+2)=25$,$25*(2b)=25$,$2b+b=25$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $2$
+Solution would be: $$2b=25$$
+Coefficient of $b$ is: $2$
+Constant term is: $25$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fifteen is eighteen, represent in equation",$15b=18$,,,,$18*(b+15)=18$,$18*(15b)=18$,$15b+b=18$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $15$
+Solution would be: $$15b=18$$
+Coefficient of $b$ is: $15$
+Constant term is: $18$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is twenty-seven, represent in equation",$2a=27$,,,,$27*(a+2)=27$,$27*(2a)=27$,$2a+a=27$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $2$
+Solution would be: $$2a=27$$
+Coefficient of $a$ is: $2$
+Constant term is: $27$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eighteen is twenty-one, represent in equation",$18b=21$,,,,$21*(b+18)=21$,$21*(18b)=21$,$18b+b=21$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $18$
+Solution would be: $$18b=21$$
+Coefficient of $b$ is: $18$
+Constant term is: $21$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nineteen is eighteen, represent in equation",$19y=18$,,,,$18*(y+19)=18$,$18*(19y)=18$,$19y+y=18$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $19$
+Solution would be: $$19y=18$$
+Coefficient of $y$ is: $19$
+Constant term is: $18$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twelve is twenty-four, represent in equation",$12x=24$,,,,$24*(x+12)=24$,$24*(12x)=24$,$12x+x=24$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $12$
+Solution would be: $$12x=24$$
+Coefficient of $x$ is: $12$
+Constant term is: $24$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is sixteen, represent in equation",$6b=16$,,,,$16*(b+6)=16$,$16*(6b)=16$,$6b+b=16$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $6$
+Solution would be: $$6b=16$$
+Coefficient of $b$ is: $6$
+Constant term is: $16$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eleven is six, represent in equation",$11a=6$,,,,$6*(a+11)=6$,$6*(11a)=6$,$11a+a=6$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $11$
+Solution would be: $$11a=6$$
+Coefficient of $a$ is: $11$
+Constant term is: $6$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is fourteen, represent in equation",$16y=14$,,,,$14*(y+16)=14$,$14*(16y)=14$,$16y+y=14$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $16$
+Solution would be: $$16y=14$$
+Coefficient of $y$ is: $16$
+Constant term is: $14$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is twenty, represent in equation",$20x=20$,,,,$20*(x+20)=20$,$20*(20x)=20$,$20x+x=20$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $20$
+Solution would be: $$20x=20$$
+Coefficient of $x$ is: $20$
+Constant term is: $20$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twelve is twenty-nine, represent in equation",$12x=29$,,,,$29*(x+12)=29$,$29*(12x)=29$,$12x+x=29$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $12$
+Solution would be: $$12x=29$$
+Coefficient of $x$ is: $12$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is twenty-three, represent in equation",$16a=23$,,,,$23*(a+16)=23$,$23*(16a)=23$,$16a+a=23$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $16$
+Solution would be: $$16a=23$$
+Coefficient of $a$ is: $16$
+Constant term is: $23$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nineteen is twenty-one, represent in equation",$19c=21$,,,,$21*(c+19)=21$,$21*(19c)=21$,$19c+c=21$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $19$
+Solution would be: $$19c=21$$
+Coefficient of $c$ is: $19$
+Constant term is: $21$
+",
+text,1,3020101,3,"Ques. The product of a certain number and five is two, represent in equation",$5x=2$,,,,$2*(x+5)=2$,$2*(5x)=2$,$5x+x=2$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $5$
+Solution would be: $$5x=2$$
+Coefficient of $x$ is: $5$
+Constant term is: $2$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seventeen is nine, represent in equation",$17a=9$,,,,$9*(a+17)=9$,$9*(17a)=9$,$17a+a=9$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $17$
+Solution would be: $$17a=9$$
+Coefficient of $a$ is: $17$
+Constant term is: $9$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eight is twenty-five, represent in equation",$8y=25$,,,,$25*(y+8)=25$,$25*(8y)=25$,$8y+y=25$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $8$
+Solution would be: $$8y=25$$
+Coefficient of $y$ is: $8$
+Constant term is: $25$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eighteen is ten, represent in equation",$18b=10$,,,,$10*(b+18)=10$,$10*(18b)=10$,$18b+b=10$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $18$
+Solution would be: $$18b=10$$
+Coefficient of $b$ is: $18$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and thirteen is ten, represent in equation",$13a=10$,,,,$10*(a+13)=10$,$10*(13a)=10$,$13a+a=10$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $13$
+Solution would be: $$13a=10$$
+Coefficient of $a$ is: $13$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is eleven, represent in equation",$16c=11$,,,,$11*(c+16)=11$,$11*(16c)=11$,$16c+c=11$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $16$
+Solution would be: $$16c=11$$
+Coefficient of $c$ is: $16$
+Constant term is: $11$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seventeen is twenty-two, represent in equation",$17a=22$,,,,$22*(a+17)=22$,$22*(17a)=22$,$17a+a=22$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $17$
+Solution would be: $$17a=22$$
+Coefficient of $a$ is: $17$
+Constant term is: $22$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is seven, represent in equation",$7x=7$,,,,$7*(x+7)=7$,$7*(7x)=7$,$7x+x=7$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $7$
+Solution would be: $$7x=7$$
+Coefficient of $x$ is: $7$
+Constant term is: $7$
+",
+text,1,3020101,3,"Ques. The product of a certain number and three is two, represent in equation",$3y=2$,,,,$2*(y+3)=2$,$2*(3y)=2$,$3y+y=2$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $3$
+Solution would be: $$3y=2$$
+Coefficient of $y$ is: $3$
+Constant term is: $2$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eighteen is four, represent in equation",$18c=4$,,,,$4*(c+18)=4$,$4*(18c)=4$,$18c+c=4$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $18$
+Solution would be: $$18c=4$$
+Coefficient of $c$ is: $18$
+Constant term is: $4$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fifteen is twenty-two, represent in equation",$15x=22$,,,,$22*(x+15)=22$,$22*(15x)=22$,$15x+x=22$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $15$
+Solution would be: $$15x=22$$
+Coefficient of $x$ is: $15$
+Constant term is: $22$
+",
+text,1,3020101,3,"Ques. The product of a certain number and thirteen is two, represent in equation",$13a=2$,,,,$2*(a+13)=2$,$2*(13a)=2$,$13a+a=2$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $13$
+Solution would be: $$13a=2$$
+Coefficient of $a$ is: $13$
+Constant term is: $2$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seventeen is twenty, represent in equation",$17b=20$,,,,$20*(b+17)=20$,$20*(17b)=20$,$17b+b=20$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $17$
+Solution would be: $$17b=20$$
+Coefficient of $b$ is: $17$
+Constant term is: $20$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is twenty-eight, represent in equation",$2c=28$,,,,$28*(c+2)=28$,$28*(2c)=28$,$2c+c=28$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $2$
+Solution would be: $$2c=28$$
+Coefficient of $c$ is: $2$
+Constant term is: $28$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nineteen is seventeen, represent in equation",$19y=17$,,,,$17*(y+19)=17$,$17*(19y)=17$,$19y+y=17$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $19$
+Solution would be: $$19y=17$$
+Coefficient of $y$ is: $19$
+Constant term is: $17$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is five, represent in equation",$20c=5$,,,,$5*(c+20)=5$,$5*(20c)=5$,$20c+c=5$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $20$
+Solution would be: $$20c=5$$
+Coefficient of $c$ is: $20$
+Constant term is: $5$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is three, represent in equation",$16x=3$,,,,$3*(x+16)=3$,$3*(16x)=3$,$16x+x=3$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $16$
+Solution would be: $$16x=3$$
+Coefficient of $x$ is: $16$
+Constant term is: $3$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is twelve, represent in equation",$20a=12$,,,,$12*(a+20)=12$,$12*(20a)=12$,$20a+a=12$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $20$
+Solution would be: $$20a=12$$
+Coefficient of $a$ is: $20$
+Constant term is: $12$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eleven is twenty-seven, represent in equation",$11y=27$,,,,$27*(y+11)=27$,$27*(11y)=27$,$11y+y=27$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $11$
+Solution would be: $$11y=27$$
+Coefficient of $y$ is: $11$
+Constant term is: $27$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fifteen is twenty-eight, represent in equation",$15x=28$,,,,$28*(x+15)=28$,$28*(15x)=28$,$15x+x=28$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $15$
+Solution would be: $$15x=28$$
+Coefficient of $x$ is: $15$
+Constant term is: $28$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is twenty-nine, represent in equation",$16x=29$,,,,$29*(x+16)=29$,$29*(16x)=29$,$16x+x=29$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $16$
+Solution would be: $$16x=29$$
+Coefficient of $x$ is: $16$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eighteen is eight, represent in equation",$18y=8$,,,,$8*(y+18)=8$,$8*(18y)=8$,$18y+y=8$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $18$
+Solution would be: $$18y=8$$
+Coefficient of $y$ is: $18$
+Constant term is: $8$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is thirty, represent in equation",$20b=30$,,,,$30*(b+20)=30$,$30*(20b)=30$,$20b+b=30$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $20$
+Solution would be: $$20b=30$$
+Coefficient of $b$ is: $20$
+Constant term is: $30$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eleven is nine, represent in equation",$11x=9$,,,,$9*(x+11)=9$,$9*(11x)=9$,$11x+x=9$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $11$
+Solution would be: $$11x=9$$
+Coefficient of $x$ is: $11$
+Constant term is: $9$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is fourteen, represent in equation",$16x=14$,,,,$14*(x+16)=14$,$14*(16x)=14$,$16x+x=14$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $16$
+Solution would be: $$16x=14$$
+Coefficient of $x$ is: $16$
+Constant term is: $14$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is fourteen, represent in equation",$6c=14$,,,,$14*(c+6)=14$,$14*(6c)=14$,$6c+c=14$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $6$
+Solution would be: $$6c=14$$
+Coefficient of $c$ is: $6$
+Constant term is: $14$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fourteen is eleven, represent in equation",$14a=11$,,,,$11*(a+14)=11$,$11*(14a)=11$,$14a+a=11$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $14$
+Solution would be: $$14a=11$$
+Coefficient of $a$ is: $14$
+Constant term is: $11$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is seventeen, represent in equation",$7x=17$,,,,$17*(x+7)=17$,$17*(7x)=17$,$7x+x=17$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $7$
+Solution would be: $$7x=17$$
+Coefficient of $x$ is: $7$
+Constant term is: $17$
+",
+text,1,3020101,3,"Ques. The product of a certain number and two is twenty-nine, represent in equation",$2y=29$,,,,$29*(y+2)=29$,$29*(2y)=29$,$2y+y=29$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $2$
+Solution would be: $$2y=29$$
+Coefficient of $y$ is: $2$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eleven is thirty, represent in equation",$11x=30$,,,,$30*(x+11)=30$,$30*(11x)=30$,$11x+x=30$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $11$
+Solution would be: $$11x=30$$
+Coefficient of $x$ is: $11$
+Constant term is: $30$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fourteen is three, represent in equation",$14x=3$,,,,$3*(x+14)=3$,$3*(14x)=3$,$14x+x=3$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $14$
+Solution would be: $$14x=3$$
+Coefficient of $x$ is: $14$
+Constant term is: $3$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is twenty-seven, represent in equation",$6x=27$,,,,$27*(x+6)=27$,$27*(6x)=27$,$6x+x=27$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $6$
+Solution would be: $$6x=27$$
+Coefficient of $x$ is: $6$
+Constant term is: $27$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twelve is twelve, represent in equation",$12y=12$,,,,$12*(y+12)=12$,$12*(12y)=12$,$12y+y=12$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $12$
+Solution would be: $$12y=12$$
+Coefficient of $y$ is: $12$
+Constant term is: $12$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is eighteen, represent in equation",$7y=18$,,,,$18*(y+7)=18$,$18*(7y)=18$,$7y+y=18$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $7$
+Solution would be: $$7y=18$$
+Coefficient of $y$ is: $7$
+Constant term is: $18$
+",
+text,1,3020101,3,"Ques. The product of a certain number and thirteen is twenty-eight, represent in equation",$13a=28$,,,,$28*(a+13)=28$,$28*(13a)=28$,$13a+a=28$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $13$
+Solution would be: $$13a=28$$
+Coefficient of $a$ is: $13$
+Constant term is: $28$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fourteen is eight, represent in equation",$14x=8$,,,,$8*(x+14)=8$,$8*(14x)=8$,$14x+x=8$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $14$
+Solution would be: $$14x=8$$
+Coefficient of $x$ is: $14$
+Constant term is: $8$
+",
+text,1,3020101,3,"Ques. The product of a certain number and nineteen is twenty-eight, represent in equation",$19y=28$,,,,$28*(y+19)=28$,$28*(19y)=28$,$19y+y=28$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $19$
+Solution would be: $$19y=28$$
+Coefficient of $y$ is: $19$
+Constant term is: $28$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is three, represent in equation",$16x=3$,,,,$3*(x+16)=3$,$3*(16x)=3$,$16x+x=3$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $16$
+Solution would be: $$16x=3$$
+Coefficient of $x$ is: $16$
+Constant term is: $3$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is fourteen, represent in equation",$7x=14$,,,,$14*(x+7)=14$,$14*(7x)=14$,$7x+x=14$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $7$
+Solution would be: $$7x=14$$
+Coefficient of $x$ is: $7$
+Constant term is: $14$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is three, represent in equation",$6b=3$,,,,$3*(b+6)=3$,$3*(6b)=3$,$6b+b=3$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $6$
+Solution would be: $$6b=3$$
+Coefficient of $b$ is: $6$
+Constant term is: $3$
+",
+text,1,3020101,3,"Ques. The product of a certain number and ten is twenty, represent in equation",$10c=20$,,,,$20*(c+10)=20$,$20*(10c)=20$,$10c+c=20$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $10$
+Solution would be: $$10c=20$$
+Coefficient of $c$ is: $10$
+Constant term is: $20$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seventeen is twenty-five, represent in equation",$17b=25$,,,,$25*(b+17)=25$,$25*(17b)=25$,$17b+b=25$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $17$
+Solution would be: $$17b=25$$
+Coefficient of $b$ is: $17$
+Constant term is: $25$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is twenty-six, represent in equation",$16y=26$,,,,$26*(y+16)=26$,$26*(16y)=26$,$16y+y=26$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $16$
+Solution would be: $$16y=26$$
+Coefficient of $y$ is: $16$
+Constant term is: $26$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seventeen is twenty-three, represent in equation",$17a=23$,,,,$23*(a+17)=23$,$23*(17a)=23$,$17a+a=23$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $17$
+Solution would be: $$17a=23$$
+Coefficient of $a$ is: $17$
+Constant term is: $23$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eleven is twenty-six, represent in equation",$11y=26$,,,,$26*(y+11)=26$,$26*(11y)=26$,$11y+y=26$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $11$
+Solution would be: $$11y=26$$
+Coefficient of $y$ is: $11$
+Constant term is: $26$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twenty is twenty-seven, represent in equation",$20c=27$,,,,$27*(c+20)=27$,$27*(20c)=27$,$20c+c=27$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $20$
+Solution would be: $$20c=27$$
+Coefficient of $c$ is: $20$
+Constant term is: $27$
+",
+text,1,3020101,3,"Ques. The product of a certain number and twelve is twenty-two, represent in equation",$12a=22$,,,,$22*(a+12)=22$,$22*(12a)=22$,$12a+a=22$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $12$
+Solution would be: $$12a=22$$
+Coefficient of $a$ is: $12$
+Constant term is: $22$
+",
+text,1,3020101,3,"Ques. The product of a certain number and eighteen is twenty-nine, represent in equation",$18c=29$,,,,$29*(c+18)=29$,$29*(18c)=29$,$18c+c=29$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $18$
+Solution would be: $$18c=29$$
+Coefficient of $c$ is: $18$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and ten is eight, represent in equation",$10y=8$,,,,$8*(y+10)=8$,$8*(10y)=8$,$10y+y=8$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $10$
+Solution would be: $$10y=8$$
+Coefficient of $y$ is: $10$
+Constant term is: $8$
+",
+text,1,3020101,3,"Ques. The product of a certain number and fourteen is twenty-nine, represent in equation",$14x=29$,,,,$29*(x+14)=29$,$29*(14x)=29$,$14x+x=29$,60,3,,,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $14$
+Solution would be: $$14x=29$$
+Coefficient of $x$ is: $14$
+Constant term is: $29$
+",
+text,1,3020101,3,"Ques. The product of a certain number and thirteen is twenty-eight, represent in equation",$13b=28$,,,,$28*(b+13)=28$,$28*(13b)=28$,$13b+b=28$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $13$
+Solution would be: $$13b=28$$
+Coefficient of $b$ is: $13$
+Constant term is: $28$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is eight, represent in equation",$16b=8$,,,,$8*(b+16)=8$,$8*(16b)=8$,$16b+b=8$,60,3,,,"Let's assume the certain number to be: $b$
+Product means multiplication
+Hence, the certain number $b$ is to be multiplied by $16$
+Solution would be: $$16b=8$$
+Coefficient of $b$ is: $16$
+Constant term is: $8$
+",
+text,1,3020101,3,"Ques. The product of a certain number and four is thirty, represent in equation",$4c=30$,,,,$30*(c+4)=30$,$30*(4c)=30$,$4c+c=30$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $4$
+Solution would be: $$4c=30$$
+Coefficient of $c$ is: $4$
+Constant term is: $30$
+",
+text,1,3020101,3,"Ques. The product of a certain number and six is ten, represent in equation",$6c=10$,,,,$10*(c+6)=10$,$10*(6c)=10$,$6c+c=10$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $6$
+Solution would be: $$6c=10$$
+Coefficient of $c$ is: $6$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and five is seventeen, represent in equation",$5y=17$,,,,$17*(y+5)=17$,$17*(5y)=17$,$5y+y=17$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $5$
+Solution would be: $$5y=17$$
+Coefficient of $y$ is: $5$
+Constant term is: $17$
+",
+text,1,3020101,3,"Ques. The product of a certain number and sixteen is nine, represent in equation",$16a=9$,,,,$9*(a+16)=9$,$9*(16a)=9$,$16a+a=9$,60,3,,,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $16$
+Solution would be: $$16a=9$$
+Coefficient of $a$ is: $16$
+Constant term is: $9$
+",
+text,1,3020101,3,"Ques. The product of a certain number and four is ten, represent in equation",$4c=10$,,,,$10*(c+4)=10$,$10*(4c)=10$,$4c+c=10$,60,3,,,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $4$
+Solution would be: $$4c=10$$
+Coefficient of $c$ is: $4$
+Constant term is: $10$
+",
+text,1,3020101,3,"Ques. The product of a certain number and seven is twenty-nine, represent in equation",$7y=29$,,,,$29*(y+7)=29$,$29*(7y)=29$,$7y+y=29$,60,3,,,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $7$
+Solution would be: $$7y=29$$
+Coefficient of $y$ is: $7$
+Constant term is: $29$
+",

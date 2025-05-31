@@ -1,0 +1,601 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 - 1,15 + 24$",,,,"$2 * 5,0 + 10$","$1 * 4,14 - 10$","$5 + 1,2 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 - 1 = 1$
+ <br>Second expression $15 + 24 = 39$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$16 + 2,5 - 8$",,,,"$1 * 3,20 - 17$","$24 - 0,7 + 17$","$18 - 2,6 + 10$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 + 2 = 18$
+ <br>Second expression $5 - 8 = -3$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$23 + 17,8 * 4$",,,,"$0 + 15,3 * 5$","$10 + 6,4 * 4$","$1 * 2,1 + 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 + 17 = 40$
+ <br>Second expression $8 * 4 = 32$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$4 + 0,2 * 10$",,,,"$10 - 3,5 + 2$","$8 + 10,24 - 6$","$8 + 7,5 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 + 0 = 4$
+ <br>Second expression $2 * 10 = 20$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 * 2,17 - 3$",,,,"$3 * 4,12 + 0$","$13 + 7,24 - 4$","$4 * 3,25 - 13$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 2 = 16$
+ <br>Second expression $17 - 3 = 14$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$24 - 12,18 + 19$",,,,"$1 * 1,1 + 0$","$17 - 7,5 * 2$","$2 * 6,13 - 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $24 - 12 = 12$
+ <br>Second expression $18 + 19 = 37$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$12 - 13,4 * 1$",,,,"$3 * 7,9 + 12$","$8 * 1,5 + 3$","$22 - 18,2 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 - 13 = -1$
+ <br>Second expression $4 * 1 = 4$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$0 + 0,5 * 2$",,,,"$23 - 13,1 + 9$","$24 - 0,4 * 6$","$18 - 6,12 + 0$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 0 = 0$
+ <br>Second expression $5 * 2 = 10$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$16 + 4,5 * 3$",,,,"$16 - 0,16 + 0$","$1 + 7,19 - 11$","$16 - 0,8 + 8$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 + 4 = 20$
+ <br>Second expression $5 * 3 = 15$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 * 7,12 + 17$",,,,"$9 + 5,25 - 11$","$4 + 14,9 * 2$","$18 - 9,3 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 7 = 14$
+ <br>Second expression $12 + 17 = 29$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$22 + 18,10 - 0$",,,,"$1 * 5,1 + 4$","$25 - 7,6 * 3$","$4 * 4,25 - 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 + 18 = 40$
+ <br>Second expression $10 - 0 = 10$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 - 19,6 * 8$",,,,"$25 - 0,5 * 5$","$7 * 2,17 - 3$","$9 - 0,9 * 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 - 19 = -12$
+ <br>Second expression $6 * 8 = 48$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$18 + 8,5 * 5$",,,,"$1 * 10,12 - 2$","$11 + 5,24 - 8$","$2 + 8,25 - 15$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 + 8 = 26$
+ <br>Second expression $5 * 5 = 25$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$4 + 20,10 - 2$",,,,"$2 * 9,8 + 10$","$10 - 6,1 * 4$","$21 - 1,19 + 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 + 20 = 24$
+ <br>Second expression $10 - 2 = 8$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$15 + 6,4 * 10$",,,,"$2 * 6,0 + 12$","$0 + 4,2 * 2$","$1 * 8,20 - 12$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $15 + 6 = 21$
+ <br>Second expression $4 * 10 = 40$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$4 + 25,20 - 22$",,,,"$8 + 10,9 * 2$","$3 * 3,9 + 0$","$4 * 1,15 - 11$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 + 25 = 29$
+ <br>Second expression $20 - 22 = -2$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$20 - 16,3 * 4$",,,,"$16 + 5,22 - 1$","$20 - 15,1 + 4$","$4 + 8,6 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 16 = 4$
+ <br>Second expression $3 * 4 = 12$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$14 + 18,20 - 2$",,,,"$3 * 6,7 + 11$","$15 - 5,4 + 6$","$4 * 5,10 + 10$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $14 + 18 = 32$
+ <br>Second expression $20 - 2 = 18$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 * 2,8 + 1$",,,,"$10 * 2,21 - 1$","$2 * 2,12 - 8$","$2 * 9,23 - 5$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 2 = 6$
+ <br>Second expression $8 + 1 = 9$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 - 14,18 + 15$",,,,"$2 * 7,21 - 7$","$10 - 4,3 * 2$","$1 * 2,13 - 11$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 - 14 = -8$
+ <br>Second expression $18 + 15 = 33$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$11 - 1,8 + 14$",,,,"$4 * 4,9 + 7$","$25 - 19,3 + 3$","$2 + 3,14 - 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 - 1 = 10$
+ <br>Second expression $8 + 14 = 22$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$20 - 18,10 * 9$",,,,"$16 - 4,4 * 3$","$17 - 5,6 * 2$","$3 * 3,7 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 18 = 2$
+ <br>Second expression $10 * 9 = 90$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$18 + 20,6 * 4$",,,,"$2 * 2,4 + 0$","$13 - 1,0 + 12$","$18 - 6,2 * 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 + 20 = 38$
+ <br>Second expression $6 * 4 = 24$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$18 - 25,2 + 18$",,,,"$24 - 20,2 * 2$","$21 - 7,13 + 1$","$1 * 7,7 + 0$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 - 25 = -7$
+ <br>Second expression $2 + 18 = 20$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 - 24,0 + 19$",,,,"$22 - 12,2 * 5$","$4 * 4,16 + 0$","$9 * 1,5 + 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 - 24 = -17$
+ <br>Second expression $0 + 19 = 19$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$12 - 24,9 * 10$",,,,"$3 * 4,8 + 4$","$3 + 5,4 * 2$","$1 * 8,6 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 - 24 = -12$
+ <br>Second expression $9 * 10 = 90$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$17 + 24,18 - 24$",,,,"$15 - 3,4 * 3$","$24 - 3,2 + 19$","$22 - 6,14 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $17 + 24 = 41$
+ <br>Second expression $18 - 24 = -6$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$9 - 17,8 + 25$",,,,"$10 * 1,10 + 0$","$10 + 0,5 * 2$","$20 - 10,10 * 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 - 17 = -8$
+ <br>Second expression $8 + 25 = 33$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 * 9,5 - 9$",,,,"$6 + 3,25 - 16$","$17 - 5,2 * 6$","$3 * 7,4 + 17$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 9 = 63$
+ <br>Second expression $5 - 9 = -4$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$4 + 3,5 - 9$",,,,"$11 - 5,6 * 1$","$0 + 3,6 - 3$","$22 - 4,2 * 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 + 3 = 7$
+ <br>Second expression $5 - 9 = -4$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 * 4,11 + 25$",,,,"$14 + 2,2 * 8$","$5 * 4,20 - 0$","$2 * 9,17 + 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 4 = 28$
+ <br>Second expression $11 + 25 = 36$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$23 + 19,6 * 8$",,,,"$21 - 13,2 + 6$","$18 + 2,10 * 2$","$10 + 0,10 * 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 + 19 = 42$
+ <br>Second expression $6 * 8 = 48$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 * 5,8 + 0$",,,,"$13 - 3,9 + 1$","$1 * 1,1 + 0$","$14 + 4,21 - 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 5 = 40$
+ <br>Second expression $8 + 0 = 8$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$19 + 1,20 - 3$",,,,"$22 - 4,10 + 8$","$6 * 1,6 + 0$","$24 - 15,3 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $19 + 1 = 20$
+ <br>Second expression $20 - 3 = 17$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$12 + 17,10 - 5$",,,,"$20 - 0,10 * 2$","$16 - 4,2 * 6$","$24 - 14,5 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $12 + 17 = 29$
+ <br>Second expression $10 - 5 = 5$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 * 8,1 + 15$",,,,"$4 * 5,11 + 9$","$3 + 13,2 * 8$","$8 * 1,15 - 7$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 8 = 16$
+ <br>Second expression $1 + 15 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 * 2,9 - 2$",,,,"$15 - 0,5 + 10$","$14 - 0,7 * 2$","$9 - 0,8 + 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 2 = 14$
+ <br>Second expression $9 - 2 = 7$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 * 4,24 + 23$",,,,"$1 + 7,4 * 2$","$23 - 11,2 + 10$","$1 * 9,1 + 8$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 4 = 24$
+ <br>Second expression $24 + 23 = 47$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$11 - 13,3 * 5$",,,,"$15 + 1,17 - 1$","$4 + 5,12 - 3$","$15 - 8,3 + 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 - 13 = -2$
+ <br>Second expression $3 * 5 = 15$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$13 + 7,17 - 20$",,,,"$3 * 4,25 - 13$","$1 * 4,0 + 4$","$9 * 2,11 + 7$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 + 7 = 20$
+ <br>Second expression $17 - 20 = -3$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$16 + 10,2 * 2$",,,,"$4 * 2,17 - 9$","$25 - 11,2 * 7$","$2 * 9,24 - 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 + 10 = 26$
+ <br>Second expression $2 * 2 = 4$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$11 + 4,13 - 16$",,,,"$17 - 9,4 * 2$","$11 - 1,0 + 10$","$18 - 4,8 + 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 + 4 = 15$
+ <br>Second expression $13 - 16 = -3$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$11 + 5,3 * 3$",,,,"$7 + 1,2 * 4$","$18 - 8,10 + 0$","$4 * 5,20 - 0$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 + 5 = 16$
+ <br>Second expression $3 * 3 = 9$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$22 - 10,5 * 5$",,,,"$20 - 6,2 * 7$","$3 + 11,14 - 0$","$25 - 7,6 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 - 10 = 12$
+ <br>Second expression $5 * 5 = 25$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$10 - 25,6 * 3$",,,,"$1 + 3,1 * 4$","$18 - 0,6 * 3$","$2 + 7,3 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 - 25 = -15$
+ <br>Second expression $6 * 3 = 18$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 - 23,3 + 24$",,,,"$0 + 8,1 * 8$","$19 - 3,4 + 12$","$10 * 2,22 - 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 - 23 = -15$
+ <br>Second expression $3 + 24 = 27$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 * 4,3 + 2$",,,,"$25 - 7,0 + 18$","$22 - 12,3 + 7$","$21 - 1,14 + 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 4 = 12$
+ <br>Second expression $3 + 2 = 5$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 + 10,1 * 8$",,,,"$7 - 0,1 * 7$","$7 * 3,22 - 1$","$2 * 9,14 + 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 10 = 18$
+ <br>Second expression $1 * 8 = 8$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$17 - 15,8 * 9$",,,,"$7 + 3,25 - 15$","$1 * 4,10 - 6$","$11 - 9,0 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $17 - 15 = 2$
+ <br>Second expression $8 * 9 = 72$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$22 + 25,7 - 0$",,,,"$6 + 4,1 * 10$","$16 - 12,1 + 3$","$8 + 0,12 - 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 + 25 = 47$
+ <br>Second expression $7 - 0 = 7$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$10 * 8,21 + 6$",,,,"$5 + 2,15 - 8$","$10 + 2,2 * 6$","$0 + 18,3 * 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 8 = 80$
+ <br>Second expression $21 + 6 = 27$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 + 21,3 - 4$",,,,"$2 + 4,24 - 18$","$1 * 9,7 + 2$","$7 * 3,24 - 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 21 = 29$
+ <br>Second expression $3 - 4 = -1$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$10 - 20,10 * 1$",,,,"$21 - 3,6 * 3$","$9 * 2,13 + 5$","$6 * 3,0 + 18$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 - 20 = -10$
+ <br>Second expression $10 * 1 = 10$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$1 * 10,6 + 10$",,,,"$2 + 6,24 - 16$","$5 * 2,8 + 2$","$1 + 0,1 * 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 10 = 10$
+ <br>Second expression $6 + 10 = 16$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$5 * 9,17 - 23$",,,,"$25 - 7,2 * 9$","$0 + 3,1 * 3$","$5 + 4,1 * 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 * 9 = 45$
+ <br>Second expression $17 - 23 = -6$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 - 1,4 * 4$",,,,"$4 * 2,8 + 0$","$6 + 10,2 * 8$","$3 * 2,4 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 - 1 = 1$
+ <br>Second expression $4 * 4 = 16$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 * 2,13 + 19$",,,,"$2 * 4,19 - 11$","$13 - 1,6 * 2$","$21 - 13,6 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 2 = 16$
+ <br>Second expression $13 + 19 = 32$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 + 9,2 * 9$",,,,"$21 - 12,3 + 6$","$25 - 5,18 + 2$","$25 - 13,4 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 9 = 11$
+ <br>Second expression $2 * 9 = 18$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$4 * 6,10 - 22$",,,,"$12 - 6,5 + 1$","$23 - 14,1 + 8$","$20 - 11,1 * 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 * 6 = 24$
+ <br>Second expression $10 - 22 = -12$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$20 - 9,5 + 2$",,,,"$1 * 5,4 + 1$","$0 + 4,1 * 4$","$6 * 2,8 + 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 - 9 = 11$
+ <br>Second expression $5 + 2 = 7$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$19 - 13,1 * 8$",,,,"$2 + 6,8 * 1$","$6 + 2,17 - 9$","$1 * 4,3 + 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $19 - 13 = 6$
+ <br>Second expression $1 * 8 = 8$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 * 9,0 - 5$",,,,"$12 - 0,4 * 3$","$3 * 4,8 + 4$","$25 - 5,6 + 14$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 9 = 72$
+ <br>Second expression $0 - 5 = -5$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$13 - 5,10 * 4$",,,,"$8 + 4,15 - 3$","$4 * 5,12 + 8$","$1 * 5,5 + 0$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 - 5 = 8$
+ <br>Second expression $10 * 4 = 40$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$9 * 7,22 - 9$",,,,"$12 - 3,9 * 1$","$10 - 2,8 * 1$","$7 + 5,2 * 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 * 7 = 63$
+ <br>Second expression $22 - 9 = 13$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$21 + 12,25 - 17$",,,,"$12 - 0,6 * 2$","$24 - 15,5 + 4$","$6 + 3,1 * 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $21 + 12 = 33$
+ <br>Second expression $25 - 17 = 8$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$10 * 5,16 - 10$",,,,"$16 - 4,8 + 4$","$6 * 2,8 + 4$","$4 + 5,9 * 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 5 = 50$
+ <br>Second expression $16 - 10 = 6$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$5 * 8,16 - 17$",,,,"$0 + 8,10 - 2$","$2 * 5,10 + 0$","$3 * 7,21 - 0$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $5 * 8 = 40$
+ <br>Second expression $16 - 17 = -1$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$22 + 2,13 - 16$",,,,"$1 + 3,25 - 21$","$23 - 3,4 * 5$","$11 + 14,5 * 5$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $22 + 2 = 24$
+ <br>Second expression $13 - 16 = -3$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$13 + 12,19 - 21$",,,,"$2 * 3,1 + 5$","$25 - 13,4 * 3$","$20 - 10,2 * 5$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 + 12 = 25$
+ <br>Second expression $19 - 21 = -2$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 * 7,20 + 15$",,,,"$3 + 4,25 - 18$","$3 + 12,16 - 1$","$3 * 2,10 - 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 * 7 = 14$
+ <br>Second expression $20 + 15 = 35$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$13 - 20,5 * 8$",,,,"$12 - 3,0 + 9$","$1 * 1,1 - 0$","$7 * 1,8 - 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $13 - 20 = -7$
+ <br>Second expression $5 * 8 = 40$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$10 - 19,10 * 4$",,,,"$15 - 1,2 * 7$","$19 - 5,7 * 2$","$9 * 1,24 - 15$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 - 19 = -9$
+ <br>Second expression $10 * 4 = 40$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$1 * 9,4 + 4$",,,,"$3 + 3,2 * 3$","$3 * 6,18 - 0$","$18 - 4,2 * 7$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 9 = 9$
+ <br>Second expression $4 + 4 = 8$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$24 - 24,10 * 3$",,,,"$0 + 4,4 * 1$","$16 - 10,1 + 5$","$7 + 1,15 - 7$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $24 - 24 = 0$
+ <br>Second expression $10 * 3 = 30$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 * 3,11 + 18$",,,,"$5 * 4,23 - 3$","$7 + 3,1 * 10$","$3 * 5,13 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 3 = 9$
+ <br>Second expression $11 + 18 = 29$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$23 - 11,13 + 7$",,,,"$4 * 4,3 + 13$","$12 + 2,7 * 2$","$0 + 10,21 - 11$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 - 11 = 12$
+ <br>Second expression $13 + 7 = 20$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 + 22,12 - 14$",,,,"$7 * 2,14 - 0$","$1 * 2,6 - 4$","$15 - 1,1 + 13$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 22 = 24$
+ <br>Second expression $12 - 14 = -2$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 - 25,7 * 4$",,,,"$2 * 7,17 - 3$","$2 + 16,6 * 3$","$7 + 3,19 - 9$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 - 25 = -22$
+ <br>Second expression $7 * 4 = 28$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$0 - 9,11 + 5$",,,,"$21 - 9,2 + 10$","$4 + 12,8 * 2$","$6 - 1,0 + 5$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 - 9 = -9$
+ <br>Second expression $11 + 5 = 16$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$10 * 4,24 - 21$",,,,"$10 + 4,19 - 5$","$2 * 3,21 - 15$","$25 - 7,16 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $10 * 4 = 40$
+ <br>Second expression $24 - 21 = 3$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 + 2,7 * 10$",,,,"$6 * 2,0 + 12$","$2 * 9,20 - 2$","$12 + 12,25 - 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 2 = 5$
+ <br>Second expression $7 * 10 = 70$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$17 + 0,10 * 4$",,,,"$15 - 9,1 * 6$","$6 * 4,24 - 0$","$25 - 15,5 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $17 + 0 = 17$
+ <br>Second expression $10 * 4 = 40$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$11 - 13,2 * 2$",,,,"$5 + 5,24 - 14$","$6 + 6,19 - 7$","$25 - 15,8 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 - 13 = -2$
+ <br>Second expression $2 * 2 = 4$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$9 + 9,9 - 16$",,,,"$3 + 7,17 - 7$","$1 * 5,4 + 1$","$2 * 3,10 - 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 + 9 = 18$
+ <br>Second expression $9 - 16 = -7$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 * 10,5 - 23$",,,,"$10 * 2,20 - 0$","$9 + 1,2 * 5$","$3 + 9,3 * 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 10 = 60$
+ <br>Second expression $5 - 23 = -18$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 + 15,4 * 4$",,,,"$8 - 3,4 + 1$","$24 - 8,4 + 12$","$21 - 0,13 + 8$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 15 = 21$
+ <br>Second expression $4 * 4 = 16$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 * 4,19 + 7$",,,,"$22 - 2,5 * 4$","$2 * 3,4 + 2$","$14 - 4,6 + 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 * 4 = 28$
+ <br>Second expression $19 + 7 = 26$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 * 5,13 - 9$",,,,"$3 + 3,3 * 2$","$15 - 9,4 + 2$","$1 * 5,0 + 5$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 * 5 = 30$
+ <br>Second expression $13 - 9 = 4$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 + 23,5 - 12$",,,,"$1 * 9,8 + 1$","$2 * 5,9 + 1$","$2 + 6,4 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 + 23 = 31$
+ <br>Second expression $5 - 12 = -7$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$1 + 8,10 * 2$",,,,"$21 - 5,2 * 8$","$4 * 3,19 - 7$","$16 - 2,7 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 + 8 = 9$
+ <br>Second expression $10 * 2 = 20$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 + 14,8 * 4$",,,,"$4 + 12,21 - 5$","$8 + 10,6 * 3$","$18 - 6,2 * 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 + 14 = 17$
+ <br>Second expression $8 * 4 = 32$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 - 12,18 + 25$",,,,"$3 + 4,18 - 11$","$13 - 5,6 + 2$","$7 + 8,5 * 3$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 - 12 = -5$
+ <br>Second expression $18 + 25 = 43$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$2 + 15,9 * 2$",,,,"$16 - 0,7 + 9$","$22 - 14,1 + 7$","$20 - 0,5 * 4$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $2 + 15 = 17$
+ <br>Second expression $9 * 2 = 18$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$19 - 18,12 + 5$",,,,"$3 * 6,3 + 15$","$0 + 20,2 * 10$","$2 * 7,12 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $19 - 18 = 1$
+ <br>Second expression $12 + 5 = 17$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 + 15,4 * 4$",,,,"$3 + 0,1 * 3$","$3 * 5,11 + 4$","$18 - 8,4 + 6$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 15 = 21$
+ <br>Second expression $4 * 4 = 16$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$9 + 25,14 - 14$",,,,"$21 - 13,3 + 5$","$2 * 9,20 - 2$","$7 + 3,10 * 1$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 + 25 = 34$
+ <br>Second expression $14 - 14 = 0$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$19 + 20,0 - 7$",,,,"$19 - 1,9 * 2$","$0 + 20,10 * 2$","$5 * 3,25 - 10$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $19 + 20 = 39$
+ <br>Second expression $0 - 7 = -7$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 * 6,19 + 22$",,,,"$22 - 8,9 + 5$","$12 - 4,5 + 3$","$3 * 1,1 + 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 * 6 = 48$
+ <br>Second expression $19 + 22 = 41$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$14 - 12,3 + 2$",,,,"$7 + 1,2 * 4$","$5 + 3,13 - 5$","$17 - 5,6 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $14 - 12 = 2$
+ <br>Second expression $3 + 2 = 5$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,30201,3,"
+ <br> Which of the following pairs will not form a balanced equation ?","$8 - 20,13 + 18$",,,,"$6 + 1,15 - 8$","$2 * 5,3 + 7$","$11 + 3,7 * 2$",60,3,,,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $8 - 20 = -12$
+ <br>Second expression $13 + 18 = 31$
+<br>Since both expressions give different values, they do not form a balanced equation",

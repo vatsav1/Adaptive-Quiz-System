@@ -1,0 +1,201 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30101,1,Which of the following is an equation ?,$17y - 28 = 21$,,,,$6p > 24$,$26 + 10 < 36$,$x / 27$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$17y - 28 = 21$$=> $y$ is the variable and $17$$y$ is the variable term=> $28$ and $21$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$15x / 17 = 26$,,,,$13p < 19$,$26 + 12 > 38$,$x + 20$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$15x / 17 = 26$$=> $x$ is the variable and $15$$x$ is the variable term=> $17$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$20c / 19 = 25$,,,,$8p > 25$,$29 * 10 > 290$,$x / 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$20c / 19 = 25$$=> $c$ is the variable and $20$$c$ is the variable term=> $19$ and $25$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$18b * 30 = 16$,,,,$27p < 26$,$19 - 2 > 17$,$x * 29$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$18b * 30 = 16$$=> $b$ is the variable and $18$$b$ is the variable term=> $30$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$26b * 5 = 24$,,,,$10p < 26$,$16 * 9 < 144$,$x + 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$26b * 5 = 24$$=> $b$ is the variable and $26$$b$ is the variable term=> $5$ and $24$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$4z / 17 = 15$,,,,$17p < 27$,$16 * 5 > 80$,$x / 16$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$4z / 17 = 15$$=> $z$ is the variable and $4$$z$ is the variable term=> $17$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7a + 11 = 22$,,,,$2p > 26$,$22 - 1 < 21$,$x + 22$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7a + 11 = 22$$=> $a$ is the variable and $7$$a$ is the variable term=> $11$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$22b - 25 = 20$,,,,$14p > 23$,$32 / 8 < 4.0$,$x * 22$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$22b - 25 = 20$$=> $b$ is the variable and $22$$b$ is the variable term=> $25$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$6a / 23 = 15$,,,,$21p > 24$,$13 * 11 > 143$,$x - 23$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$6a / 23 = 15$$=> $a$ is the variable and $6$$a$ is the variable term=> $23$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$18y / 8 = 23$,,,,$25p < 20$,$22 + 4 > 26$,$x - 9$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$18y / 8 = 23$$=> $y$ is the variable and $18$$y$ is the variable term=> $8$ and $23$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$23b / 7 = 28$,,,,$13p < 19$,$21 * 1 < 21$,$x + 4$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$23b / 7 = 28$$=> $b$ is the variable and $23$$b$ is the variable term=> $7$ and $28$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$16b * 22 = 16$,,,,$5p > 20$,$24 / 9 < 2.6666666666666665$,$x - 26$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$16b * 22 = 16$$=> $b$ is the variable and $16$$b$ is the variable term=> $22$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$11b * 13 = 17$,,,,$23p < 20$,$35 - 12 < 23$,$x - 10$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$11b * 13 = 17$$=> $b$ is the variable and $11$$b$ is the variable term=> $13$ and $17$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$6z - 7 = 27$,,,,$20p > 24$,$27 + 7 < 34$,$x - 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$6z - 7 = 27$$=> $z$ is the variable and $6$$z$ is the variable term=> $7$ and $27$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$11x / 22 = 15$,,,,$28p < 18$,$18 - 4 > 14$,$x / 13$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$11x / 22 = 15$$=> $x$ is the variable and $11$$x$ is the variable term=> $22$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$13c - 20 = 15$,,,,$11p > 15$,$34 * 9 < 306$,$x - 5$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$13c - 20 = 15$$=> $c$ is the variable and $13$$c$ is the variable term=> $20$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$24b - 15 = 30$,,,,$6p < 25$,$28 - 9 > 19$,$x + 2$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$24b - 15 = 30$$=> $b$ is the variable and $24$$b$ is the variable term=> $15$ and $30$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$26x * 17 = 17$,,,,$17p > 17$,$12 * 11 > 132$,$x / 9$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$26x * 17 = 17$$=> $x$ is the variable and $26$$x$ is the variable term=> $17$ and $17$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$14b / 30 = 26$,,,,$18p < 30$,$29 - 7 < 22$,$x * 29$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$14b / 30 = 26$$=> $b$ is the variable and $14$$b$ is the variable term=> $30$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$3c * 15 = 26$,,,,$30p > 27$,$15 * 12 < 180$,$x - 5$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$3c * 15 = 26$$=> $c$ is the variable and $3$$c$ is the variable term=> $15$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$16c / 9 = 20$,,,,$17p > 28$,$31 * 9 < 279$,$x + 30$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$16c / 9 = 20$$=> $c$ is the variable and $16$$c$ is the variable term=> $9$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$24x / 6 = 30$,,,,$7p < 27$,$28 * 7 < 196$,$x - 27$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$24x / 6 = 30$$=> $x$ is the variable and $24$$x$ is the variable term=> $6$ and $30$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$13a + 29 = 26$,,,,$19p > 24$,$16 - 12 < 4$,$x - 16$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$13a + 29 = 26$$=> $a$ is the variable and $13$$a$ is the variable term=> $29$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$3a * 28 = 23$,,,,$7p > 16$,$21 / 1 > 21.0$,$x * 2$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$3a * 28 = 23$$=> $a$ is the variable and $3$$a$ is the variable term=> $28$ and $23$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$2y + 21 = 16$,,,,$8p > 26$,$17 * 10 < 170$,$x * 8$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$2y + 21 = 16$$=> $y$ is the variable and $2$$y$ is the variable term=> $21$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$6z / 3 = 24$,,,,$26p > 20$,$21 - 6 > 15$,$x + 18$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$6z / 3 = 24$$=> $z$ is the variable and $6$$z$ is the variable term=> $3$ and $24$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7x / 6 = 15$,,,,$27p < 19$,$21 + 9 > 30$,$x / 14$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7x / 6 = 15$$=> $x$ is the variable and $7$$x$ is the variable term=> $6$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$23x - 28 = 15$,,,,$30p < 26$,$21 * 9 < 189$,$x / 15$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$23x - 28 = 15$$=> $x$ is the variable and $23$$x$ is the variable term=> $28$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$17y * 3 = 16$,,,,$27p < 30$,$35 * 3 > 105$,$x - 24$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$17y * 3 = 16$$=> $y$ is the variable and $17$$y$ is the variable term=> $3$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$10y * 17 = 26$,,,,$12p < 30$,$17 / 10 > 1.7$,$x / 6$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$10y * 17 = 26$$=> $y$ is the variable and $10$$y$ is the variable term=> $17$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$11z * 14 = 24$,,,,$21p < 17$,$15 * 2 < 30$,$x + 13$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$11z * 14 = 24$$=> $z$ is the variable and $11$$z$ is the variable term=> $14$ and $24$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$23b - 20 = 16$,,,,$8p > 30$,$13 - 8 > 5$,$x + 25$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$23b - 20 = 16$$=> $b$ is the variable and $23$$b$ is the variable term=> $20$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$19c + 7 = 26$,,,,$28p > 21$,$29 - 2 < 27$,$x / 6$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$19c + 7 = 26$$=> $c$ is the variable and $19$$c$ is the variable term=> $7$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$4c - 18 = 25$,,,,$6p > 16$,$30 + 7 < 37$,$x * 25$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$4c - 18 = 25$$=> $c$ is the variable and $4$$c$ is the variable term=> $18$ and $25$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$20x - 13 = 23$,,,,$16p > 16$,$12 + 1 > 13$,$x - 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$20x - 13 = 23$$=> $x$ is the variable and $20$$x$ is the variable term=> $13$ and $23$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$26a * 8 = 22$,,,,$23p > 16$,$31 + 8 < 39$,$x / 15$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$26a * 8 = 22$$=> $a$ is the variable and $26$$a$ is the variable term=> $8$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$9z * 11 = 27$,,,,$13p > 16$,$27 / 4 < 6.75$,$x / 13$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$9z * 11 = 27$$=> $z$ is the variable and $9$$z$ is the variable term=> $11$ and $27$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$13c - 26 = 20$,,,,$22p < 20$,$20 * 6 < 120$,$x - 16$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$13c - 26 = 20$$=> $c$ is the variable and $13$$c$ is the variable term=> $26$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$10x * 10 = 16$,,,,$12p < 26$,$17 + 9 < 26$,$x - 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$10x * 10 = 16$$=> $x$ is the variable and $10$$x$ is the variable term=> $10$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$6x / 21 = 22$,,,,$19p > 21$,$21 + 7 < 28$,$x + 18$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$6x / 21 = 22$$=> $x$ is the variable and $6$$x$ is the variable term=> $21$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$22a * 12 = 16$,,,,$13p < 19$,$35 * 4 < 140$,$x * 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$22a * 12 = 16$$=> $a$ is the variable and $22$$a$ is the variable term=> $12$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$10c + 15 = 30$,,,,$17p < 22$,$31 / 6 < 5.166666666666667$,$x - 15$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$10c + 15 = 30$$=> $c$ is the variable and $10$$c$ is the variable term=> $15$ and $30$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$6a + 10 = 22$,,,,$23p < 22$,$31 / 3 > 10.333333333333334$,$x + 15$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$6a + 10 = 22$$=> $a$ is the variable and $6$$a$ is the variable term=> $10$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$15x / 11 = 21$,,,,$9p < 25$,$12 - 3 < 9$,$x - 4$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$15x / 11 = 21$$=> $x$ is the variable and $15$$x$ is the variable term=> $11$ and $21$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$27a / 3 = 22$,,,,$18p < 19$,$29 + 4 < 33$,$x / 20$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$27a / 3 = 22$$=> $a$ is the variable and $27$$a$ is the variable term=> $3$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$20z / 20 = 26$,,,,$25p < 30$,$15 - 10 < 5$,$x + 22$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$20z / 20 = 26$$=> $z$ is the variable and $20$$z$ is the variable term=> $20$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$4a - 18 = 20$,,,,$7p < 24$,$32 * 7 > 224$,$x * 11$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$4a - 18 = 20$$=> $a$ is the variable and $4$$a$ is the variable term=> $18$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$6b / 24 = 29$,,,,$26p < 27$,$18 + 5 > 23$,$x / 30$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$6b / 24 = 29$$=> $b$ is the variable and $6$$b$ is the variable term=> $24$ and $29$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$17z - 24 = 27$,,,,$19p < 26$,$23 + 6 > 29$,$x + 26$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$17z - 24 = 27$$=> $z$ is the variable and $17$$z$ is the variable term=> $24$ and $27$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$16b / 22 = 30$,,,,$9p > 17$,$30 + 11 < 41$,$x * 10$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$16b / 22 = 30$$=> $b$ is the variable and $16$$b$ is the variable term=> $22$ and $30$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$22c / 9 = 19$,,,,$4p > 16$,$24 - 10 > 14$,$x / 26$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$22c / 9 = 19$$=> $c$ is the variable and $22$$c$ is the variable term=> $9$ and $19$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$14b * 17 = 29$,,,,$7p > 15$,$18 + 9 < 27$,$x - 29$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$14b * 17 = 29$$=> $b$ is the variable and $14$$b$ is the variable term=> $17$ and $29$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$27y + 27 = 22$,,,,$30p < 20$,$18 - 8 > 10$,$x + 3$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$27y + 27 = 22$$=> $y$ is the variable and $27$$y$ is the variable term=> $27$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7y - 12 = 20$,,,,$3p < 18$,$18 + 12 > 30$,$x - 19$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7y - 12 = 20$$=> $y$ is the variable and $7$$y$ is the variable term=> $12$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$2z - 9 = 19$,,,,$3p < 21$,$28 - 2 > 26$,$x / 14$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$2z - 9 = 19$$=> $z$ is the variable and $2$$z$ is the variable term=> $9$ and $19$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$11x - 26 = 28$,,,,$14p < 19$,$20 + 6 < 26$,$x * 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$11x - 26 = 28$$=> $x$ is the variable and $11$$x$ is the variable term=> $26$ and $28$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$30c * 15 = 26$,,,,$18p < 17$,$16 * 2 > 32$,$x + 21$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$30c * 15 = 26$$=> $c$ is the variable and $30$$c$ is the variable term=> $15$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$8c * 25 = 27$,,,,$3p > 24$,$27 * 9 < 243$,$x - 14$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$8c * 25 = 27$$=> $c$ is the variable and $8$$c$ is the variable term=> $25$ and $27$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$19y * 25 = 22$,,,,$12p > 26$,$14 / 9 < 1.5555555555555556$,$x * 28$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$19y * 25 = 22$$=> $y$ is the variable and $19$$y$ is the variable term=> $25$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$17a * 18 = 18$,,,,$28p > 19$,$32 * 8 < 256$,$x / 21$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$17a * 18 = 18$$=> $a$ is the variable and $17$$a$ is the variable term=> $18$ and $18$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$2y + 23 = 20$,,,,$10p > 20$,$14 - 1 < 13$,$x * 30$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$2y + 23 = 20$$=> $y$ is the variable and $2$$y$ is the variable term=> $23$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$17z + 25 = 28$,,,,$21p > 27$,$17 + 9 > 26$,$x - 24$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$17z + 25 = 28$$=> $z$ is the variable and $17$$z$ is the variable term=> $25$ and $28$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$21y + 18 = 15$,,,,$21p > 21$,$14 / 12 < 1.1666666666666667$,$x / 7$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$21y + 18 = 15$$=> $y$ is the variable and $21$$y$ is the variable term=> $18$ and $15$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$29x + 5 = 17$,,,,$21p < 21$,$14 / 9 > 1.5555555555555556$,$x / 18$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$29x + 5 = 17$$=> $x$ is the variable and $29$$x$ is the variable term=> $5$ and $17$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$13c - 13 = 16$,,,,$23p < 24$,$26 * 4 > 104$,$x / 24$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$13c - 13 = 16$$=> $c$ is the variable and $13$$c$ is the variable term=> $13$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$13x - 5 = 19$,,,,$27p < 15$,$19 / 4 > 4.75$,$x / 27$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$13x - 5 = 19$$=> $x$ is the variable and $13$$x$ is the variable term=> $5$ and $19$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$21c + 10 = 20$,,,,$24p > 16$,$16 - 4 > 12$,$x * 4$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$21c + 10 = 20$$=> $c$ is the variable and $21$$c$ is the variable term=> $10$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$3y + 4 = 21$,,,,$10p < 21$,$24 + 7 > 31$,$x * 24$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$3y + 4 = 21$$=> $y$ is the variable and $3$$y$ is the variable term=> $4$ and $21$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$29x / 24 = 23$,,,,$9p < 17$,$30 * 12 < 360$,$x * 27$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$29x / 24 = 23$$=> $x$ is the variable and $29$$x$ is the variable term=> $24$ and $23$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7c - 12 = 20$,,,,$7p > 16$,$23 + 5 < 28$,$x * 13$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7c - 12 = 20$$=> $c$ is the variable and $7$$c$ is the variable term=> $12$ and $20$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$26c * 13 = 26$,,,,$19p < 24$,$12 + 5 < 17$,$x - 18$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$26c * 13 = 26$$=> $c$ is the variable and $26$$c$ is the variable term=> $13$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$25y + 29 = 22$,,,,$16p < 25$,$35 + 10 < 45$,$x - 9$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$25y + 29 = 22$$=> $y$ is the variable and $25$$y$ is the variable term=> $29$ and $22$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$10x * 12 = 28$,,,,$15p < 27$,$26 * 7 < 182$,$x / 2$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$10x * 12 = 28$$=> $x$ is the variable and $10$$x$ is the variable term=> $12$ and $28$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$9b + 7 = 16$,,,,$12p > 23$,$26 / 3 < 8.666666666666666$,$x / 25$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$9b + 7 = 16$$=> $b$ is the variable and $9$$b$ is the variable term=> $7$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$4z * 26 = 16$,,,,$19p < 20$,$29 - 4 > 25$,$x * 25$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$4z * 26 = 16$$=> $z$ is the variable and $4$$z$ is the variable term=> $26$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$28y * 28 = 23$,,,,$23p > 19$,$31 - 1 > 30$,$x - 6$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$28y * 28 = 23$$=> $y$ is the variable and $28$$y$ is the variable term=> $28$ and $23$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$3x / 18 = 29$,,,,$8p < 30$,$13 * 5 > 65$,$x / 15$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$3x / 18 = 29$$=> $x$ is the variable and $3$$x$ is the variable term=> $18$ and $29$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$5c + 14 = 19$,,,,$8p < 24$,$26 + 1 > 27$,$x - 23$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$5c + 14 = 19$$=> $c$ is the variable and $5$$c$ is the variable term=> $14$ and $19$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$11x / 14 = 23$,,,,$13p < 27$,$23 + 6 < 29$,$x / 15$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$11x / 14 = 23$$=> $x$ is the variable and $11$$x$ is the variable term=> $14$ and $23$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$26y / 29 = 21$,,,,$11p > 30$,$16 * 10 < 160$,$x / 11$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$26y / 29 = 21$$=> $y$ is the variable and $26$$y$ is the variable term=> $29$ and $21$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$3b + 10 = 30$,,,,$9p > 22$,$30 - 6 < 24$,$x + 13$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$3b + 10 = 30$$=> $b$ is the variable and $3$$b$ is the variable term=> $10$ and $30$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$26c + 6 = 17$,,,,$11p > 16$,$26 + 8 < 34$,$x / 28$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$26c + 6 = 17$$=> $c$ is the variable and $26$$c$ is the variable term=> $6$ and $17$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$2y + 15 = 24$,,,,$27p < 29$,$31 * 1 > 31$,$x / 5$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$2y + 15 = 24$$=> $y$ is the variable and $2$$y$ is the variable term=> $15$ and $24$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7z * 19 = 28$,,,,$2p > 22$,$15 * 8 > 120$,$x / 11$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7z * 19 = 28$$=> $z$ is the variable and $7$$z$ is the variable term=> $19$ and $28$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$8z - 5 = 27$,,,,$28p < 22$,$25 + 7 < 32$,$x * 10$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$8z - 5 = 27$$=> $z$ is the variable and $8$$z$ is the variable term=> $5$ and $27$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$8z + 7 = 16$,,,,$25p < 24$,$26 + 8 > 34$,$x * 14$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$8z + 7 = 16$$=> $z$ is the variable and $8$$z$ is the variable term=> $7$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$27c * 21 = 16$,,,,$27p < 28$,$17 * 7 > 119$,$x + 3$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$27c * 21 = 16$$=> $c$ is the variable and $27$$c$ is the variable term=> $21$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$5c * 20 = 24$,,,,$11p < 16$,$24 + 3 > 27$,$x / 4$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$5c * 20 = 24$$=> $c$ is the variable and $5$$c$ is the variable term=> $20$ and $24$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7z * 21 = 17$,,,,$16p < 29$,$32 * 5 > 160$,$x * 8$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7z * 21 = 17$$=> $z$ is the variable and $7$$z$ is the variable term=> $21$ and $17$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$28a + 22 = 21$,,,,$13p < 25$,$17 / 7 < 2.4285714285714284$,$x * 14$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$28a + 22 = 21$$=> $a$ is the variable and $28$$a$ is the variable term=> $22$ and $21$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7b * 7 = 28$,,,,$10p < 22$,$19 - 1 < 18$,$x / 10$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7b * 7 = 28$$=> $b$ is the variable and $7$$b$ is the variable term=> $7$ and $28$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$29c - 17 = 18$,,,,$15p > 28$,$26 / 12 > 2.1666666666666665$,$x / 28$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$29c - 17 = 18$$=> $c$ is the variable and $29$$c$ is the variable term=> $17$ and $18$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$25z - 5 = 27$,,,,$27p > 17$,$20 / 1 > 20.0$,$x * 9$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$25z - 5 = 27$$=> $z$ is the variable and $25$$z$ is the variable term=> $5$ and $27$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$24b - 22 = 25$,,,,$9p < 18$,$15 / 4 < 3.75$,$x / 23$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$24b - 22 = 25$$=> $b$ is the variable and $24$$b$ is the variable term=> $22$ and $25$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$15a - 19 = 29$,,,,$4p < 29$,$13 - 7 < 6$,$x - 13$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$15a - 19 = 29$$=> $a$ is the variable and $15$$a$ is the variable term=> $19$ and $29$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$24z * 14 = 26$,,,,$12p < 24$,$18 / 6 < 3.0$,$x - 10$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$24z * 14 = 26$$=> $z$ is the variable and $24$$z$ is the variable term=> $14$ and $26$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$5c / 12 = 19$,,,,$3p > 17$,$18 / 2 < 9.0$,$x + 30$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$5c / 12 = 19$$=> $c$ is the variable and $5$$c$ is the variable term=> $12$ and $19$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$14x + 17 = 16$,,,,$29p > 17$,$28 / 5 > 5.6$,$x + 10$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$14x + 17 = 16$$=> $x$ is the variable and $14$$x$ is the variable term=> $17$ and $16$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$7y + 3 = 17$,,,,$25p > 16$,$13 - 5 < 8$,$x / 27$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$7y + 3 = 17$$=> $y$ is the variable and $7$$y$ is the variable term=> $3$ and $17$ are the constant terms",
+text,1,30101,1,Which of the following is an equation ?,$15y + 10 = 27$,,,,$22p < 24$,$32 * 8 > 256$,$x / 29$,60,3,,,"Solution:Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each otherIn option => $$15y + 10 = 27$$=> $y$ is the variable and $15$$y$ is the variable term=> $10$ and $27$ are the constant terms",
